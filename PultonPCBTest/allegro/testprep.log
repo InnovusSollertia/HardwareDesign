@@ -1,0 +1,76 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Testprep Automatic Log File                                      )
+(                                                                     )
+(    Drawing          : pultonpcbtest.brd                             )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Tue Jul  2 17:00:52 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ Probes accessing bottom of the board.
+ Pad type restricted to 'THRU'.
+ Pin type restricted to 'ANY POINT'.
+ Minimum pad dimension is : 0.0000
+ Test pad grid: X: 0.0000 Y: 0.0000
+ Minimum test point spacing is : 0.0000
+ No test points allowed under components.
+ Component representation is ASSEMBLY data.
+ Bare board switch off, no test points allowed on
+   component pins on tested side.
+ Tested one pin per net.
+ No unused pins tested.
+ Testing allowed directly on pin.
+ No direct trace testing allowed.
+ Automatic test point insertion disabled.
+ Test pad displacement: Min: 0.0000, Max: 0.0000
+ Via replacement NOT allowed.
+ Cline bubbling  allowed.
+ Test SMT/blind pad: 
+ Test thru via     : 
+ Executed in OVERWRITE mode.
+ Probe text angle: 0 degrees.
+ Probe text offset: X: 0.0000 Y: 0.0000
+
+
+  NET        PIN                                        PROBE TEXT
+==================================================================
+
+Processing net N00739 (1 out of 8),(c=0, f=0, i=0).
+  N00739     J2.10           @(    85.3440,   258.5720) N00739      
+
+Processing net N00735 (2 out of 8),(c=1, f=0, i=0).
+  N00735     J2.9            @(    86.6140,   256.0320) N00735      
+
+Processing net N00731 (3 out of 8),(c=2, f=0, i=0).
+  N00731     J2.8            @(    87.8840,   258.5720) N00731      
+
+Processing net N00727 (4 out of 8),(c=3, f=0, i=0).
+  N00727     J2.7            @(    89.1540,   256.0320) N00727      
+
+Processing net N00532 (5 out of 8),(c=4, f=0, i=0).
+ Net N00532 NOT ACCESSIBLE from bottom side.
+    (non-thru=1, not-placed=1)
+
+Processing net N00492 (6 out of 8),(c=4, f=1, i=0).
+ Net N00492 NOT ACCESSIBLE from bottom side.
+    (non-thru=2, not-placed=1)
+
+Processing net GND (7 out of 8),(c=4, f=2, i=0).
+ Net GND NOT ACCESSIBLE from bottom side.
+    (non-thru=2, not-placed=1)
+
+Processing net EP (8 out of 8),(c=4, f=3, i=0).
+ Net EP NOT ACCESSIBLE from bottom side.
+    (not-placed=1)
+
+  Total nets processed:	8
+
+  Total nets failed:	4
+  Total nets ignored: 0
+  Total warnings: 0
+
+  Total test points on bottom:	4
+
+  Test Point Total:	4

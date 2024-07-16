@@ -1,0 +1,95 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/OwnProjects/PultonPCBTest/allegro/pultonpcbtest.brd             |
+|                                                    Tue Jul  2 16:41:54 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  EP           pins ADDED TO this new net
+                                 PS1.7          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 C1.1           IC1.15         PS1.4          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00492       pins ADDED TO this new net
+                                 C1.2           IC1.13         PS1.5          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00532       pins ADDED TO this new net
+                                 IC1.16         PS1.6          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00727       pins ADDED TO this new net
+                                 IC1.1          J2.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00731       pins ADDED TO this new net
+                                 IC1.2          J2.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00735       pins ADDED TO this new net
+                                 IC1.3          J2.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00739       pins ADDED TO this new net
+                                 IC1.4          J2.10          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/OwnProjects/PultonPCBTest/allegro/pultonpcbtest.brd             |
+|                                                    Tue Jul  2 16:41:54 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 219320-0001_2193200001_219320-0001
+ GRM033D70E105ME15D_CAPC0603X33N_GRM033D70E105ME15D
+ RJE741AA1410A_RJE741AA1410A_RJE741AA1410A
+ ST232ACDR_SOIC127P600X175-16N_ST232ACDR
+ STBC08PMR_SON95P300X300X100-7N-D_STBC08PMR
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/OwnProjects/PultonPCBTest/allegro/pultonpcbtest.brd             |
+|                                                    Tue Jul  2 16:41:54 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  GRM033D70E105ME15D_CAPC0603X33N_GRM033D70E105ME15D 
+ IC1                 ST232ACDR_SOIC127P600X175-16N_ST232ACDR 
+ J1                  219320-0001_2193200001_219320-0001 
+ J2                  RJE741AA1410A_RJE741AA1410A_RJE741AA1410A 
+ PS1                 STBC08PMR_SON95P300X300X100-7N-D_STBC08PMR 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/OwnProjects/PultonPCBTest/allegro/pultonpcbtest.brd             |
+|                                                    Tue Jul  2 16:41:54 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C1.2                           XY             (620,210)
+ IC1.16                         PRIM_FILE      .\pstchip.dat
+ IC1.16                         XY             (470,330)
+ J1.A6                          PRIM_FILE      .\pstchip.dat
+ J1.A6                          XY             (270,150)
+ J2.MH2                         PRIM_FILE      .\pstchip.dat
+ J2.MH2                         XY             (310,330)
+ PS1.6                          PRIM_FILE      .\pstchip.dat
+ PS1.6                          XY             (450,150)
+|------------------------------------------------------------------------------|
+|       Nets changed          :      17                                        |
+|       Comp definitions added:       5                                        |
+|       Components added      :       5                                        |
+|       Slot property added   :      10                                        |
+|                                                                              |
+|   Total ECO changes reported:      37                                        |
+|------------------------------------------------------------------------------|
