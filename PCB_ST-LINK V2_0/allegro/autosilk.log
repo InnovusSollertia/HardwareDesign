@@ -1,0 +1,40 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : stlink.brd                                    )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Fri Jul 19 17:28:29 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for both sides of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.0000
+Max Text displacement is 2.5400
+Min Line Length is 0.0000
+Allowing 0, 90, 180 and 270 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Any
+ Component Value      : Any
+ Device Type          : Any
+ Package Geometry     : Any
+ Reference Designator : Any
+ Tolerance            : Any
+ User Part Number     : Any
+
+
+     ----- Top Silkscreen -----
+
+
+     ----- Bottom Silkscreen -----
+
+
+Total Failures: 0
+
+Log End
+

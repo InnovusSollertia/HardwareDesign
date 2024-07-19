@@ -1,0 +1,50 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    IPC2581 Export                                                   )
+(                                                                     )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Fri Jul 19 16:57:26 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+
+Collecting net list ...
+
+
+
+Collecting package defintions ...
+
+
+
+Collecting component descriptions ...
+
+
+
+Property configuration file: D:/Projects/HardwareDesign/DOSTI_STLINK/allegro/ipc2581_attr_config.atr
+IPC2581 file: stlink.xml
+IPC2581 version: IPC2581-B
+BRD file: D:/Projects/HardwareDesign/DOSTI_STLINK/allegro/stlink.brd
+IPC2581 units: MILLIMETER
+Global package pin1 orientation: OTHER
+Default symbol height: 3.81
+Export drill information?: YES
+Export backdrill information?: NO
+Export BOM information?: NO
+Export component descriptions?: YES
+Export component packages?: YES
+Export land patterns?: NO
+Export device descriptions?: NO
+Export net list?: YES
+Export hierarchical layer/stack instance?: YES
+Export Outer Copper Layers?: YES
+Export Inner Layers?: YES
+Export Documentation Layers?: YES
+Export Miscellaneous Image Layers?: YES
+Export SolderMask/SolderPaste Legend Layers?: YES
+Export vector text?: YES
+Export cavities?: NO
+Export padstack definitions?: NO
+Export zip file?: NO
+a2ipc2581 complete.

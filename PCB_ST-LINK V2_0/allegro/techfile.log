@@ -1,0 +1,16 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Technology File WRITE                                            )
+(                                                                     )
+(    Drawing          : stlink.brd                                    )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Fri Jul 19 17:29:07 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  layout name: D:/Projects/HardwareDesign/DOSTI_STLINK/allegro/stlink.brd
+techfile name: D:/Projects/HardwareDesign/DOSTI_STLINK/allegro/stlink.tcf
+
+
+

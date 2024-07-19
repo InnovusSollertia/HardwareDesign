@@ -1,0 +1,97 @@
+(ExpressProject "ST-LinkV3"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[07/20/24]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\st-linkv3.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (PORTLEFT-L
+      (LibraryName "C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GRM033D70E105ME15D
+      (FullPartName "GRM033D70E105ME15D.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLDLIBRARY\CAPACITORS. CERAMIC\GRM033D70E105ME15D.OLB")
+      (DeviceIndex "0"))
+    (280372-1
+      (FullPartName "280372-1.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLDLIBRARY\CONNECTORS. HEADER 1X6\280372-1.OLB")
+      (DeviceIndex "0"))
+    (PCM12SMTR
+      (FullPartName "PCM12SMTR.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLDLIBRARY\SWITCHES. SLIDE\PCM12SMTR.OLB")
+      (DeviceIndex "0"))
+    (ERA-6ARB472V
+      (FullPartName "ERA-6ARB472V.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLDLIBRARY\RESISTORS. FILM\ERA-6ARB472V.OLB")
+      (DeviceIndex "0"))
+    (VCC_ARROW
+      (LibraryName "C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (STM32F723IEK6
+      (FullPartName "STM32F723IEK6.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLDLIBRARY\ICS. MCU ARM\STM32F723IEK6.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "Prometheus")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "D:\Projects\HardwareDesign\PCB_ST-LINK V3_1\st-linkv3.dsn")
+      (Path "Design Resources"
+         "D:\Projects\HardwareDesign\PCB_ST-LINK V3_1\st-linkv3.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "D:\Projects\HardwareDesign\PCB_ST-LINK V3_1\st-linkv3.dsn"
+         "SCHEMATIC1" "MAIN"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 247 0 508"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 937 24 549")
+        (Scroll "-103 -1")
+        (Zoom "42")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\HARDWAREDESIGN\PCB_ST-LINK V3_1\ST-LINKV3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MAIN")))
+  (LastUsedLibraryBrowseDirectory
+     "D:\Projects\CadenceAllegro\OldLibrary\Capacitors. Ceramic"))

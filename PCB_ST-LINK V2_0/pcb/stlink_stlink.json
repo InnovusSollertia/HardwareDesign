@@ -1,0 +1,1190 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "C5",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS10114\\@\\GRM033D70E105ME15D\\.\\GRM033D70E105ME15D.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C5"
+		},
+		{
+			"Name" : "D1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS5790\\@\\MBR0520LT3G\\.\\MBR0520LT3G.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D1"
+		},
+		{
+			"Name" : "D2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS4796\\@\\MBR0520LT3G\\.\\MBR0520LT3G.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D2"
+		},
+		{
+			"Name" : "F1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS29706\\@\\SF-0402F050-2\\.\\SF-0402F050-2.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "F1"
+		},
+		{
+			"Name" : "J2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS5742\\@\\67996-100HLF\\.\\67996-100HLF.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J2"
+		},
+		{
+			"Name" : "J3",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS4913\\@\\67996-100HLF\\.\\67996-100HLF.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J3"
+		},
+		{
+			"Name" : "J4",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS4476\\@\\95278-401A10LF\\.\\95278-401A10LF.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J4"
+		},
+		{
+			"Name" : "J7",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS38078\\@\\69167-103\\.\\69167-103.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J7"
+		},
+		{
+			"Name" : "LED1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS6683\\@\\SM0603GCL\\.\\SM0603GCL.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED1"
+		},
+		{
+			"Name" : "LED4",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS9782\\@\\SM0603GCL\\.\\SM0603GCL.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED4"
+		},
+		{
+			"Name" : "LED5",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS9572\\@\\SM0603GCL\\.\\SM0603GCL.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED5"
+		},
+		{
+			"Name" : "LED2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS6787\\@\\SM0603SRC\\.\\SM0603SRC.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED2"
+		},
+		{
+			"Name" : "Q1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS6744\\@\\2N7002\\.\\2N7002.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "Q1"
+		},
+		{
+			"Name" : "R17",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS8431\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R17"
+		},
+		{
+			"Name" : "R22",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS8469\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R22"
+		},
+		{
+			"Name" : "R10",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS6863\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R10"
+		},
+		{
+			"Name" : "R25",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS9758\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R25"
+		},
+		{
+			"Name" : "R26",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS9652\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R26"
+		},
+		{
+			"Name" : "R7",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS6825\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R7"
+		},
+		{
+			"Name" : "R8",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS6524\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R8"
+		},
+		{
+			"Name" : "R12",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS10076\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R12"
+		},
+		{
+			"Name" : "R15",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS15053\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R15"
+		},
+		{
+			"Name" : "R16",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS15475\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R16"
+		},
+		{
+			"Name" : "R2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS6277\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R2"
+		},
+		{
+			"Name" : "R4",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS6327\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R4"
+		},
+		{
+			"Name" : "R5",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS6365\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R5"
+		},
+		{
+			"Name" : "R6",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS6403\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R6"
+		},
+		{
+			"Name" : "C5",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS76861\\@\\GRM033D70E105ME15D\\.\\GRM033D70E105ME15D.Normal\\(chips)",
+			"Logical" : "C5",
+			"Physical" : null
+		},
+		{
+			"Name" : "D1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80090\\@\\MBR0520LT3G\\.\\MBR0520LT3G.Normal\\(chips)",
+			"Logical" : "D1",
+			"Physical" : null
+		},
+		{
+			"Name" : "D2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80114\\@\\MBR0520LT3G\\.\\MBR0520LT3G.Normal\\(chips)",
+			"Logical" : "D2",
+			"Physical" : null
+		},
+		{
+			"Name" : "F1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS76432\\@\\SF-0402F050-2\\.\\SF-0402F050-2.Normal\\(chips)",
+			"Logical" : "F1",
+			"Physical" : null
+		},
+		{
+			"Name" : "J2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80000\\@\\67996-100HLF\\.\\67996-100HLF.Normal\\(chips)",
+			"Logical" : "J2",
+			"Physical" : null
+		},
+		{
+			"Name" : "J3",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80016\\@\\67996-100HLF\\.\\67996-100HLF.Normal\\(chips)",
+			"Logical" : "J3",
+			"Physical" : null
+		},
+		{
+			"Name" : "J4",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80176\\@\\95278-401A10LF\\.\\95278-401A10LF.Normal\\(chips)",
+			"Logical" : "J4",
+			"Physical" : null
+		},
+		{
+			"Name" : "J7",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS76767\\@\\69167-103\\.\\69167-103.Normal\\(chips)",
+			"Logical" : "J7",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80398\\@\\SM0603GCL\\.\\SM0603GCL.Normal\\(chips)",
+			"Logical" : "LED1",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80586\\@\\SM0603SRC\\.\\SM0603SRC.Normal\\(chips)",
+			"Logical" : "LED2",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED4",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS75479\\@\\SM0603GCL\\.\\SM0603GCL.Normal\\(chips)",
+			"Logical" : "LED4",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED5",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS75539\\@\\SM0603GCL\\.\\SM0603GCL.Normal\\(chips)",
+			"Logical" : "LED5",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80506\\@\\2N7002\\.\\2N7002.Normal\\(chips)",
+			"Logical" : "Q1",
+			"Physical" : null
+		},
+		{
+			"Name" : "R10",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80558\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : "R10",
+			"Physical" : null
+		},
+		{
+			"Name" : "R12",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS76815\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : "R12",
+			"Physical" : null
+		},
+		{
+			"Name" : "R15",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS78279\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : "R15",
+			"Physical" : null
+		},
+		{
+			"Name" : "R16",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS78303\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : "R16",
+			"Physical" : null
+		},
+		{
+			"Name" : "R17",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS74381\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : "R17",
+			"Physical" : null
+		},
+		{
+			"Name" : "R2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80216\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : "R2",
+			"Physical" : null
+		},
+		{
+			"Name" : "R22",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS74653\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : "R22",
+			"Physical" : null
+		},
+		{
+			"Name" : "R25",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS75455\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : "R25",
+			"Physical" : null
+		},
+		{
+			"Name" : "R26",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS75563\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : "R26",
+			"Physical" : null
+		},
+		{
+			"Name" : "R4",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80252\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : "R4",
+			"Physical" : null
+		},
+		{
+			"Name" : "R5",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80288\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : "R5",
+			"Physical" : null
+		},
+		{
+			"Name" : "R6",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80332\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : "R6",
+			"Physical" : null
+		},
+		{
+			"Name" : "R7",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80428\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : "R7",
+			"Physical" : null
+		},
+		{
+			"Name" : "R8",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80452\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips)",
+			"Logical" : "R8",
+			"Physical" : null
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "N07180",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N07180\\",
+			"Logical" : null,
+			"Physical" : "N07180"
+		},
+		{
+			"Name" : "N06887",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N06887\\",
+			"Logical" : null,
+			"Physical" : "N06887"
+		},
+		{
+			"Name" : "N06707",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N06707\\",
+			"Logical" : null,
+			"Physical" : "N06707"
+		},
+		{
+			"Name" : "N06435",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N06435\\",
+			"Logical" : null,
+			"Physical" : "N06435"
+		},
+		{
+			"Name" : "N06431",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N06431\\",
+			"Logical" : null,
+			"Physical" : "N06431"
+		},
+		{
+			"Name" : "N06427",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N06427\\",
+			"Logical" : null,
+			"Physical" : "N06427"
+		},
+		{
+			"Name" : "N06309",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N06309\\",
+			"Logical" : null,
+			"Physical" : "N06309"
+		},
+		{
+			"Name" : "N05764",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N05764\\",
+			"Logical" : null,
+			"Physical" : "N05764"
+		},
+		{
+			"Name" : "TX",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\TX\\",
+			"Logical" : null,
+			"Physical" : "TX"
+		},
+		{
+			"Name" : "RST",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\RST\\",
+			"Logical" : null,
+			"Physical" : "RST"
+		},
+		{
+			"Name" : "SWDIO_IN",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\SWDIO_IN\\",
+			"Logical" : null,
+			"Physical" : "SWDIO_IN"
+		},
+		{
+			"Name" : "USB_RENUM",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\USB_RENUM\\",
+			"Logical" : null,
+			"Physical" : "USB_RENUM"
+		},
+		{
+			"Name" : "SWCLK_IN",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\SWCLK_IN\\",
+			"Logical" : null,
+			"Physical" : "SWCLK_IN"
+		},
+		{
+			"Name" : "RX",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\RX\\",
+			"Logical" : null,
+			"Physical" : "RX"
+		},
+		{
+			"Name" : "SWO",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\SWO\\",
+			"Logical" : null,
+			"Physical" : "SWO"
+		},
+		{
+			"Name" : "USB_DM",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\USB_DM\\",
+			"Logical" : null,
+			"Physical" : "USB_DM"
+		},
+		{
+			"Name" : "USB_DP",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\USB_DP\\",
+			"Logical" : null,
+			"Physical" : "USB_DP"
+		},
+		{
+			"Name" : "N04880",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N04880\\",
+			"Logical" : null,
+			"Physical" : "N04880"
+		},
+		{
+			"Name" : "LED_LINK",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\LED_LINK\\",
+			"Logical" : null,
+			"Physical" : "LED_LINK"
+		},
+		{
+			"Name" : "BOOT_1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\BOOT_1\\",
+			"Logical" : null,
+			"Physical" : "BOOT_1"
+		},
+		{
+			"Name" : "BOOT_0",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\BOOT_0\\",
+			"Logical" : null,
+			"Physical" : "BOOT_0"
+		},
+		{
+			"Name" : "SWDIO",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\SWDIO\\",
+			"Logical" : null,
+			"Physical" : "SWDIO"
+		},
+		{
+			"Name" : "PA0",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\PA0\\",
+			"Logical" : null,
+			"Physical" : "PA0"
+		},
+		{
+			"Name" : "RESET",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\RESET\\",
+			"Logical" : null,
+			"Physical" : "RESET"
+		},
+		{
+			"Name" : "SWCLK",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\SWCLK\\",
+			"Logical" : null,
+			"Physical" : "SWCLK"
+		},
+		{
+			"Name" : "N09921",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N09921\\",
+			"Logical" : null,
+			"Physical" : "N09921"
+		},
+		{
+			"Name" : "N09917",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N09917\\",
+			"Logical" : null,
+			"Physical" : "N09917"
+		},
+		{
+			"Name" : "N05760",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N05760\\",
+			"Logical" : null,
+			"Physical" : "N05760"
+		},
+		{
+			"Name" : "N02973",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N02973\\",
+			"Logical" : "N02973",
+			"Physical" : null
+		},
+		{
+			"Name" : "N00921",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N00921\\",
+			"Logical" : "N00921",
+			"Physical" : null
+		},
+		{
+			"Name" : "N00967",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N00967\\",
+			"Logical" : "N00967",
+			"Physical" : null
+		},
+		{
+			"Name" : "N80282",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N80282\\",
+			"Logical" : "N80282",
+			"Physical" : null
+		},
+		{
+			"Name" : "N80330",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N80330\\",
+			"Logical" : "N80330",
+			"Physical" : null
+		},
+		{
+			"Name" : "N80584",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N80584\\",
+			"Logical" : "N80584",
+			"Physical" : null
+		},
+		{
+			"Name" : "N80358",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N80358\\",
+			"Logical" : "N80358",
+			"Physical" : null
+		},
+		{
+			"Name" : "N80376",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N80376\\",
+			"Logical" : "N80376",
+			"Physical" : null
+		},
+		{
+			"Name" : "N80044",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N80044\\",
+			"Logical" : "N80044",
+			"Physical" : null
+		},
+		{
+			"Name" : "N80500",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N80500\\",
+			"Logical" : "N80500",
+			"Physical" : null
+		},
+		{
+			"Name" : "N80392",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N80392\\",
+			"Logical" : "N80392",
+			"Physical" : null
+		},
+		{
+			"Name" : "N80056",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N80056\\",
+			"Logical" : "N80056",
+			"Physical" : null
+		},
+		{
+			"Name" : "N80040",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N80040\\",
+			"Logical" : "N80040",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02985",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N02985\\",
+			"Logical" : "N02985",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02981",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N02981\\",
+			"Logical" : "N02981",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02977",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N02977\\",
+			"Logical" : "N02977",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02749",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N02749\\",
+			"Logical" : "N02749",
+			"Physical" : null
+		},
+		{
+			"Name" : "N01045",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N01045\\",
+			"Logical" : "N01045",
+			"Physical" : null
+		},
+		{
+			"Name" : "N01035",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N01035\\",
+			"Logical" : "N01035",
+			"Physical" : null
+		},
+		{
+			"Name" : "N03061",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N03061\\",
+			"Logical" : "N03061",
+			"Physical" : null
+		},
+		{
+			"Name" : "N01117",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N01117\\",
+			"Logical" : "N01117",
+			"Physical" : null
+		},
+		{
+			"Name" : "N01292",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N01292\\",
+			"Logical" : "N01292",
+			"Physical" : null
+		},
+		{
+			"Name" : "N03051",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N03051\\",
+			"Logical" : "N03051",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02989",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N02989\\",
+			"Logical" : "N02989",
+			"Physical" : null
+		},
+		{
+			"Name" : "N03557",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N03557\\",
+			"Logical" : "N03557",
+			"Physical" : null
+		},
+		{
+			"Name" : "N01372",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N01372\\",
+			"Logical" : "N01372",
+			"Physical" : null
+		},
+		{
+			"Name" : "N75519",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N75519\\",
+			"Logical" : "N75519",
+			"Physical" : null
+		},
+		{
+			"Name" : "N75599",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\N75599\\",
+			"Logical" : "N75599",
+			"Physical" : null
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "C5.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS76861\\@\\GRM033D70E105ME15D\\.\\GRM033D70E105ME15D.Normal\\(chips):\\2\\",
+			"Logical" : "N00921",
+			"Physical" : null
+		},
+		{
+			"Name" : "C5.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS76861\\@\\GRM033D70E105ME15D\\.\\GRM033D70E105ME15D.Normal\\(chips):\\1\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "D1.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80090\\@\\MBR0520LT3G\\.\\MBR0520LT3G.Normal\\(chips):\\K\\",
+			"Logical" : "N80044",
+			"Physical" : null
+		},
+		{
+			"Name" : "D1.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80090\\@\\MBR0520LT3G\\.\\MBR0520LT3G.Normal\\(chips):\\A\\",
+			"Logical" : "N80040",
+			"Physical" : null
+		},
+		{
+			"Name" : "D2.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80114\\@\\MBR0520LT3G\\.\\MBR0520LT3G.Normal\\(chips):\\K\\",
+			"Logical" : "N80056",
+			"Physical" : null
+		},
+		{
+			"Name" : "D2.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80114\\@\\MBR0520LT3G\\.\\MBR0520LT3G.Normal\\(chips):\\A\\",
+			"Logical" : "+5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "F1.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS76432\\@\\SF-0402F050-2\\.\\SF-0402F050-2.Normal\\(chips):\\2\\",
+			"Logical" : "FUSE",
+			"Physical" : null
+		},
+		{
+			"Name" : "F1.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS76432\\@\\SF-0402F050-2\\.\\SF-0402F050-2.Normal\\(chips):\\1\\",
+			"Logical" : "+5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "IC2.30",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS118\\@\\STM32F103CBT6\\.\\STM32F103CBT6.Normal\\(chips):\\PA9\\",
+			"Logical" : "N02973",
+			"Physical" : "LED_LINK"
+		},
+		{
+			"Name" : "IC2.7",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS118\\@\\STM32F103CBT6\\.\\STM32F103CBT6.Normal\\(chips):\\NRST\\",
+			"Logical" : "N00921",
+			"Physical" : "RST"
+		},
+		{
+			"Name" : "IC2.10",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS118\\@\\STM32F103CBT6\\.\\STM32F103CBT6.Normal\\(chips):\\PA0-WKUP\\",
+			"Logical" : "N00967",
+			"Physical" : "PA0"
+		},
+		{
+			"Name" : "IC2.33",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS118\\@\\STM32F103CBT6\\.\\STM32F103CBT6.Normal\\(chips):\\PA12\\",
+			"Logical" : "N02985",
+			"Physical" : "USB_DP"
+		},
+		{
+			"Name" : "IC2.32",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS118\\@\\STM32F103CBT6\\.\\STM32F103CBT6.Normal\\(chips):\\PA11\\",
+			"Logical" : "N02981",
+			"Physical" : "USB_DM"
+		},
+		{
+			"Name" : "IC2.31",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS118\\@\\STM32F103CBT6\\.\\STM32F103CBT6.Normal\\(chips):\\PA10\\",
+			"Logical" : "N02977",
+			"Physical" : "SWO"
+		},
+		{
+			"Name" : "IC2.25",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS118\\@\\STM32F103CBT6\\.\\STM32F103CBT6.Normal\\(chips):\\PB12\\",
+			"Logical" : "N02749",
+			"Physical" : "SWDIO"
+		},
+		{
+			"Name" : "IC2.13",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS118\\@\\STM32F103CBT6\\.\\STM32F103CBT6.Normal\\(chips):\\PA3\\",
+			"Logical" : "N01045",
+			"Physical" : "RX"
+		},
+		{
+			"Name" : "IC2.12",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS118\\@\\STM32F103CBT6\\.\\STM32F103CBT6.Normal\\(chips):\\PA2\\",
+			"Logical" : "N01035",
+			"Physical" : "TX"
+		},
+		{
+			"Name" : "IC2.38",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS118\\@\\STM32F103CBT6\\.\\STM32F103CBT6.Normal\\(chips):\\PA15\\",
+			"Logical" : "N03061",
+			"Physical" : "USB_RENUM"
+		},
+		{
+			"Name" : "IC2.26",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS118\\@\\STM32F103CBT6\\.\\STM32F103CBT6.Normal\\(chips):\\PB13\\",
+			"Logical" : "N01117",
+			"Physical" : "SWCLK"
+		},
+		{
+			"Name" : "IC2.15",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS118\\@\\STM32F103CBT6\\.\\STM32F103CBT6.Normal\\(chips):\\PA5\\",
+			"Logical" : "N01117",
+			"Physical" : "SWCLK"
+		},
+		{
+			"Name" : "IC2.18",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS118\\@\\STM32F103CBT6\\.\\STM32F103CBT6.Normal\\(chips):\\PB0\\",
+			"Logical" : "N01292",
+			"Physical" : "RESET"
+		},
+		{
+			"Name" : "IC2.37",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS118\\@\\STM32F103CBT6\\.\\STM32F103CBT6.Normal\\(chips):\\PA14\\",
+			"Logical" : "N03051",
+			"Physical" : "SWCLK_IN"
+		},
+		{
+			"Name" : "IC2.34",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS118\\@\\STM32F103CBT6\\.\\STM32F103CBT6.Normal\\(chips):\\PA13\\",
+			"Logical" : "N02989",
+			"Physical" : "SWDIO_IN"
+		},
+		{
+			"Name" : "IC2.44",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS118\\@\\STM32F103CBT6\\.\\STM32F103CBT6.Normal\\(chips):\\BOOT0\\",
+			"Logical" : "N03557",
+			"Physical" : "BOOT_0"
+		},
+		{
+			"Name" : "IC2.20",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS118\\@\\STM32F103CBT6\\.\\STM32F103CBT6.Normal\\(chips):\\PB2\\",
+			"Logical" : "N01372",
+			"Physical" : "BOOT_1"
+		},
+		{
+			"Name" : "J2.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80000\\@\\67996-100HLF\\.\\67996-100HLF.Normal\\(chips):\\2\\",
+			"Logical" : "N80044",
+			"Physical" : null
+		},
+		{
+			"Name" : "J2.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80000\\@\\67996-100HLF\\.\\67996-100HLF.Normal\\(chips):\\1\\",
+			"Logical" : "N80040",
+			"Physical" : null
+		},
+		{
+			"Name" : "J3.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80016\\@\\67996-100HLF\\.\\67996-100HLF.Normal\\(chips):\\2\\",
+			"Logical" : "N80056",
+			"Physical" : null
+		},
+		{
+			"Name" : "J3.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80016\\@\\67996-100HLF\\.\\67996-100HLF.Normal\\(chips):\\1\\",
+			"Logical" : "+5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "J4.4",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80176\\@\\95278-401A10LF\\.\\95278-401A10LF.Normal\\(chips):\\4\\",
+			"Logical" : "N80282",
+			"Physical" : null
+		},
+		{
+			"Name" : "J4.5",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80176\\@\\95278-401A10LF\\.\\95278-401A10LF.Normal\\(chips):\\5\\",
+			"Logical" : "N80330",
+			"Physical" : null
+		},
+		{
+			"Name" : "J4.6",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80176\\@\\95278-401A10LF\\.\\95278-401A10LF.Normal\\(chips):\\6\\",
+			"Logical" : "N80358",
+			"Physical" : null
+		},
+		{
+			"Name" : "J4.7",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80176\\@\\95278-401A10LF\\.\\95278-401A10LF.Normal\\(chips):\\7\\",
+			"Logical" : "N80376",
+			"Physical" : null
+		},
+		{
+			"Name" : "J4.3",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80176\\@\\95278-401A10LF\\.\\95278-401A10LF.Normal\\(chips):\\3\\",
+			"Logical" : "N80044",
+			"Physical" : null
+		},
+		{
+			"Name" : "J4.9",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80176\\@\\95278-401A10LF\\.\\95278-401A10LF.Normal\\(chips):\\9\\",
+			"Logical" : "N80392",
+			"Physical" : null
+		},
+		{
+			"Name" : "J4.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80176\\@\\95278-401A10LF\\.\\95278-401A10LF.Normal\\(chips):\\1\\",
+			"Logical" : "N80056",
+			"Physical" : null
+		},
+		{
+			"Name" : "J4.8",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80176\\@\\95278-401A10LF\\.\\95278-401A10LF.Normal\\(chips):\\8\\",
+			"Logical" : "N01035",
+			"Physical" : null
+		},
+		{
+			"Name" : "J4.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80176\\@\\95278-401A10LF\\.\\95278-401A10LF.Normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "J5.3",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS8004\\@\\69167-103\\.\\69167-103.Normal\\(chips):\\3\\",
+			"Logical" : "N03051",
+			"Physical" : "SWCLK_IN"
+		},
+		{
+			"Name" : "J5.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS8004\\@\\69167-103\\.\\69167-103.Normal\\(chips):\\2\\",
+			"Logical" : "N02989",
+			"Physical" : "SWDIO_IN"
+		},
+		{
+			"Name" : "J7.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS76767\\@\\69167-103\\.\\69167-103.Normal\\(chips):\\1\\",
+			"Logical" : "N00921",
+			"Physical" : null
+		},
+		{
+			"Name" : "J7.3",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS76767\\@\\69167-103\\.\\69167-103.Normal\\(chips):\\3\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "J7.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS76767\\@\\69167-103\\.\\69167-103.Normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED1.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80398\\@\\SM0603GCL\\.\\SM0603GCL.Normal\\(chips):\\A\\",
+			"Logical" : "N80500",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED1.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80398\\@\\SM0603GCL\\.\\SM0603GCL.Normal\\(chips):\\K\\",
+			"Logical" : "N01035",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED2.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80586\\@\\SM0603SRC\\.\\SM0603SRC.Normal\\(chips):\\A\\",
+			"Logical" : "N80584",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED2.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80586\\@\\SM0603SRC\\.\\SM0603SRC.Normal\\(chips):\\K\\",
+			"Logical" : "N01045",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED4.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS75479\\@\\SM0603GCL\\.\\SM0603GCL.Normal\\(chips):\\K\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED4.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS75479\\@\\SM0603GCL\\.\\SM0603GCL.Normal\\(chips):\\A\\",
+			"Logical" : "N75519",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED5.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS75539\\@\\SM0603GCL\\.\\SM0603GCL.Normal\\(chips):\\A\\",
+			"Logical" : "+3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED5.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS75539\\@\\SM0603GCL\\.\\SM0603GCL.Normal\\(chips):\\K\\",
+			"Logical" : "N75599",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q1.3",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80506\\@\\2N7002\\.\\2N7002.Normal\\(chips):\\D\\",
+			"Logical" : "N80392",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q1.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80506\\@\\2N7002\\.\\2N7002.Normal\\(chips):\\S\\",
+			"Logical" : "N01045",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q1.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80506\\@\\2N7002\\.\\2N7002.Normal\\(chips):\\G\\",
+			"Logical" : "+3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "R10.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80558\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\1\\",
+			"Logical" : "N80584",
+			"Physical" : null
+		},
+		{
+			"Name" : "R10.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80558\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\2\\",
+			"Logical" : "+3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "R11.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS27279\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\1\\",
+			"Logical" : "N02981",
+			"Physical" : "USB_DM"
+		},
+		{
+			"Name" : "R12.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS76815\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\2\\",
+			"Logical" : "N00921",
+			"Physical" : null
+		},
+		{
+			"Name" : "R12.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS76815\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\1\\",
+			"Logical" : "+3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "R13.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS27317\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\1\\",
+			"Logical" : "N02985",
+			"Physical" : "USB_DP"
+		},
+		{
+			"Name" : "R15.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS78279\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\2\\",
+			"Logical" : "N00967",
+			"Physical" : null
+		},
+		{
+			"Name" : "R15.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS78279\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\1\\",
+			"Logical" : "+3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "R16.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS78303\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\1\\",
+			"Logical" : "N00967",
+			"Physical" : null
+		},
+		{
+			"Name" : "R16.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS78303\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "R17.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS74381\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "R17.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS74381\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\1\\",
+			"Logical" : "N03557",
+			"Physical" : null
+		},
+		{
+			"Name" : "R2.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80216\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\1\\",
+			"Logical" : "N80282",
+			"Physical" : null
+		},
+		{
+			"Name" : "R2.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80216\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\2\\",
+			"Logical" : "N02749",
+			"Physical" : null
+		},
+		{
+			"Name" : "R22.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS74653\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "R22.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS74653\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\1\\",
+			"Logical" : "N01372",
+			"Physical" : null
+		},
+		{
+			"Name" : "R23.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS27774\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\2\\",
+			"Logical" : "N03061",
+			"Physical" : "USB_RENUM"
+		},
+		{
+			"Name" : "R25.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS75455\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\2\\",
+			"Logical" : "N02973",
+			"Physical" : null
+		},
+		{
+			"Name" : "R25.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS75455\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\1\\",
+			"Logical" : "N75519",
+			"Physical" : null
+		},
+		{
+			"Name" : "R26.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS75563\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\2\\",
+			"Logical" : "N02973",
+			"Physical" : null
+		},
+		{
+			"Name" : "R26.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS75563\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\1\\",
+			"Logical" : "N75599",
+			"Physical" : null
+		},
+		{
+			"Name" : "R4.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80252\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\2\\",
+			"Logical" : "N80330",
+			"Physical" : null
+		},
+		{
+			"Name" : "R4.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80252\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\1\\",
+			"Logical" : "N01117",
+			"Physical" : null
+		},
+		{
+			"Name" : "R5.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80288\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\1\\",
+			"Logical" : "N80358",
+			"Physical" : null
+		},
+		{
+			"Name" : "R5.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80288\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\2\\",
+			"Logical" : "N02977",
+			"Physical" : null
+		},
+		{
+			"Name" : "R6.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80332\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\2\\",
+			"Logical" : "N80376",
+			"Physical" : null
+		},
+		{
+			"Name" : "R6.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80332\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\1\\",
+			"Logical" : "N01292",
+			"Physical" : null
+		},
+		{
+			"Name" : "R7.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80428\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\2\\",
+			"Logical" : "N80392",
+			"Physical" : null
+		},
+		{
+			"Name" : "R7.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80428\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\1\\",
+			"Logical" : "+5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "R8.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80452\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\1\\",
+			"Logical" : "N80500",
+			"Physical" : null
+		},
+		{
+			"Name" : "R8.2",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS80452\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\2\\",
+			"Logical" : "+3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "R9.1",
+			"C_PATH" : "@\\STLINK\\.\\SCHEMATIC1\\(sch_1):\\INS2710\\@\\CR0603-F_-1R00ELF\\.\\CR0603-F_-1R00ELF.Normal\\(chips):\\1\\",
+			"Logical" : "N02749",
+			"Physical" : "SWDIO"
+		}
+	]
+}
