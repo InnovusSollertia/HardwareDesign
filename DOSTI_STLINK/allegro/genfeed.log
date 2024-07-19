@@ -2,14 +2,12 @@
 (                                                                     )
 (    GenFeed                                                          )
 (                                                                     )
-(    Software Version : 23.1S004                                      )
-(    Date/Time        : Wed Jun 19 01:25:53 2024                      )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Fri Jul 19 15:16:39 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Extract file used: D:/PROJECTS/PROJECTSCIENCE/ELECTRONICS/DOSTI_STLINK/allegro/pxlBA.txt
-
-  Wrote feedbackview.cdsz file to D:/PROJECTS/PROJECTSCIENCE/ELECTRONICS/DOSTI_STLINK/allegro directory
+Extract file used: D:/Projects/HardwareDesign/DOSTI_STLINK/allegro/pxlBA.txt
 
 SUMMARY: No errors or warnings detected.

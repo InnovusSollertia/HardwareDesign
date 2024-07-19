@@ -1,0 +1,7 @@
+[Export Options]
+Canceled=0
+Type=IPC2581
+RetainEDATransferFile=1
+OutputPath=D:\Projects\HardwareDesign\DOSTI_STLINK\allegro\
+OutputFileName=blueprint_stlink.xml
+ExportCmdLine=-l -n -p -c -e -R -O -I -D -M -S

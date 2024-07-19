@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : STLINK.brd                                    )
-(    Software Version : 23.1S004                                      )
-(    Date/Time        : Thu Jun 13 12:15:34 2024                      )
+(    Drawing          : stlink.brd                                    )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Fri Jul 19 16:24:38 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  797
+ ..... Total number of DRC errors  1
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

@@ -1,0 +1,8 @@
+[CAM350 Export Options]
+Canceled=0
+Type=IPC2581
+ConvertAllegroConstraintsToDFMChecks=1
+OutputPath=D:\Projects\HardwareDesign\DOSTI_STLINK\allegro
+OutputFileName=stlink.xml
+RetainEDATransferFile=1
+ODBExportCmdLine=

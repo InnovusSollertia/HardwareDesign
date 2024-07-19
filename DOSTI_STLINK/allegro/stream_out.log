@@ -1,0 +1,17 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Stream Out Log File                                              )
+(                                                                     )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Fri Jul 19 17:40:59 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Stream_out log file for design: D:/Projects/HardwareDesign/DOSTI_STLINK/allegro/stlink.brd.
+
+No conversion file used.
+ERROR: When no conversion file option is used, the artwork film names must
+  follow the format: stream_#.
+  Artwork film name BOTTOM is not in correct format.
+Stream_out completed with errors.

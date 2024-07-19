@@ -1,6 +1,6 @@
 (ExpressProject "STLINK"
   (ProjectVersion "19981106")
-  (SoftwareVersion "23.1 S004 (4189164)  [4/25/2024]-[06/19/24]")
+  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[07/19/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -100,7 +100,6 @@
     (DRC_Report_File
        "d:\projects\projectscience\electronics\projectid_stlink\drcreport.DRC")
     (Display_Online_DRC_Results "TRUE")
-    (Board_sim_option "VHDL_flow")
     (BOM_Scope "0")
     (BOM_Mode "0")
     (BOM_Report_File
@@ -113,7 +112,8 @@
     (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
     (BOM_One_Part_Per_Line "FALSE")
     (Open_BOM_in_Excel "TRUE")
-    (BOM_View_Output "FALSE"))
+    (BOM_View_Output "FALSE")
+    (Board_sim_option "VHDL_flow"))
   (Folder "Layout"
     (File ".\allegro\stlink.brd"
       (Type "Board File")
@@ -137,16 +137,13 @@
   (Folder "Logs"
     (File ".\pcb\netlist.log"
       (Type "Log File")
-      (LogFile
-         "d:\projects\projectscience\electronics\projectid_dosti_stlink\pcb\netlist.log"))
+      (LogFile "d:\projects\hardwaredesign\dosti_stlink\pcb\netlist.log"))
     (File ".\pcb\netrev.lst"
       (Type "Log File")
-      (LogFile
-         "d:\projects\projectscience\electronics\projectid_dosti_stlink\pcb\netrev.lst"))
+      (LogFile "d:\projects\hardwaredesign\dosti_stlink\pcb\netrev.lst"))
     (File ".\pcb\eco.txt"
       (Type "Log File")
-      (LogFile
-         "d:\projects\projectscience\electronics\projectid_dosti_stlink\pcb\eco.txt"))
+      (LogFile "d:\projects\hardwaredesign\dosti_stlink\pcb\eco.txt"))
     (File ".\allegro\netlist.log"
       (Type "Log File")
       (LogFile
@@ -284,15 +281,15 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 529"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 215 0 531"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 982 24 547")
-        (Scroll "845 390")
-        (Zoom "84")
+        (Placement "44 0 1 -1 -1 5 24 5 1240 24 549")
+        (Scroll "1386 738")
+        (Zoom "184")
         (Occurrence "/"))
-      (Path "D:\PROJECTS\PROJECTSCIENCE\ELECTRONICS\DOSTI_STLINK\STLINK.DSN")
+      (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI_STLINK\STLINK.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1"))))
