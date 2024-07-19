@@ -1,0 +1,98 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 23.1.0 d001Jul-19-2024 at 21:44:46 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='PULTONPCBTEST';
+ POST_TIME='Jun 12 2024 12:32:55';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'GRM033D70E105ME15D_CAPC0603X33N_GRM033D70E105ME15D':;
+
+SECTION_NUMBER 1
+ '@PULTONPCBTEST.SCHEMATIC1(SCH_1):INS1239@GRM033D70E105ME15D.GRM033D70E105ME15D.NORMAL(CHIPS)':
+ C_PATH='@pultonpcbtest.schematic1(sch_1):ins1239@grm033d70e105me15d.\grm033d70e105me15d.normal\(chips)',
+ P_PATH='@pultonpcbtest.schematic1(sch_1):page_ins1239@grm033d70e105me15d.\grm033d70e105me15d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,380)',
+ SECTION='';
+
+PART_NAME
+ C2 'GRM033D70E105ME15D_CAPC0603X33N_GRM033D70E105ME15D':;
+
+SECTION_NUMBER 1
+ '@PULTONPCBTEST.SCHEMATIC1(SCH_1):INS1263@GRM033D70E105ME15D.GRM033D70E105ME15D.NORMAL(CHIPS)':
+ C_PATH='@pultonpcbtest.schematic1(sch_1):ins1263@grm033d70e105me15d.\grm033d70e105me15d.normal\(chips)',
+ P_PATH='@pultonpcbtest.schematic1(sch_1):page_ins1263@grm033d70e105me15d.\grm033d70e105me15d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,380)',
+ SECTION='';
+
+PART_NAME
+ C3 'GRM033D70E105ME15D_CAPC0603X33N_GRM033D70E105ME15D':;
+
+SECTION_NUMBER 1
+ '@PULTONPCBTEST.SCHEMATIC1(SCH_1):INS1287@GRM033D70E105ME15D.GRM033D70E105ME15D.NORMAL(CHIPS)':
+ C_PATH='@pultonpcbtest.schematic1(sch_1):ins1287@grm033d70e105me15d.\grm033d70e105me15d.normal\(chips)',
+ P_PATH='@pultonpcbtest.schematic1(sch_1):page_ins1287@grm033d70e105me15d.\grm033d70e105me15d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,380)',
+ SECTION='';
+
+PART_NAME
+ IC1 'AP7381-50Y-13_AP738133Y13_AP7381-50Y-13':;
+
+SECTION_NUMBER 1
+ '@PULTONPCBTEST.SCHEMATIC1(SCH_1):INS1165@AP7381-50Y-13.AP7381-50Y-13.NORMAL(CHIPS)':
+ C_PATH='@pultonpcbtest.schematic1(sch_1):ins1165@\ap7381-50y-13\.\ap7381-50y-13.normal\(chips)',
+ P_PATH='@pultonpcbtest.schematic1(sch_1):page_ins1165@\ap7381-50y-13\.\ap7381-50y-13.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(400,310)',
+ SECTION='';
+
+PART_NAME
+ IC2 'LM741CN_NOPB_DIP794W53P254L959H508Q8N_LM741CN_NOPB':;
+
+SECTION_NUMBER 1
+ '@PULTONPCBTEST.SCHEMATIC1(SCH_1):INS1555@LM741CN_NOPB.LM741CN_NOPB.NORMAL(CHIPS)':
+ C_PATH='@pultonpcbtest.schematic1(sch_1):ins1555@lm741cn_nopb.\lm741cn_nopb.normal\(chips)',
+ P_PATH='@pultonpcbtest.schematic1(sch_1):page_ins1555@lm741cn_nopb.\lm741cn_nopb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,210)',
+ SECTION='';
+
+PART_NAME
+ J1 '67996-100HLF_HDRV2W67P254_2X1_254X483X858P_67996-100HLF':;
+
+SECTION_NUMBER 1
+ '@PULTONPCBTEST.SCHEMATIC1(SCH_1):INS1601@67996-100HLF.67996-100HLF.NORMAL(CHIPS)':
+ C_PATH='@pultonpcbtest.schematic1(sch_1):ins1601@\67996-100hlf\.\67996-100hlf.normal\(chips)',
+ P_PATH='@pultonpcbtest.schematic1(sch_1):page_ins1601@\67996-100hlf\.\67996-100hlf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,220)',
+ SECTION='';
+
+PART_NAME
+ J2 '67996-100HLF_HDRV2W67P254_2X1_254X483X858P_67996-100HLF':;
+
+SECTION_NUMBER 1
+ '@PULTONPCBTEST.SCHEMATIC1(SCH_1):INS1210@67996-100HLF.67996-100HLF.NORMAL(CHIPS)':
+ C_PATH='@pultonpcbtest.schematic1(sch_1):ins1210@\67996-100hlf\.\67996-100hlf.normal\(chips)',
+ P_PATH='@pultonpcbtest.schematic1(sch_1):page_ins1210@\67996-100hlf\.\67996-100hlf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,310)',
+ SECTION='';
+
+PART_NAME
+ J3 '67996-100HLF_HDRV2W67P254_2X1_254X483X858P_67996-100HLF':;
+
+SECTION_NUMBER 1
+ '@PULTONPCBTEST.SCHEMATIC1(SCH_1):INS1813@67996-100HLF.67996-100HLF.NORMAL(CHIPS)':
+ C_PATH='@pultonpcbtest.schematic1(sch_1):ins1813@\67996-100hlf\.\67996-100hlf.normal\(chips)',
+ P_PATH='@pultonpcbtest.schematic1(sch_1):page_ins1813@\67996-100hlf\.\67996-100hlf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,220)',
+ SECTION='';
+
+END.

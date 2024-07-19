@@ -1,0 +1,302 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "C1",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins127@grm033d70e105me15d.\\grm033d70e105me15d.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C1"
+		},
+		{
+			"Name" : "IC1",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins253@st232acdr.\\st232acdr.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "IC1"
+		},
+		{
+			"Name" : "J1",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins62@\\219320-0001\\.\\219320-0001.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J1"
+		},
+		{
+			"Name" : "J2",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins180@rje741aa1410a.\\rje741aa1410a.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J2"
+		},
+		{
+			"Name" : "PS1",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins316@stbc08pmr.\\stbc08pmr.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "PS1"
+		},
+		{
+			"Name" : "C1",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1239@grm033d70e105me15d.\\grm033d70e105me15d.normal\\(chips)",
+			"Logical" : "C1",
+			"Physical" : null
+		},
+		{
+			"Name" : "C2",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1263@grm033d70e105me15d.\\grm033d70e105me15d.normal\\(chips)",
+			"Logical" : "C2",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1287@grm033d70e105me15d.\\grm033d70e105me15d.normal\\(chips)",
+			"Logical" : "C3",
+			"Physical" : null
+		},
+		{
+			"Name" : "IC1",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1165@\\ap7381-50y-13\\.\\ap7381-50y-13.normal\\(chips)",
+			"Logical" : "IC1",
+			"Physical" : null
+		},
+		{
+			"Name" : "IC2",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1555@lm741cn_nopb.\\lm741cn_nopb.normal\\(chips)",
+			"Logical" : "IC2",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1601@\\67996-100hlf\\.\\67996-100hlf.normal\\(chips)",
+			"Logical" : "J1",
+			"Physical" : null
+		},
+		{
+			"Name" : "J2",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1210@\\67996-100hlf\\.\\67996-100hlf.normal\\(chips)",
+			"Logical" : "J2",
+			"Physical" : null
+		},
+		{
+			"Name" : "J3",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1813@\\67996-100hlf\\.\\67996-100hlf.normal\\(chips)",
+			"Logical" : "J3",
+			"Physical" : null
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "N00739",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):n00739",
+			"Logical" : null,
+			"Physical" : "N00739"
+		},
+		{
+			"Name" : "N00735",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):n00735",
+			"Logical" : null,
+			"Physical" : "N00735"
+		},
+		{
+			"Name" : "N00731",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):n00731",
+			"Logical" : null,
+			"Physical" : "N00731"
+		},
+		{
+			"Name" : "N00727",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):n00727",
+			"Logical" : null,
+			"Physical" : "N00727"
+		},
+		{
+			"Name" : "N00532",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):n00532",
+			"Logical" : null,
+			"Physical" : "N00532"
+		},
+		{
+			"Name" : "N00492",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):n00492",
+			"Logical" : null,
+			"Physical" : "N00492"
+		},
+		{
+			"Name" : "EP",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ep",
+			"Logical" : null,
+			"Physical" : "EP"
+		},
+		{
+			"Name" : "N01311",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):n01311",
+			"Logical" : "N01311",
+			"Physical" : null
+		},
+		{
+			"Name" : "N01415",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):n01415",
+			"Logical" : "N01415",
+			"Physical" : null
+		},
+		{
+			"Name" : "N01487",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):n01487",
+			"Logical" : "N01487",
+			"Physical" : null
+		},
+		{
+			"Name" : "N01663",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):n01663",
+			"Logical" : "N01663",
+			"Physical" : null
+		},
+		{
+			"Name" : "N01689",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):n01689",
+			"Logical" : "N01689",
+			"Physical" : null
+		},
+		{
+			"Name" : "N01829",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):n01829",
+			"Logical" : "N01829",
+			"Physical" : null
+		},
+		{
+			"Name" : "N01833",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):n01833",
+			"Logical" : "N01833",
+			"Physical" : null
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "C1.2",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1239@grm033d70e105me15d.\\grm033d70e105me15d.normal\\(chips):\\2\\",
+			"Logical" : "N01487",
+			"Physical" : null
+		},
+		{
+			"Name" : "C1.1",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1239@grm033d70e105me15d.\\grm033d70e105me15d.normal\\(chips):\\1\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "C2.2",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1263@grm033d70e105me15d.\\grm033d70e105me15d.normal\\(chips):\\2\\",
+			"Logical" : "N01311",
+			"Physical" : null
+		},
+		{
+			"Name" : "C2.1",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1263@grm033d70e105me15d.\\grm033d70e105me15d.normal\\(chips):\\1\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3.2",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1287@grm033d70e105me15d.\\grm033d70e105me15d.normal\\(chips):\\2\\",
+			"Logical" : "N01415",
+			"Physical" : null
+		},
+		{
+			"Name" : "C3.1",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1287@grm033d70e105me15d.\\grm033d70e105me15d.normal\\(chips):\\1\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "IC1.3",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1165@\\ap7381-50y-13\\.\\ap7381-50y-13.normal\\(chips):VIN",
+			"Logical" : "N01311",
+			"Physical" : null
+		},
+		{
+			"Name" : "IC1.4",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1165@\\ap7381-50y-13\\.\\ap7381-50y-13.normal\\(chips):GND_2",
+			"Logical" : "N01415",
+			"Physical" : null
+		},
+		{
+			"Name" : "IC1.1",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1165@\\ap7381-50y-13\\.\\ap7381-50y-13.normal\\(chips):VOUT",
+			"Logical" : "N01487",
+			"Physical" : null
+		},
+		{
+			"Name" : "IC1.2",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1165@\\ap7381-50y-13\\.\\ap7381-50y-13.normal\\(chips):GND_1",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "IC2.3",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1555@lm741cn_nopb.\\lm741cn_nopb.normal\\(chips):NON_INVERTING_INPUT",
+			"Logical" : "N01487",
+			"Physical" : null
+		},
+		{
+			"Name" : "IC2.2",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1555@lm741cn_nopb.\\lm741cn_nopb.normal\\(chips):INVERTING_INPUT",
+			"Logical" : "N01663",
+			"Physical" : null
+		},
+		{
+			"Name" : "IC2.4",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1555@lm741cn_nopb.\\lm741cn_nopb.normal\\(chips):\\v-\\",
+			"Logical" : "N01689",
+			"Physical" : null
+		},
+		{
+			"Name" : "IC2.7",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1555@lm741cn_nopb.\\lm741cn_nopb.normal\\(chips):\\v+\\",
+			"Logical" : "N01829",
+			"Physical" : null
+		},
+		{
+			"Name" : "IC2.6",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1555@lm741cn_nopb.\\lm741cn_nopb.normal\\(chips):OUTPUT",
+			"Logical" : "N01833",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.2",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1601@\\67996-100hlf\\.\\67996-100hlf.normal\\(chips):\\2\\",
+			"Logical" : "N01663",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.1",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1601@\\67996-100hlf\\.\\67996-100hlf.normal\\(chips):\\1\\",
+			"Logical" : "N01689",
+			"Physical" : null
+		},
+		{
+			"Name" : "J2.1",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1210@\\67996-100hlf\\.\\67996-100hlf.normal\\(chips):\\1\\",
+			"Logical" : "N01311",
+			"Physical" : null
+		},
+		{
+			"Name" : "J2.2",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1210@\\67996-100hlf\\.\\67996-100hlf.normal\\(chips):\\2\\",
+			"Logical" : "N01415",
+			"Physical" : null
+		},
+		{
+			"Name" : "J3.1",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1813@\\67996-100hlf\\.\\67996-100hlf.normal\\(chips):\\1\\",
+			"Logical" : "N01829",
+			"Physical" : null
+		},
+		{
+			"Name" : "J3.2",
+			"C_PATH" : "@pultonpcbtest.schematic1(sch_1):ins1813@\\67996-100hlf\\.\\67996-100hlf.normal\\(chips):\\2\\",
+			"Logical" : "N01833",
+			"Physical" : null
+		}
+	]
+}

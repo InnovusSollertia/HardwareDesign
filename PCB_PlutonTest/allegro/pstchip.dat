@@ -1,0 +1,87 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 23.1.0 d001Jul-19-2024 at 21:44:46}
+primitive 'GRM033D70E105ME15D_CAPC0603X33N_GRM033D70E105ME15D';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='GRM033D70E105ME15D';
+    JEDEC_TYPE='CAPC0603X33N';
+    VALUE='GRM033D70E105ME15D';
+  end_body;
+end_primitive;
+primitive 'AP7381-50Y-13_AP738133Y13_AP7381-50Y-13';
+  pin
+    'VOUT':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'GND_1':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'VIN':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'GND_2':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='AP7381-50Y-13';
+    JEDEC_TYPE='AP738133Y13';
+    VALUE='AP7381-50Y-13';
+  end_body;
+end_primitive;
+primitive 'LM741CN_NOPB_DIP794W53P254L959H508Q8N_LM741CN_NOPB';
+  pin
+    'OFFSET_NULL_1':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+    'INVERTING_INPUT':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+    'NON_INVERTING_INPUT':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(*)';
+    'V-':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(*)';
+    'NC':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(*)';
+    'V+':
+      PIN_NUMBER='(7)';
+      OUTPUT_LOAD='(*)';
+    'OUTPUT':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(*)';
+    'OFFSET_NULL_2':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LM741CN_NOPB';
+    JEDEC_TYPE='DIP794W53P254L959H508Q8N';
+    VALUE='LM741CN_NOPB';
+  end_body;
+end_primitive;
+primitive '67996-100HLF_HDRV2W67P254_2X1_254X483X858P_67996-100HLF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='67996-100HLF';
+    JEDEC_TYPE='HDRV2W67P254_2X1_254X483X858P';
+    VALUE='67996-100HLF';
+  end_body;
+end_primitive;
+END.
