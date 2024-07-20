@@ -1,0 +1,5 @@
+{ Using PSTWRITER 23.1.0 d001Jul-20-2024 at 23:40:03 }
+
+#1 ERROR(ORCAP-36032): Duplicate Reference Designator R1: SCHEMATIC1, 01_MAIN (123.19, 15.24).
+#2 ERROR(ORCAP-36035): Multiple pin 1's which have different nets connected for R1: SCHEMATIC1, 01_MAIN (123.19, 15.24).
+#3 ERROR(ORCAP-36018): Netlisting cannot complete because of the errors listed above in the session log. Correct the errors and netlist design.
