@@ -1,55 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <?xml-stylesheet type="text/xsl" href="file:///c:/cadence/spb_23.1/share/pcb/consmgr/VDD/report/treeview.xsl"?>
-<ConstraintDifferenceReport Path="file:///c:/cadence/spb_23.1/share/pcb/consmgr/VDD/report/rc" Type="Constraint Difference Report">
+<ConstraintDifferenceReport Path="file:///c:/cadence/spb_23.1/share/pcb/consmgr/VDD/report/rc" Status="not-run" Type="Constraint Difference Report">
 
   <RptSummary Col1="Layout" Col2="Schematic">
-    <Entry Name="Report time">Fri Jul 19 15:16:48 2024
+    <Entry Name="Report time">Tue Jul 23 11:09:05 2024
 </Entry>
     <Entry Name="Software version">23.1 (S005)</Entry>
-    <Entry Name="Layout">D:\Projects\HardwareDesign\DOSTI_STLINK\allegro\stlink.brd</Entry>
-    <Entry Name="Schematic">D:\Projects\HardwareDesign\DOSTI_STLINK\allegro\pstcmdb.dat</Entry>
-    <Entry Name="Baseline File">C:\Users\PROMET~1\AppData\Local\Temp\#Taaaaaj17884.tmp</Entry>
-    <Entry Name="Destination design updated">Yes</Entry>
-    <Entry Name="Update Mode">Diff3</Entry>
-    <Entry Name="Constraint Information">Electrical, NetClasses, Properties</Entry>
-    <Entry Name="Objects with conflicts">0</Entry>
+    <Entry Name="Layout">D:\Projects\HardwareDesign\PCB_ST-LINK V2_0\allegro\stlink.brd</Entry>
+    <Entry Name="Schematic">D:\Projects\HardwareDesign\PCB_ST-LINK V2_0\allegro\pstcmdb.dat</Entry>
+    <Entry Name="Baseline File">C:\Users\PROMET~1\AppData\Local\Temp\#Taaaaaj16808.tmp</Entry>
+    <Entry Name="Status">Diff3 not run. Input file and Baseline file having matching keys.</Entry>
   </RptSummary>
 
   <Tree>
-    <Item Filter="0x1" Name="Summary" Ref="main-summary">
-      <Item Filter="0x0" Name="Xnets [6]" Ref="17">
-        <Item Filter="0x0" Name="LED_LINK" Ref="11"/>
-        <Item Filter="0x0" Name="N01292" Ref="15"/>
-        <Item Filter="0x0" Name="N02973" Ref="16"/>
-        <Item Filter="0x0" Name="N02977" Ref="14"/>
-        <Item Filter="0x0" Name="RESET" Ref="12"/>
-        <Item Filter="0x0" Name="SWO" Ref="13"/>
-      </Item>
-    </Item>
+    <Item Filter="0x1" Name="Summary" Ref="main-summary"/>
   </Tree>
 
   <Summaries>
-    <MainSummary ID="main-summary">
-      <ChangedObject Filter="0x0" Name="Xnets" ObjNumber="6" Ref="17"/>
-    </MainSummary>
-    <GroupSummary ID="17" Name="Xnets">
-      <ChangedObject Attributes="0" Child="0" Filter="0x0" Membership="0" Name="LED_LINK" Notes="0" Other="0" Ref="11" Reference="0" Status="Created"/>
-      <ChangedObject Attributes="0" Child="0" Filter="0x0" Membership="0" Name="N01292" Notes="0" Other="0" Ref="15" Reference="0" Status="Deleted"/>
-      <ChangedObject Attributes="0" Child="0" Filter="0x0" Membership="0" Name="N02973" Notes="0" Other="0" Ref="16" Reference="0" Status="Deleted"/>
-      <ChangedObject Attributes="0" Child="0" Filter="0x0" Membership="0" Name="N02977" Notes="0" Other="0" Ref="14" Reference="0" Status="Deleted"/>
-      <ChangedObject Attributes="0" Child="0" Filter="0x0" Membership="0" Name="RESET" Notes="0" Other="0" Ref="12" Reference="0" Status="Created"/>
-      <ChangedObject Attributes="0" Child="0" Filter="0x0" Membership="0" Name="SWO" Notes="0" Other="0" Ref="13" Reference="0" Status="Created"/>
-    </GroupSummary>
-    <ObjectSummary ID="11" Kind="Xnet" Name="LED_LINK" Status="Created"/>
-    <ObjectSummary ID="15" Kind="Xnet" Name="N01292" Status="Deleted"/>
-    <ObjectSummary ID="16" Kind="Xnet" Name="N02973" Status="Deleted"/>
-    <ObjectSummary ID="14" Kind="Xnet" Name="N02977" Status="Deleted"/>
-    <ObjectSummary ID="12" Kind="Xnet" Name="RESET" Status="Created"/>
-    <ObjectSummary ID="13" Kind="Xnet" Name="SWO" Status="Created"/>
+    <MainSummary ID="main-summary"/>
   </Summaries>
 
   <Notes>
-    <Note Text="Baseline file(s) are invalid so Changes-only may make incorrect changes. Review the report and edit the changes as required." Type="Warning"/>
+    <Note Text="Diff3 not run. Input file and Baseline file having matching keys." Type="Warning"/>
   </Notes>
 
   <Layers>

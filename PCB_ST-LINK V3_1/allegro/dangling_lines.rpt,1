@@ -1,0 +1,51 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : ST-LINKV3.brd                                 )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Tue Jul 23 16:07:54 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - Not part of the current partition.
+  - To suppress items in dangle report add the OK_DANGLE property to the via
+    or connect line.
+
+
+
+<< Dangling Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  +3V3                 VIA                  (104.6480 138.9380) TOP/BOTTOM 
+  +3V3                 VIA                  (135.1280 137.9220) TOP/BOTTOM 
+  0                    VIA                  (100.8380 122.4280) TOP/BOTTOM 
+  0                    VIA                  (121.6660 137.1600) TOP/BOTTOM 
+  0                    VIA                  (135.1280 134.6200) TOP/BOTTOM 
+  VSENS                VIA                  (100.8380 125.7300) TOP/BOTTOM 
+
+
+<< Antenna Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  +3V3                 VIA                  (104.6480 138.9380) TOP/BOTTOM 
+  +3V3                 VIA                  (135.1280 137.9220) TOP/BOTTOM 
+  0                    VIA                  (100.8380 122.4280) TOP/BOTTOM 
+  0                    VIA                  (121.6660 137.1600) TOP/BOTTOM 
+  0                    VIA                  (135.1280 134.6200) TOP/BOTTOM 
+  VSENS                VIA                  (100.8380 125.7300) TOP/BOTTOM 
+
+<< Summary >>
+  Total dangling lines:       0
+  Total dangling vias:        6
+  Total antenna vias:         6

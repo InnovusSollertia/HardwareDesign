@@ -1,0 +1,108 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : ST-LINKV3.brd                                 )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Tue Jul 23 14:56:35 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         '.'
+Design Directory:            'D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro'
+Old design name:             'D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3.brd'
+New design name:             'D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3.brd'
+
+CmdLine: netrev -$ -i . -y 1 -h -q netrev_constraint_report.xml D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/#Taaaaal01476.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read ./pstchip.dat 
+   Finished reading ./pstchip.dat (00:00:00.39)
+Starting to read ./pstxprt.dat 
+   Finished reading ./pstxprt.dat (00:00:00.00)
+Starting to read ./pstxnet.dat 
+   Finished reading ./pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+
+
+===========================================================
+Start Constraint Diff3 Import
+	Constraint File:    ./pstcmdb.dat
+	Allegro Baseline:   C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaaj11660.tmp
+	Start time: Tue Jul 23 14:56:36 2024
+===========================================================
+
+
+The constraint difference report file can be viewed using the following command:
+cdnFlowOOSMsg.exe -file "file:///D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/netrev_constraint_report.xml"
+
+NOTE: Constraint information is up-to-date. No processing was required.
+===========================================================
+Finished Constraint Update	Time: Tue Jul 23 14:56:36 2024
+===========================================================
+
+------ Library Paths ------
+MODULEPATH =  . 
+           c:/cadence/spb_23.1/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_23.1/share/local/pcb/symbols 
+           c:/cadence/spb_23.1/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_23.1/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_23.1/share/local/pcb/padstacks 
+           c:/cadence/spb_23.1/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_23.1/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jul 23 14:56:35 2024
+   DESIGN NAME : 'ST-LINKV3'
+   PACKAGING ON Jun 12 2024 12:32:55
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:01:18
+elapsed time  0:00:01
+

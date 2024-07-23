@@ -1,0 +1,51 @@
+\t (00:00:00) sigxp 23.1 S005 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Tue Jul 23 11:31:01 2024
+\t (00:00:00)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=10512 CPUs=12
+\t (00:00:00) CmdLine= sigxp -spawn -p D:/PROJECTS/HARDWAREDESIGN/PCB_ST-LINK V2_0/allegro C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaam14964.tmp
+\t (00:00:00) 
+\t (00:00:00) Starting new design...
+\i (00:00:01) trapsize 1425
+\i (00:00:01) trapsize 1367
+\i (00:00:02) trapsize 9861
+\i (00:00:02) trapsize 1972
+   (00:00:02) Loading axlcore.cxt 
+   (00:00:02) Loading sigxp.cxt 
+   (00:00:02) Loading signal.cxt 
+   (00:00:02) Loading sxutil.cxt 
+\t (00:00:02) Starting new design...
+\i (00:00:03) trapsize 9861
+\i (00:00:03) trapsize 9861
+\i (00:00:03) trapsize 9861
+   (00:00:03) Loading fputil.cxt 
+   (00:00:03) Beginning Autoplacement
+   (00:00:03) Finished Autoplacement
+   (00:00:03) Loading skillExt.cxt 
+\i (00:00:03) trapsize 38
+\i (00:00:04) sigxp background 
+\i (00:00:05) trapsize 30
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow sigxp
+\i (00:00:06) zoom out 5537.55 4241.80
+\i (00:00:06) trapsize 59
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow sigxp
+\i (00:00:07) zoom in 5538.27 4235.98
+\i (00:00:07) trapsize 30
+\i (00:00:07) roam start
+\i (00:00:08) roam y 32
+\i (00:00:08) roam end
+\i (00:00:08) roam start
+\i (00:00:09) roam end
+\i (00:00:12) trapsize 38
+\i (00:00:14) trapsize 25
+\i (00:00:20) reset dockwindows 
+\i (00:00:22) fillin yes 
+\i (00:00:25) update cm 
+\i (00:00:26) fillin yes 
+\i (00:00:26) sigxp background 
+\i (00:00:27) pick grid 5538.16 4241.37
+\t (00:00:27) last pick:  5538.00 4241.50
+\i (00:00:28) pick grid 5551.85 4241.88
+\t (00:00:28) last pick:  5552.00 4242.00
+\i (00:01:23) exit 
+\t (00:01:23)     Journal end - Tue Jul 23 11:32:25 2024

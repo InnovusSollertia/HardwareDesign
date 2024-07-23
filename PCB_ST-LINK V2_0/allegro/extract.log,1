@@ -1,31 +1,37 @@
+FULL_GEOMETRY
+   CLASS = 'CONSTRAINT REGION'
 #
-# Property of Cadence Design Systems, Inc.  All rights reserved.
-#
-# $Header: cmp_rep_view.txt.v 1.1 12/01/87 ddd Prealpha 
-#
-# File: cmp_rep_view.txt - Component data extract cmd file for 
-#				component list report
-#
-# Revision history:
-#	(0.10) ddd 12/01/87	Preliminary initial version
-#
-#
-COMPONENT
-#
-# Extract: refdes(sort), refdes, device_type, value, tolerance,
-# 	  package, x, y, angle, mirror.
-#
-REFDES_SORT
-REFDES
-COMP_DEVICE_TYPE
-COMP_VALUE
-COMP_TOL
-COMP_PACKAGE
-SYM_X
-SYM_Y
-SYM_ROTATE
-SYM_MIRROR
-ALTERNATE_SYMBOLS
-#
-# end of cmp_rep_view
-#
+   CLASS
+   SUBCLASS
+   RECORD_TAG
+   REFDES
+   PIN_NUMBER
+   PAD_STACK_NAME
+   NET_NAME
+   PIN_X
+   PIN_Y
+   VIA_X
+   VIA_Y
+   TEST_POINT    
+   GRAPHIC_DATA_NAME
+   GRAPHIC_DATA_1
+   GRAPHIC_DATA_2
+   GRAPHIC_DATA_3
+   GRAPHIC_DATA_4
+   GRAPHIC_DATA_5
+   GRAPHIC_DATA_6
+   GRAPHIC_DATA_7
+   GRAPHIC_DATA_8
+   GRAPHIC_DATA_9
+   GRAPHIC_DATA_10
+   NO_SHAPE_CONNECT
+   DRILL_FIGURE_CHAR
+   PACKAGE_HEIGHT_MIN
+   PACKAGE_HEIGHT_MAX
+   NET_PHYSICAL_TYPE
+   NET_SPACING_TYPE
+   DRILL_FIGURE_ROTATION
+   FILLET
+   WIREBOND_PROFILE_NAME
+   VIA_MIRROR
+END

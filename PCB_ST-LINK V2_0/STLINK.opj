@@ -1,6 +1,6 @@
 (ExpressProject "STLINK"
   (ProjectVersion "19981106")
-  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[07/19/24]")
+  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[07/23/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -271,25 +271,29 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\stlink.dsn")
-      (Path "Design Resources" ".\stlink.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "D:\PROJECTS\HARDWAREDESIGN\PCB_ST-LINK V2_0\stlink.dsn")
+      (Path "Design Resources"
+         "D:\PROJECTS\HARDWAREDESIGN\PCB_ST-LINK V2_0\stlink.dsn" "SCHEMATIC1")
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs")
-      (Select "Design Resources" ".\stlink.dsn" "SCHEMATIC1" "PAGE1"))
+      (Select "Design Resources"
+         "D:\PROJECTS\HARDWAREDESIGN\PCB_ST-LINK V2_0\stlink.dsn" "SCHEMATIC1"
+         "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 531"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 216 0 531"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1255 24 549")
-        (Scroll "539 352")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -1 -1 5 968 24 549")
+        (Scroll "145 1451")
+        (Zoom "92")
         (Occurrence "/"))
-      (Path "D:\PROJECTS\HARDWAREDESIGN\PCB_ST-LINK\STLINK.DSN")
+      (Path "D:\PROJECTS\HARDWAREDESIGN\PCB_ST-LINK V2_0\STLINK.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1"))))

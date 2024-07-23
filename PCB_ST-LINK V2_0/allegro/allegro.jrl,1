@@ -1,143 +1,458 @@
-\t (00:00:07) allegro 23.1 S005 Windows SPB 64-bit Edition
-\t (00:00:07)     Journal start - Fri Jul 19 21:32:42 2024
-\t (00:00:07)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=4604 CPUs=12
-\t (00:00:07) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
-\t (00:00:07) 
-   (00:00:08) Loading axlcore.cxt 
-\t (00:00:08) Opening existing design...
-\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged stlink
-\d (00:00:08) Design opened: D:/Projects/HardwareDesign/DOSTI_STLINK/allegro/stlink.brd
-\i (00:00:09) trapsize 6234
-\i (00:00:09) trapsize 6679
-\i (00:00:09) trapsize 6818
-\i (00:00:09) trapsize 9091
-\w (00:00:09) Dielectric layer thickness is 0 !
-\i (00:00:09) setwindow text
-\i (00:00:09) stick
-\t (00:00:09) Loading NV GPU Plugin
-   (00:00:09) Loading signal.cxt 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) trapsize 9091
-\t (00:00:09) > Sending response DoneOpenBoard
-\i (00:00:09) updateport CVPane
-\i (00:00:09) trapsize 2896
-\i (00:00:10) shapeedit 
-\i (00:00:14) setwindow text
-\i (00:00:14) close
-\i (00:00:18) setwindow pcb
-\i (00:00:18) xsection 
-\i (00:00:28) QtSignal inCell text editingFinished "0.025"
-\i (00:00:28) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
-\i (00:00:31) QtSignal CCMQtXSectionDlg m_ApplyBtn clicked
-\i (00:00:31) QtSignal CCMQtXSectionDlg AddLayerDlg closed
-\i (00:00:34) QtSignal m_RefreshMaterialTab m_allValuesCheckBox clicked true
-\w (00:00:34) Dielectric layer thickness is 0 !
-\i (00:00:35) QtSignal m_RefreshMaterialTab m_refreshMaterialBtn clicked
-\i (00:00:37) QtSignal inCell text editingFinished "0.025"
-\i (00:00:37) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
-\i (00:00:39) QtSignal CCMQtXSectionDlg m_ApplyBtn clicked
-\i (00:00:39) QtSignal CCMQtXSectionDlg AddLayerDlg closed
-\i (00:00:40) QtSignal CCMQtXSectionDlg m_OkBtn clicked
-\i (00:00:40) QtSignal CCMQtXSectionDlg AddLayerDlg closed
-\i (00:00:40) shapeedit 
-\i (00:00:44) xsection 
-\i (00:00:44) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
-\i (00:00:44) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
-\i (00:01:27) QtSignal inCell text editingFinished 128000
-\i (00:01:27) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
-\i (00:01:35) QtSignal CCMQtXSectionDlg m_ApplyBtn clicked
-\i (00:01:35) QtSignal CCMQtXSectionDlg AddLayerDlg closed
-\i (00:01:37) QtSignal CCMQtXSectionDlg m_OkBtn clicked
-\i (00:01:37) QtSignal CCMQtXSectionDlg AddLayerDlg closed
-\i (00:01:37) shapeedit 
-\i (00:01:39) roam start
-\i (00:01:39) roam y 16
-\i (00:01:39) roam x -16
-\i (00:01:39) roam y 16
-\i (00:01:39) roam y 16
-\i (00:01:39) roam x -16
-\i (00:01:39) roam x -16
-\i (00:01:39) roam y 32
-\i (00:01:39) roam x -16
-\i (00:01:39) roam y 16
-\i (00:01:39) roam x -16
-\i (00:01:39) roam y 16
-\i (00:01:39) roam y 16
-\i (00:01:39) roam x -16
-\i (00:01:39) roam y 16
-\i (00:01:39) roam x -16
-\i (00:01:39) roam y 16
-\i (00:01:39) roam x -16
-\i (00:01:39) roam y 16
-\i (00:01:39) roam x -16
-\i (00:01:39) roam x -16
-\i (00:01:39) roam x -16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam x 16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam x 16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam x 16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam x 16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam x 16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam x 16
-\i (00:01:39) roam x 16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam x 16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam x 16
-\i (00:01:39) roam x 16
-\i (00:01:39) roam x 16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam x 16
-\i (00:01:39) roam x 16
-\i (00:01:39) roam x 16
-\i (00:01:39) roam x 16
-\i (00:01:39) roam y -16
-\i (00:01:39) roam y -16
-\i (00:01:40) roam y -16
-\i (00:01:40) roam x -16
-\i (00:01:40) roam x -16
-\i (00:01:40) roam y -16
-\i (00:01:40) roam y -16
-\i (00:01:40) roam y -16
-\i (00:01:40) roam y -16
-\i (00:01:40) roam y -16
-\i (00:01:40) roam x -16
-\i (00:01:40) roam end
-\i (00:01:45) dxf out 
-\i (00:01:52) setwindow form.dxf_out
-\i (00:01:52) FORM dxf_out dxffile stlink 
-\i (00:01:54) FORM dxf_out liblayer  
-\i (00:01:56) fillin "dlibx2iff"
-\i (00:02:05) FORM dxf_out exportfilledpads YES 
-\i (00:02:09) FORM dxf_out drillinfo YES 
-\i (00:02:09) FORM dxf_out exportfilledshapes YES 
-\i (00:02:12) FORM dxf_out exportpadstacks YES 
-\i (00:02:12) FORM dxf_out exportsymbols YES 
-\i (00:02:13) FORM dxf_out exportsymbols NO 
-\i (00:02:16) FORM dxf_out exportpadstacks NO 
-\i (00:02:17) FORM dxf_out execute  
-\t (00:02:17) Starting DxfFile...
-\t (00:02:20) Translation complete. See logfile (using File->ViewLog).
-\i (00:04:15) FORM dxf_out close  
-\i (00:04:15) setwindow pcb
-\i (00:04:15) shapeedit 
-\i (00:04:16) exit 
-\e (00:04:16) Do you want to save the changes you made to stlink.brd?
-\i (00:04:17) fillin yes 
-   (00:04:17) Loading consmgr.cxt 
-   (00:04:17) Loading acns_formula.cxt 
-\t (00:04:17)     Journal end - Fri Jul 19 21:36:51 2024
+\t (00:00:02) allegro 23.1 S005 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Jul 23 11:29:12 2024
+\t (00:00:02)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=14964 CPUs=12
+\t (00:00:02) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe -mpssession Prometheus -proj D:\PROJECTS\HARDWAREDESIGN\PCB_ST-LINK V2_0\STLINK.opj D:\PROJECTS\HARDWAREDESIGN\PCB_ST-LINK V2_0\allegro\stlink.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\w (00:00:05) WARNING(SPMHDB-213): DRC set to "out of date". The current product selection supports a different DRC capability than what is saved in the design.
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged stlink
+\d (00:00:05) Design opened: D:/PROJECTS/HARDWAREDESIGN/PCB_ST-LINK V2_0/allegro/stlink.brd
+\i (00:00:05) trapsize 10585
+\i (00:00:05) trapsize 11341
+\i (00:00:05) trapsize 11577
+\i (00:00:06) trapsize 15698
+\i (00:00:06) trapsize 15698
+\t (00:00:06) > Sending response DoneOpenBoard
+\t (00:00:06) Loading NV GPU Plugin
+\i (00:00:06) trapsize 4944
+\i (00:00:06) generaledit 
+\i (00:00:10) cmgr 
+\i (00:00:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:00:11) QtSignal "Electrical Properties"
+\i (00:00:11) QtSignal Frozen_All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:11) QtSignal 0 0 1
+\i (00:00:11) QtSignal Frozen_All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:11) QtSignal 1 1 0
+\i (00:00:11) QtSignal All_Layers_WorksheetView58 All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:11) QtSignal 0 0 1
+\i (00:00:11) QtSignal All_Layers_WorksheetView58 All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:11) QtSignal 1 1 0
+\i (00:00:11) QtSignal Frozen_All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:11) QtSignal 0 1 3
+\i (00:00:11) QtSignal Frozen_All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:11) QtSignal 3 3 1
+\i (00:00:11) QtSignal All_Layers_WorksheetView58 All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:11) QtSignal 0 1 3
+\i (00:00:11) QtSignal All_Layers_WorksheetView58 All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:11) QtSignal 3 3 1
+\i (00:00:11) QtSignal CCMViewHost58 tableWidget currentChanged stlink
+\i (00:00:11) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:00:11) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:00:11) QtSignal "All Layers"
+\i (00:00:11) QtSignal Frozen_By_Layer_WorksheetView655 Frozen_By_Layer_WorksheetView655Header sectionMoved +
+\i (00:00:11) QtSignal 0 0 1
+\i (00:00:11) QtSignal Frozen_By_Layer_WorksheetView655 Frozen_By_Layer_WorksheetView655Header sectionMoved +
+\i (00:00:11) QtSignal 1 1 0
+\i (00:00:11) QtSignal By_Layer_WorksheetView655 By_Layer_WorksheetView655Header sectionMoved 0 +
+\i (00:00:11) QtSignal 0 1
+\i (00:00:11) QtSignal By_Layer_WorksheetView655 By_Layer_WorksheetView655Header sectionMoved 1 +
+\i (00:00:11) QtSignal 1 0
+\i (00:00:11) QtSignal Frozen_By_Layer_WorksheetView655 Frozen_By_Layer_WorksheetView655Header sectionMoved +
+\i (00:00:11) QtSignal 0 1 3
+\i (00:00:11) QtSignal Frozen_By_Layer_WorksheetView655 Frozen_By_Layer_WorksheetView655Header sectionMoved +
+\i (00:00:11) QtSignal 3 3 1
+\i (00:00:11) QtSignal By_Layer_WorksheetView655 By_Layer_WorksheetView655Header sectionMoved 0 +
+\i (00:00:11) QtSignal 1 3
+\i (00:00:11) QtSignal By_Layer_WorksheetView655 By_Layer_WorksheetView655Header sectionMoved 3 +
+\i (00:00:11) QtSignal 3 1
+\i (00:00:11) QtSignal CCMViewHost655 tableWidget currentChanged stlink
+\i (00:00:11) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:00:11) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:00:11) QtSignal "By Layer"
+\i (00:00:11) QtSignal Frozen_CCMViewHost403DffTransposedCsetView Frozen_CCMViewHost403DffTransposedCsetViewHeader sectionMoved +
+\i (00:00:11) QtSignal 0 0 1
+\i (00:00:11) QtSignal Frozen_CCMViewHost403DffTransposedCsetView Frozen_CCMViewHost403DffTransposedCsetViewHeader sectionMoved +
+\i (00:00:11) QtSignal 1 1 0
+\i (00:00:11) QtSignal CCMViewHost403DffTransposedCsetView CCMViewHost403DffTransposedCsetViewHeader sectionMoved +
+\i (00:00:11) QtSignal 0 0 1
+\i (00:00:11) QtSignal CCMViewHost403DffTransposedCsetView CCMViewHost403DffTransposedCsetViewHeader sectionMoved +
+\i (00:00:11) QtSignal 1 1 0
+\i (00:00:11) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Manufacturing
+\i (00:00:11) QtSignal m_domainSelector WS_Manufacturing itemSelectionChanged "Design for Fabrication" +
+\i (00:00:11) QtSignal "DFF Constraint Set" Outline
+\i (00:00:11) QtSignal Frozen_Reflection/Edge_Distortions_WorksheetView3 Frozen_Reflection/Edge_Distortions_WorksheetView3Header sectionMoved +
+\i (00:00:11) QtSignal 0 0 1
+\i (00:00:11) QtSignal Frozen_Reflection/Edge_Distortions_WorksheetView3 Frozen_Reflection/Edge_Distortions_WorksheetView3Header sectionMoved +
+\i (00:00:11) QtSignal 1 1 0
+\i (00:00:11) QtSignal Reflection/Edge_Distortions_WorksheetView3 Reflection/Edge_Distortions_WorksheetView3Header sectionMoved +
+\i (00:00:11) QtSignal 0 0 1
+\i (00:00:11) QtSignal Reflection/Edge_Distortions_WorksheetView3 Reflection/Edge_Distortions_WorksheetView3Header sectionMoved +
+\i (00:00:11) QtSignal 1 1 0
+\i (00:00:11) QtSignal Frozen_Reflection/Edge_Distortions_WorksheetView3 Frozen_Reflection/Edge_Distortions_WorksheetView3Header sectionMoved +
+\i (00:00:11) QtSignal 0 1 3
+\i (00:00:11) QtSignal Frozen_Reflection/Edge_Distortions_WorksheetView3 Frozen_Reflection/Edge_Distortions_WorksheetView3Header sectionMoved +
+\i (00:00:11) QtSignal 3 3 1
+\i (00:00:11) QtSignal Reflection/Edge_Distortions_WorksheetView3 Reflection/Edge_Distortions_WorksheetView3Header sectionMoved +
+\i (00:00:11) QtSignal 0 1 3
+\i (00:00:11) QtSignal Reflection/Edge_Distortions_WorksheetView3 Reflection/Edge_Distortions_WorksheetView3Header sectionMoved +
+\i (00:00:11) QtSignal 3 3 1
+\i (00:00:11) QtSignal CCMViewHost3 tableWidget currentChanged stlink
+\i (00:00:11) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:00:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:00:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:00:11) QtSignal "Signal Integrity" "Reflection/Edge Distortions"
+\i (00:00:11) QtSignal Frozen_Wiring_WorksheetView8 Frozen_Wiring_WorksheetView8Header sectionMoved +
+\i (00:00:11) QtSignal 0 0 1
+\i (00:00:11) QtSignal Frozen_Wiring_WorksheetView8 Frozen_Wiring_WorksheetView8Header sectionMoved +
+\i (00:00:11) QtSignal 1 1 0
+\i (00:00:11) QtSignal Wiring_WorksheetView8 Wiring_WorksheetView8Header sectionMoved 0 0 1
+\i (00:00:11) QtSignal Wiring_WorksheetView8 Wiring_WorksheetView8Header sectionMoved 1 1 0
+\i (00:00:11) QtSignal Frozen_Wiring_WorksheetView8 Frozen_Wiring_WorksheetView8Header sectionMoved +
+\i (00:00:11) QtSignal 0 1 3
+\i (00:00:11) QtSignal Frozen_Wiring_WorksheetView8 Frozen_Wiring_WorksheetView8Header sectionMoved +
+\i (00:00:11) QtSignal 3 3 1
+\i (00:00:11) QtSignal Wiring_WorksheetView8 Wiring_WorksheetView8Header sectionMoved 0 1 3
+\i (00:00:11) QtSignal Wiring_WorksheetView8 Wiring_WorksheetView8Header sectionMoved 3 3 1
+\i (00:00:11) QtSignal CCMViewHost8 tableWidget currentChanged stlink
+\i (00:00:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:00:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:00:11) QtSignal Routing Wiring
+\i (00:00:11) QtSignal Frozen_Switch/Settle_Delays_WorksheetView6 Frozen_Switch/Settle_Delays_WorksheetView6Header sectionMoved +
+\i (00:00:11) QtSignal 0 0 1
+\i (00:00:11) QtSignal Frozen_Switch/Settle_Delays_WorksheetView6 Frozen_Switch/Settle_Delays_WorksheetView6Header sectionMoved +
+\i (00:00:11) QtSignal 1 1 0
+\i (00:00:11) QtSignal Switch/Settle_Delays_WorksheetView6 Switch/Settle_Delays_WorksheetView6Header sectionMoved +
+\i (00:00:11) QtSignal 0 0 1
+\i (00:00:11) QtSignal Switch/Settle_Delays_WorksheetView6 Switch/Settle_Delays_WorksheetView6Header sectionMoved +
+\i (00:00:11) QtSignal 1 1 0
+\i (00:00:11) QtSignal Frozen_Switch/Settle_Delays_WorksheetView6 Frozen_Switch/Settle_Delays_WorksheetView6Header sectionMoved +
+\i (00:00:11) QtSignal 0 1 3
+\i (00:00:11) QtSignal Frozen_Switch/Settle_Delays_WorksheetView6 Frozen_Switch/Settle_Delays_WorksheetView6Header sectionMoved +
+\i (00:00:11) QtSignal 3 3 1
+\i (00:00:11) QtSignal Switch/Settle_Delays_WorksheetView6 Switch/Settle_Delays_WorksheetView6Header sectionMoved +
+\i (00:00:11) QtSignal 0 1 3
+\i (00:00:11) QtSignal Switch/Settle_Delays_WorksheetView6 Switch/Settle_Delays_WorksheetView6Header sectionMoved +
+\i (00:00:11) QtSignal 3 3 1
+\i (00:00:11) QtSignal CCMViewHost6 tableWidget currentChanged stlink
+\i (00:00:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:00:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:00:11) QtSignal Timing "Switch/Settle Delays"
+\i (00:00:11) QtSignal Frozen_Signal_Integrity/Timing/Routing_WorksheetView13 Frozen_Signal_Integrity/Timing/Routing_WorksheetView13Header sectionMoved +
+\i (00:00:11) QtSignal 0 0 1
+\i (00:00:11) QtSignal Frozen_Signal_Integrity/Timing/Routing_WorksheetView13 Frozen_Signal_Integrity/Timing/Routing_WorksheetView13Header sectionMoved +
+\i (00:00:11) QtSignal 1 1 0
+\i (00:00:11) QtSignal Signal_Integrity/Timing/Routing_WorksheetView13 Signal_Integrity/Timing/Routing_WorksheetView13Header sectionMoved +
+\i (00:00:11) QtSignal 0 0 1
+\i (00:00:11) QtSignal Signal_Integrity/Timing/Routing_WorksheetView13 Signal_Integrity/Timing/Routing_WorksheetView13Header sectionMoved +
+\i (00:00:11) QtSignal 1 1 0
+\i (00:00:11) QtSignal Frozen_Signal_Integrity/Timing/Routing_WorksheetView13 Frozen_Signal_Integrity/Timing/Routing_WorksheetView13Header sectionMoved +
+\i (00:00:11) QtSignal 0 1 3
+\i (00:00:11) QtSignal Frozen_Signal_Integrity/Timing/Routing_WorksheetView13 Frozen_Signal_Integrity/Timing/Routing_WorksheetView13Header sectionMoved +
+\i (00:00:11) QtSignal 3 3 1
+\i (00:00:11) QtSignal Signal_Integrity/Timing/Routing_WorksheetView13 Signal_Integrity/Timing/Routing_WorksheetView13Header sectionMoved +
+\i (00:00:11) QtSignal 0 1 3
+\i (00:00:11) QtSignal Signal_Integrity/Timing/Routing_WorksheetView13 Signal_Integrity/Timing/Routing_WorksheetView13Header sectionMoved +
+\i (00:00:11) QtSignal 3 3 1
+\i (00:00:11) QtSignal CCMViewHost13 tableWidget currentChanged stlink
+\i (00:00:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:00:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:00:11) QtSignal "All Constraints" "Signal Integrity/Timing/Routing"
+\i (00:00:11) QtSignal Frozen_Creepage_and_Clearance_WorksheetView557 Frozen_Creepage_and_Clearance_WorksheetView557Header sectionMoved +
+\i (00:00:11) QtSignal 0 0 1
+\i (00:00:11) QtSignal Frozen_Creepage_and_Clearance_WorksheetView557 Frozen_Creepage_and_Clearance_WorksheetView557Header sectionMoved +
+\i (00:00:11) QtSignal 1 1 0
+\i (00:00:11) QtSignal Creepage_and_Clearance_WorksheetView557 Creepage_and_Clearance_WorksheetView557Header sectionMoved +
+\i (00:00:11) QtSignal 0 0 1
+\i (00:00:11) QtSignal Creepage_and_Clearance_WorksheetView557 Creepage_and_Clearance_WorksheetView557Header sectionMoved +
+\i (00:00:11) QtSignal 1 1 0
+\i (00:00:11) QtSignal Frozen_Creepage_and_Clearance_WorksheetView557 Frozen_Creepage_and_Clearance_WorksheetView557Header sectionMoved +
+\i (00:00:11) QtSignal 0 1 3
+\i (00:00:11) QtSignal Frozen_Creepage_and_Clearance_WorksheetView557 Frozen_Creepage_and_Clearance_WorksheetView557Header sectionMoved +
+\i (00:00:11) QtSignal 3 3 1
+\i (00:00:11) QtSignal Creepage_and_Clearance_WorksheetView557 Creepage_and_Clearance_WorksheetView557Header sectionMoved +
+\i (00:00:11) QtSignal 0 1 3
+\i (00:00:11) QtSignal Creepage_and_Clearance_WorksheetView557 Creepage_and_Clearance_WorksheetView557Header sectionMoved +
+\i (00:00:11) QtSignal 3 3 1
+\i (00:00:11) QtSignal CCMViewHost557 tableWidget currentChanged stlink
+\i (00:00:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:00:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:00:11) QtSignal "High Voltage" "Creepage and Clearance"
+\i (00:00:11) QtSignal Frozen_Electrical_Properties_WorksheetView16 Frozen_Electrical_Properties_WorksheetView16Header sectionMoved +
+\i (00:00:11) QtSignal 0 0 1
+\i (00:00:11) QtSignal Frozen_Electrical_Properties_WorksheetView16 Frozen_Electrical_Properties_WorksheetView16Header sectionMoved +
+\i (00:00:11) QtSignal 1 1 0
+\i (00:00:11) QtSignal Electrical_Properties_WorksheetView16 Electrical_Properties_WorksheetView16Header sectionMoved +
+\i (00:00:11) QtSignal 0 0 1
+\i (00:00:11) QtSignal Electrical_Properties_WorksheetView16 Electrical_Properties_WorksheetView16Header sectionMoved +
+\i (00:00:11) QtSignal 1 1 0
+\i (00:00:11) QtSignal Frozen_Electrical_Properties_WorksheetView16 Frozen_Electrical_Properties_WorksheetView16Header sectionMoved +
+\i (00:00:11) QtSignal 0 1 3
+\i (00:00:11) QtSignal Frozen_Electrical_Properties_WorksheetView16 Frozen_Electrical_Properties_WorksheetView16Header sectionMoved +
+\i (00:00:11) QtSignal 3 3 1
+\i (00:00:11) QtSignal Electrical_Properties_WorksheetView16 Electrical_Properties_WorksheetView16Header sectionMoved +
+\i (00:00:11) QtSignal 0 1 3
+\i (00:00:11) QtSignal Electrical_Properties_WorksheetView16 Electrical_Properties_WorksheetView16Header sectionMoved +
+\i (00:00:11) QtSignal 3 3 1
+\i (00:00:11) QtSignal CCMViewHost16 tableWidget currentChanged stlink
+\i (00:00:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:00:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:00:11) QtSignal "Electrical Properties"
+\i (00:00:12) generaledit 
+\i (00:00:27) QtSignal Electrical_Properties_WorksheetView16 Frozen_Electrical_Properties_WorksheetView16 ContextMenu +
+\i (00:00:27) QtSignal "(STLINK.FUSE,NAME)"
+\i (00:00:33) QtSignal Electrical_Properties_WorksheetView16 Frozen_Electrical_Properties_WorksheetView16 ContextMenu +
+\i (00:00:33) QtSignal "(STLINK.RX,NAME)"
+\i (00:00:35) QtSignal menuObjects menuAddTo Triggered "Differential Pair..."
+\i (00:00:35) QtSignal m_menuBar menuObjects Triggered "Differential Pair..."
+\i (00:00:36) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:36) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:36) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:36) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:36) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:36) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:36) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:36) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:36) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:36) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:36) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:36) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:37) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:37) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:37) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:37) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:37) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:37) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:37) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:38) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:38) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:38) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:38) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:38) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:38) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:39) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:39) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:39) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:39) QtSignal DiffPairMembersDlg m_NetList selectionChanged
+\i (00:00:39) QtSignal DiffPairMembersDlg m_NetList selectionChanged TX "|" "[1]"
+\i (00:00:39) QtSignal DiffPairMembersDlg m_NetList selectionChanged TX "|" "[1]"
+\i (00:00:39) QtSignal DiffPairMembersDlg m_NetList selectionChanged TX "|" "[1]"
+\i (00:00:39) QtSignal DiffPairMembersDlg m_NetList selectionChanged TX "|" "[1]"
+\i (00:00:39) QtSignal DiffPairMembersDlg m_NetList selectionChanged TX "|" "[1]"
+\i (00:00:40) QtSignal DiffPairMembersDlg m_ButtonRight clicked
+\i (00:00:47) QtSignal DiffPairMembersDlg m_strDiffPairName editingFinished USB
+\i (00:00:47) QtSignal DiffPairMembersDlg m_ButtonRight clicked
+\i (00:00:53) QtSignal DiffPairMembersDlg m_ButtonCreate clicked
+\i (00:00:55) QtSignal DiffPairMembersDlg m_ButtonClose clicked
+\i (00:00:55) QtSignal superMenu RMBMenu Triggered "Differential Pair..."
+\i (00:01:05) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:05) QtSignal "Signal Integrity" "Reflection/Edge Distortions"
+\i (00:01:05) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" "Signal Integrity" +
+\i (00:01:05) QtSignal "Reflection/Edge Distortions"
+\i (00:01:06) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:06) QtSignal "Signal Integrity" "Xtalk/SSN"
+\i (00:01:06) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" "Signal Integrity" +
+\i (00:01:06) QtSignal "Xtalk/SSN"
+\i (00:01:07) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:07) QtSignal "Signal Integrity" "Reflection/Edge Distortions"
+\i (00:01:07) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" "Signal Integrity" +
+\i (00:01:07) QtSignal "Reflection/Edge Distortions"
+\i (00:01:07) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:07) QtSignal "Signal Integrity"
+\i (00:01:08) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" "Signal Integrity"
+\i (00:01:08) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:08) QtSignal Timing
+\i (00:01:08) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Timing
+\i (00:01:09) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:09) QtSignal Timing
+\i (00:01:09) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Timing
+\i (00:01:09) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:09) QtSignal Routing
+\i (00:01:10) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Routing
+\i (00:01:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:11) QtSignal Routing Vias
+\i (00:01:11) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Routing +
+\i (00:01:11) QtSignal Vias
+\i (00:01:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:11) QtSignal Routing Impedance
+\i (00:01:12) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Routing +
+\i (00:01:12) QtSignal Impedance
+\i (00:01:12) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:12) QtSignal Routing "Min/Max Propagation Delays"
+\i (00:01:12) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Routing +
+\i (00:01:12) QtSignal "Min/Max Propagation Delays"
+\i (00:01:12) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Routing +
+\i (00:01:12) QtSignal "Min/Max Propagation Delays"
+\i (00:01:13) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:13) QtSignal Routing
+\i (00:01:14) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Routing
+\i (00:01:15) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:15) QtSignal "All Constraints" "Signal Integrity/Timing/Routing"
+\i (00:01:15) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" "All Constraints" +
+\i (00:01:15) QtSignal "Signal Integrity/Timing/Routing"
+\i (00:01:15) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:15) QtSignal "All Constraints" "User-Defined"
+\i (00:01:15) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" "All Constraints" +
+\i (00:01:15) QtSignal "User-Defined"
+\i (00:01:16) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:16) QtSignal "All Constraints" "Signal Integrity/Timing/Routing"
+\i (00:01:16) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" "All Constraints" +
+\i (00:01:16) QtSignal "Signal Integrity/Timing/Routing"
+\i (00:01:18) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:18) QtSignal "All Constraints"
+\i (00:01:18) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" "All Constraints"
+\i (00:01:18) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:18) QtSignal "High Voltage"
+\i (00:01:18) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" "High Voltage"
+\i (00:01:19) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:19) QtSignal "High Voltage"
+\i (00:01:19) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" "High Voltage"
+\i (00:01:20) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:01:20) QtSignal "Electrical Properties"
+\i (00:01:20) QtSignal m_domainSelector WS_Electrical itemClicked Net "Signal Integrity" "Electrical Properties"
+\i (00:01:27) QtSignal Electrical_Properties_WorksheetView16 Frozen_Electrical_Properties_WorksheetView16 ContextMenu +
+\i (00:01:27) QtSignal "(STLINK._5V,NAME)"
+\i (00:01:43) QtSignal CCMViewHost16 Electrical_Properties_WorksheetView16 ContextMenu "(STLINK.USB.RX,ELECTRICAL_CONSTRAINT_SET)"
+\i (00:01:45) QtSignal m_menuBar menuObjects Triggered "Constraint Set References..."
+\i (00:01:48) QtSignal AddToClassDlg m_ButtonCancel clicked
+\i (00:01:49) QtSignal superMenu RMBMenu Triggered "Constraint Set References..."
+\i (00:01:49) QtSignal CCMViewHost16 Electrical_Properties_WorksheetView16 ContextMenu "(STLINK.USB.RX,ELECTRICAL_CONSTRAINT_SET)"
+\i (00:01:50) QtSignal m_menuBar menuTools Triggered "SigXplorer..."
+\i (00:01:50) QtSignal superMenu RMBMenu Triggered "SigXplorer..."
+\i (00:02:17) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:02:17) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:02:17) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:02:17) QtSignal "All Layers"
+\i (00:02:17) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:02:17) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:02:17) QtSignal "By Layer"
+\i (00:02:17) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Manufacturing
+\i (00:02:17) QtSignal m_domainSelector WS_Manufacturing itemSelectionChanged
+\i (00:02:17) QtSignal m_domainSelector WS_Manufacturing itemSelectionChanged "Design for Fabrication" +
+\i (00:02:17) QtSignal "DFF Constraint Set" Outline
+\i (00:02:17) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:02:17) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:02:17) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:02:17) QtSignal "Signal Integrity" "Reflection/Edge Distortions"
+\i (00:02:17) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:02:17) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:02:17) QtSignal Timing "Switch/Settle Delays"
+\i (00:02:17) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:02:17) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:02:17) QtSignal Routing Wiring
+\i (00:02:17) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:02:17) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:02:17) QtSignal "All Constraints" "Signal Integrity/Timing/Routing"
+\i (00:02:17) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:02:17) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:02:17) QtSignal "High Voltage" "Creepage and Clearance"
+\i (00:02:17) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:02:17) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:02:17) QtSignal "Electrical Properties"
+\i (00:02:17) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:02:17) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:02:17) QtSignal "Electrical Properties"
+\i (00:02:18) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Manufacturing
+\i (00:02:18) QtSignal m_domainSelector WS_Manufacturing itemSelectionChanged
+\i (00:02:18) QtSignal m_domainSelector WS_Manufacturing itemSelectionChanged "Design for Fabrication" +
+\i (00:02:18) QtSignal "DFF Constraint Set" Outline
+\i (00:02:18) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:02:18) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:02:18) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:02:18) QtSignal "Electrical Properties"
+\i (00:02:18) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:02:28) QtFillin Yes
+   (00:02:28) Loading consmgr.cxt 
+   (00:02:28) Loading acns_formula.cxt 
+   (00:02:28) Loading signal.cxt 
+   (00:02:28) Loading sigallegro.cxt 
+   (00:02:28) Loading fputil.cxt 
+   (00:02:28) Loading sxutil.cxt 
+\i (00:02:29) QtSignal inCell combo CurrentIndexChanged RX
+\i (00:02:32) QtSignal inCell combo CurrentIndexChanged RX
+\i (00:02:34) QtSignal inCell combo CurrentIndexChanged "(Clear)"
+\i (00:02:39) QtSignal Frozen_Simulated_Xtalk_WorksheetView20 Frozen_Simulated_Xtalk_WorksheetView20Header sectionMoved +
+\i (00:02:39) QtSignal 0 0 1
+\i (00:02:39) QtSignal Frozen_Simulated_Xtalk_WorksheetView20 Frozen_Simulated_Xtalk_WorksheetView20Header sectionMoved +
+\i (00:02:39) QtSignal 1 1 0
+\i (00:02:39) QtSignal Simulated_Xtalk_WorksheetView20 Simulated_Xtalk_WorksheetView20Header sectionMoved +
+\i (00:02:39) QtSignal 0 0 1
+\i (00:02:39) QtSignal Simulated_Xtalk_WorksheetView20 Simulated_Xtalk_WorksheetView20Header sectionMoved +
+\i (00:02:39) QtSignal 1 1 0
+\i (00:02:39) QtSignal Frozen_Simulated_Xtalk_WorksheetView20 Frozen_Simulated_Xtalk_WorksheetView20Header sectionMoved +
+\i (00:02:39) QtSignal 0 1 3
+\i (00:02:39) QtSignal Frozen_Simulated_Xtalk_WorksheetView20 Frozen_Simulated_Xtalk_WorksheetView20Header sectionMoved +
+\i (00:02:39) QtSignal 3 3 1
+\i (00:02:39) QtSignal Simulated_Xtalk_WorksheetView20 Simulated_Xtalk_WorksheetView20Header sectionMoved +
+\i (00:02:39) QtSignal 0 1 3
+\i (00:02:39) QtSignal Simulated_Xtalk_WorksheetView20 Simulated_Xtalk_WorksheetView20Header sectionMoved +
+\i (00:02:39) QtSignal 3 3 1
+\i (00:02:39) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:02:39) QtSignal "Simulated Xtalk"
+\i (00:02:39) QtSignal CCMViewHost20 tableWidget currentChanged stlink
+\i (00:02:40) QtSignal Frozen_Estimated_Xtalk_WorksheetView19 Frozen_Estimated_Xtalk_WorksheetView19Header sectionMoved +
+\i (00:02:40) QtSignal 0 0 1
+\i (00:02:40) QtSignal Frozen_Estimated_Xtalk_WorksheetView19 Frozen_Estimated_Xtalk_WorksheetView19Header sectionMoved +
+\i (00:02:40) QtSignal 1 1 0
+\i (00:02:40) QtSignal Estimated_Xtalk_WorksheetView19 Estimated_Xtalk_WorksheetView19Header sectionMoved +
+\i (00:02:40) QtSignal 0 0 1
+\i (00:02:40) QtSignal Estimated_Xtalk_WorksheetView19 Estimated_Xtalk_WorksheetView19Header sectionMoved +
+\i (00:02:40) QtSignal 1 1 0
+\i (00:02:40) QtSignal Frozen_Estimated_Xtalk_WorksheetView19 Frozen_Estimated_Xtalk_WorksheetView19Header sectionMoved +
+\i (00:02:40) QtSignal 0 1 3
+\i (00:02:40) QtSignal Frozen_Estimated_Xtalk_WorksheetView19 Frozen_Estimated_Xtalk_WorksheetView19Header sectionMoved +
+\i (00:02:40) QtSignal 3 3 1
+\i (00:02:40) QtSignal Estimated_Xtalk_WorksheetView19 Estimated_Xtalk_WorksheetView19Header sectionMoved +
+\i (00:02:40) QtSignal 0 1 3
+\i (00:02:40) QtSignal Estimated_Xtalk_WorksheetView19 Estimated_Xtalk_WorksheetView19Header sectionMoved +
+\i (00:02:40) QtSignal 3 3 1
+\i (00:02:40) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:02:40) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:02:40) QtSignal "Estimated Xtalk"
+\i (00:02:40) QtSignal CCMViewHost19 tableWidget currentChanged stlink
+\i (00:02:40) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:02:40) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:02:40) QtSignal "Simulated Xtalk"
+\i (00:02:41) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:02:41) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:02:41) QtSignal "Estimated Xtalk"
+\i (00:02:43) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:02:43) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:02:43) QtSignal "Electrical Properties"
+\i (00:02:46) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:02:46) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:02:47) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:02:47) QtSignal "By Layer"
+\i (00:02:47) QtSignal m_domainSelector WS_Physical itemClicked "Physical Constraint Set" "By Layer"
+\i (00:02:48) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:02:48) QtSignal "All Layers"
+\i (00:02:48) QtSignal m_domainSelector WS_Physical itemClicked "Physical Constraint Set" "All Layers"
+\i (00:02:53) QtSignal All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58 ContextMenu +
+\i (00:02:53) QtSignal "(STLINK.DEFAULT.CONDUCTOR.BOTTOM,NAME)"
+\i (00:02:59) QtSignal All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58 ContextMenu +
+\i (00:02:59) QtSignal "(STLINK.DEFAULT.CONDUCTOR,NAME)"
+\i (00:03:08) QtFillin OK
+\i (00:04:35) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:04:35) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:04:35) QtSignal "By Layer"
+\i (00:04:35) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Manufacturing
+\i (00:04:35) QtSignal m_domainSelector WS_Manufacturing itemSelectionChanged
+\i (00:04:35) QtSignal m_domainSelector WS_Manufacturing itemSelectionChanged "Design for Fabrication" +
+\i (00:04:35) QtSignal "DFF Constraint Set" Outline
+\i (00:04:35) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:04:35) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:04:35) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:04:35) QtSignal "Signal Integrity" "Reflection/Edge Distortions"
+\i (00:04:35) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:04:35) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:04:35) QtSignal Routing Wiring
+\i (00:04:35) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:04:35) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:04:35) QtSignal Timing "Switch/Settle Delays"
+\i (00:04:35) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:04:35) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:04:35) QtSignal "All Constraints" "Signal Integrity/Timing/Routing"
+\i (00:04:35) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:04:35) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:04:35) QtSignal "High Voltage" "Creepage and Clearance"
+\i (00:04:35) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:04:35) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:04:35) QtSignal "Electrical Properties"
+\i (00:04:36) pick grid 86.0272 105.1758
+\t (00:04:36) last pick:  86.1060 105.1560
+\i (00:04:37) save 
+\i (00:04:38) fillin yes 
+\t (00:04:38) > Sending response DoneOpenBoard
+\i (00:05:38) generaledit 
+\i (00:05:38) exit 
+\t (00:05:38)     Journal end - Tue Jul 23 11:34:49 2024

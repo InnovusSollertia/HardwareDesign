@@ -1,0 +1,87 @@
+Date and Time : 07/23/24 14:24:47
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Reporting Off-Grid Objects
+    R10  -  MAIN (11.43, 302.26)
+    R13  -  MAIN (342.90, 199.39)
+    R16  -  MAIN (121.92, 300.99)
+    R5  -  MAIN (513.08, 128.27)
+    R2  -  MAIN (486.41, 177.80)
+    R17  -  MAIN (121.92, 308.61)
+    R15  -  MAIN (342.90, 207.01)
+    R6  -  MAIN (483.87, 50.80)
+    R30  -  MAIN (358.14, 245.11)
+    R3  -  MAIN (486.41, 205.74)
+    R4  -  MAIN (110.49, 261.62)
+    R12  -  MAIN (483.87, 104.14)
+    R7  -  MAIN (121.92, 278.13)
+    R11  -  MAIN (490.22, 138.43)
+    R1  -  MAIN (483.87, 281.94)
+    R18  -  MAIN (121.92, 316.23)
+    R8  -  MAIN (121.92, 285.75)
+    R19  -  MAIN (121.92, 323.85)
+    R14  -  MAIN (121.92, 293.37)
+    R9  -  MAIN (80.01, 302.26)
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    +3V3
+    VSENS
+    VBUS
+    0
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Entire Design: ST-LINKV3 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------
