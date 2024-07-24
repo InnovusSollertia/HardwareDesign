@@ -1,0 +1,31 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Automatic B/B Via Creation                               )
+(                                                                     )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Wed Jul 24 23:16:02 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Via to be copied: VIA
+Start subclass: TOP
+End subclass: BOTTOM
+Old drawing: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/#Taaaaaw15212.tmp
+New drawing: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/#Taaaaaw15212.tmp
+Vias added to physical constraint set: DEFAULT
+Only Create Vias From External to Internal Layers
+Include Wire Bond Layers
+
+B/B Via TOP-GND created
+B/B Via TOP-POWER created
+B/B Via TOP-BOTTOM created
+B/B Via GND-BOTTOM created
+B/B Via POWER-BOTTOM created
+
+Number of padstacks created 5
+Number of existing padstacks that did not need to be modified: 0
+Number of existing padstacks that were modified: 0
+Number of existing padstacks that could not be modified: 0
+
+bbvia is complete.

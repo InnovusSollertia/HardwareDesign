@@ -1,462 +1,279 @@
-\t (00:00:02) allegro 23.1 S005 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Wed Jul 24 20:12:38 2024
-\t (00:00:02)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=20196 CPUs=12
-\t (00:00:02) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
-\t (00:00:02) 
-   (00:00:02) Loading axlcore.cxt 
-\t (00:00:05) Opening existing design...
-\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ST-LINKV3_open"
-\d (00:00:05) Design opened: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd
-\t (00:00:05) Grids are drawn 2.0320, 2.0320 apart for enhanced viewing.
-\i (00:00:05) trapsize 15078
-\i (00:00:05) trapsize 17123
-\i (00:00:05) trapsize 17814
-\t (00:00:05) Grids are drawn 2.0320, 2.0320 apart for enhanced viewing.
-\i (00:00:05) trapsize 13070
-\i (00:00:05) trapsize 13070
-\t (00:00:05) > Sending response DoneOpenBoard
-\t (00:00:05) Loading NV GPU Plugin
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
-\i (00:00:05) QtSignal Modes
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
-\i (00:00:05) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
-\i (00:00:05) QtSignal 0 "|" "Board Outline  (1/6)"
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
-\i (00:00:05) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
-\i (00:00:05) QtSignal "|" "Shapes  (1/4)"
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
-\i (00:00:05) QtSignal 0 "|" Polygon
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
-\i (00:00:05) QtSignal 0 "|" "IPC-2581"
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
-\i (00:00:05) QtSignal 0 "|" Testprep
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
-\i (00:00:05) QtSignal Manual
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
-\i (00:00:05) QtSignal "Display Status"
-\t (00:00:05) Grids are drawn 0.5080, 0.5080 apart for enhanced viewing.
-\i (00:00:05) trapsize 5621
-\i (00:00:06) generaledit 
-\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup  (2/3)" Grids
-\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup  (2/3)" Grids
-\i (00:00:13) define grid 
-\t (00:00:13) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:00:15) setwindow form.grid
-\i (00:00:15) FORM grid display NO 
-\i (00:00:16) FORM grid apply  
-\i (00:00:17) FORM grid done  
-\i (00:00:21) setwindow pcb
-\i (00:00:21) roam start
-\i (00:00:21) roam y -16
-\i (00:00:21) roam y -16
-\i (00:00:21) roam y -16
-\i (00:00:21) roam y -16
-\i (00:00:21) roam y -16
-\i (00:00:21) roam y -16
-\i (00:00:21) roam end
-\i (00:00:50) 3dx 
-\i (00:00:54) QtSignal Allegro3DWindow Allegro3DWindow activate
-\i (00:00:54) QtSignal Allegro3DWindow Allegro3DWindow deactivate
-\i (00:00:54) QtSignal Allegro3DWindow Allegro3DWindow activate
-\i (00:00:54) updateport VisibilityPane
-\i (00:00:55) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
-\i (00:00:55) generaledit 
-\i (00:00:55) QtSignal Allegro3DWindow Allegro3DWindow activate
-\i (00:01:05) QtSignal Allegro3DWindow Allegro3DWindow deactivate
-\i (00:01:07) trapsize 21037
-\i (00:01:07) trapsize 20741
-\i (00:01:08) trapsize 19462
-\i (00:01:10) QtSignal Allegro3DWindow Allegro3DWindow activate
-\i (00:01:23) QtSignal Allegro3DWindow Allegro3DWindow deactivate
-\i (00:01:24) QtSignal Allegro3DWindow Allegro3DWindow activate
-\i (00:01:28) QtSignal Allegro3DWindow Allegro3DWindow deactivate
-\i (00:01:30) trapsize 19292
-\i (00:01:30) trapsize 18719
-\i (00:01:30) trapsize 17814
-\i (00:01:30) trapsize 17531
-\i (00:01:30) trapsize 16065
-\i (00:01:30) trapsize 15340
-\i (00:01:30) trapsize 14825
-\i (00:01:30) trapsize 14437
-\i (00:01:30) trapsize 14205
-\i (00:01:30) trapsize 14025
-\i (00:01:30) trapsize 13387
-\i (00:01:30) trapsize 12880
-\i (00:01:30) trapsize 12375
-\i (00:01:31) zoom in 1 
-\i (00:01:31) setwindow pcb
-\i (00:01:31) zoom in 198.4098 242.9116
-\i (00:01:31) trapsize 6187
-\i (00:01:31) zoom in 1 
-\i (00:01:31) setwindow pcb
-\i (00:01:31) zoom in 198.4098 242.9116
-\i (00:01:31) trapsize 3094
-\i (00:01:31) zoom out 1 
-\i (00:01:31) setwindow pcb
-\i (00:01:31) zoom out 193.8931 245.0772
-\i (00:01:31) trapsize 6187
-\i (00:01:32) roam start
-\i (00:01:32) roam x 16
-\i (00:01:32) roam x 16
-\i (00:01:32) roam x 16
-\i (00:01:32) roam x 16
-\i (00:01:32) roam x 32
-\i (00:01:32) roam x 16
-\i (00:01:32) roam x 16
-\i (00:01:32) roam x 16
-\i (00:01:32) roam y 16
-\i (00:01:32) roam x 16
-\i (00:01:32) roam x 16
-\i (00:01:32) roam x 32
-\i (00:01:32) roam y 16
-\i (00:01:32) roam x 16
-\i (00:01:32) roam x 16
-\i (00:01:32) roam x 16
-\i (00:01:32) roam x 32
-\i (00:01:32) roam y 16
-\i (00:01:32) roam x 16
-\i (00:01:32) roam x 16
-\i (00:01:32) roam x 16
-\i (00:01:32) roam x 16
-\i (00:01:32) roam y 16
-\i (00:01:32) roam x 16
-\i (00:01:32) roam x 16
-\i (00:01:32) roam x 16
-\i (00:01:32) roam x -16
-\i (00:01:32) roam x -16
-\i (00:01:32) roam x -16
-\i (00:01:32) roam x -16
-\i (00:01:32) roam y -16
-\i (00:01:32) roam x -16
-\i (00:01:32) roam x -16
-\i (00:01:32) roam x -16
-\i (00:01:32) roam x -16
-\i (00:01:32) roam x -16
-\i (00:01:32) roam x -16
-\i (00:01:32) roam x -16
-\i (00:01:32) roam x -16
-\i (00:01:32) roam x -16
-\i (00:01:32) roam y -16
-\i (00:01:32) roam x -16
-\i (00:01:32) roam x -16
-\i (00:01:32) roam x -16
-\i (00:01:33) roam x -16
-\i (00:01:33) roam x -16
-\i (00:01:33) roam y -16
-\i (00:01:33) roam x -16
-\i (00:01:33) roam x -16
-\i (00:01:33) roam x -16
-\i (00:01:33) roam x -16
-\i (00:01:33) roam x -16
-\i (00:01:33) roam y -16
-\i (00:01:33) roam x -16
-\i (00:01:33) roam x -16
-\i (00:01:33) roam x -16
-\i (00:01:33) roam x -16
-\i (00:01:33) roam y -16
-\i (00:01:33) roam x -16
-\i (00:01:33) roam x -16
-\i (00:01:33) roam y -16
-\i (00:01:33) roam x -16
-\i (00:01:33) roam x -16
-\i (00:01:33) roam x -16
-\i (00:01:33) roam end
-\i (00:01:34) zoom out 1 
-\i (00:01:34) setwindow pcb
-\i (00:01:34) zoom out 173.3700 248.8559
-\i (00:01:34) trapsize 12375
-\i (00:01:34) zoom in 1 
-\i (00:01:34) setwindow pcb
-\i (00:01:34) zoom in 173.6175 247.8660
-\i (00:01:34) trapsize 6187
-\i (00:01:37) trapsize 6205
-\i (00:01:37) trapsize 6440
-\i (00:01:37) trapsize 6516
-\i (00:01:37) trapsize 6594
-\i (00:01:37) trapsize 6613
-\i (00:01:37) trapsize 6653
-\i (00:01:37) trapsize 6613
-\i (00:01:37) trapsize 6555
-\i (00:01:37) trapsize 6240
-\i (00:01:37) trapsize 6187
-\i (00:01:39) trapsize 6170
-\i (00:01:39) trapsize 6119
-\i (00:01:39) trapsize 6019
-\i (00:01:39) trapsize 5970
-\i (00:01:39) trapsize 5922
-\i (00:01:39) trapsize 5890
-\i (00:01:39) trapsize 5844
-\i (00:01:39) trapsize 5752
-\i (00:01:39) trapsize 5737
-\i (00:01:39) trapsize 5708
-\i (00:01:39) trapsize 5678
-\i (00:01:39) trapsize 5649
-\i (00:01:39) trapsize 5592
-\i (00:01:39) trapsize 5578
-\i (00:01:39) trapsize 5550
-\i (00:01:39) trapsize 5536
-\i (00:01:39) trapsize 5522
-\i (00:01:39) trapsize 5508
-\i (00:01:39) trapsize 5468
-\i (00:01:39) trapsize 5361
-\i (00:01:40) trapsize 5310
-\i (00:01:40) zoom out 1 
-\i (00:01:40) setwindow pcb
-\i (00:01:40) zoom out 176.0437 237.5358
-\i (00:01:40) trapsize 10620
-\i (00:01:41) zoom in 1 
-\i (00:01:41) setwindow pcb
-\i (00:01:41) zoom in 172.0083 237.3235
-\i (00:01:41) trapsize 5310
-\i (00:01:41) zoom out 1 
-\i (00:01:41) setwindow pcb
-\i (00:01:41) zoom out 175.4066 236.2616
-\i (00:01:41) trapsize 10620
-\i (00:01:47) trapsize 9440
-\i (00:01:47) trapsize 6311
-\i (00:01:49) QtSignal Allegro3DWindow Allegro3DWindow activate
-\i (00:01:51) QtSignal Allegro3DWindow Allegro3DWindow deactivate
-\i (00:02:38) QtSignal Allegro3DWindow Allegro3DWindow activate
-\i (00:02:39) QtSignal Allegro3DWindow Allegro3DWindow deactivate
-\i (00:02:40) trapsize 8696
-\i (00:02:43) QtSignal Allegro3DWindow Allegro3DWindow activate
-\i (00:02:47) trapsize 5867
-\i (00:02:50) zoom in 1 
-\i (00:02:50) setwindow pcb
-\i (00:02:50) zoom in 205.2259 229.9721
-\i (00:02:50) trapsize 2933
-\i (00:02:50) QtSignal Allegro3DWindow Allegro3DWindow deactivate
-\i (00:02:50) roam start
-\i (00:02:50) roam x 16
-\i (00:02:50) roam y 16
-\i (00:02:50) roam x 16
-\i (00:02:50) roam x 32
-\i (00:02:50) roam y 16
-\i (00:02:50) roam x 16
-\i (00:02:50) roam y 16
-\i (00:02:50) roam x 16
-\i (00:02:50) roam x 16
-\i (00:02:50) roam y 16
-\i (00:02:50) roam x 16
-\i (00:02:50) roam y 16
-\i (00:02:50) roam x 16
-\i (00:02:50) roam y 16
-\i (00:02:50) roam x 16
-\i (00:02:50) roam y 16
-\i (00:02:50) roam y 16
-\i (00:02:50) roam x 16
-\i (00:02:50) roam y 32
-\i (00:02:50) roam y 16
-\i (00:02:50) roam x 16
-\i (00:02:50) roam y 32
-\i (00:02:50) roam x 16
-\i (00:02:50) roam y 16
-\i (00:02:50) roam y 16
-\i (00:02:50) roam x 16
-\i (00:02:50) roam y 16
-\i (00:02:50) roam y 16
-\i (00:02:50) roam x 16
-\i (00:02:50) roam y 16
-\i (00:02:50) roam x 16
-\i (00:02:50) roam y 16
-\i (00:02:50) roam x 16
-\i (00:02:50) roam y 16
-\i (00:02:50) roam x 16
-\i (00:02:50) roam y 16
-\i (00:02:51) roam y 16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -32
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -32
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam x -16
-\i (00:02:51) roam y -16
-\i (00:02:51) roam end
-\i (00:02:51) zoom out 1 
-\i (00:02:51) setwindow pcb
-\i (00:02:51) zoom out 196.5413 248.5222
-\i (00:02:51) trapsize 5867
-\i (00:02:53) zoom in 1 
-\i (00:02:53) setwindow pcb
-\i (00:02:53) zoom in 211.3259 230.5694
-\i (00:02:53) trapsize 2933
-\i (00:02:53) zoom out 1 
-\i (00:02:53) setwindow pcb
-\i (00:02:53) zoom out 207.8058 230.9214
-\i (00:02:53) trapsize 5867
-\i (00:02:54) zoom in 1 
-\i (00:02:54) setwindow pcb
-\i (00:02:54) zoom in 208.0404 231.3908
-\i (00:02:54) trapsize 2933
-\i (00:02:54) zoom out 1 
-\i (00:02:54) setwindow pcb
-\i (00:02:54) zoom out 208.0404 231.3908
-\i (00:02:54) trapsize 5867
-\i (00:02:55) zoom in 1 
-\i (00:02:55) setwindow pcb
-\i (00:02:55) zoom in 208.6271 233.1508
-\i (00:02:55) trapsize 2933
-\i (00:02:56) roam start
-\i (00:02:56) roam y -16
-\i (00:02:56) roam x -16
-\i (00:02:56) roam y -16
-\i (00:02:56) roam x -16
-\i (00:02:56) roam x -16
-\i (00:02:56) roam y -16
-\i (00:02:56) roam x -16
-\i (00:02:56) roam y -16
-\i (00:02:56) roam x -16
-\i (00:02:56) roam x -16
-\i (00:02:56) roam y -16
-\i (00:02:56) roam x -16
-\i (00:02:56) roam y -16
-\i (00:02:56) roam x -16
-\i (00:02:56) roam x -16
-\i (00:02:56) roam y -16
-\i (00:02:56) roam x -16
-\i (00:02:56) roam y -16
-\i (00:02:56) roam x -32
-\i (00:02:56) roam x -16
-\i (00:02:56) roam y -16
-\i (00:02:56) roam x -16
-\i (00:02:56) roam y -16
-\i (00:02:56) roam x -16
-\i (00:02:56) roam y -16
-\i (00:02:56) roam x -16
-\i (00:02:56) roam y -16
-\i (00:02:56) roam y -16
-\i (00:02:56) roam x -16
-\i (00:02:56) roam y -16
-\i (00:02:56) roam y -16
-\i (00:02:56) roam x -16
-\i (00:02:56) roam y -16
-\i (00:02:56) roam x -16
-\i (00:02:56) roam y 16
-\i (00:02:56) roam y 16
-\i (00:02:56) roam x 16
-\i (00:02:56) roam y 16
-\i (00:02:56) roam x 16
-\i (00:02:56) roam x 16
-\i (00:02:56) roam x 16
-\i (00:02:56) roam y 16
-\i (00:02:56) roam x 16
-\i (00:02:56) roam x 16
-\i (00:02:56) roam x 16
-\i (00:02:56) roam y 16
-\i (00:02:56) roam x 16
-\i (00:02:58) roam end
-\i (00:14:20) zoom in 1 
-\i (00:14:20) setwindow pcb
-\i (00:14:20) zoom in 164.7427 233.2095
-\i (00:14:20) trapsize 1467
-\i (00:14:20) zoom in 1 
-\i (00:14:20) setwindow pcb
-\i (00:14:20) zoom in 164.7134 233.2096
-\i (00:14:20) trapsize 733
-\i (00:14:20) zoom in 1 
-\i (00:14:20) setwindow pcb
-\i (00:14:20) zoom in 164.6840 233.2096
-\i (00:14:20) trapsize 367
-\i (00:14:21) zoom in 1 
-\i (00:14:21) setwindow pcb
-\i (00:14:21) zoom in 164.6840 233.2097
-\i (00:14:21) trapsize 183
-\i (00:14:21) zoom out 1 
-\i (00:14:21) setwindow pcb
-\i (00:14:21) zoom out 164.6950 233.2353
-\i (00:14:21) trapsize 367
-\i (00:14:21) zoom out 1 
-\i (00:14:21) setwindow pcb
-\i (00:14:21) zoom out 164.7024 233.2354
-\i (00:14:21) trapsize 733
-\i (00:14:23) QtSignal Allegro3DWindow Allegro3DWindow activate
-\i (00:14:23) QtSignal Allegro3DWindow Allegro3DWindow close
-\i (00:14:23) QtSignal Allegro3DWindow Allegro3DWindow deactivate
-\i (00:14:23) QtSignal Allegro3DWindow Allegro3DWindow activate
-\i (00:14:23) QtSignal Allegro3DWindow Allegro3DWindow deactivate
-\i (00:14:24) trapsize 376
-\i (00:14:25) zoom out 1 
-\i (00:14:25) setwindow pcb
-\i (00:14:25) zoom out 168.9639 234.7164
-\i (00:14:25) trapsize 751
-\i (00:14:25) zoom out 1 
-\i (00:14:25) setwindow pcb
-\i (00:14:25) zoom out 168.7234 234.3407
-\i (00:14:25) trapsize 1503
-\i (00:14:25) zoom out 1 
-\i (00:14:25) setwindow pcb
-\i (00:14:25) zoom out 168.3327 233.6494
-\i (00:14:25) trapsize 3005
-\i (00:14:41) exit 
-\e (00:14:41) Do you want to save the changes you made to ST-LINKV3_open.brd?
-\i (00:14:42) fillin yes 
-\t (00:14:42)     Journal end - Wed Jul 24 20:27:18 2024
+\t (00:31:15) allegro 23.1 S005 Windows SPB 64-bit Edition
+\t (00:31:15)     Journal start - Wed Jul 24 22:46:34 2024
+\t (00:31:15)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=15400 CPUs=12
+\t (00:31:15) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
+\t (00:31:15) 
+\d (00:31:15) Design opened: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd
+\i (00:31:15) trapsize 3487
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
+\i (00:31:15) QtSignal Modes
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:31:15) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:31:15) QtSignal 0 "|" "Board Outline  (1/6)"
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
+\i (00:31:15) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
+\i (00:31:15) QtSignal "|" "Shapes  (1/4)"
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
+\i (00:31:15) QtSignal 0 "|" Polygon
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
+\i (00:31:15) QtSignal 0 "|" "IPC-2581"
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
+\i (00:31:15) QtSignal 0 "|" Testprep
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
+\i (00:31:15) QtSignal Manual
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
+\i (00:31:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
+\i (00:31:15) QtSignal "Display Status"
+\i (00:31:15) generaledit 
+\i (00:31:43) artwork 
+\i (00:31:46) setwindow form.film_control
+\i (00:31:46) FORM film_control filmtree  TOP_SOLDERMASK 
+\i (00:31:48) FORM film_control filmtree popup 'Add Manual' TOP_SOLDERMASK 
+\i (00:31:55) fillin "TOP_SILKSCREEN"
+\i (00:31:55) setwindow form.scl_browser
+\i (00:31:55) FORM scl_browser treelist  ANALYSIS 
+\i (00:31:57) FORM scl_browser treelist  'BOARD GEOMETRY' 
+\i (00:32:01) FORM scl_browser treelist  SILKSCREEN_TOP 'BOARD GEOMETRY' 
+\i (00:32:01) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'BOARD GEOMETRY' 
+\i (00:32:04) FORM scl_browser done  
+\i (00:32:08) setwindow form.film_control
+\i (00:32:08) FORM film_control filmtree  BOTTOM_SOLDERMASK 
+\i (00:32:11) FORM film_control filmtree popup 'Add Manual' BOTTOM_SOLDERMASK 
+\i (00:32:20) fillin "BOTTOM_SILKSCREEN"
+\i (00:32:20) setwindow form.scl_browser
+\i (00:32:20) FORM scl_browser treelist  ANALYSIS 
+\i (00:32:22) FORM scl_browser treelist  'BOARD GEOMETRY' 
+\i (00:32:26) FORM scl_browser treelist  SILKSCREEN_BOTTOM 'BOARD GEOMETRY' 
+\i (00:32:26) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_BOTTOM 'BOARD GEOMETRY' 
+\i (00:32:30) FORM scl_browser done  
+\i (00:32:33) setwindow form.film_control
+\i (00:32:33) FORM film_control select_all  
+\i (00:32:34) FORM film_control create  
+\t (00:32:34) Checking db records
+\t (00:32:34)     checking for orphans...
+\t (00:32:34)     Checked 100 percent
+\t (00:32:34) Done dbdoctor.
+\t (00:32:34) Starting Create artwork films...
+\w (00:32:35) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:32:36) Artwork generated with warnings.
+\i (00:32:47) setwindow text
+\i (00:32:47) close
+\i (00:32:49) setwindow form.film_control
+\i (00:32:49) FORM film_control ok  
+\i (00:32:49) setwindow pcb
+\i (00:32:49) generaledit 
+   (00:34:22) Loading signal.cxt 
+\i (00:34:22) trapsize 3498
+\i (00:34:22) trapsize 3651
+\i (00:34:22) trapsize 3666
+\i (00:34:22) trapsize 3763
+\i (00:34:22) trapsize 3769
+\i (00:34:23) trapsize 3776
+\i (00:34:23) trapsize 3779
+\i (00:34:23) trapsize 3782
+\i (00:34:23) trapsize 3786
+\i (00:34:23) trapsize 3792
+\i (00:34:23) trapsize 3802
+\i (00:34:23) trapsize 3805
+\i (00:34:29) prmed 
+\i (00:34:33) setwindow form.prmedit
+\i (00:34:33) FORM prmedit display_plated_holes YES 
+\i (00:34:34) FORM prmedit display_backdrill_holes YES 
+\i (00:34:35) FORM prmedit display_non_plated_holes YES 
+\i (00:34:36) FORM prmedit display_fat_rats YES 
+\i (00:34:37) FORM prmedit display_thermal YES 
+\i (00:34:38) FORM prmedit waived_drc_on YES 
+\i (00:34:39) FORM prmedit via_labels YES 
+\i (00:34:40) FORM prmedit dp_driver_pins YES 
+\i (00:34:42) FORM prmedit secondary_step_model YES 
+\i (00:34:44) FORM prmedit secondary_step_model NO 
+\i (00:34:47) FORM prmedit apply  
+\i (00:34:48) FORM prmedit done  
+\i (00:34:48) setwindow pcb
+\i (00:34:48) generaledit 
+\i (00:34:52) zoom in 1 
+\i (00:34:52) setwindow pcb
+\i (00:34:52) zoom in 176.2660 222.2672
+\i (00:34:52) trapsize 1903
+\i (00:34:53) zoom in 1 
+\i (00:34:53) setwindow pcb
+\i (00:34:53) zoom in 177.1412 235.1666
+\i (00:34:53) trapsize 951
+\i (00:34:54) zoom in 1 
+\i (00:34:54) setwindow pcb
+\i (00:34:54) zoom in 177.1413 235.1666
+\i (00:34:54) trapsize 476
+\i (00:34:59) setwindow form.mini
+\i (00:34:59) FORM mini class 'BOARD GEOMETRY' 
+\i (00:35:08) FORM mini class 'PACKAGE GEOMETRY' 
+\i (00:35:19) FORM mini class PIN 
+\i (00:35:30) FORM mini class 'PACKAGE GEOMETRY' 
+\i (00:35:39) FORM mini subclass PIN_NUMBER 
+\i (00:35:39) setwindow pcb
+\i (00:35:39) updateport CVPane
+\i (00:35:41) pick grid 177.2555 234.2724
+\t (00:35:41) last pick:  177.2920 234.1880
+\i (00:35:43) pick grid tgl 177.2174 236.4509
+\t (00:35:43) last pick:  177.2920 236.4740
+\i (00:35:45) roam x 96 
+\i (00:35:45) roam x 96
+\i (00:35:45) roam x 96 
+\i (00:35:45) roam x 96
+\i (00:35:45) roam x 96 
+\i (00:35:45) roam x 96
+\i (00:35:45) roam x 96 
+\i (00:35:45) roam x 96
+\i (00:35:45) roam x 96 
+\i (00:35:45) roam x 96
+\i (00:35:46) roam x 96 
+\i (00:35:46) roam x 96
+\i (00:35:46) roam x 96 
+\i (00:35:46) roam x 96
+\i (00:35:46) roam x -96 
+\i (00:35:46) roam x -96
+\i (00:35:46) roam x -96 
+\i (00:35:46) roam x -96
+\i (00:35:47) roam x -96 
+\i (00:35:47) roam x -96
+\i (00:35:47) roam y -96 
+\i (00:35:47) roam y -96
+\i (00:35:47) roam y -96 
+\i (00:35:47) roam y -96
+\i (00:35:47) roam y -96 
+\i (00:35:47) roam y -96
+\i (00:35:47) roam x -96 
+\i (00:35:47) roam x -96
+\i (00:35:47) roam x -96 
+\i (00:35:47) roam x -96
+\i (00:35:48) roam y -96 
+\i (00:35:48) roam y -96
+\i (00:35:48) roam y -96 
+\i (00:35:48) roam y -96
+\i (00:35:48) roam y -96 
+\i (00:35:48) roam y -96
+\i (00:35:48) roam y -96 
+\i (00:35:48) roam y -96
+\i (00:35:48) roam x -96 
+\i (00:35:48) roam x -96
+\i (00:35:49) roam y -96 
+\i (00:35:49) roam y -96
+\i (00:35:49) roam y -96 
+\i (00:35:49) roam y -96
+\i (00:35:51) pick grid tgl 177.6332 242.8341
+\t (00:35:51) last pick:  177.5460 242.8240
+\i (00:35:52) pick grid tgl 175.0266 243.2337
+\t (00:35:52) last pick:  175.0060 243.3320
+\i (00:35:53) prepopup 175.0266 243.2337
+\i (00:35:54) pop dyn_option_select @:@Delete 
+\i (00:35:54) delete 
+\i (00:35:54) generaledit 
+\i (00:35:56) roam x -96 
+\i (00:35:56) roam x -96
+\i (00:35:56) roam x -96 
+\i (00:35:56) roam x -96
+\i (00:35:56) roam x -96 
+\i (00:35:56) roam x -96
+\i (00:35:57) roam x -96 
+\i (00:35:57) roam x -96
+\i (00:35:57) roam y -96 
+\i (00:35:57) roam y -96
+\i (00:35:57) roam y -96 
+\i (00:35:57) roam y -96
+\i (00:35:57) roam y -96 
+\i (00:35:57) roam y -96
+\i (00:35:58) roam x -96 
+\i (00:35:58) roam x -96
+\i (00:35:58) roam x -96 
+\i (00:35:58) roam x -96
+\i (00:35:58) roam y 96 
+\i (00:35:58) roam y 96
+\i (00:36:01) zoom out 1 
+\i (00:36:01) setwindow pcb
+\i (00:36:01) zoom out 168.9384 244.8604
+\i (00:36:01) trapsize 951
+\i (00:36:05) zoom in 1 
+\i (00:36:05) setwindow pcb
+\i (00:36:05) zoom in 171.6782 242.7105
+\i (00:36:05) trapsize 476
+\i (00:36:10) zoom out 1 
+\i (00:36:10) setwindow pcb
+\i (00:36:10) zoom out 172.4868 241.9115
+\i (00:36:10) trapsize 951
+\i (00:36:11) zoom out 1 
+\i (00:36:11) setwindow pcb
+\i (00:36:11) zoom out 172.4867 241.9114
+\i (00:36:11) trapsize 1903
+\i (00:36:12) zoom out 1 
+\i (00:36:12) setwindow pcb
+\i (00:36:12) zoom out 172.4868 241.9114
+\i (00:36:12) trapsize 3805
+\i (00:36:13) save 
+\i (00:36:14) fillin yes 
+\t (00:36:15) > Sending response DoneOpenBoard
+\i (00:36:15) generaledit 
+\i (00:38:55) zoom in 1 
+\i (00:38:55) setwindow pcb
+\i (00:38:55) zoom in 179.8687 233.1596
+\i (00:38:55) trapsize 1903
+\i (00:38:55) zoom in 1 
+\i (00:38:55) setwindow pcb
+\i (00:38:55) zoom in 179.8687 233.1596
+\i (00:38:55) trapsize 951
+\i (00:38:59) drag_start grid 175.8353 233.4450
+\i (00:38:59) move 
+\t (00:38:59) last pick:  175.2600 235.4580
+\t (00:38:59) Pick new location for the element(s).
+\i (00:39:01) drag_stop grid 176.2348 236.5272
+\i (00:39:01) generaledit 
+\i (00:39:03) drag_start grid 176.8627 235.3857
+\i (00:39:03) move 
+\t (00:39:03) last pick:  176.2760 236.4740
+\t (00:39:03) Pick new location for the element(s).
+\i (00:39:06) drag_stop grid 176.4061 236.3750
+\i (00:39:06) generaledit 
+\i (00:39:25) zoom in 1 
+\i (00:39:25) setwindow pcb
+\i (00:39:25) zoom in 175.2455 236.8697
+\i (00:39:25) trapsize 476
+\i (00:39:25) zoom in 1 
+\i (00:39:25) setwindow pcb
+\i (00:39:25) zoom in 175.2455 236.8697
+\i (00:39:25) trapsize 238
+\i (00:39:35) zoom out 1 
+\i (00:39:35) setwindow pcb
+\i (00:39:35) zoom out 175.7688 236.4797
+\i (00:39:35) trapsize 476
+\i (00:39:36) zoom out 1 
+\i (00:39:36) setwindow pcb
+\i (00:39:36) zoom out 175.7687 236.4796
+\i (00:39:36) trapsize 951
+\i (00:39:38) save 
+\i (00:39:39) fillin yes 
+\t (00:39:40) > Sending response DoneOpenBoard
+\i (00:39:40) generaledit 
+\i (00:39:49) zoom out 1 
+\i (00:39:49) setwindow pcb
+\i (00:39:49) zoom out 178.4323 233.4736
+\i (00:39:49) trapsize 1903
+\i (00:39:50) zoom out 1 
+\i (00:39:50) setwindow pcb
+\i (00:39:50) zoom out 178.4323 233.4736
+\i (00:39:50) trapsize 3805
+\i (00:39:55) save 
+\i (00:39:57) fillin yes 
+\t (00:39:57) > Sending response DoneOpenBoard
+\i (00:39:57) generaledit 
+\i (00:40:07) exit 
+\t (00:40:08)     Journal end - Wed Jul 24 22:55:27 2024

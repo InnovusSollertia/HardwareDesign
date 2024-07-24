@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ST-LINKV3_open.brd                            )
 (    Software Version : 23.1S005                                      )
-(    Date/Time        : Wed Jul 24 17:33:01 2024                      )
+(    Date/Time        : Wed Jul 24 18:16:18 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -29,7 +29,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < TOP >
-     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP.art > ...
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP-withMask.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -78,12 +78,12 @@ Results from parameter file ...
   RECTANGLE  1.27000     x 2.54000      90.000 NO     DARK 
   RECTANGLE  1.75010     x 3.19990       0.000 NO     DARK 
 
-     TOP created.
+     TOP-withMask created.
 
 
 ================================================================
      PROCESSING FILM < GND >
-     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/GND.art > ...
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/GND-withMask.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -112,12 +112,12 @@ Results from parameter file ...
   CIRCLE     1.16990                                  DARK 
   CIRCLE     1.65000                                  DARK 
 
-     GND created.
+     GND-withMask created.
 
 
 ================================================================
      PROCESSING FILM < POWER >
-     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/POWER.art > ...
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/POWER-withMask.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -145,12 +145,12 @@ Results from parameter file ...
   CIRCLE     1.16990                                  DARK 
   CIRCLE     1.65000                                  DARK 
 
-     POWER created.
+     POWER-withMask created.
 
 
 ================================================================
      PROCESSING FILM < BOTTOM >
-     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/BOTTOM.art > ...
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/BOTTOM-withMask.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -180,12 +180,12 @@ Results from parameter file ...
   SQUARE     1.10010                     0.000 NO     DARK 
   SQUARE     1.65000                     0.000 NO     DARK 
 
-     BOTTOM created.
+     BOTTOM-withMask created.
 
 
 ================================================================
      PROCESSING FILM < OUTLINE >
-     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/OUTLINE.art > ...
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/OUTLINE-withMask.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -205,15 +205,61 @@ Results from parameter file ...
 
 
   APERTURES USED:  NONE
-     OUTLINE created with warnings
+     OUTLINE-withMask created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP_SOLDERMASK >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP_SOLDERMASK-withMask.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     TOP_SOLDERMASK-withMask created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM_SOLDERMASK >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/BOTTOM_SOLDERMASK-withMask.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     BOTTOM_SOLDERMASK-withMask created.
 
 
 ------------------------------------------------------
  SUMMARY:
-        TOP created.
-        GND created.
-        POWER created.
-        BOTTOM created.
-        OUTLINE created with warnings
+        TOP-withMask created.
+        GND-withMask created.
+        POWER-withMask created.
+        BOTTOM-withMask created.
+        OUTLINE-withMask created with warnings
+        TOP_SOLDERMASK-withMask created.
+        BOTTOM_SOLDERMASK-withMask created.
 
  ARTWORK had warnings

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ST-LINKV3_open.brd                            )
 (    Software Version : 23.1S005                                      )
-(    Date/Time        : Wed Jul 24 19:55:10 2024                      )
+(    Date/Time        : Wed Jul 24 23:09:09 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -28,12 +28,6 @@ Report methodology:
   0                    TOP                   0.1271      (201.2440 237.8200) to *(201.1541 237.7301)
 
 
-<< Dangling Vias >>
-  Net                  Padstack               Location            Layers
-  ---------------------------------------------------------------------------
-  0                    VIA                  (165.3540 268.2240) TOP/BOTTOM 
-
-
 << Antenna Vias >>
   Net                  Padstack               Location            Layers
   ---------------------------------------------------------------------------
@@ -49,7 +43,6 @@ Report methodology:
   +3V3                 VIA                  (197.6120 257.9116) TOP/BOTTOM 
   +3V3                 VIA                  (200.6600 245.8720) TOP/BOTTOM 
   +3V3                 VIA                  (202.4380 231.9020) TOP/BOTTOM 
-  0                    VIA                  (165.3540 268.2240) TOP/BOTTOM 
   0                    VIA                  (172.2120 232.1560) TOP/BOTTOM 
   0                    VIA                  (175.0060 261.6200) TOP/BOTTOM 
   0                    VIA                  (177.2920 265.6840) TOP/BOTTOM 
@@ -73,5 +66,5 @@ Report methodology:
 
 << Summary >>
   Total dangling lines:       1
-  Total dangling vias:        1
-  Total antenna vias:        33
+  Total dangling vias:        0
+  Total antenna vias:        32
