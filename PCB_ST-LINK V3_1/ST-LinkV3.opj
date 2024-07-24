@@ -1,6 +1,6 @@
 (ExpressProject "ST-LinkV3"
   (ProjectVersion "19981106")
-  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[07/23/24]")
+  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[07/24/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -232,17 +232,9 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "d:\projects\hardwaredesign\pcb_st-link v3_1\st-linkv3.dsn")
-      (Path "Design Resources"
-         "d:\projects\hardwaredesign\pcb_st-link v3_1\st-linkv3.dsn"
-         "SCHEMATIC1")
       (Path "Layout")
       (Path "Outputs")
-      (Path "Logs")
-      (Select "Design Resources"
-         "d:\projects\hardwaredesign\pcb_st-link v3_1\st-linkv3.dsn"
-         "SCHEMATIC1" "MAIN"))
+      (Path "Logs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -252,9 +244,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 808 24 453")
-        (Scroll "507 996")
-        (Zoom "96")
+        (Placement "44 0 1 -1 -1 5 24 5 814 24 453")
+        (Scroll "1801 361")
+        (Zoom "112")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\PCB_ST-LINK V3_1\ST-LINKV3.DSN")
       (Schematic "SCHEMATIC1")

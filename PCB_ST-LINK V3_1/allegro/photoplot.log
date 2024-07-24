@@ -1,0 +1,265 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : ST-LINKV3_open.brd                            )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Wed Jul 24 18:16:18 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP-withMask.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.22400                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.59990                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     0.89990                                  DARK 
+  CIRCLE     1.10010                                  DARK 
+  CIRCLE     1.16990                                  DARK 
+  CIRCLE     1.65000                                  DARK 
+  SQUARE     0.80010                     0.000 NO     DARK 
+  SQUARE     1.10010                     0.000 NO     DARK 
+  SQUARE     1.15010                     0.000 NO     DARK 
+  SQUARE     1.65000                     0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.84990       0.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  0.42010     x 0.46000       0.000 NO     DARK 
+  RECTANGLE  0.42010     x 0.46000      90.000 NO     DARK 
+  RECTANGLE  0.45010     x 1.47500       0.000 NO     DARK 
+  RECTANGLE  0.59990     x 1.15010      90.000 NO     DARK 
+  RECTANGLE  0.70000     x 1.50010      90.000 NO     DARK 
+  RECTANGLE  0.80010     x 0.95000       0.000 NO     DARK 
+  RECTANGLE  0.80010     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 1.75010      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.30000      90.000 NO     DARK 
+  RECTANGLE  1.27000     x 2.54000      90.000 NO     DARK 
+  RECTANGLE  1.75010     x 3.19990       0.000 NO     DARK 
+
+     TOP-withMask created.
+
+
+================================================================
+     PROCESSING FILM < GND >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/GND-withMask.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.59990                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     0.89990                                  DARK 
+  CIRCLE     1.10010                                  DARK 
+  CIRCLE     1.16990                                  DARK 
+  CIRCLE     1.65000                                  DARK 
+
+     GND-withMask created.
+
+
+================================================================
+     PROCESSING FILM < POWER >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/POWER-withMask.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.59990                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     0.89990                                  DARK 
+  CIRCLE     1.10010                                  DARK 
+  CIRCLE     1.16990                                  DARK 
+  CIRCLE     1.65000                                  DARK 
+
+     POWER-withMask created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/BOTTOM-withMask.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.59990                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     0.89990                                  DARK 
+  CIRCLE     1.10010                                  DARK 
+  CIRCLE     1.16990                                  DARK 
+  CIRCLE     1.65000                                  DARK 
+  SQUARE     1.10010                     0.000 NO     DARK 
+  SQUARE     1.65000                     0.000 NO     DARK 
+
+     BOTTOM-withMask created.
+
+
+================================================================
+     PROCESSING FILM < OUTLINE >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/OUTLINE-withMask.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (155.7020 281.9400)
+           ... ignored.
+
+
+
+  APERTURES USED:  NONE
+     OUTLINE-withMask created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP_SOLDERMASK >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP_SOLDERMASK-withMask.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     TOP_SOLDERMASK-withMask created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM_SOLDERMASK >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/BOTTOM_SOLDERMASK-withMask.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     BOTTOM_SOLDERMASK-withMask created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP-withMask created.
+        GND-withMask created.
+        POWER-withMask created.
+        BOTTOM-withMask created.
+        OUTLINE-withMask created with warnings
+        TOP_SOLDERMASK-withMask created.
+        BOTTOM_SOLDERMASK-withMask created.
+
+ ARTWORK had warnings

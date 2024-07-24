@@ -1,1 +1,1 @@
-ST-LINKV3.brd
+ST-LINKV3_open.brd

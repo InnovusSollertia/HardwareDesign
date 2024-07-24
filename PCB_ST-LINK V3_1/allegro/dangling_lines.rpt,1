@@ -2,9 +2,9 @@
 (                                                                     )
 (    Dangling Line, Via and Antenna Report                            )
 (                                                                     )
-(    Drawing          : ST-LINKV3.brd                                 )
+(    Drawing          : ST-LINKV3_open.brd                            )
 (    Software Version : 23.1S005                                      )
-(    Date/Time        : Tue Jul 23 16:07:54 2024                      )
+(    Date/Time        : Wed Jul 24 17:40:12 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,30 +22,56 @@ Report methodology:
   - To suppress items in dangle report add the OK_DANGLE property to the via
     or connect line.
 
+<< Dangling Lines >>  - Location marked with a star (*) is dangling.
+  Net                 Layer                  Length       Location
+  ------------------------------------------------------------------------------------------
+  0                    TOP                   0.1271      (201.2440 237.8200) to *(201.1541 237.7301)
 
 
 << Dangling Vias >>
   Net                  Padstack               Location            Layers
   ---------------------------------------------------------------------------
-  +3V3                 VIA                  (104.6480 138.9380) TOP/BOTTOM 
-  +3V3                 VIA                  (135.1280 137.9220) TOP/BOTTOM 
-  0                    VIA                  (100.8380 122.4280) TOP/BOTTOM 
-  0                    VIA                  (121.6660 137.1600) TOP/BOTTOM 
-  0                    VIA                  (135.1280 134.6200) TOP/BOTTOM 
-  VSENS                VIA                  (100.8380 125.7300) TOP/BOTTOM 
+  0                    VIA                  (165.3540 268.2240) TOP/BOTTOM 
 
 
 << Antenna Vias >>
   Net                  Padstack               Location            Layers
   ---------------------------------------------------------------------------
-  +3V3                 VIA                  (104.6480 138.9380) TOP/BOTTOM 
-  +3V3                 VIA                  (135.1280 137.9220) TOP/BOTTOM 
-  0                    VIA                  (100.8380 122.4280) TOP/BOTTOM 
-  0                    VIA                  (121.6660 137.1600) TOP/BOTTOM 
-  0                    VIA                  (135.1280 134.6200) TOP/BOTTOM 
-  VSENS                VIA                  (100.8380 125.7300) TOP/BOTTOM 
+  +3V3                 VIA                  (162.8140 250.6980) TOP/BOTTOM 
+  +3V3                 VIA                  (167.8940 258.3180) TOP/BOTTOM 
+  +3V3                 VIA                  (173.2280 246.3800) TOP/BOTTOM 
+  +3V3                 VIA                  (175.7680 267.9700) TOP/BOTTOM 
+  +3V3                 VIA                  (182.8800 250.1900) TOP/BOTTOM 
+  +3V3                 VIA                  (184.4195 228.1075) TOP/BOTTOM 
+  +3V3                 VIA                  (186.4360 256.2860) TOP/BOTTOM 
+  +3V3                 VIA                  (186.4360 271.0180) TOP/BOTTOM 
+  +3V3                 VIA                  (192.0240 271.5260) TOP/BOTTOM 
+  +3V3                 VIA                  (197.6120 257.9116) TOP/BOTTOM 
+  +3V3                 VIA                  (200.6600 245.8720) TOP/BOTTOM 
+  +3V3                 VIA                  (202.4380 231.9020) TOP/BOTTOM 
+  0                    VIA                  (165.3540 268.2240) TOP/BOTTOM 
+  0                    VIA                  (172.2120 232.1560) TOP/BOTTOM 
+  0                    VIA                  (175.0060 261.6200) TOP/BOTTOM 
+  0                    VIA                  (177.2920 265.6840) TOP/BOTTOM 
+  0                    VIA                  (180.0860 257.3020) TOP/BOTTOM 
+  0                    VIA                  (180.3400 255.0160) TOP/BOTTOM 
+  0                    VIA                  (181.6100 254.2540) TOP/BOTTOM 
+  0                    VIA                  (187.1980 238.7600) TOP/BOTTOM 
+  0                    VIA                  (193.2940 266.4460) TOP/BOTTOM 
+  0                    VIA                  (199.9198 237.2142) TOP/BOTTOM 
+  VBUS                 VIA                  (176.7840 246.3800) TOP/BOTTOM 
+  VBUS                 VIA                  (180.3400 235.9660) TOP/BOTTOM 
+  VBUS                 VIA                  (186.1820 232.1560) TOP/BOTTOM 
+  VBUS                 VIA                  (186.1820 237.9980) TOP/BOTTOM 
+  VBUS                 VIA                  (191.5160 228.6000) TOP/BOTTOM 
+  VSENS                VIA                  (161.7980 249.9360) TOP/BOTTOM 
+  VSENS                VIA                  (167.1320 259.8420) TOP/BOTTOM 
+  VSENS                VIA                  (167.8940 256.7940) TOP/BOTTOM 
+  VSENS                VIA                  (174.2440 273.0500) TOP/BOTTOM 
+  VSENS                VIA                  (178.0540 246.3800) TOP/BOTTOM 
+  VSENS                VIA                  (181.3560 239.5220) TOP/BOTTOM 
 
 << Summary >>
-  Total dangling lines:       0
-  Total dangling vias:        6
-  Total antenna vias:         6
+  Total dangling lines:       1
+  Total dangling vias:        1
+  Total antenna vias:        33
