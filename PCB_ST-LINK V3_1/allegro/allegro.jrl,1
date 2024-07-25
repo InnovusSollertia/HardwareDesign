@@ -1,0 +1,448 @@
+\t (00:00:03) allegro 23.1 S005 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Jul 25 17:11:17 2024
+\t (00:00:03)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=15160 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ST-LINKV3_open"
+\d (00:00:06) Design opened: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd
+\i (00:00:06) trapsize 4622
+\i (00:00:06) trapsize 4952
+\i (00:00:06) trapsize 5055
+\i (00:00:06) trapsize 4748
+\i (00:00:07) trapsize 4748
+\t (00:00:07) > Sending response DoneOpenBoard
+\t (00:00:07) Loading NV GPU Plugin
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
+\i (00:00:07) QtSignal Modes
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:00:07) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:00:07) QtSignal 0 "|" "Board Outline  (1/6)"
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
+\i (00:00:07) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
+\i (00:00:07) QtSignal "|" "Shapes  (1/4)"
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
+\i (00:00:07) QtSignal 0 "|" Polygon
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
+\i (00:00:07) QtSignal 0 "|" "IPC-2581"
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
+\i (00:00:07) QtSignal 0 "|" Testprep
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
+\i (00:00:07) QtSignal Manual
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
+\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
+\i (00:00:07) QtSignal "Display Status"
+\i (00:00:07) trapsize 1894
+\i (00:00:07) generaledit 
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 171.1243 267.6015
+\i (00:00:09) trapsize 3788
+\i (00:00:14) roam start
+\i (00:00:14) roam y 16
+\i (00:00:14) roam y 16
+\i (00:00:14) roam x -16
+\i (00:00:14) roam y 16
+\i (00:00:14) roam y 16
+\i (00:00:14) roam x -16
+\i (00:00:14) roam y 32
+\i (00:00:14) roam x -16
+\i (00:00:14) roam y 16
+\i (00:00:14) roam y 16
+\i (00:00:14) roam x -16
+\i (00:00:14) roam y 16
+\i (00:00:14) roam y 16
+\i (00:00:14) roam x -16
+\i (00:00:14) roam y 16
+\i (00:00:14) roam y 16
+\i (00:00:14) roam x -16
+\i (00:00:14) roam y 16
+\i (00:00:14) roam y 16
+\i (00:00:14) roam y 16
+\i (00:00:14) roam x -16
+\i (00:00:14) roam y 16
+\i (00:00:14) roam y 16
+\i (00:00:14) roam y 16
+\i (00:00:14) roam y 16
+\i (00:00:14) roam y 16
+\i (00:00:15) roam y 16
+\i (00:00:15) roam y 16
+\i (00:00:15) roam y 16
+\i (00:00:15) roam x -16
+\i (00:00:15) roam y 16
+\i (00:00:15) roam y -16
+\i (00:00:15) roam y -16
+\i (00:00:15) roam end
+\i (00:00:57) artwork 
+\i (00:01:03) setwindow form.film_control
+\i (00:01:03) FORM film_control filmtree  TOP_SILK 
+\i (00:01:04) FORM film_control filmtree popup Add TOP_SILK 
+\i (00:01:05) fillin "menu_cancel"
+\i (00:01:06) FORM film_control filmtree popup 'Add Manual' TOP_SILK 
+\i (00:01:13) fillin "menu_cancel"
+\i (00:01:15) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:01:17) FORM film_control filmtree popup Cut BOTTOM_SOLDER 
+\i (00:01:18) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:01:19) FORM film_control filmtree  TOP_SILK 
+\i (00:01:21) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:01:23) FORM film_control filmtree  TOP_SILK 
+\i (00:01:24) FORM film_control filmtree popup 'Add Manual' TOP_SILK 
+\i (00:01:27) fillin "TOP_SOLDER"
+\i (00:01:27) setwindow form.scl_browser
+\i (00:01:27) FORM scl_browser treelist  ANALYSIS 
+\i (00:01:33) FORM scl_browser treelist  'DRC ERROR CLASS' 
+\i (00:01:36) FORM scl_browser treelist  SOLDERMASK_TOP 'DRC ERROR CLASS' 
+\i (00:01:36) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_TOP 'DRC ERROR CLASS' 
+\i (00:01:44) FORM scl_browser treelist  PIN 
+\i (00:01:49) FORM scl_browser treelist  SOLDERMASK_TOP PIN 
+\i (00:01:49) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_TOP PIN 
+\i (00:01:55) FORM scl_browser treelist  'VIA CLASS' 
+\i (00:01:58) FORM scl_browser treelist  SOLDERMASK_TOP 'VIA CLASS' 
+\i (00:01:58) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_TOP 'VIA CLASS' 
+\i (00:02:00) FORM scl_browser done  
+\i (00:02:02) setwindow form.film_control
+\i (00:02:02) FORM film_control filmtree popup 'Add Manual' TOP_SILK 
+\i (00:02:15) fillin "BOTTOM_SOLDER"
+\i (00:02:15) setwindow form.scl_browser
+\i (00:02:15) FORM scl_browser treelist  ANALYSIS 
+\i (00:02:20) FORM scl_browser treelist  'DRC ERROR CLASS' 
+\i (00:02:23) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'DRC ERROR CLASS' 
+\i (00:02:23) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'DRC ERROR CLASS' 
+\i (00:02:24) FORM scl_browser treelist  'DRC ERROR CLASS' 
+\i (00:02:25) FORM scl_browser treelist  PIN 
+\i (00:02:26) FORM scl_browser treelist  SOLDERMASK_BOTTOM PIN 
+\i (00:02:26) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM PIN 
+\i (00:02:27) FORM scl_browser treelist  'VIA CLASS' 
+\i (00:02:37) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'VIA CLASS' 
+\i (00:02:37) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'VIA CLASS' 
+\i (00:02:38) FORM scl_browser done  
+\i (00:02:40) setwindow form.film_control
+\i (00:02:40) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
+\i (00:02:41) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:02:42) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
+\i (00:02:43) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:02:44) FORM film_control filmtree popup 'Add Manual' BOTTOM_SOLDER 
+\i (00:02:51) fillin "BOTTOM_SOLDER"
+\i (00:02:54) FORM film_control filmtree popup Cut BOTTOM_SOLDER 
+\i (00:02:55) FORM film_control filmtree  TOP_SOLDER 
+\i (00:02:56) FORM film_control filmtree popup 'Add Manual' TOP_SOLDER 
+\i (00:02:59) fillin "BOTTOM_SOLDER"
+\i (00:02:59) setwindow form.scl_browser
+\i (00:02:59) FORM scl_browser treelist  ANALYSIS 
+\i (00:03:03) FORM scl_browser treelist  'DRC ERROR CLASS' 
+\i (00:03:06) FORM scl_browser treelist  PACKAGE_BOTTOM 'DRC ERROR CLASS' 
+\i (00:03:06) FORM scl_browser treelist 'MULTISEL YES' PACKAGE_BOTTOM 'DRC ERROR CLASS' 
+\i (00:03:08) FORM scl_browser treelist  PIN 
+\i (00:03:11) FORM scl_browser treelist  SOLDERMASK_BOTTOM PIN 
+\i (00:03:11) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM PIN 
+\i (00:03:12) FORM scl_browser treelist  'VIA CLASS' 
+\i (00:03:14) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'VIA CLASS' 
+\i (00:03:14) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'VIA CLASS' 
+\i (00:03:15) FORM scl_browser done  
+\i (00:03:17) setwindow form.film_control
+\i (00:03:17) FORM film_control filmtree  'DRC ERROR CLASS/PACKAGE_BOTTOM' 
+\i (00:03:20) FORM film_control filmtree popup Cut 'DRC ERROR CLASS/PACKAGE_BOTTOM' 
+\i (00:03:21) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:03:23) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
+\i (00:03:26) FORM film_control filmtree popup Cut 'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
+\i (00:03:27) FORM film_control filmtree popup Cut PIN/SOLDERMASK_BOTTOM 
+\i (00:03:28) FORM film_control filmtree popup Cut 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:03:30) FORM film_control filmtree popup Cut BOTTOM_SOLDER 
+\i (00:03:32) FORM film_control filmtree popup Cut PIN/SOLDERMASK_BOTTOM 
+\i (00:03:33) FORM film_control filmtree popup Cut 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:03:33) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:03:34) FORM film_control filmtree popup 'Add Manual' BOTTOM_SILK 
+\i (00:03:37) fillin "BOTTOM_SOLDER"
+\i (00:03:37) setwindow form.scl_browser
+\i (00:03:37) FORM scl_browser treelist  ANALYSIS 
+\i (00:03:39) FORM scl_browser treelist  'DRC ERROR CLASS' 
+\i (00:03:42) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'DRC ERROR CLASS' 
+\i (00:03:42) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'DRC ERROR CLASS' 
+\i (00:03:44) FORM scl_browser treelist  PIN 
+\i (00:03:45) FORM scl_browser treelist  SOLDERMASK_BOTTOM PIN 
+\i (00:03:45) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM PIN 
+\i (00:03:47) FORM scl_browser treelist  'VIA CLASS' 
+\i (00:03:48) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'VIA CLASS' 
+\i (00:03:48) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'VIA CLASS' 
+\i (00:03:49) FORM scl_browser done  
+\i (00:03:53) setwindow form.film_control
+\i (00:03:53) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
+\i (00:03:54) FORM film_control replace  
+\i (00:03:56) fillin "menu_cancel"
+\i (00:03:58) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:04:02) FORM film_control filmtree popup Add BOTTOM_SOLDER 
+\i (00:04:08) fillin "BOTTOM_SOLDER"
+\i (00:04:11) FORM film_control filmtree popup 'Undo Cut' BOTTOM_SOLDER 
+\i (00:04:16) FORM film_control filmtree popup 'Select All' BOTTOM_SOLDER 
+\i (00:04:20) FORM film_control select_all  
+\i (00:04:21) FORM film_control filmtree  TOP_SOLDER 
+\i (00:04:21) FORM film_control filmtree 'MULTISEL NO' TOP_SOLDER 
+\i (00:04:21) FORM film_control filmtree  TOP_SILK 
+\i (00:04:21) FORM film_control filmtree 'MULTISEL NO' TOP_SILK 
+\i (00:04:21) FORM film_control filmtree  TOP 
+\i (00:04:21) FORM film_control filmtree  OUTLINE 
+\i (00:04:22) FORM film_control filmtree  GND 
+\i (00:04:23) FORM film_control filmtree  BOTTOM 
+\i (00:04:23) FORM film_control filmtree 'MULTISEL NO' BOTTOM 
+\i (00:04:23) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:04:23) FORM film_control filmtree 'MULTISEL NO' BOTTOM_SILK 
+\i (00:04:23) FORM film_control filmtree  OUTLINE 
+\i (00:04:24) FORM film_control filmtree  GND 
+\i (00:04:24) FORM film_control filmtree 'MULTISEL NO' GND 
+\i (00:04:24) FORM film_control filmtree  OUTLINE 
+\i (00:04:24) FORM film_control filmtree 'MULTISEL NO' OUTLINE 
+\i (00:04:25) FORM film_control filmtree  POWER 
+\i (00:04:25) FORM film_control filmtree 'MULTISEL NO' POWER 
+\i (00:04:25) FORM film_control filmtree  TOP 
+\i (00:04:25) FORM film_control filmtree 'MULTISEL NO' TOP 
+\i (00:04:26) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:04:26) FORM film_control filmtree 'MULTISEL NO' BOTTOM_SOLDER 
+\i (00:04:26) FORM film_control filmtree 'MULTISEL YES' BOTTOM_SOLDER 
+\i (00:04:29) FORM film_control filmtree popup Cut'MULTISEL YES' BOTTOM_SOLDER 
+\i (00:04:30) FORM film_control filmtree popup Cut'MULTISEL YES' 'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
+\i (00:04:31) FORM film_control filmtree popup Cut'MULTISEL YES' PIN/SOLDERMASK_BOTTOM 
+\i (00:04:32) FORM film_control filmtree popup Cut'MULTISEL YES' 'VIA CLASS/SOLDERMASK_BOTTOM' 
+\i (00:04:46) FORM film_control filmtree popup Copy'MULTISEL YES' TOP_SOLDER 
+\i (00:04:47) FORM film_control filmtree  copy_of_TOP_SOLDER 
+\i (00:04:49) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_TOP' copy_of_TOP_SOLDER 
+\i (00:04:52) FORM film_control filmtree  copy_of_TOP_SOLDER 
+\i (00:04:58) FORM film_control filmtree RENAME= SOLDER_BOTTOM 
+\i (00:04:59) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_TOP' SOLDER_BOTTOM 
+\i (00:05:01) FORM film_control filmtree popup Add 'DRC ERROR CLASS/SOLDERMASK_TOP' SOLDER_BOTTOM 
+\i (00:05:01) setwindow form.scl_browser
+\i (00:05:01) FORM scl_browser treelist  ANALYSIS 
+\i (00:05:05) FORM scl_browser treelist  'DRC ERROR CLASS' 
+\i (00:05:08) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'DRC ERROR CLASS' 
+\i (00:05:08) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'DRC ERROR CLASS' 
+\i (00:05:10) FORM scl_browser treelist  PIN 
+\i (00:05:12) FORM scl_browser treelist  SOLDERMASK_BOTTOM PIN 
+\i (00:05:12) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM PIN 
+\i (00:05:13) FORM scl_browser treelist  'VIA CLASS' 
+\i (00:05:14) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'VIA CLASS' 
+\i (00:05:15) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'VIA CLASS' 
+\i (00:05:15) FORM scl_browser done  
+\i (00:05:17) setwindow form.film_control
+\i (00:05:17) FORM film_control filmtree  'VIA CLASS/SOLDERMASK_TOP' SOLDER_BOTTOM 
+\i (00:05:18) FORM film_control filmtree  PIN/SOLDERMASK_TOP SOLDER_BOTTOM 
+\i (00:05:18) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_TOP' SOLDER_BOTTOM 
+\i (00:05:20) FORM film_control filmtree popup Cut 'DRC ERROR CLASS/SOLDERMASK_TOP' SOLDER_BOTTOM 
+\i (00:05:21) FORM film_control filmtree popup Cut PIN/SOLDERMASK_TOP SOLDER_BOTTOM 
+\i (00:05:22) FORM film_control filmtree popup Cut 'VIA CLASS/SOLDERMASK_TOP' SOLDER_BOTTOM 
+\i (00:05:23) FORM film_control filmtree  TOP_SOLDER 
+\i (00:05:23) FORM film_control filmtree  SOLDER_BOTTOM 
+\i (00:05:31) FORM film_control filmtree RENAME= BOTTOM_SOLDER 
+\i (00:05:32) FORM film_control select_all  
+\i (00:05:33) FORM film_control create  
+\t (00:05:33) Checking db records
+\t (00:05:33)     checking for orphans...
+\t (00:05:33)     Checked 100 percent
+\w (00:05:33) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:05:33) Done dbdoctor.
+\t (00:05:33) Starting Create artwork films...
+\w (00:05:33) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:05:34) Artwork generated with warnings.
+\i (00:05:36) setwindow text
+\i (00:05:36) close
+\i (00:05:36) setwindow form.film_control
+\i (00:05:36) FORM film_control ok  
+\i (00:05:37) setwindow pcb
+\i (00:05:37) generaledit 
+\i (00:05:50) artwork 
+\i (00:05:51) setwindow form.film_control
+\i (00:05:51) FORM film_control filmtree  TOP_SOLDER 
+\i (00:05:53) FORM film_control select_all  
+\i (00:05:57) FORM film_control suppress_unconnect YES 
+\i (00:05:57) FORM film_control suppress_unconnect NO 
+\i (00:06:00) FORM film_control general_parameters  
+\i (00:06:01) FORM film_control film_control  
+\i (00:06:02) FORM film_control create  
+\t (00:06:02) Checking db records
+\t (00:06:02)     checking for orphans...
+\t (00:06:02)     Checked 100 percent
+\w (00:06:02) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:06:02) Done dbdoctor.
+\t (00:06:02) Starting Create artwork films...
+\w (00:06:03) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:06:04) Artwork generated with warnings.
+\i (00:06:05) FORM film_control general_parameters  
+\i (00:06:13) FORM film_control filename_prefix -V5 
+\i (00:06:13) FORM film_control film_control  
+\i (00:06:14) FORM film_control database_check NO 
+\i (00:06:14) FORM film_control database_check YES 
+\i (00:06:16) FORM film_control create  
+\t (00:06:16) Starting Create artwork films...
+\w (00:06:17) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:06:18) Artwork generated with warnings.
+\i (00:06:25) setwindow text
+\i (00:06:25) close
+\i (00:06:26) setwindow form.film_control
+\i (00:06:26) FORM film_control ok  
+\i (00:06:26) setwindow pcb
+\i (00:06:26) generaledit 
+\i (00:08:59) ncdrill legend 
+   (00:08:59) Loading signal.cxt 
+   (00:08:59) Loading mfg.cxt 
+\i (00:09:01) setwindow form.nc_drilllegend
+\i (00:09:01) FORM nc_drilllegend cancel  
+\i (00:09:01) setwindow pcb
+\i (00:09:01) generaledit 
+\i (00:09:06) nctape_full 
+\i (00:09:14) setwindow form.nc_drill
+\i (00:09:14) FORM nc_drill tape_name ST-LINKV3.drl 
+\i (00:09:14) FORM nc_drill execute  
+\t (00:09:14) Starting Generating NC Drill...
+\i (00:09:16) FORM nc_drill cancel  
+\i (00:09:16) setwindow pcb
+\i (00:09:16) generaledit 
+\i (00:15:09) artwork 
+\i (00:15:38) setwindow form.film_control
+\i (00:15:38) FORM film_control filmtree  TOP_SILK 
+\i (00:15:39) FORM film_control filmtree  'PACKAGE GEOMETRY/SILKSCREEN_TOP' TOP_SILK 
+\i (00:15:48) FORM film_control filmtree popup Add 'PACKAGE GEOMETRY/SILKSCREEN_TOP' TOP_SILK 
+\i (00:15:48) setwindow form.scl_browser
+\i (00:15:48) FORM scl_browser treelist  ANALYSIS 
+\i (00:15:50) FORM scl_browser treelist  'REF DES' 
+\i (00:15:51) FORM scl_browser treelist  SILKSCREEN_TOP 'REF DES' 
+\i (00:15:51) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'REF DES' 
+\i (00:15:52) FORM scl_browser done  
+\i (00:16:05) setwindow form.film_control
+\i (00:16:05) FORM film_control filmtree  TOP_SILK 
+\i (00:16:06) FORM film_control filmtree  TOP_SOLDER 
+\i (00:16:19) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_TOP' TOP_SOLDER 
+\i (00:16:20) FORM film_control filmtree popup Add 'DRC ERROR CLASS/SOLDERMASK_TOP' TOP_SOLDER 
+\i (00:16:20) setwindow form.scl_browser
+\i (00:16:20) FORM scl_browser treelist  ANALYSIS 
+\i (00:16:22) FORM scl_browser treelist  'PACKAGE GEOMETRY' 
+\i (00:16:25) FORM scl_browser treelist  SOLDERMASK_TOP 'PACKAGE GEOMETRY' 
+\i (00:16:25) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_TOP 'PACKAGE GEOMETRY' 
+\i (00:16:28) FORM scl_browser done  
+\i (00:16:58) setwindow form.film_control
+\i (00:16:58) FORM film_control filmtree  TOP_SOLDER 
+\i (00:16:59) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:17:00) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:17:01) FORM film_control filmtree  TOP_SILK 
+\i (00:17:06) FORM film_control filmtree  'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' BOTTOM_SILK 
+\i (00:17:07) FORM film_control filmtree popup Add 'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' BOTTOM_SILK 
+\i (00:17:07) setwindow form.scl_browser
+\i (00:17:07) FORM scl_browser treelist  ANALYSIS 
+\i (00:17:09) FORM scl_browser treelist  'REF DES' 
+\i (00:17:12) FORM scl_browser treelist  SILKSCREEN_BOTTOM 'REF DES' 
+\i (00:17:12) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_BOTTOM 'REF DES' 
+\i (00:17:13) FORM scl_browser done  
+\i (00:17:14) setwindow form.film_control
+\i (00:17:14) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:17:15) FORM film_control filmtree  TOP_SILK 
+\i (00:17:16) FORM film_control filmtree  TOP_SOLDER 
+\i (00:17:28) FORM film_control filmtree  'VIA CLASS/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
+\i (00:17:28) FORM film_control filmtree popup Add 'VIA CLASS/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
+\i (00:17:28) setwindow form.scl_browser
+\i (00:17:28) FORM scl_browser treelist  ANALYSIS 
+\i (00:17:31) FORM scl_browser treelist  'REF DES' 
+\i (00:17:39) FORM scl_browser treelist  MANUFACTURING 
+\i (00:17:43) FORM scl_browser treelist  'PACKAGE GEOMETRY' 
+\i (00:17:47) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'PACKAGE GEOMETRY' 
+\i (00:17:50) FORM scl_browser done  
+\i (00:17:55) setwindow form.film_control
+\i (00:17:55) FORM film_control filmtree popup Add 'VIA CLASS/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
+\i (00:17:55) setwindow form.scl_browser
+\i (00:17:55) FORM scl_browser treelist  ANALYSIS 
+\i (00:17:58) FORM scl_browser treelist  'PACKAGE GEOMETRY' 
+\i (00:18:01) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'PACKAGE GEOMETRY' 
+\i (00:18:01) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'PACKAGE GEOMETRY' 
+\i (00:18:02) FORM scl_browser done  
+\i (00:18:30) setwindow form.film_control
+\i (00:18:30) FORM film_control filmtree  TOP_SILK 
+\i (00:18:30) FORM film_control filmtree  TOP 
+\i (00:18:31) FORM film_control filmtree  POWER 
+\i (00:18:31) FORM film_control filmtree  OUTLINE 
+\i (00:18:32) FORM film_control filmtree  GND 
+\i (00:18:33) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:18:33) FORM film_control filmtree  BOTTOM 
+\i (00:19:29) FORM film_control create  
+\w (00:19:29) No film records selected.
+\i (00:19:31) FORM film_control select_all  
+\i (00:19:33) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:19:33) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:19:33) FORM film_control filmtree  GND 
+\i (00:19:34) FORM film_control filmtree  OUTLINE 
+\i (00:19:34) FORM film_control filmtree  POWER 
+\i (00:19:35) FORM film_control filmtree  TOP 
+\i (00:19:36) FORM film_control filmtree  TOP_SILK 
+\i (00:19:36) FORM film_control filmtree  TOP_SOLDER 
+\i (00:19:39) FORM film_control create  
+\t (00:19:39) Checking db records
+\t (00:19:39)     checking for orphans...
+\t (00:19:39)     Checked 100 percent
+\w (00:19:39) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:19:39) Done dbdoctor.
+\t (00:19:39) Starting Create artwork films...
+\w (00:19:39) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:19:40) Artwork generated with warnings.
+\i (00:19:41) setwindow text
+\i (00:19:41) close
+\i (00:19:42) setwindow form.film_control
+\i (00:19:42) FORM film_control ok  
+\i (00:19:42) setwindow pcb
+\i (00:19:42) generaledit 
+\i (00:19:56) artwork 
+\i (00:19:58) setwindow form.film_control
+\i (00:19:58) FORM film_control select_all  
+\i (00:19:58) FORM film_control general_parameters  
+\i (00:20:04) FORM film_control filename_prefix  
+\i (00:20:04) FORM film_control film_control  
+\i (00:20:05) FORM film_control create  
+\t (00:20:05) Checking db records
+\t (00:20:05)     checking for orphans...
+\t (00:20:05)     Checked 100 percent
+\w (00:20:05) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:20:05) Done dbdoctor.
+\t (00:20:05) Starting Create artwork films...
+\w (00:20:05) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:20:06) Artwork generated with warnings.
+\i (00:20:07) setwindow text
+\i (00:20:07) close
+\i (00:20:08) setwindow form.film_control
+\i (00:20:08) FORM film_control ok  
+\i (00:20:08) setwindow pcb
+\i (00:20:08) generaledit 
+\i (00:21:32) artwork 
+\i (00:21:35) setwindow form.film_control
+\i (00:21:35) FORM film_control filmtree  TOP_SOLDER 
+\i (00:21:37) FORM film_control select_all  
+\i (00:21:38) FORM film_control create  
+\t (00:21:38) Checking db records
+\t (00:21:38)     checking for orphans...
+\t (00:21:38)     Checked 100 percent
+\w (00:21:38) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:21:38) Done dbdoctor.
+\t (00:21:38) Starting Create artwork films...
+\w (00:21:39) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:21:40) Artwork generated with warnings.
+\i (00:21:43) setwindow text
+\i (00:21:43) close
+\i (00:21:45) setwindow form.film_control
+\i (00:21:45) FORM film_control ok  
+\i (00:21:45) setwindow pcb
+\i (00:21:45) generaledit 
+\i (00:27:48) exit 
+\e (00:27:48) Do you want to save the changes you made to ST-LINKV3_open.brd?
+\i (00:27:49) fillin yes 
+\t (00:27:49)     Journal end - Thu Jul 25 17:39:04 2024

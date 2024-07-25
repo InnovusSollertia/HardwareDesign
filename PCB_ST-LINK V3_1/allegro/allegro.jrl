@@ -1,448 +1,1564 @@
-\t (00:00:03) allegro 23.1 S005 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Thu Jul 25 17:11:17 2024
-\t (00:00:03)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=15160 CPUs=12
-\t (00:00:03) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
-\t (00:00:03) 
-   (00:00:03) Loading axlcore.cxt 
-\t (00:00:06) Opening existing design...
-\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ST-LINKV3_open"
-\d (00:00:06) Design opened: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd
-\i (00:00:06) trapsize 4622
-\i (00:00:06) trapsize 4952
-\i (00:00:06) trapsize 5055
-\i (00:00:06) trapsize 4748
-\i (00:00:07) trapsize 4748
-\t (00:00:07) > Sending response DoneOpenBoard
-\t (00:00:07) Loading NV GPU Plugin
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
-\i (00:00:07) QtSignal Modes
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
-\i (00:00:07) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
-\i (00:00:07) QtSignal 0 "|" "Board Outline  (1/6)"
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
-\i (00:00:07) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
-\i (00:00:07) QtSignal "|" "Shapes  (1/4)"
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
-\i (00:00:07) QtSignal 0 "|" Polygon
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
-\i (00:00:07) QtSignal 0 "|" "IPC-2581"
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
-\i (00:00:07) QtSignal 0 "|" Testprep
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
-\i (00:00:07) QtSignal Manual
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
-\i (00:00:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
-\i (00:00:07) QtSignal "Display Status"
-\i (00:00:07) trapsize 1894
-\i (00:00:07) generaledit 
-\i (00:00:09) zoom out 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom out 171.1243 267.6015
-\i (00:00:09) trapsize 3788
-\i (00:00:14) roam start
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam y 32
-\i (00:00:14) roam x -16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:15) roam y 16
-\i (00:00:15) roam y 16
-\i (00:00:15) roam y 16
-\i (00:00:15) roam x -16
-\i (00:00:15) roam y 16
-\i (00:00:15) roam y -16
-\i (00:00:15) roam y -16
-\i (00:00:15) roam end
-\i (00:00:57) artwork 
-\i (00:01:03) setwindow form.film_control
-\i (00:01:03) FORM film_control filmtree  TOP_SILK 
-\i (00:01:04) FORM film_control filmtree popup Add TOP_SILK 
-\i (00:01:05) fillin "menu_cancel"
-\i (00:01:06) FORM film_control filmtree popup 'Add Manual' TOP_SILK 
-\i (00:01:13) fillin "menu_cancel"
-\i (00:01:15) FORM film_control filmtree  BOTTOM_SOLDER 
-\i (00:01:17) FORM film_control filmtree popup Cut BOTTOM_SOLDER 
-\i (00:01:18) FORM film_control filmtree  BOTTOM_SILK 
-\i (00:01:19) FORM film_control filmtree  TOP_SILK 
-\i (00:01:21) FORM film_control filmtree  BOTTOM_SILK 
-\i (00:01:23) FORM film_control filmtree  TOP_SILK 
-\i (00:01:24) FORM film_control filmtree popup 'Add Manual' TOP_SILK 
-\i (00:01:27) fillin "TOP_SOLDER"
-\i (00:01:27) setwindow form.scl_browser
-\i (00:01:27) FORM scl_browser treelist  ANALYSIS 
-\i (00:01:33) FORM scl_browser treelist  'DRC ERROR CLASS' 
-\i (00:01:36) FORM scl_browser treelist  SOLDERMASK_TOP 'DRC ERROR CLASS' 
-\i (00:01:36) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_TOP 'DRC ERROR CLASS' 
-\i (00:01:44) FORM scl_browser treelist  PIN 
-\i (00:01:49) FORM scl_browser treelist  SOLDERMASK_TOP PIN 
-\i (00:01:49) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_TOP PIN 
-\i (00:01:55) FORM scl_browser treelist  'VIA CLASS' 
-\i (00:01:58) FORM scl_browser treelist  SOLDERMASK_TOP 'VIA CLASS' 
-\i (00:01:58) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_TOP 'VIA CLASS' 
-\i (00:02:00) FORM scl_browser done  
-\i (00:02:02) setwindow form.film_control
-\i (00:02:02) FORM film_control filmtree popup 'Add Manual' TOP_SILK 
-\i (00:02:15) fillin "BOTTOM_SOLDER"
-\i (00:02:15) setwindow form.scl_browser
-\i (00:02:15) FORM scl_browser treelist  ANALYSIS 
-\i (00:02:20) FORM scl_browser treelist  'DRC ERROR CLASS' 
-\i (00:02:23) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'DRC ERROR CLASS' 
-\i (00:02:23) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'DRC ERROR CLASS' 
-\i (00:02:24) FORM scl_browser treelist  'DRC ERROR CLASS' 
-\i (00:02:25) FORM scl_browser treelist  PIN 
-\i (00:02:26) FORM scl_browser treelist  SOLDERMASK_BOTTOM PIN 
-\i (00:02:26) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM PIN 
-\i (00:02:27) FORM scl_browser treelist  'VIA CLASS' 
-\i (00:02:37) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'VIA CLASS' 
-\i (00:02:37) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'VIA CLASS' 
-\i (00:02:38) FORM scl_browser done  
-\i (00:02:40) setwindow form.film_control
-\i (00:02:40) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
-\i (00:02:41) FORM film_control filmtree  BOTTOM_SOLDER 
-\i (00:02:42) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
-\i (00:02:43) FORM film_control filmtree  BOTTOM_SOLDER 
-\i (00:02:44) FORM film_control filmtree popup 'Add Manual' BOTTOM_SOLDER 
-\i (00:02:51) fillin "BOTTOM_SOLDER"
-\i (00:02:54) FORM film_control filmtree popup Cut BOTTOM_SOLDER 
-\i (00:02:55) FORM film_control filmtree  TOP_SOLDER 
-\i (00:02:56) FORM film_control filmtree popup 'Add Manual' TOP_SOLDER 
-\i (00:02:59) fillin "BOTTOM_SOLDER"
-\i (00:02:59) setwindow form.scl_browser
-\i (00:02:59) FORM scl_browser treelist  ANALYSIS 
-\i (00:03:03) FORM scl_browser treelist  'DRC ERROR CLASS' 
-\i (00:03:06) FORM scl_browser treelist  PACKAGE_BOTTOM 'DRC ERROR CLASS' 
-\i (00:03:06) FORM scl_browser treelist 'MULTISEL YES' PACKAGE_BOTTOM 'DRC ERROR CLASS' 
-\i (00:03:08) FORM scl_browser treelist  PIN 
-\i (00:03:11) FORM scl_browser treelist  SOLDERMASK_BOTTOM PIN 
-\i (00:03:11) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM PIN 
-\i (00:03:12) FORM scl_browser treelist  'VIA CLASS' 
-\i (00:03:14) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'VIA CLASS' 
-\i (00:03:14) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'VIA CLASS' 
-\i (00:03:15) FORM scl_browser done  
-\i (00:03:17) setwindow form.film_control
-\i (00:03:17) FORM film_control filmtree  'DRC ERROR CLASS/PACKAGE_BOTTOM' 
-\i (00:03:20) FORM film_control filmtree popup Cut 'DRC ERROR CLASS/PACKAGE_BOTTOM' 
-\i (00:03:21) FORM film_control filmtree  BOTTOM_SOLDER 
-\i (00:03:23) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
-\i (00:03:26) FORM film_control filmtree popup Cut 'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
-\i (00:03:27) FORM film_control filmtree popup Cut PIN/SOLDERMASK_BOTTOM 
-\i (00:03:28) FORM film_control filmtree popup Cut 'VIA CLASS/SOLDERMASK_BOTTOM' 
-\i (00:03:30) FORM film_control filmtree popup Cut BOTTOM_SOLDER 
-\i (00:03:32) FORM film_control filmtree popup Cut PIN/SOLDERMASK_BOTTOM 
-\i (00:03:33) FORM film_control filmtree popup Cut 'VIA CLASS/SOLDERMASK_BOTTOM' 
-\i (00:03:33) FORM film_control filmtree  BOTTOM_SILK 
-\i (00:03:34) FORM film_control filmtree popup 'Add Manual' BOTTOM_SILK 
-\i (00:03:37) fillin "BOTTOM_SOLDER"
-\i (00:03:37) setwindow form.scl_browser
-\i (00:03:37) FORM scl_browser treelist  ANALYSIS 
-\i (00:03:39) FORM scl_browser treelist  'DRC ERROR CLASS' 
-\i (00:03:42) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'DRC ERROR CLASS' 
-\i (00:03:42) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'DRC ERROR CLASS' 
-\i (00:03:44) FORM scl_browser treelist  PIN 
-\i (00:03:45) FORM scl_browser treelist  SOLDERMASK_BOTTOM PIN 
-\i (00:03:45) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM PIN 
-\i (00:03:47) FORM scl_browser treelist  'VIA CLASS' 
-\i (00:03:48) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'VIA CLASS' 
-\i (00:03:48) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'VIA CLASS' 
-\i (00:03:49) FORM scl_browser done  
-\i (00:03:53) setwindow form.film_control
-\i (00:03:53) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
-\i (00:03:54) FORM film_control replace  
-\i (00:03:56) fillin "menu_cancel"
-\i (00:03:58) FORM film_control filmtree  BOTTOM_SOLDER 
-\i (00:04:02) FORM film_control filmtree popup Add BOTTOM_SOLDER 
-\i (00:04:08) fillin "BOTTOM_SOLDER"
-\i (00:04:11) FORM film_control filmtree popup 'Undo Cut' BOTTOM_SOLDER 
-\i (00:04:16) FORM film_control filmtree popup 'Select All' BOTTOM_SOLDER 
-\i (00:04:20) FORM film_control select_all  
-\i (00:04:21) FORM film_control filmtree  TOP_SOLDER 
-\i (00:04:21) FORM film_control filmtree 'MULTISEL NO' TOP_SOLDER 
-\i (00:04:21) FORM film_control filmtree  TOP_SILK 
-\i (00:04:21) FORM film_control filmtree 'MULTISEL NO' TOP_SILK 
-\i (00:04:21) FORM film_control filmtree  TOP 
-\i (00:04:21) FORM film_control filmtree  OUTLINE 
-\i (00:04:22) FORM film_control filmtree  GND 
-\i (00:04:23) FORM film_control filmtree  BOTTOM 
-\i (00:04:23) FORM film_control filmtree 'MULTISEL NO' BOTTOM 
-\i (00:04:23) FORM film_control filmtree  BOTTOM_SILK 
-\i (00:04:23) FORM film_control filmtree 'MULTISEL NO' BOTTOM_SILK 
-\i (00:04:23) FORM film_control filmtree  OUTLINE 
-\i (00:04:24) FORM film_control filmtree  GND 
-\i (00:04:24) FORM film_control filmtree 'MULTISEL NO' GND 
-\i (00:04:24) FORM film_control filmtree  OUTLINE 
-\i (00:04:24) FORM film_control filmtree 'MULTISEL NO' OUTLINE 
-\i (00:04:25) FORM film_control filmtree  POWER 
-\i (00:04:25) FORM film_control filmtree 'MULTISEL NO' POWER 
-\i (00:04:25) FORM film_control filmtree  TOP 
-\i (00:04:25) FORM film_control filmtree 'MULTISEL NO' TOP 
-\i (00:04:26) FORM film_control filmtree  BOTTOM_SOLDER 
-\i (00:04:26) FORM film_control filmtree 'MULTISEL NO' BOTTOM_SOLDER 
-\i (00:04:26) FORM film_control filmtree 'MULTISEL YES' BOTTOM_SOLDER 
-\i (00:04:29) FORM film_control filmtree popup Cut'MULTISEL YES' BOTTOM_SOLDER 
-\i (00:04:30) FORM film_control filmtree popup Cut'MULTISEL YES' 'DRC ERROR CLASS/SOLDERMASK_BOTTOM' 
-\i (00:04:31) FORM film_control filmtree popup Cut'MULTISEL YES' PIN/SOLDERMASK_BOTTOM 
-\i (00:04:32) FORM film_control filmtree popup Cut'MULTISEL YES' 'VIA CLASS/SOLDERMASK_BOTTOM' 
-\i (00:04:46) FORM film_control filmtree popup Copy'MULTISEL YES' TOP_SOLDER 
-\i (00:04:47) FORM film_control filmtree  copy_of_TOP_SOLDER 
-\i (00:04:49) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_TOP' copy_of_TOP_SOLDER 
-\i (00:04:52) FORM film_control filmtree  copy_of_TOP_SOLDER 
-\i (00:04:58) FORM film_control filmtree RENAME= SOLDER_BOTTOM 
-\i (00:04:59) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_TOP' SOLDER_BOTTOM 
-\i (00:05:01) FORM film_control filmtree popup Add 'DRC ERROR CLASS/SOLDERMASK_TOP' SOLDER_BOTTOM 
-\i (00:05:01) setwindow form.scl_browser
-\i (00:05:01) FORM scl_browser treelist  ANALYSIS 
-\i (00:05:05) FORM scl_browser treelist  'DRC ERROR CLASS' 
-\i (00:05:08) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'DRC ERROR CLASS' 
-\i (00:05:08) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'DRC ERROR CLASS' 
-\i (00:05:10) FORM scl_browser treelist  PIN 
-\i (00:05:12) FORM scl_browser treelist  SOLDERMASK_BOTTOM PIN 
-\i (00:05:12) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM PIN 
-\i (00:05:13) FORM scl_browser treelist  'VIA CLASS' 
-\i (00:05:14) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'VIA CLASS' 
-\i (00:05:15) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'VIA CLASS' 
-\i (00:05:15) FORM scl_browser done  
-\i (00:05:17) setwindow form.film_control
-\i (00:05:17) FORM film_control filmtree  'VIA CLASS/SOLDERMASK_TOP' SOLDER_BOTTOM 
-\i (00:05:18) FORM film_control filmtree  PIN/SOLDERMASK_TOP SOLDER_BOTTOM 
-\i (00:05:18) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_TOP' SOLDER_BOTTOM 
-\i (00:05:20) FORM film_control filmtree popup Cut 'DRC ERROR CLASS/SOLDERMASK_TOP' SOLDER_BOTTOM 
-\i (00:05:21) FORM film_control filmtree popup Cut PIN/SOLDERMASK_TOP SOLDER_BOTTOM 
-\i (00:05:22) FORM film_control filmtree popup Cut 'VIA CLASS/SOLDERMASK_TOP' SOLDER_BOTTOM 
-\i (00:05:23) FORM film_control filmtree  TOP_SOLDER 
-\i (00:05:23) FORM film_control filmtree  SOLDER_BOTTOM 
-\i (00:05:31) FORM film_control filmtree RENAME= BOTTOM_SOLDER 
-\i (00:05:32) FORM film_control select_all  
-\i (00:05:33) FORM film_control create  
-\t (00:05:33) Checking db records
-\t (00:05:33)     checking for orphans...
-\t (00:05:33)     Checked 100 percent
-\w (00:05:33) Run batch DRC to correctly regenerate DRC errs.
+\t (00:00:02) allegro 23.1 S005 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Jul 25 17:55:49 2024
+\t (00:00:02)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=15620 CPUs=12
+\t (00:00:02) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ST-LINKV3_open"
+\d (00:00:05) Design opened: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd
+\i (00:00:05) trapsize 9243
+\i (00:00:05) trapsize 9904
+\i (00:00:05) trapsize 10110
+\i (00:00:05) trapsize 9497
+\i (00:00:05) trapsize 9497
+\t (00:00:05) > Sending response DoneOpenBoard
+\t (00:00:06) Loading NV GPU Plugin
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
+\i (00:00:06) QtSignal Modes
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:00:06) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:00:06) QtSignal 0 "|" "Board Outline  (1/6)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
+\i (00:00:06) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
+\i (00:00:06) QtSignal "|" "Shapes  (1/4)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
+\i (00:00:06) QtSignal 0 "|" Polygon
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
+\i (00:00:06) QtSignal 0 "|" "IPC-2581"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
+\i (00:00:06) QtSignal 0 "|" Testprep
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
+\i (00:00:06) QtSignal Manual
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
+\i (00:00:06) QtSignal "Display Status"
+\i (00:00:06) trapsize 3788
+\i (00:00:06) generaledit 
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 198.0494 258.5497
+\i (00:00:12) trapsize 1894
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 196.8372 258.1330
+\i (00:00:12) trapsize 947
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 196.4962 258.3035
+\i (00:00:13) trapsize 474
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 196.3163 258.1331
+\i (00:00:13) trapsize 237
+\i (00:05:31) zoom out 1 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom out 194.4411 257.0961
+\i (00:05:31) trapsize 474
+\i (00:05:31) zoom out 1 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom out 194.4790 257.0488
+\i (00:05:31) trapsize 947
+\i (00:05:31) zoom out 1 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom out 194.5927 256.7836
+\i (00:05:31) trapsize 1894
+\i (00:05:32) zoom out 1 
+\i (00:05:32) setwindow pcb
+\i (00:05:32) zoom out 193.9488 255.3819
+\i (00:05:32) trapsize 3788
+\i (00:05:32) zoom in 1 
+\i (00:05:32) setwindow pcb
+\i (00:05:32) zoom in 178.3412 274.5504
+\i (00:05:32) trapsize 1894
+\i (00:05:32) zoom in 1 
+\i (00:05:32) setwindow pcb
+\i (00:05:32) zoom in 178.1518 275.3838
+\i (00:05:32) trapsize 947
+\i (00:05:33) zoom in 1 
+\i (00:05:33) setwindow pcb
+\i (00:05:33) zoom in 183.4175 275.1187
+\i (00:05:33) trapsize 474
+\i (00:05:33) zoom out 1 
+\i (00:05:33) setwindow pcb
+\i (00:05:33) zoom out 183.2565 275.1660
+\i (00:05:33) trapsize 947
+\i (00:05:33) zoom out 1 
+\i (00:05:33) setwindow pcb
+\i (00:05:33) zoom out 183.2944 275.0146
+\i (00:05:33) trapsize 1894
+\i (00:05:33) zoom out 1 
+\i (00:05:33) setwindow pcb
+\i (00:05:33) zoom out 183.2944 274.9388
+\i (00:05:33) trapsize 3788
+\i (00:05:34) zoom in 1 
+\i (00:05:34) setwindow pcb
+\i (00:05:34) zoom in 183.9762 281.7576
+\i (00:05:34) trapsize 1894
+\i (00:05:35) zoom in 1 
+\i (00:05:35) setwindow pcb
+\i (00:05:35) zoom in 180.1880 274.5599
+\i (00:05:35) trapsize 947
+\i (00:05:38) zoom in 1 
+\i (00:05:38) setwindow pcb
+\i (00:05:38) zoom in 182.4989 270.0330
+\i (00:05:38) trapsize 474
+\i (00:05:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup  (2/3)"
+\i (00:05:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup  (2/3)"
+\i (00:05:58) zoom out 1 
+\i (00:05:58) setwindow pcb
+\i (00:05:58) zoom out 187.4141 271.8608
+\i (00:05:58) trapsize 947
+\i (00:05:58) zoom in 1 
+\i (00:05:58) setwindow pcb
+\i (00:05:58) zoom in 179.6105 271.3116
+\i (00:05:58) trapsize 474
+\i (00:06:00) zoom out 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom out 182.4232 270.2509
+\i (00:06:00) trapsize 947
+\i (00:06:01) zoom in 1 
+\i (00:06:01) setwindow pcb
+\i (00:06:01) zoom in 182.6885 270.3456
+\i (00:06:01) trapsize 474
+\i (00:06:02) drag_start grid 182.5749 270.3740
+\i (00:06:02) slide 
+\t (00:06:02) last pick:  182.6260 270.5100
+\t (00:06:02) Waiting for the destination pick.
+\i (00:06:02) updateport CVPane
+\i (00:06:04) drag_stop grid 180.4535 272.1356
+\t (00:06:04) No DRC errors detected.
+\i (00:06:04) generaledit 
+\i (00:06:04) zoom out 1 
+\i (00:06:04) setwindow pcb
+\i (00:06:04) zoom out 181.8267 269.9763
+\i (00:06:04) trapsize 947
+\i (00:06:04) zoom out 1 
+\i (00:06:04) setwindow pcb
+\i (00:06:04) zoom out 181.8457 268.7451
+\i (00:06:04) trapsize 1894
+\i (00:06:05) zoom in 1 
+\i (00:06:05) setwindow pcb
+\i (00:06:05) zoom in 181.1259 266.1690
+\i (00:06:05) trapsize 947
+\i (00:06:05) zoom in 1 
+\i (00:06:05) setwindow pcb
+\i (00:06:05) zoom in 180.2735 265.6387
+\i (00:06:05) trapsize 474
+\i (00:06:06) drag_start grid 180.4819 265.9986
+\i (00:06:06) slide 
+\t (00:06:06) last pick:  180.3400 265.9380
+\t (00:06:06) Waiting for the destination pick.
+\i (00:06:07) drag_stop grid 180.5766 265.6861
+\t (00:06:07) No DRC errors detected.
+\i (00:06:07) generaledit 
+\i (00:06:08) zoom out 1 
+\i (00:06:08) setwindow pcb
+\i (00:06:08) zoom out 180.3304 265.9607
+\i (00:06:08) trapsize 947
+\i (00:06:10) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (00:06:11) zoom out 1 
+\i (00:06:11) setwindow pcb
+\i (00:06:11) zoom out 180.1599 269.8437
+\i (00:06:11) trapsize 1894
+\i (00:06:12) zoom in 1 
+\i (00:06:12) setwindow pcb
+\i (00:06:12) zoom in 172.1668 266.3585
+\i (00:06:12) trapsize 947
+\i (00:06:16) drag_start grid 168.5869 273.0826
+\i (00:06:16) slide 
+\t (00:06:16) last pick:  168.6560 273.0500
+\t (00:06:16) Waiting for the destination pick.
+\i (00:06:16) updateport CVPane
+\i (00:06:20) drag_stop grid 167.5452 268.9534
+\t (00:06:20) No DRC errors detected.
+\i (00:06:20) generaledit 
+\i (00:06:21) drag_start grid 169.6287 271.3590
+\i (00:06:21) slide 
+\t (00:06:21) last pick:  169.6720 271.2720
+\t (00:06:21) Waiting for the destination pick.
+\t (00:06:21) New cline would result in DRC error(s); retaining old cline.
+\i (00:06:22) drag_stop grid 167.4505 272.8174
+\t (00:06:22) No DRC errors detected.
+\i (00:06:22) generaledit 
+\i (00:06:23) drag_start grid 169.3256 272.9311
+\i (00:06:23) slide 
+\t (00:06:23) last pick:  169.4180 273.0500
+\t (00:06:23) Waiting for the destination pick.
+\i (00:06:24) drag_stop grid 170.0454 274.2191
+\t (00:06:24) No DRC errors detected.
+\i (00:06:24) generaledit 
+\i (00:06:24) drag_start grid 169.6855 273.3667
+\i (00:06:24) slide 
+\t (00:06:24) last pick:  169.6720 273.3040
+\t (00:06:25) Waiting for the destination pick.
+\t (00:06:25) New cline would result in DRC error(s); retaining old cline.
+\i (00:06:27) drag_stop grid 173.7011 274.2380
+\t (00:06:27) No DRC errors detected.
+\i (00:06:27) generaledit 
+\i (00:06:27) drag_start grid 172.9434 273.9539
+\i (00:06:27) slide 
+\t (00:06:27) last pick:  172.9740 274.0660
+\t (00:06:27) Waiting for the destination pick.
+\i (00:06:28) drag_stop grid 172.8298 274.6737
+\t (00:06:28) No DRC errors detected.
+\i (00:06:28) generaledit 
+\i (00:06:29) drag_start grid 170.1022 274.2759
+\i (00:06:29) slide 
+\t (00:06:29) last pick:  170.1800 274.3200
+\t (00:06:29) Waiting for the destination pick.
+\i (00:06:30) drag_stop grid 167.5641 274.2380
+\t (00:06:30) No DRC errors detected.
+\i (00:06:30) generaledit 
+\i (00:06:31) drag_start grid 173.9473 274.0297
+\i (00:06:31) slide 
+\t (00:06:31) last pick:  173.9900 274.0660
+\t (00:06:31) Waiting for the destination pick.
+\i (00:06:31) drag_stop grid 174.2882 274.3896
+\t (00:06:31) No DRC errors detected.
+\i (00:06:31) generaledit 
+\i (00:06:33) drag_start grid 167.5452 274.1812
+\i (00:06:33) slide 
+\t (00:06:33) last pick:  167.6400 274.3200
+\t (00:06:33) Waiting for the destination pick.
+\i (00:06:33) drag_stop grid 167.2800 274.2570
+\t (00:06:33) No DRC errors detected.
+\i (00:06:33) generaledit 
+\i (00:06:35) zoom out 1 
+\i (00:06:35) setwindow pcb
+\i (00:06:35) zoom out 167.5452 268.4041
+\i (00:06:35) trapsize 1894
+\i (00:06:35) zoom out 1 
+\i (00:06:35) setwindow pcb
+\i (00:06:35) zoom out 167.5073 263.0249
+\i (00:06:35) trapsize 3788
+\i (00:06:36) zoom in 1 
+\i (00:06:36) setwindow pcb
+\i (00:06:36) zoom in 167.4315 256.9636
+\i (00:06:36) trapsize 1894
+\i (00:06:36) zoom out 1 
+\i (00:06:36) setwindow pcb
+\i (00:06:36) zoom out 166.4844 255.9787
+\i (00:06:36) trapsize 3788
+\i (00:06:37) zoom in 1 
+\i (00:06:37) setwindow pcb
+\i (00:06:37) zoom in 163.9842 249.9933
+\i (00:06:37) trapsize 1894
+\i (00:06:37) zoom in 1 
+\i (00:06:37) setwindow pcb
+\i (00:06:37) zoom in 163.3781 249.4629
+\i (00:06:37) trapsize 947
+\i (00:06:37) zoom in 1 
+\i (00:06:37) setwindow pcb
+\i (00:06:37) zoom in 163.7191 249.1599
+\i (00:06:37) trapsize 474
+\i (00:06:41) drag_start grid 165.3575 250.1922
+\i (00:06:41) slide 
+\t (00:06:41) last pick:  165.3540 250.1900
+\t (00:06:41) Waiting for the destination pick.
+\t (00:06:41) New cline would result in DRC error(s); retaining old cline.
+\i (00:06:43) drag_stop grid 165.1871 250.2206
+\t (00:06:43) No DRC errors detected.
+\i (00:06:43) generaledit 
+\i (00:06:44) zoom out 1 
+\i (00:06:44) setwindow pcb
+\i (00:06:44) zoom out 164.5431 250.2490
+\i (00:06:44) trapsize 947
+\i (00:06:46) drag_start grid 165.0355 252.1432
+\i (00:06:46) slide 
+\t (00:06:46) last pick:  164.8460 252.2220
+\t (00:06:46) Waiting for the destination pick.
+\i (00:06:50) drag_stop grid 161.6829 259.1704
+\t (00:06:50) No DRC errors detected.
+\i (00:06:50) generaledit 
+\i (00:06:52) zoom out 1 
+\i (00:06:52) setwindow pcb
+\i (00:06:52) zoom out 164.8461 257.7119
+\i (00:06:52) trapsize 1894
+\i (00:06:52) zoom out 1 
+\i (00:06:52) setwindow pcb
+\i (00:06:52) zoom out 166.4372 257.7498
+\i (00:06:52) trapsize 3788
+\i (00:06:53) zoom in 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom in 176.5897 268.7357
+\i (00:06:53) trapsize 1894
+\i (00:06:55) zoom out 1 
+\i (00:06:55) setwindow pcb
+\i (00:06:55) zoom out 197.8039 250.9310
+\i (00:06:55) trapsize 3788
+\i (00:06:55) zoom in 1 
+\i (00:06:55) setwindow pcb
+\i (00:06:55) zoom in 200.0011 243.1272
+\i (00:06:55) trapsize 1894
+\i (00:06:56) zoom out 1 
+\i (00:06:56) setwindow pcb
+\i (00:06:56) zoom out 180.0750 241.7634
+\i (00:06:56) trapsize 3788
+\i (00:06:57) zoom in 1 
+\i (00:06:57) setwindow pcb
+\i (00:06:57) zoom in 179.1657 237.7479
+\i (00:06:57) trapsize 1894
+\i (00:06:57) zoom in 1 
+\i (00:06:57) setwindow pcb
+\i (00:06:57) zoom in 177.4232 239.1117
+\i (00:06:57) trapsize 947
+\i (00:07:00) drag_start grid 178.3702 240.0209
+\i (00:07:00) slide 
+\t (00:07:00) last pick:  178.3080 240.0300
+\t (00:07:00) Waiting for the destination pick.
+\i (00:07:02) drag_stop grid 181.2493 245.9305
+\t (00:07:02) No DRC errors detected.
+\i (00:07:02) generaledit 
+\i (00:07:03) drag_start grid 174.8851 245.4949
+\i (00:07:03) slide 
+\t (00:07:03) last pick:  175.0060 245.6180
+\t (00:07:03) Waiting for the destination pick.
+\i (00:07:03) drag_stop grid 173.8244 245.7980
+\t (00:07:03) No DRC errors detected.
+\i (00:07:03) generaledit 
+\i (00:07:05) zoom out 1 
+\i (00:07:05) setwindow pcb
+\i (00:07:05) zoom out 174.1653 244.2637
+\i (00:07:05) trapsize 1894
+\i (00:07:06) zoom out 1 
+\i (00:07:06) setwindow pcb
+\i (00:07:06) zoom out 173.9759 243.4303
+\i (00:07:06) trapsize 3788
+\i (00:07:07) zoom in 1 
+\i (00:07:07) setwindow pcb
+\i (00:07:07) zoom in 190.4926 224.9437
+\i (00:07:07) trapsize 1894
+\i (00:07:09) zoom in 1 
+\i (00:07:09) setwindow pcb
+\i (00:07:09) zoom in 201.4407 230.5124
+\i (00:07:09) trapsize 947
+\i (00:07:09) zoom in 1 
+\i (00:07:09) setwindow pcb
+\i (00:07:09) zoom in 201.8953 232.9937
+\i (00:07:09) trapsize 474
+\i (00:07:12) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:07:13) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (00:07:13) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:07:14) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (00:07:15) QtSignal CVPLayerGrid CVPBoxAllPower clicked false
+\i (00:07:15) QtSignal CVPLayerGrid CVPBoxAllPower clicked true
+\i (00:07:16) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (00:07:17) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:07:17) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (00:07:18) QtSignal CVPLayerGrid CVPBoxAllGnd clicked false
+\i (00:07:19) QtSignal CVPLayerGrid CVPBoxAllGnd clicked true
+\i (00:07:19) QtSignal CVPLayerGrid CVPBoxAllGnd clicked false
+\i (00:07:20) zoom out 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom out 200.4747 234.8310
+\i (00:07:20) trapsize 947
+\i (00:07:20) zoom out 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom out 196.8380 234.5848
+\i (00:07:20) trapsize 1894
+\i (00:07:20) zoom out 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom out 193.5801 233.7892
+\i (00:07:20) trapsize 3788
+\i (00:07:20) zoom out 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom out 188.1250 232.4255
+\i (00:07:20) trapsize 7576
+\i (00:07:21) zoom in 1 
+\i (00:07:21) setwindow pcb
+\i (00:07:21) zoom in 164.6378 268.0349
+\i (00:07:21) trapsize 3788
+\i (00:07:21) zoom in 1 
+\i (00:07:21) setwindow pcb
+\i (00:07:21) zoom in 163.1983 266.6712
+\i (00:07:21) trapsize 1894
+\i (00:07:22) zoom in 1 
+\i (00:07:22) setwindow pcb
+\i (00:07:22) zoom in 164.8272 268.9821
+\i (00:07:22) trapsize 947
+\i (00:07:23) QtSignal CVPLayerGrid CVPBoxAllPower clicked false
+\i (00:07:24) QtSignal CVPLayerGrid CVPBoxAllAll clicked false
+\i (00:07:24) updateport CVPane
+\i (00:07:25) QtSignal CVPLayerGrid CVPBoxAllAll clicked true
+\i (00:07:25) updateport CVPane
+\i (00:07:25) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:07:26) QtSignal CVPLayerGrid CVPBoxAllPower clicked true
+\i (00:07:26) QtSignal CVPLayerGrid CVPBoxAllGnd clicked true
+\i (00:07:27) QtSignal CVPLayerGrid CVPBoxAllPower clicked false
+\i (00:07:27) QtSignal CVPLayerGrid CVPBoxAllPower clicked true
+\i (00:07:28) QtSignal CVPLayerGrid CVPBoxAllGnd clicked false
+\i (00:07:29) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:07:30) QtSignal CVPLayerGrid CVPBoxAllGnd clicked true
+\i (00:07:31) QtSignal CVPLayerGrid CVPAllConductors clicked false
+\i (00:07:32) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:07:32) QtSignal CVPLayerGrid CVPConductorsPin clicked false
+\i (00:07:33) QtSignal CVPLayerGrid CVPConductorsPin clicked true
+\i (00:07:33) QtSignal CVPLayerGrid CVPConductorsPin clicked false
+\i (00:07:34) QtSignal CVPLayerGrid CVPConductorsPin clicked true
+\i (00:07:34) QtSignal CVPLayerGrid CVPConductorsPin clicked false
+\i (00:07:36) QtSignal CVPLayerGrid CVPConductorsVia clicked false
+\i (00:07:36) QtSignal CVPLayerGrid CVPConductorsVia clicked true
+\i (00:07:36) QtSignal CVPLayerGrid CVPConductorsVia clicked false
+\i (00:07:37) QtSignal CVPLayerGrid CVPConductorsVia clicked true
+\i (00:07:37) QtSignal CVPLayerGrid CVPConductorsVia clicked false
+\i (00:07:38) QtSignal CVPLayerGrid CVPConductorsEtch clicked false
+\i (00:07:39) QtSignal CVPLayerGrid CVPConductorsEtch clicked true
+\i (00:07:39) QtSignal CVPLayerGrid CVPConductorsEtch clicked false
+\i (00:07:40) QtSignal CVPLayerGrid CVPConductorsPlan clicked false
+\i (00:07:40) QtSignal CVPLayerGrid CVPConductorsPlan clicked true
+\i (00:07:41) QtSignal CVPLayerGrid CVPConductorsEtch clicked true
+\i (00:07:42) QtSignal CVPLayerGrid CVPConductorsEtch clicked false
+\i (00:07:42) QtSignal CVPLayerGrid CVPConductorsEtch clicked true
+\i (00:07:44) QtSignal CVPLayerGrid CVPConductorsVia clicked true
+\i (00:07:44) QtSignal CVPLayerGrid CVPConductorsVia clicked false
+\i (00:07:45) QtSignal CVPLayerGrid CVPConductorsVia clicked true
+\i (00:07:45) QtSignal CVPLayerGrid CVPConductorsPin clicked true
+\i (00:07:45) QtSignal CVPLayerGrid CVPConductorsPin clicked false
+\i (00:07:46) QtSignal CVPLayerGrid CVPConductorsPin clicked true
+\i (00:07:47) QtSignal CVPLayerGrid CVPConductorsDrc clicked false
+\i (00:07:47) QtSignal CVPLayerGrid CVPConductorsDrc clicked true
+\i (00:07:49) QtSignal CVPLayerGrid CVPIcpAllBox clicked true
+\i (00:07:49) zoom out 1 
+\i (00:07:49) setwindow pcb
+\i (00:07:49) zoom out 176.0973 260.5912
+\i (00:07:49) trapsize 1894
+\i (00:07:49) zoom out 1 
+\i (00:07:49) setwindow pcb
+\i (00:07:49) zoom out 176.0215 260.6290
+\i (00:07:49) trapsize 3788
+\i (00:07:50) zoom out 1 
+\i (00:07:50) setwindow pcb
+\i (00:07:50) zoom out 176.4761 260.5533
+\i (00:07:50) trapsize 7576
+\i (00:07:50) zoom out 1 
+\i (00:07:50) setwindow pcb
+\i (00:07:50) zoom out 187.8409 247.2186
+\i (00:07:50) trapsize 15153
+\i (00:07:51) zoom in 1 
+\i (00:07:51) setwindow pcb
+\i (00:07:51) zoom in 161.5307 256.6135
+\i (00:07:51) trapsize 7576
+\i (00:07:51) zoom in 1 
+\i (00:07:51) setwindow pcb
+\i (00:07:51) zoom in 163.3491 255.2498
+\i (00:07:51) trapsize 3788
+\i (00:07:51) zoom in 1 
+\i (00:07:51) setwindow pcb
+\i (00:07:51) zoom in 175.0169 247.9764
+\i (00:07:51) trapsize 1894
+\i (00:07:53) QtSignal CVPLayerGrid CVPIcpColor2 clicked
+\i (00:07:54) QtSignal CVPLayerGrid CVPIcpColor2 clicked
+\i (00:07:55) zoom out 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom out 175.5094 256.1969
+\i (00:07:55) trapsize 3788
+\i (00:07:55) zoom in 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom in 171.7211 235.8161
+\i (00:07:55) trapsize 1894
+\i (00:07:56) zoom out 1 
+\i (00:07:56) setwindow pcb
+\i (00:07:56) zoom out 171.3045 233.5810
+\i (00:07:56) trapsize 3788
+\i (00:07:56) zoom out 1 
+\i (00:07:56) setwindow pcb
+\i (00:07:56) zoom out 171.3802 233.5811
+\i (00:07:56) trapsize 7576
+\i (00:07:57) zoom in 1 
+\i (00:07:57) setwindow pcb
+\i (00:07:57) zoom in 173.3501 233.7326
+\i (00:07:57) trapsize 3788
+\i (00:07:58) zoom in 1 
+\i (00:07:58) setwindow pcb
+\i (00:07:58) zoom in 160.2428 277.4490
+\i (00:07:58) trapsize 1894
+\i (00:07:59) zoom in 1 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) zoom in 159.9019 279.6083
+\i (00:07:59) trapsize 947
+\i (00:07:59) zoom out 1 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) zoom out 160.4323 279.1348
+\i (00:07:59) trapsize 1894
+\i (00:07:59) zoom out 1 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) zoom out 160.7353 278.5665
+\i (00:07:59) trapsize 3788
+\i (00:07:59) zoom out 1 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) zoom out 161.4172 277.0512
+\i (00:07:59) trapsize 7576
+\i (00:07:59) zoom out 1 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) zoom out 163.3870 272.3537
+\i (00:07:59) trapsize 15153
+\i (00:07:59) zoom in 1 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) zoom in 184.5632 224.4703
+\i (00:07:59) trapsize 7576
+\i (00:08:00) zoom in 1 
+\i (00:08:00) setwindow pcb
+\i (00:08:00) zoom in 185.1693 222.6519
+\i (00:08:00) trapsize 3788
+\i (00:08:00) zoom in 1 
+\i (00:08:00) setwindow pcb
+\i (00:08:00) zoom in 176.1533 223.7884
+\i (00:08:00) trapsize 1894
+\i (00:08:06) zoom out 1 
+\i (00:08:06) setwindow pcb
+\i (00:08:06) zoom out 178.3505 222.4625
+\i (00:08:06) trapsize 3788
+\i (00:08:07) zoom in 1 
+\i (00:08:07) setwindow pcb
+\i (00:08:07) zoom in 174.5623 228.2207
+\i (00:08:07) trapsize 1894
+\i (00:08:10) artwork 
+\i (00:08:12) setwindow form.film_control
+\i (00:08:12) FORM film_control filmtree  TOP_SOLDER 
+\i (00:08:16) FORM film_control filmtree  TOP_SILK 
+\i (00:08:18) FORM film_control filmtree  'REF DES/SILKSCREEN_TOP' TOP_SILK 
+\i (00:08:20) FORM film_control filmtree  'PACKAGE GEOMETRY/SILKSCREEN_TOP' TOP_SILK 
+\i (00:08:22) FORM film_control filmtree  'REF DES/SILKSCREEN_TOP' TOP_SILK 
+\i (00:08:23) FORM film_control filmtree popup Cut 'REF DES/SILKSCREEN_TOP' TOP_SILK 
+\i (00:08:27) FORM film_control filmtree  TOP_SILK 
+\i (00:08:27) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:08:28) FORM film_control filmtree  'REF DES/SILKSCREEN_BOTTOM' BOTTOM_SILK 
+\i (00:08:29) FORM film_control filmtree popup Cut 'REF DES/SILKSCREEN_BOTTOM' BOTTOM_SILK 
+\i (00:08:30) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:08:31) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:08:34) FORM film_control filmtree  'VIA CLASS/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
+\i (00:08:35) FORM film_control filmtree  PIN/SOLDERMASK_BOTTOM BOTTOM_SOLDER 
+\i (00:08:36) FORM film_control filmtree  'PACKAGE GEOMETRY/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
+\i (00:08:36) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
+\i (00:08:37) FORM film_control filmtree  'PACKAGE GEOMETRY/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
+\i (00:08:37) FORM film_control filmtree  PIN/SOLDERMASK_BOTTOM BOTTOM_SOLDER 
+\i (00:08:39) FORM film_control filmtree  'PACKAGE GEOMETRY/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
+\i (00:12:22) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:12:24) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_TOP' TOP_SOLDER 
+\i (00:12:32) FORM film_control filmtree popup Cut 'DRC ERROR CLASS/SOLDERMASK_TOP' TOP_SOLDER 
+\i (00:12:33) FORM film_control filmtree  PIN/SOLDERMASK_TOP TOP_SOLDER 
+\i (00:12:34) FORM film_control filmtree popup Cut PIN/SOLDERMASK_TOP TOP_SOLDER 
+\i (00:12:35) FORM film_control filmtree popup Cut 'VIA CLASS/SOLDERMASK_TOP' TOP_SOLDER 
+\i (00:12:36) FORM film_control filmtree  TOP_SOLDER 
+\i (00:12:37) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:12:38) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
+\i (00:12:39) FORM film_control filmtree popup Cut 'DRC ERROR CLASS/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
+\i (00:12:39) FORM film_control filmtree  PIN/SOLDERMASK_BOTTOM BOTTOM_SOLDER 
+\i (00:12:40) FORM film_control filmtree popup Cut PIN/SOLDERMASK_BOTTOM BOTTOM_SOLDER 
+\i (00:12:41) FORM film_control filmtree popup Cut 'VIA CLASS/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
+\i (00:12:42) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:12:43) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:12:44) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:12:46) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:12:51) FORM film_control select_all  
+\i (00:12:52) FORM film_control create  
+\t (00:12:52) Checking db records
+\t (00:12:52)     checking for orphans...
+\t (00:12:52)     Checked 100 percent
+\w (00:12:52) Run batch DRC to correctly regenerate DRC errs.
 
-\t (00:05:33) Done dbdoctor.
-\t (00:05:33) Starting Create artwork films...
-\w (00:05:33) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:05:34) Artwork generated with warnings.
-\i (00:05:36) setwindow text
-\i (00:05:36) close
-\i (00:05:36) setwindow form.film_control
-\i (00:05:36) FORM film_control ok  
-\i (00:05:37) setwindow pcb
-\i (00:05:37) generaledit 
-\i (00:05:50) artwork 
-\i (00:05:51) setwindow form.film_control
-\i (00:05:51) FORM film_control filmtree  TOP_SOLDER 
-\i (00:05:53) FORM film_control select_all  
-\i (00:05:57) FORM film_control suppress_unconnect YES 
-\i (00:05:57) FORM film_control suppress_unconnect NO 
-\i (00:06:00) FORM film_control general_parameters  
-\i (00:06:01) FORM film_control film_control  
-\i (00:06:02) FORM film_control create  
-\t (00:06:02) Checking db records
-\t (00:06:02)     checking for orphans...
-\t (00:06:02)     Checked 100 percent
-\w (00:06:02) Run batch DRC to correctly regenerate DRC errs.
+\t (00:12:52) Done dbdoctor.
+\t (00:12:52) Starting Create artwork films...
+\w (00:12:52) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:12:53) Artwork generated with warnings.
+\i (00:12:54) setwindow text
+\i (00:12:54) close
+\i (00:12:55) setwindow form.film_control
+\i (00:12:55) FORM film_control cancel  
+\i (00:12:55) setwindow pcb
+\i (00:12:55) generaledit 
+\i (00:14:08) artwork 
+\i (00:14:10) setwindow form.film_control
+\i (00:14:10) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:14:10) FORM film_control filmtree  'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' BOTTOM_SILK 
+\i (00:14:13) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:14:14) FORM film_control cancel  
+\i (00:14:14) setwindow pcb
+\i (00:14:14) generaledit 
+\i (00:17:20) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM_SOLDER"
+\i (00:17:20) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM_SOLDER"
+\i (00:17:22) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP_SOLDER"
+\i (00:17:22) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP_SOLDER"
+\i (00:17:24) pick grid 190.5108 229.7739
+\t (00:17:24) last pick:  190.5000 229.8700
+\i (00:17:24) zoom out 1 
+\i (00:17:24) setwindow pcb
+\i (00:17:24) zoom out 191.7230 228.7132
+   (00:17:24) Loading signal.cxt 
+\i (00:17:24) trapsize 3788
+\i (00:17:24) zoom out 1 
+\i (00:17:24) setwindow pcb
+\i (00:17:24) zoom out 191.8746 228.5616
+\i (00:17:24) trapsize 7576
+\i (00:17:24) zoom out 1 
+\i (00:17:24) setwindow pcb
+\i (00:17:24) zoom out 192.1776 229.0161
+\i (00:17:24) trapsize 15153
+\i (00:17:24) zoom out 1 
+\i (00:17:24) setwindow pcb
+\i (00:17:24) zoom out 291.2402 230.5315
+\i (00:17:24) trapsize 24313
+\i (00:17:26) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP_SILK"
+\i (00:17:26) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP_SILK"
+\i (00:17:27) zoom in 1 
+\i (00:17:27) setwindow pcb
+\i (00:17:27) zoom in 218.3313 266.9574
+\i (00:17:27) trapsize 12157
+\i (00:17:28) zoom in 1 
+\i (00:17:28) setwindow pcb
+\i (00:17:28) zoom in 159.4937 252.6127
+\i (00:17:28) trapsize 6078
+\i (00:17:28) zoom in 1 
+\i (00:17:28) setwindow pcb
+\i (00:17:28) zoom in 159.2506 251.6402
+\i (00:17:28) trapsize 3039
+\i (00:17:29) zoom out 1 
+\i (00:17:29) setwindow pcb
+\i (00:17:29) zoom out 159.2506 251.6402
+\i (00:17:29) trapsize 6078
+\i (00:17:29) zoom in 1 
+\i (00:17:29) setwindow pcb
+\i (00:17:29) zoom in 155.2390 251.2756
+\i (00:17:29) trapsize 3039
+\i (00:17:30) zoom out 1 
+\i (00:17:30) setwindow pcb
+\i (00:17:30) zoom out 155.2390 251.2756
+\i (00:17:30) trapsize 6078
+\i (00:17:30) zoom in 1 
+\i (00:17:30) setwindow pcb
+\i (00:17:30) zoom in 152.8077 247.9933
+\i (00:17:30) trapsize 3039
+\i (00:17:36) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:17:36) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:17:40) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:17:40) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:17:43) zoom in 1 
+\i (00:17:43) setwindow pcb
+\i (00:17:43) zoom in 164.4173 266.7144
+\i (00:17:43) trapsize 1520
+\i (00:17:44) zoom in 1 
+\i (00:17:44) setwindow pcb
+\i (00:17:44) zoom in 168.2162 266.8664
+\i (00:17:44) trapsize 760
+\i (00:17:47) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged
+\i (00:17:47) QtSignal ColorVisibilityPane CVPViewDropdown activated
+\i (00:17:48) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:17:50) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (00:17:55) drag_start grid 166.2864 261.1832
+\i (00:17:55) slide 
+\t (00:17:55) last pick:  166.3700 261.1120
+\t (00:17:55) Waiting for the destination pick.
+\i (00:17:55) updateport CVPane
+\i (00:17:58) drag_stop grid 170.1613 261.5327
+\t (00:17:58) No DRC errors detected.
+\i (00:17:58) generaledit 
+\i (00:18:00) drag_start grid 170.2829 267.1247
+\i (00:18:00) slide 
+\t (00:18:00) last pick:  170.1800 267.2080
+\t (00:18:00) Waiting for the destination pick.
+\i (00:18:01) drag_stop grid 170.4348 266.8664
+\t (00:18:01) No DRC errors detected.
+\i (00:18:01) generaledit 
+\i (00:18:01) drag_start grid 170.5260 266.3649
+\i (00:18:01) slide 
+\t (00:18:02) last pick:  170.4340 266.4460
+\t (00:18:02) Waiting for the destination pick.
+\i (00:18:02) drag_stop grid 170.7995 266.2129
+\t (00:18:02) No DRC errors detected.
+\i (00:18:02) generaledit 
+\i (00:18:03) zoom out 1 
+\i (00:18:03) setwindow pcb
+\i (00:18:03) zoom out 172.3343 265.4836
+\i (00:18:03) trapsize 1520
+\i (00:18:04) zoom out 1 
+\i (00:18:04) setwindow pcb
+\i (00:18:04) zoom out 173.1244 264.4502
+\i (00:18:04) trapsize 3039
+\i (00:18:04) zoom in 1 
+\i (00:18:04) setwindow pcb
+\i (00:18:04) zoom in 178.4733 274.9048
+\i (00:18:04) trapsize 1520
+\i (00:18:10) zoom out 1 
+\i (00:18:10) setwindow pcb
+\i (00:18:10) zoom out 177.9871 268.2187
+\i (00:18:10) trapsize 3039
+\i (00:18:11) zoom in 1 
+\i (00:18:11) setwindow pcb
+\i (00:18:11) zoom in 179.8713 274.6009
+\i (00:18:11) trapsize 1520
+\i (00:18:14) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:18:15) save 
+\i (00:18:16) fillin yes 
+\t (00:18:16) > Sending response DoneOpenBoard
+\i (00:18:16) generaledit 
+\i (00:18:22) artwork 
+\i (00:18:25) setwindow form.film_control
+\i (00:18:25) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:18:27) FORM film_control filmtree  'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' BOTTOM_SILK 
+\i (00:18:29) FORM film_control filmtree popup Add 'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' BOTTOM_SILK 
+\i (00:18:29) setwindow form.scl_browser
+\i (00:18:29) FORM scl_browser treelist  ANALYSIS 
+\i (00:18:33) FORM scl_browser cancel  
+\i (00:18:35) setwindow pcb
+\i (00:18:35) zoom out 1 
+\i (00:18:35) setwindow pcb
+\i (00:18:35) zoom out 182.8193 268.4619
+\i (00:18:35) trapsize 3039
+\i (00:18:36) zoom in 1 
+\i (00:18:36) setwindow pcb
+\i (00:18:36) zoom in 187.9857 275.3911
+\i (00:18:36) trapsize 1520
+\i (00:18:36) zoom in 1 
+\i (00:18:36) setwindow pcb
+\i (00:18:36) zoom in 187.2259 274.7833
+\i (00:18:36) trapsize 760
+\i (00:18:38) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:18:40) zoom out 1 
+\i (00:18:40) setwindow pcb
+\i (00:18:40) zoom out 184.5515 276.0142
+\i (00:18:40) trapsize 1520
+\i (00:18:40) zoom out 1 
+\i (00:18:40) setwindow pcb
+\i (00:18:40) zoom out 184.7338 276.0141
+\i (00:18:40) trapsize 3039
+\i (00:18:40) zoom in 1 
+\i (00:18:40) setwindow pcb
+\i (00:18:40) zoom in 190.9944 282.7610
+\i (00:18:40) trapsize 1520
+\i (00:18:41) zoom in 1 
+\i (00:18:41) setwindow pcb
+\i (00:18:41) zoom in 190.0219 282.0013
+\i (00:18:41) trapsize 760
+\i (00:18:43) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP_SILK"
+\i (00:18:43) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP_SILK"
+\i (00:18:45) pick grid 189.5205 279.2053
+\t (00:18:45) last pick:  189.4840 279.1460
+\i (00:18:46) setwindow form.film_control
+\i (00:18:46) FORM film_control cancel  
+\i (00:18:46) setwindow pcb
+\i (00:18:46) generaledit 
+\i (00:18:53) artwork 
+\i (00:18:55) setwindow form.film_control
+\i (00:18:55) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:18:56) FORM film_control filmtree  'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' BOTTOM_SILK 
+\i (00:18:57) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:18:58) FORM film_control filmtree  TOP_SILK 
+\i (00:19:00) FORM film_control filmtree  'PACKAGE GEOMETRY/SILKSCREEN_TOP' TOP_SILK 
+\i (00:19:01) FORM film_control filmtree popup Add 'PACKAGE GEOMETRY/SILKSCREEN_TOP' TOP_SILK 
+\i (00:19:01) setwindow form.scl_browser
+\i (00:19:01) FORM scl_browser treelist  ANALYSIS 
+\i (00:19:04) FORM scl_browser treelist  'PACKAGE GEOMETRY' 
+\i (00:19:12) FORM scl_browser treelist  PASTEMASK_TOP 'PACKAGE GEOMETRY' 
+\i (00:19:12) FORM scl_browser treelist 'MULTISEL YES' PASTEMASK_TOP 'PACKAGE GEOMETRY' 
+\i (00:19:13) FORM scl_browser done  
+\i (00:19:14) setwindow form.film_control
+\i (00:19:14) FORM film_control filmtree  TOP_SILK 
+\i (00:19:15) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:19:16) FORM film_control filmtree  'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' BOTTOM_SILK 
+\i (00:19:17) FORM film_control filmtree popup Add 'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' BOTTOM_SILK 
+\i (00:19:17) setwindow form.scl_browser
+\i (00:19:17) FORM scl_browser treelist  ANALYSIS 
+\i (00:19:22) FORM scl_browser treelist  'PACKAGE GEOMETRY' 
+\i (00:19:28) FORM scl_browser treelist  PASTEMASK_BOTTOM 'PACKAGE GEOMETRY' 
+\i (00:19:28) FORM scl_browser treelist 'MULTISEL YES' PASTEMASK_BOTTOM 'PACKAGE GEOMETRY' 
+\i (00:19:28) FORM scl_browser done  
+\i (00:19:29) setwindow form.film_control
+\i (00:19:29) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:19:32) FORM film_control filmtree  TOP_SOLDER 
+\i (00:19:32) FORM film_control filmtree  'PACKAGE GEOMETRY/SOLDERMASK_TOP' TOP_SOLDER 
+\i (00:19:33) FORM film_control filmtree popup Add 'PACKAGE GEOMETRY/SOLDERMASK_TOP' TOP_SOLDER 
+\i (00:19:33) setwindow form.scl_browser
+\i (00:19:33) FORM scl_browser treelist  ANALYSIS 
+\i (00:19:42) FORM scl_browser treelist  PIN 
+\i (00:19:46) FORM scl_browser treelist  SOLDERMASK_TOP PIN 
+\i (00:19:46) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_TOP PIN 
+\i (00:19:47) FORM scl_browser treelist  PIN 
+\i (00:19:48) FORM scl_browser treelist  'VIA CLASS' 
+\i (00:19:51) FORM scl_browser treelist  SOLDERMASK_TOP 'VIA CLASS' 
+\i (00:19:51) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_TOP 'VIA CLASS' 
+\i (00:19:52) FORM scl_browser treelist  PIN 
+\i (00:19:55) FORM scl_browser done  
+\i (00:19:57) setwindow form.film_control
+\i (00:19:57) FORM film_control filmtree  TOP_SOLDER 
+\i (00:19:58) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:19:59) FORM film_control filmtree  'PACKAGE GEOMETRY/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
+\i (00:20:00) FORM film_control filmtree popup Add 'PACKAGE GEOMETRY/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
+\i (00:20:00) setwindow form.scl_browser
+\i (00:20:00) FORM scl_browser treelist  ANALYSIS 
+\i (00:20:02) FORM scl_browser treelist  'VIA CLASS' 
+\i (00:20:03) FORM scl_browser treelist  SOLDERMASK_TOP 'VIA CLASS' 
+\i (00:20:03) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_TOP 'VIA CLASS' 
+\i (00:20:05) FORM scl_browser treelist  PIN 
+\i (00:20:06) FORM scl_browser treelist  SOLDERMASK_TOP PIN 
+\i (00:20:06) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_TOP PIN 
+\i (00:20:11) FORM scl_browser done  
+\i (00:20:12) setwindow form.film_control
+\i (00:20:12) FORM film_control filmtree  PIN/SOLDERMASK_TOP BOTTOM_SOLDER 
+\i (00:20:14) FORM film_control filmtree popup Cut PIN/SOLDERMASK_TOP BOTTOM_SOLDER 
+\i (00:20:15) FORM film_control filmtree  'VIA CLASS/SOLDERMASK_TOP' BOTTOM_SOLDER 
+\i (00:20:16) FORM film_control filmtree popup Cut 'VIA CLASS/SOLDERMASK_TOP' BOTTOM_SOLDER 
+\i (00:20:17) FORM film_control filmtree popup Cut PIN/SOLDERMASK_TOP BOTTOM_SOLDER 
+\i (00:20:17) FORM film_control filmtree  'PACKAGE GEOMETRY/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
+\i (00:20:18) FORM film_control filmtree popup Add 'PACKAGE GEOMETRY/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
+\i (00:20:18) setwindow form.scl_browser
+\i (00:20:18) FORM scl_browser treelist  ANALYSIS 
+\i (00:20:20) FORM scl_browser treelist  PIN 
+\i (00:20:22) FORM scl_browser treelist  SOLDERMASK_BOTTOM PIN 
+\i (00:20:23) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM PIN 
+\i (00:20:24) FORM scl_browser treelist  'VIA CLASS' 
+\i (00:20:26) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'VIA CLASS' 
+\i (00:20:26) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'VIA CLASS' 
+\i (00:20:27) FORM scl_browser done  
+\i (00:20:28) setwindow form.film_control
+\i (00:20:28) FORM film_control filmtree  PIN/SOLDERMASK_TOP BOTTOM_SOLDER 
+\i (00:20:29) FORM film_control filmtree popup Cut PIN/SOLDERMASK_TOP BOTTOM_SOLDER 
+\i (00:20:30) FORM film_control filmtree  'PACKAGE GEOMETRY/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
+\i (00:20:31) FORM film_control filmtree  PIN/SOLDERMASK_TOP BOTTOM_SOLDER 
+\i (00:20:32) FORM film_control filmtree popup Cut PIN/SOLDERMASK_TOP BOTTOM_SOLDER 
+\i (00:20:33) FORM film_control filmtree  PIN/SOLDERMASK_BOTTOM BOTTOM_SOLDER 
+\i (00:20:34) FORM film_control filmtree  PIN/SOLDERMASK_TOP BOTTOM_SOLDER 
+\i (00:20:37) FORM film_control filmtree popup Cut PIN/SOLDERMASK_TOP BOTTOM_SOLDER 
+\i (00:20:40) FORM film_control filmtree popup Cut PIN/SOLDERMASK_TOP BOTTOM_SOLDER 
+\i (00:20:40) FORM film_control filmtree  PIN/SOLDERMASK_BOTTOM BOTTOM_SOLDER 
+\i (00:20:41) FORM film_control filmtree popup Cut PIN/SOLDERMASK_BOTTOM BOTTOM_SOLDER 
+\i (00:20:42) FORM film_control filmtree  PIN/SOLDERMASK_TOP BOTTOM_SOLDER 
+\i (00:20:43) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:20:45) FORM film_control filmtree  PIN/SOLDERMASK_TOP BOTTOM_SOLDER 
+\i (00:20:46) FORM film_control filmtree popup Cut PIN/SOLDERMASK_TOP BOTTOM_SOLDER 
+\i (00:20:49) FORM film_control select_all  
+\i (00:20:51) FORM film_control select_all  
+\i (00:20:53) FORM film_control filmtree  TOP_SOLDER 
+\i (00:20:53) FORM film_control filmtree  TOP_SILK 
+\i (00:20:54) FORM film_control filmtree  TOP 
+\i (00:20:54) FORM film_control filmtree  TOP_SILK 
+\i (00:20:54) FORM film_control filmtree  TOP_SOLDER 
+\i (00:20:55) FORM film_control filmtree 'MULTISEL NO' TOP_SOLDER 
+\i (00:20:55) FORM film_control filmtree  TOP_SILK 
+\i (00:20:55) FORM film_control filmtree 'MULTISEL NO' TOP_SILK 
+\i (00:20:55) FORM film_control filmtree  TOP_SOLDER 
+\i (00:20:55) FORM film_control filmtree 'MULTISEL YES' TOP_SOLDER 
+\i (00:20:56) FORM film_control filmtree 'MULTISEL NO' TOP_SOLDER 
+\i (00:20:57) FORM film_control filmtree  TOP 
+\i (00:20:58) FORM film_control filmtree 'MULTISEL NO' TOP 
+\i (00:20:58) FORM film_control filmtree  POWER 
+\i (00:20:58) FORM film_control filmtree 'MULTISEL NO' POWER 
+\i (00:20:59) FORM film_control filmtree  OUTLINE 
+\i (00:20:59) FORM film_control filmtree 'MULTISEL NO' OUTLINE 
+\i (00:20:59) FORM film_control filmtree  GND 
+\i (00:21:00) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:21:00) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:21:01) FORM film_control filmtree 'MULTISEL NO' BOTTOM_SILK 
+\i (00:21:01) FORM film_control filmtree  BOTTOM 
+\i (00:21:01) FORM film_control filmtree 'MULTISEL NO' BOTTOM 
+\i (00:21:02) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:21:02) FORM film_control filmtree 'MULTISEL NO' BOTTOM_SOLDER 
+\i (00:21:02) FORM film_control filmtree  GND 
+\i (00:21:02) FORM film_control filmtree 'MULTISEL NO' GND 
+\i (00:21:03) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:21:05) FORM film_control ok  
+\i (00:21:05) setwindow pcb
+\i (00:21:05) generaledit 
+\i (00:21:07) artwork 
+\i (00:21:09) setwindow form.film_control
+\i (00:21:09) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:21:09) FORM film_control filmtree  PIN/SOLDERMASK_BOTTOM BOTTOM_SOLDER 
+\i (00:21:11) FORM film_control filmtree  'VIA CLASS/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
+\i (00:21:11) FORM film_control filmtree  'VIA CLASS/SOLDERMASK_TOP' BOTTOM_SOLDER 
+\i (00:21:13) FORM film_control filmtree popup Cut 'VIA CLASS/SOLDERMASK_TOP' BOTTOM_SOLDER 
+\i (00:21:14) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:21:15) FORM film_control select_all  
+\i (00:21:17) FORM film_control create  
+\t (00:21:17) Checking db records
+\t (00:21:17)     checking for orphans...
+\t (00:21:17)     Checked 100 percent
+\w (00:21:17) Run batch DRC to correctly regenerate DRC errs.
 
-\t (00:06:02) Done dbdoctor.
-\t (00:06:02) Starting Create artwork films...
-\w (00:06:03) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:06:04) Artwork generated with warnings.
-\i (00:06:05) FORM film_control general_parameters  
-\i (00:06:13) FORM film_control filename_prefix -V5 
-\i (00:06:13) FORM film_control film_control  
-\i (00:06:14) FORM film_control database_check NO 
-\i (00:06:14) FORM film_control database_check YES 
-\i (00:06:16) FORM film_control create  
-\t (00:06:16) Starting Create artwork films...
-\w (00:06:17) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:06:18) Artwork generated with warnings.
-\i (00:06:25) setwindow text
-\i (00:06:25) close
-\i (00:06:26) setwindow form.film_control
-\i (00:06:26) FORM film_control ok  
-\i (00:06:26) setwindow pcb
-\i (00:06:26) generaledit 
-\i (00:08:59) ncdrill legend 
-   (00:08:59) Loading signal.cxt 
-   (00:08:59) Loading mfg.cxt 
-\i (00:09:01) setwindow form.nc_drilllegend
-\i (00:09:01) FORM nc_drilllegend cancel  
-\i (00:09:01) setwindow pcb
-\i (00:09:01) generaledit 
-\i (00:09:06) nctape_full 
-\i (00:09:14) setwindow form.nc_drill
-\i (00:09:14) FORM nc_drill tape_name ST-LINKV3.drl 
-\i (00:09:14) FORM nc_drill execute  
-\t (00:09:14) Starting Generating NC Drill...
-\i (00:09:16) FORM nc_drill cancel  
-\i (00:09:16) setwindow pcb
-\i (00:09:16) generaledit 
-\i (00:15:09) artwork 
-\i (00:15:38) setwindow form.film_control
-\i (00:15:38) FORM film_control filmtree  TOP_SILK 
-\i (00:15:39) FORM film_control filmtree  'PACKAGE GEOMETRY/SILKSCREEN_TOP' TOP_SILK 
-\i (00:15:48) FORM film_control filmtree popup Add 'PACKAGE GEOMETRY/SILKSCREEN_TOP' TOP_SILK 
-\i (00:15:48) setwindow form.scl_browser
-\i (00:15:48) FORM scl_browser treelist  ANALYSIS 
-\i (00:15:50) FORM scl_browser treelist  'REF DES' 
-\i (00:15:51) FORM scl_browser treelist  SILKSCREEN_TOP 'REF DES' 
-\i (00:15:51) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'REF DES' 
-\i (00:15:52) FORM scl_browser done  
-\i (00:16:05) setwindow form.film_control
-\i (00:16:05) FORM film_control filmtree  TOP_SILK 
-\i (00:16:06) FORM film_control filmtree  TOP_SOLDER 
-\i (00:16:19) FORM film_control filmtree  'DRC ERROR CLASS/SOLDERMASK_TOP' TOP_SOLDER 
-\i (00:16:20) FORM film_control filmtree popup Add 'DRC ERROR CLASS/SOLDERMASK_TOP' TOP_SOLDER 
-\i (00:16:20) setwindow form.scl_browser
-\i (00:16:20) FORM scl_browser treelist  ANALYSIS 
-\i (00:16:22) FORM scl_browser treelist  'PACKAGE GEOMETRY' 
-\i (00:16:25) FORM scl_browser treelist  SOLDERMASK_TOP 'PACKAGE GEOMETRY' 
-\i (00:16:25) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_TOP 'PACKAGE GEOMETRY' 
-\i (00:16:28) FORM scl_browser done  
-\i (00:16:58) setwindow form.film_control
-\i (00:16:58) FORM film_control filmtree  TOP_SOLDER 
-\i (00:16:59) FORM film_control filmtree  BOTTOM_SOLDER 
-\i (00:17:00) FORM film_control filmtree  BOTTOM_SILK 
-\i (00:17:01) FORM film_control filmtree  TOP_SILK 
-\i (00:17:06) FORM film_control filmtree  'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' BOTTOM_SILK 
-\i (00:17:07) FORM film_control filmtree popup Add 'PACKAGE GEOMETRY/SILKSCREEN_BOTTOM' BOTTOM_SILK 
-\i (00:17:07) setwindow form.scl_browser
-\i (00:17:07) FORM scl_browser treelist  ANALYSIS 
-\i (00:17:09) FORM scl_browser treelist  'REF DES' 
-\i (00:17:12) FORM scl_browser treelist  SILKSCREEN_BOTTOM 'REF DES' 
-\i (00:17:12) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_BOTTOM 'REF DES' 
-\i (00:17:13) FORM scl_browser done  
-\i (00:17:14) setwindow form.film_control
-\i (00:17:14) FORM film_control filmtree  BOTTOM_SILK 
-\i (00:17:15) FORM film_control filmtree  TOP_SILK 
-\i (00:17:16) FORM film_control filmtree  TOP_SOLDER 
-\i (00:17:28) FORM film_control filmtree  'VIA CLASS/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
-\i (00:17:28) FORM film_control filmtree popup Add 'VIA CLASS/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
-\i (00:17:28) setwindow form.scl_browser
-\i (00:17:28) FORM scl_browser treelist  ANALYSIS 
-\i (00:17:31) FORM scl_browser treelist  'REF DES' 
-\i (00:17:39) FORM scl_browser treelist  MANUFACTURING 
-\i (00:17:43) FORM scl_browser treelist  'PACKAGE GEOMETRY' 
-\i (00:17:47) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'PACKAGE GEOMETRY' 
-\i (00:17:50) FORM scl_browser done  
-\i (00:17:55) setwindow form.film_control
-\i (00:17:55) FORM film_control filmtree popup Add 'VIA CLASS/SOLDERMASK_BOTTOM' BOTTOM_SOLDER 
-\i (00:17:55) setwindow form.scl_browser
-\i (00:17:55) FORM scl_browser treelist  ANALYSIS 
-\i (00:17:58) FORM scl_browser treelist  'PACKAGE GEOMETRY' 
-\i (00:18:01) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'PACKAGE GEOMETRY' 
-\i (00:18:01) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'PACKAGE GEOMETRY' 
-\i (00:18:02) FORM scl_browser done  
-\i (00:18:30) setwindow form.film_control
-\i (00:18:30) FORM film_control filmtree  TOP_SILK 
-\i (00:18:30) FORM film_control filmtree  TOP 
-\i (00:18:31) FORM film_control filmtree  POWER 
-\i (00:18:31) FORM film_control filmtree  OUTLINE 
-\i (00:18:32) FORM film_control filmtree  GND 
-\i (00:18:33) FORM film_control filmtree  BOTTOM_SILK 
-\i (00:18:33) FORM film_control filmtree  BOTTOM 
-\i (00:19:29) FORM film_control create  
-\w (00:19:29) No film records selected.
-\i (00:19:31) FORM film_control select_all  
-\i (00:19:33) FORM film_control filmtree  BOTTOM_SILK 
-\i (00:19:33) FORM film_control filmtree  BOTTOM_SOLDER 
-\i (00:19:33) FORM film_control filmtree  GND 
-\i (00:19:34) FORM film_control filmtree  OUTLINE 
-\i (00:19:34) FORM film_control filmtree  POWER 
-\i (00:19:35) FORM film_control filmtree  TOP 
-\i (00:19:36) FORM film_control filmtree  TOP_SILK 
-\i (00:19:36) FORM film_control filmtree  TOP_SOLDER 
-\i (00:19:39) FORM film_control create  
-\t (00:19:39) Checking db records
-\t (00:19:39)     checking for orphans...
-\t (00:19:39)     Checked 100 percent
-\w (00:19:39) Run batch DRC to correctly regenerate DRC errs.
+\t (00:21:17) Done dbdoctor.
+\t (00:21:17) Starting Create artwork films...
+\w (00:21:17) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:21:18) Artwork generated with warnings.
+\i (00:21:19) setwindow text
+\i (00:21:19) close
+\i (00:21:21) setwindow form.film_control
+\i (00:21:21) FORM film_control cancel  
+\i (00:21:21) setwindow pcb
+\i (00:21:21) generaledit 
+\i (00:21:49) nctape_full 
+\i (00:23:14) nctape_full 
+\i (00:23:22) setwindow form.nc_drill
+\i (00:23:22) FORM nc_drill execute  
+\t (00:23:22) Starting Generating NC Drill...
+\i (00:27:35) FORM nc_drill cancel  
+\i (00:27:35) setwindow pcb
+\i (00:27:35) generaledit 
+\i (00:27:36) artwork 
+\i (00:27:37) setwindow form.film_control
+\i (00:27:37) FORM film_control filmtree  TOP_SOLDER 
+\i (00:27:38) FORM film_control filmtree  TOP_SILK 
+\i (00:27:38) FORM film_control filmtree  TOP 
+\i (00:27:39) FORM film_control filmtree  POWER 
+\i (00:27:39) FORM film_control filmtree  OUTLINE 
+\i (00:27:39) FORM film_control filmtree  GND 
+\i (00:27:40) FORM film_control filmtree  BOTTOM_SOLDER 
+\i (00:27:40) FORM film_control filmtree  BOTTOM_SILK 
+\i (00:27:40) FORM film_control filmtree  BOTTOM 
+\i (00:28:17) FORM film_control ok  
+\i (00:28:17) setwindow pcb
+\i (00:28:17) generaledit 
+\i (00:28:19) zoom out 1 
+\i (00:28:19) setwindow pcb
+\i (00:28:19) zoom out 185.9799 278.7038
+\i (00:28:19) trapsize 1520
+\i (00:28:19) zoom out 1 
+\i (00:28:19) setwindow pcb
+\i (00:28:19) zoom out 185.4329 277.3059
+\i (00:28:19) trapsize 3039
+\i (00:28:20) zoom out 1 
+\i (00:28:20) setwindow pcb
+\i (00:28:20) zoom out 183.1231 269.7688
+\i (00:28:20) trapsize 6078
+\i (00:28:20) roam start
+\i (00:28:20) roam y 16
+\i (00:28:20) roam y 16
+\i (00:28:20) roam y 16
+\i (00:28:20) roam y 16
+\i (00:28:20) roam y 16
+\i (00:28:20) roam y 32
+\i (00:28:21) roam y 16
+\i (00:28:21) roam y 16
+\i (00:28:21) roam y 16
+\i (00:28:21) roam y 16
+\i (00:28:21) roam y 16
+\i (00:28:21) roam y 32
+\i (00:28:21) roam y 16
+\i (00:28:21) roam y 16
+\i (00:28:21) roam y 16
+\i (00:28:21) roam y 32
+\i (00:28:21) roam end
+\i (00:28:22) roam start
+\i (00:28:22) roam x -16
+\i (00:28:22) roam x -16
+\i (00:28:22) roam y -16
+\i (00:28:22) roam y -16
+\i (00:28:22) roam x -16
+\i (00:28:22) roam y -16
+\i (00:28:22) roam y -32
+\i (00:28:22) roam y -16
+\i (00:28:22) roam y -16
+\i (00:28:22) roam y -32
+\i (00:28:22) roam y -16
+\i (00:28:22) roam y -32
+\i (00:28:22) roam y -16
+\i (00:28:22) roam y -16
+\i (00:28:22) roam y -16
+\i (00:28:22) roam y -16
+\i (00:28:22) roam y -16
+\i (00:28:22) roam y -16
+\i (00:28:22) roam y -16
+\i (00:28:23) roam end
+\i (00:28:25) zoom in 1 
+\i (00:28:25) setwindow pcb
+\i (00:28:25) zoom in 187.4534 264.2825
+\i (00:28:25) trapsize 3039
+\i (00:28:25) zoom in 1 
+\i (00:28:25) setwindow pcb
+\i (00:28:25) zoom in 189.7631 279.7821
+\i (00:28:25) trapsize 1520
+\i (00:28:26) zoom in 1 
+\i (00:28:26) setwindow pcb
+\i (00:28:26) zoom in 188.4563 276.6214
+\i (00:28:26) trapsize 760
+\i (00:28:27) drag_start grid 184.5814 275.8616
+\i (00:28:27) move 
+\t (00:28:27) last pick:  183.6420 275.5900
+\t (00:28:27) Pick new location for the element(s).
+\i (00:28:29) drag_stop grid 182.7580 275.3298
+\i (00:28:29) generaledit 
+\i (00:39:01) pdf out 
+\i (00:39:02) setwindow form.pdf_out
+\i (00:39:02) FORM pdf_out selectall  
+\i (00:39:07) FORM pdf_out trace_filtered YES 
+\i (00:39:08) FORM pdf_out hole_filtered YES 
+\i (00:39:08) FORM pdf_out fill_shapes YES 
+\i (00:39:09) FORM pdf_out pad_filled YES 
+\i (00:39:09) FORM pdf_out no_origin YES 
+\i (00:39:10) FORM pdf_out no_header YES 
+\i (00:39:11) FORM pdf_out data_shape YES 
+\i (00:39:12) FORM pdf_out data_cline YES 
+   (00:39:12) The overhead of creating property links for CLINEs is very high, PDF size will increase dramatically.
+\i (00:39:14) fillin confirm
+\i (00:39:15) FORM pdf_out data_via YES 
+   (00:39:15) The overhead of creating property links for VIAs is very high, PDF size will increase dramatically.
+\i (00:39:18) fillin confirm
+\i (00:39:19) FORM pdf_out data_pin YES 
+   (00:39:19) The overhead of creating property links for PINs is very high, PDF size will increase dramatically.
+\i (00:39:21) fillin confirm
+\i (00:39:29) FORM pdf_out print_only YES 
+\i (00:39:31) FORM pdf_out alt_comp_view YES 
+\i (00:39:35) FORM pdf_out export  
+\t (00:39:35) Starting Exporting PDF File...
+\t (00:39:36) PDF output completed.
+\i (00:39:38) FORM pdf_out property_parameters  
+\i (00:39:38) FORM pdf_out attrtree  Component 
+\i (00:39:52) FORM pdf_out attrtree  Net 
+\i (00:39:52) FORM pdf_out attrtree RENAME= Net 
+\i (00:39:52) FORM pdf_out attrtree  Component 
+\i (00:39:53) FORM pdf_out attrtree RENAME= Component 
+\i (00:39:53) FORM pdf_out page_setup  
+\i (00:39:55) FORM pdf_out pageunitfield Millimeter 
+\i (00:39:57) FORM pdf_out pagesizefield A4 
+\i (00:39:58) FORM pdf_out pdf_landscape NO 
+\i (00:40:03) FORM pdf_out scale_fit YES 
+\i (00:40:04) FORM pdf_out export  
+\t (00:40:04) Starting Exporting PDF File...
+\t (00:40:06) PDF output completed.
+\i (00:41:02) FORM pdf_out pdftree  BOTTOM 
+\i (00:41:02) FORM pdf_out pdf_export  
+\i (00:41:12) FORM pdf_out data_testpt YES 
+\i (00:41:12) FORM pdf_out data_shape YES 
+\i (00:41:13) FORM pdf_out data_net YES 
+\i (00:41:13) FORM pdf_out data_cline YES 
+\i (00:41:14) FORM pdf_out data_via YES 
+\i (00:41:15) FORM pdf_out data_pin YES 
+\i (00:41:15) FORM pdf_out data_comp YES 
+\i (00:41:18) FORM pdf_out page_setup  
+\i (00:41:19) FORM pdf_out pdf_export  
+\i (00:41:25) FORM pdf_out export  
+\t (00:41:25) Starting Exporting PDF File...
+\t (00:41:27) PDF output completed.
+\i (00:41:40) FORM pdf_out page_setup  
+\i (00:41:41) FORM pdf_out pdf_export  
+\i (00:42:30) FORM pdf_out cancel  
+\i (00:42:30) setwindow pcb
+\i (00:42:30) generaledit 
+\i (00:42:35) step out 
+\i (00:42:43) setwindow form.step_out
+\i (00:42:43) FORM step_out filename ST-LINKV3 
+\i (00:42:43) FORM step_out via_drill YES 
+\i (00:42:44) FORM step_out pin_drill YES 
+\i (00:42:46) FORM step_out external_copper YES 
+\i (00:42:46) FORM step_out inner_copper YES 
+\i (00:42:48) FORM step_out bare_board YES 
+\i (00:42:54) FORM step_out protocol AP-242 
+\i (00:42:56) FORM step_out done  
+\t (00:42:56) Starting Exporting STEP File...
+\t (00:42:58) STEP output completed.
+\i (00:43:01) setwindow text
+\i (00:43:01) close
+\i (00:45:09) setwindow form.step_out
+\i (00:45:09) FORM step_out cancel  
+\i (00:45:09) setwindow pcb
+\i (00:45:09) generaledit 
+\i (00:46:35) step out 
+\i (00:46:37) setwindow form.step_out
+\i (00:46:37) FORM step_out external_copper NO 
+\i (00:46:37) FORM step_out inner_copper NO 
+\i (00:46:38) FORM step_out bare_board NO 
+\i (00:46:48) FORM step_out filename ST-LINKV3 
+\i (00:46:48) FORM step_out browse  
+\i (00:46:52) fillin "D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/STEP-files/ST-LINKV3.stp"
+\i (00:46:53) FORM step_out done  
+\t (00:46:53) Starting Exporting STEP File...
+\t (00:46:56) STEP output completed.
+\i (00:46:59) setwindow text
+\i (00:46:59) close
+\i (00:47:40) setwindow form.step_out
+\i (00:47:40) FORM step_out via_drill NO 
+\i (00:47:41) FORM step_out pin_drill NO 
+\i (00:47:42) FORM step_out mech_drill NO 
+\i (00:48:00) FORM step_out protocol AP-214 
+\i (00:48:34) FORM step_out done  
+\t (00:48:34) Starting Exporting STEP File...
+\t (00:48:35) STEP output completed.
+\i (00:48:37) setwindow text
+\i (00:48:37) close
+\i (00:49:10) setwindow form.step_out
+\i (00:49:10) FORM step_out mech_drill YES 
+\i (00:49:29) FORM step_out elec_drill YES 
+\i (00:49:34) FORM step_out help  
+\i (00:50:16) FORM step_out done  
+\t (00:50:16) Starting Exporting STEP File...
+\t (00:50:18) STEP output completed.
+\i (00:50:21) setwindow text
+\i (00:50:21) close
+\i (00:52:09) setwindow form.step_out
+\i (00:52:09) FORM step_out mapped_pkg NO 
+\i (00:52:09) FORM step_out mapped_pkg YES 
+\i (00:52:13) FORM step_out bare_board YES 
+\i (00:52:14) FORM step_out bare_board NO 
+\i (00:52:15) FORM step_out cancel  
+\i (00:52:15) setwindow pcb
+\i (00:52:15) generaledit 
+\i (00:52:21) step out 
+\i (00:52:27) setwindow form.step_out
+\i (00:52:27) FORM step_out done  
+\t (00:52:27) Starting Exporting STEP File...
+\t (00:52:29) STEP output completed.
+\i (00:52:31) setwindow text
+\i (00:52:31) close
+\i (00:52:32) setwindow form.step_out
+\i (00:52:32) FORM step_out cancel  
+\i (00:52:32) setwindow pcb
+\i (00:52:32) generaledit 
+\i (00:52:48) step out 
+\i (00:52:50) setwindow form.step_out
+\i (00:52:50) FORM step_out browse  
+\i (00:52:52) fillin "menu_cancel"
+\i (00:53:43) FORM step_out bare_board YES 
+\i (00:53:47) FORM step_out external_copper YES 
+\i (00:53:51) FORM step_out done  
+\t (00:53:51) Starting Exporting STEP File...
+\t (00:53:52) STEP output completed.
+\i (00:53:54) setwindow text
+\i (00:53:54) close
+\i (00:54:31) setwindow form.step_out
+\i (00:54:31) FORM step_out bare_board NO 
+\i (00:54:32) FORM step_out external_copper NO 
+\i (00:54:39) FORM step_out done  
+\t (00:54:39) Starting Exporting STEP File...
+\t (00:54:41) STEP output completed.
+\i (00:54:42) setwindow text
+\i (00:54:42) close
+\i (00:55:16) setwindow pcb
+\i (00:55:16) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:55:19) QtSignal CVPLayerGrid CVPAllAll_Layers clicked true
+\i (00:55:33) setwindow form.step_out
+\i (00:55:33) FORM step_out elec_drill NO 
+\i (00:55:34) FORM step_out mech_drill NO 
+\i (00:55:37) FORM step_out mech_drill YES 
+\i (00:56:00) FORM step_out done  
+\t (00:56:00) Starting Exporting STEP File...
+\t (00:56:02) STEP output completed.
+\i (00:56:03) setwindow text
+\i (00:56:03) close
+\i (00:56:43) setwindow form.step_out
+\i (00:56:43) FORM step_out elec_drill YES 
+\i (00:56:50) FORM step_out protocol AP-242 
+\i (00:56:54) FORM step_out inner_copper YES 
+\i (00:57:02) FORM step_out filename ST-LINKV3_v1 
+\i (00:57:02) FORM step_out done  
+\t (00:57:02) Starting Exporting STEP File...
+\t (00:57:04) STEP output completed.
+\i (00:57:06) setwindow text
+\i (00:57:06) close
+\i (00:57:59) setwindow form.step_out
+\i (00:57:59) FORM step_out filename ST-LINKV3_v2 
+\i (01:01:32) FORM step_out protocol AP-214 
+\i (01:01:35) FORM step_out inner_copper NO 
+\i (01:01:38) FORM step_out filename ST-LINKV3_v3 
+\i (01:01:38) FORM step_out done  
+\t (01:01:39) Starting Exporting STEP File...
+\t (01:01:40) STEP output completed.
+\i (01:01:48) setwindow text
+\i (01:01:48) close
+\i (01:04:04) setwindow form.step_out
+\i (01:04:04) FORM step_out cancel  
+\i (01:04:04) setwindow pcb
+\i (01:04:04) generaledit 
+\i (01:04:30) mcadx out 
+\i (01:04:34) setwindow form.idx_out
+\i (01:04:34) FORM idx_out step_models YES 
+\i (01:04:35) FORM idx_out copper_layers YES 
+\i (01:04:36) FORM idx_out silkscreen_layers YES 
+\i (01:04:38) FORM idx_out execute  
+\t (01:04:38) Starting mcadx_out...
+\t (01:04:39) Opening existing design...
+\i (01:04:39) setwindow pcb
+\i (01:04:39) trapsize 760
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
+\i (01:04:39) QtSignal Modes
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (01:04:39) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (01:04:39) QtSignal 0 "|" "Board Outline  (1/6)"
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
+\i (01:04:39) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
+\i (01:04:39) QtSignal "|" "Shapes  (1/4)"
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
+\i (01:04:39) QtSignal 0 "|" Polygon
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
+\i (01:04:39) QtSignal 0 "|" "IPC-2581"
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
+\i (01:04:39) QtSignal 0 "|" Testprep
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
+\i (01:04:39) QtSignal Manual
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
+\i (01:04:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
+\i (01:04:39) QtSignal "Display Status"
+\t (01:04:41) The package mapping file "EDMD_Package_3DModels.map" was created with 3D modles in ZIP file "D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open_BASELINE_20240725T190017.mcadxz". 
+
+
+\i (01:04:46) fillin confirm
+\t (01:04:46) Starting Collecting Copper Data ......
+\t (01:04:48) Starting Collecting Silkscreen Data ......
+\i (01:04:50) generaledit 
+\i (01:04:53) setwindow text
+\i (01:04:53) close
+\i (01:04:55) setwindow form.idx_out
+\i (01:04:55) FORM idx_out cancel  
+\i (01:04:55) setwindow pcb
+\i (01:04:55) generaledit 
+\i (01:04:59) tbx batchplot 
+\i (01:04:59) helpcmd C:/Users/PROMET~1/AppData/Local/Temp/#Taaaakb15620.tmp 
+   (01:04:59) Loading toolbox.cxt 
+   (01:04:59) Initializing toolbox...
+   (01:04:59) Reading profile "C:/Cadence/SPB_23.1/share/pcb/toolbox/config/publish/BlackWhite.pdfProfile" ...
+   (01:04:59) Reading profile "C:/Cadence/SPB_23.1/share/pcb/toolbox/config/publish/Default.pdfProfile" ...
+   (01:04:59) Reading profile "C:/Cadence/SPB_23.1/share/pcb/toolbox/config/publish/Monochrome.htmlProfile" ...
+   (01:04:59) Reading profile "C:/Cadence/SPB_23.1/share/pcb/toolbox/config/publish/Default.htmlProfile" ...
+   (01:04:59) Loading skillExt.cxt 
+\i (01:04:59) generaledit 
+\i (01:05:03) setwindow form.tbx_publish_main
+\i (01:05:03) FORM tbx_publish_main browse_dir  
+\i (01:05:14) fillin "BluePrint"
+\i (01:05:16) FORM tbx_publish_main export  
+   (01:05:16) File "D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/publish.cfg" does not exist yet.
+   (01:05:16) Warning: Nothing to process. Check setup
+\i (01:05:19) setwindow pcb
+\i (01:05:19) trapsize 762
+\i (01:05:20) trapsize 793
+\i (01:05:20) trapsize 819
+\i (01:05:20) trapsize 823
+\i (01:05:20) trapsize 835
+\i (01:05:20) trapsize 852
+\i (01:05:20) trapsize 877
+\i (01:05:20) trapsize 906
+\i (01:05:20) trapsize 923
+\i (01:05:20) trapsize 930
+\i (01:05:20) trapsize 932
+\i (01:05:20) trapsize 931
+\i (01:05:20) trapsize 930
+\i (01:05:20) trapsize 927
+\i (01:05:20) trapsize 924
+\i (01:05:20) trapsize 919
+\i (01:05:20) trapsize 913
+\i (01:05:20) trapsize 900
+\i (01:05:20) trapsize 890
+\i (01:05:20) trapsize 876
+\i (01:05:21) trapsize 867
+\i (01:05:21) trapsize 862
+\i (01:05:21) trapsize 859
+\i (01:05:21) trapsize 854
+\i (01:05:21) trapsize 849
+\i (01:05:21) trapsize 847
+\i (01:05:21) trapsize 846
+\i (01:05:21) trapsize 843
+\i (01:05:21) trapsize 840
+\i (01:05:21) trapsize 839
+\i (01:05:21) trapsize 838
+\i (01:05:22) setwindow form.tbx_publish_main
+\i (01:05:22) FORM tbx_publish_main setup  
+\i (01:05:22) setwindow form.tbx_publish_views
+\i (01:05:22) FORM tbx_publish_views view_set_tree  some_name 
+   (01:05:22) File "D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/publish.cfg" does not exist yet.
+\i (01:05:25) FORM tbx_publish_views profile_name Default 
+\i (01:05:26) FORM tbx_publish_views auto_display YES 
+\i (01:05:28) FORM tbx_publish_views done  
+   (01:05:29) Note: File "D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/publish.cfg"  has been written
+\i (01:05:30) setwindow form.tbx_publish_main
+\i (01:05:30) FORM tbx_publish_main export  
+   (01:05:31) Reading configuration from "D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/publish.cfg"
+\i (01:05:36) FORM tbx_publish_main export  
+   (01:05:36) Reading configuration from "D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/publish.cfg"
+\i (01:06:22) FORM tbx_publish_main done  
+\i (01:06:25) setwindow pcb
+\i (01:06:25) trapsize 856
+\i (01:06:25) trapsize 864
+\i (01:06:25) trapsize 901
+\i (01:06:25) trapsize 930
+\i (01:06:25) trapsize 950
+\i (01:06:25) trapsize 953
+\i (01:06:25) trapsize 960
+\i (01:06:25) trapsize 968
+\i (01:06:25) trapsize 972
+\i (01:06:25) trapsize 982
+\i (01:06:25) trapsize 989
+\i (01:06:25) trapsize 993
+\i (01:06:25) trapsize 994
+\i (01:06:25) trapsize 996
+\i (01:06:25) trapsize 1007
+\i (01:06:25) trapsize 1035
+\i (01:06:25) trapsize 1068
+\i (01:06:25) trapsize 1078
+\i (01:06:25) trapsize 1079
+\i (01:06:25) trapsize 1080
+\i (01:06:26) trapsize 1081
+\i (01:06:26) trapsize 1083
+\i (01:06:26) trapsize 1084
+\i (01:06:26) trapsize 1094
+\i (01:06:26) trapsize 1116
+\i (01:06:26) trapsize 1128
+\i (01:06:26) trapsize 1132
+\i (01:06:26) trapsize 1130
+\i (01:06:26) trapsize 1128
+\i (01:06:26) trapsize 1125
+\i (01:06:26) trapsize 1124
+\i (01:06:26) trapsize 1120
+\i (01:06:26) trapsize 1116
+\i (01:06:26) trapsize 1110
+\i (01:06:26) trapsize 1106
+\i (01:06:26) trapsize 1102
+\i (01:06:27) trapsize 1101
+\i (01:06:27) trapsize 1100
+\i (01:06:27) trapsize 1099
+\i (01:06:27) trapsize 1097
+\i (01:06:27) trapsize 1096
+\i (01:06:27) trapsize 1095
+\i (01:06:27) trapsize 1091
+\i (01:06:27) trapsize 1087
+\i (01:06:27) trapsize 1086
+\i (01:06:27) trapsize 1085
+\i (01:06:27) trapsize 1084
+\i (01:06:27) trapsize 1083
+\i (01:06:27) trapsize 1081
+\i (01:06:27) trapsize 1080
+\i (01:06:27) trapsize 1079
+\i (01:06:27) trapsize 1078
+\i (01:06:27) trapsize 1074
+\i (01:06:27) trapsize 1070
+\i (01:06:27) trapsize 1068
+\i (01:06:27) trapsize 1067
+\i (01:06:28) trapsize 1066
+\i (01:06:28) trapsize 1038
+\i (01:06:28) trapsize 1014
+\i (01:06:28) trapsize 992
+\i (01:06:28) trapsize 979
+\i (01:06:28) trapsize 976
+\i (01:06:29) trapsize 977
+\i (01:06:29) trapsize 983
+\i (01:06:29) trapsize 990
+\i (01:06:29) trapsize 994
+\i (01:06:29) trapsize 1008
+\i (01:06:29) trapsize 1023
+\i (01:06:29) trapsize 1038
+\i (01:06:29) trapsize 1048
+\i (01:06:29) trapsize 1049
+\i (01:06:30) trapsize 1048
+\i (01:06:30) trapsize 1047
+\i (01:06:30) trapsize 1045
+\i (01:06:30) trapsize 1039
+\i (01:06:30) trapsize 1033
+\i (01:06:30) trapsize 1023
+\i (01:06:30) trapsize 1012
+\i (01:06:30) trapsize 997
+\i (01:06:30) trapsize 982
+\i (01:06:30) trapsize 969
+\i (01:06:30) trapsize 963
+\i (01:06:30) trapsize 953
+\i (01:06:30) trapsize 939
+\i (01:06:30) trapsize 923
+\i (01:06:30) trapsize 919
+\i (01:06:30) trapsize 918
+\i (01:07:07) export creoview 
+   (01:07:18) Loading cmds.cxt 
+\i (01:07:18) generaledit 
+\i (01:07:49) idx out 
+\e (01:07:49) MCADX Baseline was already established.  Use command 'mcadx out' to continue or Clear MCADX data.
+\i (01:07:52) fillin confirm
+\i (01:08:41) idx out 
+\e (01:08:41) MCADX Baseline was already established.  Use command 'mcadx out' to continue or Clear MCADX data.
+\i (01:08:44) fillin confirm
+\i (01:08:51) mcadx out 
+\i (01:08:58) setwindow form.idx_out
+\i (01:08:58) FORM idx_out clean_idx  
+\i (01:08:59) fillin yes 
+\i (01:09:01) FORM idx_out compare_file  
+\t (01:09:01) Starting mcadx_out...
+\t (01:09:01) Opening existing design...
+\i (01:09:02) setwindow pcb
+\i (01:09:02) trapsize 918
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
+\i (01:09:02) QtSignal Modes
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (01:09:02) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (01:09:02) QtSignal 0 "|" "Board Outline  (1/6)"
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
+\i (01:09:02) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
+\i (01:09:02) QtSignal "|" "Shapes  (1/4)"
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
+\i (01:09:02) QtSignal 0 "|" Polygon
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
+\i (01:09:02) QtSignal 0 "|" "IPC-2581"
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
+\i (01:09:02) QtSignal 0 "|" Testprep
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
+\i (01:09:02) QtSignal Manual
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
+\i (01:09:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
+\i (01:09:02) QtSignal "Display Status"
+\t (01:09:03) The compare file is a baseline file created from current design and filter configuration to be used for MCAD comparision. 
 
-\t (00:19:39) Done dbdoctor.
-\t (00:19:39) Starting Create artwork films...
-\w (00:19:39) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:19:40) Artwork generated with warnings.
-\i (00:19:41) setwindow text
-\i (00:19:41) close
-\i (00:19:42) setwindow form.film_control
-\i (00:19:42) FORM film_control ok  
-\i (00:19:42) setwindow pcb
-\i (00:19:42) generaledit 
-\i (00:19:56) artwork 
-\i (00:19:58) setwindow form.film_control
-\i (00:19:58) FORM film_control select_all  
-\i (00:19:58) FORM film_control general_parameters  
-\i (00:20:04) FORM film_control filename_prefix  
-\i (00:20:04) FORM film_control film_control  
-\i (00:20:05) FORM film_control create  
-\t (00:20:05) Checking db records
-\t (00:20:05)     checking for orphans...
-\t (00:20:05)     Checked 100 percent
-\w (00:20:05) Run batch DRC to correctly regenerate DRC errs.
+D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open_compare_ecad.mcadxz
+\i (01:09:05) fillin confirm
+\i (01:09:05) setwindow form.idx_out
+\i (01:09:05) FORM idx_out customized_shapes  
+\i (01:09:07) setwindow form.idxout_customLayerFeatures
+\i (01:09:07) FORM idxout_customLayerFeatures browsefile  
+\i (01:09:20) fillin "ST-LINKV3_open_BASELINE_20240725T190017_layers.mcadx"
+\i (01:09:23) FORM idxout_customLayerFeatures unfill_trace YES 
+\i (01:09:23) FORM idxout_customLayerFeatures execute  
+\t (01:09:23) Starting mcadx_out...
+\t (01:09:25) The user layer file was generated from current design. 
 
-\t (00:20:05) Done dbdoctor.
-\t (00:20:05) Starting Create artwork films...
-\w (00:20:05) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:20:06) Artwork generated with warnings.
-\i (00:20:07) setwindow text
-\i (00:20:07) close
-\i (00:20:08) setwindow form.film_control
-\i (00:20:08) FORM film_control ok  
-\i (00:20:08) setwindow pcb
-\i (00:20:08) generaledit 
-\i (00:21:32) artwork 
-\i (00:21:35) setwindow form.film_control
-\i (00:21:35) FORM film_control filmtree  TOP_SOLDER 
-\i (00:21:37) FORM film_control select_all  
-\i (00:21:38) FORM film_control create  
-\t (00:21:38) Checking db records
-\t (00:21:38)     checking for orphans...
-\t (00:21:38)     Checked 100 percent
-\w (00:21:38) Run batch DRC to correctly regenerate DRC errs.
-
-\t (00:21:38) Done dbdoctor.
-\t (00:21:38) Starting Create artwork films...
-\w (00:21:39) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:21:40) Artwork generated with warnings.
-\i (00:21:43) setwindow text
-\i (00:21:43) close
-\i (00:21:45) setwindow form.film_control
-\i (00:21:45) FORM film_control ok  
-\i (00:21:45) setwindow pcb
-\i (00:21:45) generaledit 
-\i (00:27:48) exit 
-\e (00:27:48) Do you want to save the changes you made to ST-LINKV3_open.brd?
-\i (00:27:49) fillin yes 
-\t (00:27:49)     Journal end - Thu Jul 25 17:39:04 2024
+ST-LINKV3_open_20240725T190512.mcadxz
+\i (01:09:26) fillin confirm
+\i (01:09:26) setwindow pcb
+\i (01:09:26) generaledit 
+\i (01:09:28) setwindow form.idx_out
+\i (01:09:28) FORM idx_out step_models YES 
+\i (01:09:28) FORM idx_out copper_layers YES 
+\i (01:09:29) FORM idx_out silkscreen_layers YES 
+\i (01:09:31) FORM idx_out browse  
+\i (01:09:34) fillin "ST-LINKV3_open_BASELINE_20240725T190446.mcadx"
+\i (01:09:35) FORM idx_out execute  
+\t (01:09:35) Starting mcadx_out...
+\t (01:09:36) Opening existing design...
+\i (01:09:36) setwindow pcb
+\i (01:09:36) trapsize 918
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
+\i (01:09:36) QtSignal Modes
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (01:09:36) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (01:09:36) QtSignal 0 "|" "Board Outline  (1/6)"
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
+\i (01:09:36) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
+\i (01:09:36) QtSignal "|" "Shapes  (1/4)"
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
+\i (01:09:36) QtSignal 0 "|" Polygon
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
+\i (01:09:36) QtSignal 0 "|" "IPC-2581"
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
+\i (01:09:36) QtSignal 0 "|" Testprep
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
+\i (01:09:36) QtSignal Manual
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
+\i (01:09:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
+\i (01:09:36) QtSignal "Display Status"
+\t (01:09:38) The package mapping file "EDMD_Package_3DModels.map" was created with 3D modles in ZIP file "D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open_BASELINE_20240725T190446.mcadxz". 
+
+
+\i (01:09:44) fillin confirm
+\t (01:09:44) Starting Collecting Copper Data ......
+\t (01:09:46) Starting Collecting Silkscreen Data ......
+\i (01:09:47) generaledit 
+\i (01:09:50) setwindow text
+\i (01:09:50) close
+\i (01:10:31) setwindow form.idx_out
+\i (01:10:31) FORM idx_out cancel  
+\i (01:10:31) setwindow pcb
+\i (01:10:31) generaledit 
+\i (01:10:44) zoom out 1 
+\i (01:10:44) setwindow pcb
+\i (01:10:44) zoom out 183.7522 280.4771
+\i (01:10:44) trapsize 1836
+\i (01:10:44) zoom out 1 
+\i (01:10:44) setwindow pcb
+\i (01:10:44) zoom out 186.9109 275.5188
+\i (01:10:44) trapsize 3673
+\i (01:10:44) zoom out 1 
+\i (01:10:44) setwindow pcb
+\i (01:10:44) zoom out 188.3066 273.4620
+\i (01:10:44) trapsize 7346
+\i (01:10:45) save 
+\i (01:10:46) fillin yes 
+\t (01:10:46) > Sending response DoneOpenBoard
+\i (01:10:46) generaledit 
+\i (01:10:46) zoom in 1 
+\i (01:10:46) setwindow pcb
+\i (01:10:46) zoom in 177.5819 221.1607
+\i (01:10:46) trapsize 3673
+\i (01:10:46) zoom in 1 
+\i (01:10:46) setwindow pcb
+\i (01:10:46) zoom in 176.7005 221.1608
+\i (01:10:46) trapsize 1836
+\i (01:10:46) zoom in 1 
+\i (01:10:46) setwindow pcb
+\i (01:10:46) zoom in 176.6638 221.1608
+\i (01:10:46) trapsize 918
+\i (01:10:47) zoom out 1 
+\i (01:10:47) setwindow pcb
+\i (01:10:47) zoom out 177.4168 222.2259
+\i (01:10:47) trapsize 1836
+\i (01:10:47) zoom out 1 
+\i (01:10:47) setwindow pcb
+\i (01:10:47) zoom out 176.2782 220.7201
+\i (01:10:47) trapsize 3673
+\i (01:10:47) zoom out 1 
+\i (01:10:47) setwindow pcb
+\i (01:10:47) zoom out 175.9109 220.1324
+\i (01:10:47) trapsize 7346
+\i (01:10:48) zoom in 1 
+\i (01:10:48) setwindow pcb
+\i (01:10:48) zoom in 168.1245 215.4311
+\i (01:10:48) trapsize 3673
+\i (01:10:50) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP_SILK"
+\i (01:10:50) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP_SILK"
+\i (01:10:58) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged
+\i (01:10:58) QtSignal ColorVisibilityPane CVPViewDropdown activated
+\i (01:10:59) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (01:11:02) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (01:11:03) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (01:11:03) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (01:11:04) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (01:11:04) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (01:11:04) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (01:11:05) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (01:11:05) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (01:11:06) save 
+\i (01:11:07) fillin yes 
+\t (01:11:07) > Sending response DoneOpenBoard
+\i (01:11:07) generaledit 
+\i (01:11:07) zoom out 1 
+\i (01:11:07) setwindow pcb
+\i (01:11:07) zoom out 196.1115 236.5867
+\i (01:11:07) trapsize 7346
+\i (01:11:09) exit 
+\t (01:11:09)     Journal end - Thu Jul 25 19:06:56 2024
