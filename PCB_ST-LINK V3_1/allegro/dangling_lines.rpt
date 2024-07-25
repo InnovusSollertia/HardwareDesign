@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ST-LINKV3_open.brd                            )
 (    Software Version : 23.1S005                                      )
-(    Date/Time        : Wed Jul 24 23:09:09 2024                      )
+(    Date/Time        : Thu Jul 25 21:02:36 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -39,7 +39,6 @@ Report methodology:
   +3V3                 VIA                  (184.4195 228.1075) TOP/BOTTOM 
   +3V3                 VIA                  (186.4360 256.2860) TOP/BOTTOM 
   +3V3                 VIA                  (186.4360 271.0180) TOP/BOTTOM 
-  +3V3                 VIA                  (192.0240 271.5260) TOP/BOTTOM 
   +3V3                 VIA                  (197.6120 257.9116) TOP/BOTTOM 
   +3V3                 VIA                  (200.6600 245.8720) TOP/BOTTOM 
   +3V3                 VIA                  (202.4380 231.9020) TOP/BOTTOM 
@@ -67,4 +66,4 @@ Report methodology:
 << Summary >>
   Total dangling lines:       1
   Total dangling vias:        0
-  Total antenna vias:        32
+  Total antenna vias:        31
