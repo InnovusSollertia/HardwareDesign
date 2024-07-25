@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ST-LINKV3_open.brd                            )
 (    Software Version : 23.1S005                                      )
-(    Date/Time        : Thu Jul 25 12:55:31 2024                      )
+(    Date/Time        : Thu Jul 25 17:32:53 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -216,6 +216,40 @@ Results from parameter file ...
 
 
 ================================================================
+     PROCESSING FILM < TOP_SILK >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP_SILK.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (158.2420 221.9960)
+           ... ignored.
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+
+     TOP_SILK created with warnings
+
+
+================================================================
      PROCESSING FILM < BOTTOM_SILK >
      TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/BOTTOM_SILK.art > ...
 ================================================================
@@ -238,8 +272,8 @@ Results from parameter file ...
 
 
 ================================================================
-     PROCESSING FILM < TOP_SILK >
-     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP_SILK.art > ...
+     PROCESSING FILM < TOP_SOLDER >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP_SOLDER.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -259,31 +293,19 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.10000                                  DARK 
-  CIRCLE     0.20000                                  DARK 
+  CIRCLE     1.11760                                  DARK 
+  CIRCLE     1.65000                                  DARK 
+  SQUARE     1.15010                     0.000 NO     DARK 
+  SQUARE     1.65000                     0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.84990       0.000 NO     DARK 
+  RECTANGLE  0.45010     x 1.47500       0.000 NO     DARK 
+  RECTANGLE  0.70000     x 1.50010      90.000 NO     DARK 
+  RECTANGLE  0.80010     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 1.75010      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.30000      90.000 NO     DARK 
+  RECTANGLE  1.27000     x 2.54000      90.000 NO     DARK 
+  RECTANGLE  1.75010     x 3.19990       0.000 NO     DARK 
 
-     TOP_SILK created with warnings
-
-
-================================================================
-     PROCESSING FILM < TOP_SOLDER >
-     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP_SOLDER.art > ...
-================================================================
-
-  FILM PARAMETERS :
-  ---------------------------------------------------------
-  Undefined line width                0.0000
-  Mirror code                         NONE
-  Rotate angle                        NONE
-  Offset x:                           0.0000
-  Offset y:                           0.0000
-  Plot negative                       NO
-  Suppress unconnected internal pads  NO
-  Draw holes only                     NO
-
-
-
-  APERTURES USED:  NONE
      TOP_SOLDER created with warnings
 
 
@@ -305,52 +327,15 @@ Results from parameter file ...
 
 
 
-  APERTURES USED:  NONE
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.11760                                  DARK 
+  CIRCLE     1.65000                                  DARK 
+  SQUARE     1.65000                     0.000 NO     DARK 
+
      BOTTOM_SOLDER created with warnings
-
-
-================================================================
-     PROCESSING FILM < TOP_PASTE >
-     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP_PASTE.art > ...
-================================================================
-
-  FILM PARAMETERS :
-  ---------------------------------------------------------
-  Undefined line width                0.0000
-  Mirror code                         NONE
-  Rotate angle                        NONE
-  Offset x:                           0.0000
-  Offset y:                           0.0000
-  Plot negative                       NO
-  Suppress unconnected internal pads  NO
-  Draw holes only                     NO
-
-
-
-  APERTURES USED:  NONE
-     TOP_PASTE created with warnings
-
-
-================================================================
-     PROCESSING FILM < BOTTOM_PASTE >
-     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/BOTTOM_PASTE.art > ...
-================================================================
-
-  FILM PARAMETERS :
-  ---------------------------------------------------------
-  Undefined line width                0.0000
-  Mirror code                         NONE
-  Rotate angle                        NONE
-  Offset x:                           0.0000
-  Offset y:                           0.0000
-  Plot negative                       NO
-  Suppress unconnected internal pads  NO
-  Draw holes only                     NO
-
-
-
-  APERTURES USED:  NONE
-     BOTTOM_PASTE created with warnings
 
 
 ------------------------------------------------------
@@ -360,11 +345,9 @@ Results from parameter file ...
         POWER created with warnings
         BOTTOM created with warnings
         OUTLINE created with warnings
-        BOTTOM_SILK created with warnings
         TOP_SILK created with warnings
+        BOTTOM_SILK created with warnings
         TOP_SOLDER created with warnings
         BOTTOM_SOLDER created with warnings
-        TOP_PASTE created with warnings
-        BOTTOM_PASTE created with warnings
 
  ARTWORK had warnings
