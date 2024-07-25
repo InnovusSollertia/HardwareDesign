@@ -1,28 +1,31 @@
 #
-# schedules - reports schedules for all user defined nets
-#	If you wish a different schedule output, copy this
-#	file local (same directory as your board) and
-#	change the filter item:
-#         NET_STATUS = "SCHEDULED"
-#         OR
-#         NET_STATUS = "PARTIAL_SCHEDULE"
-#       Then run the "report -v user_schedule <brd> <report>
-#	or access the "User Schedule" report in Allegro.
+# Property of Cadence Design Systems, Inc.  All rights reserved.
 #
-# For example change it to --> VOLTAGE = ""
-# will report the schedule of all nets on board except those with the
-# VOLTAGE property.
+# $Header: cmp_rep_view.txt.v 1.1 12/01/87 ddd Prealpha 
+#
+# File: cmp_rep_view.txt - Component data extract cmd file for 
+#				component list report
+#
+# Revision history:
+#	(0.10) ddd 12/01/87	Preliminary initial version
 #
 #
-COMPONENT_PIN
-  NET_STATUS = "SCHEDULED"
-  OR
-  NET_STATUS = "PARTIAL_SCHEDULE"
-  NET_NAME_SORT
-  NET_NAME
-  NET_RAT_SCHEDULE
-  REFDES
-  PIN_NUMBER
-  PIN_TYPE
-  COMP_TERMINATOR_PACK
-  PIN_SUBSCHEDULE_CONNECTION_POINT
+COMPONENT
+#
+# Extract: refdes(sort), refdes, device_type, value, tolerance,
+# 	  package, x, y, angle, mirror.
+#
+REFDES_SORT
+REFDES
+COMP_DEVICE_TYPE
+COMP_VALUE
+COMP_TOL
+COMP_PACKAGE
+SYM_X
+SYM_Y
+SYM_ROTATE
+SYM_MIRROR
+ALTERNATE_SYMBOLS
+#
+# end of cmp_rep_view
+#

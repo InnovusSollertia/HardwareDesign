@@ -1,11 +1,11 @@
 G04 ================== begin FILE IDENTIFICATION RECORD ==================*
 G04 Layout Name:  ST-LINKV3_open.brd*
-G04 Film Name:    OUTLINE*
+G04 Film Name:    BOTTOM_SILKSCREEN-withMask*
 G04 File Format:  Gerber RS274X*
 G04 File Origin:  Cadence Allegro 23.1-S005*
-G04 Origin Date:  Wed Jul 24 17:33:01 2024*
+G04 Origin Date:  Thu Jul 25 10:05:58 2024*
 G04 *
-G04 Layer:  BOARD GEOMETRY/DESIGN_OUTLINE*
+G04 Layer:  BOARD GEOMETRY/SILKSCREEN_BOTTOM*
 G04 *
 G04 Offset:    (0.0000 0.0000)*
 G04 Mirror:    No*

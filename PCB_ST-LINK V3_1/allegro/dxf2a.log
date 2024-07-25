@@ -1,0 +1,12 @@
+Reading Layer Conversion File 
+Reading DXF file...
+done.
+Layer conversion file: C:/Cadence/SPB_23.1/share/pcb/text/ecad_mcad_silkscreen.cnv
+DXF file: C:/Users/Prometheus/Downloads/WSKLogo.dxf
+BRD file: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/#Taaaacc09740.tmp
+Update existing design?: YES
+Use default text?: YES
+DXF units: MILLIMETERS
+Design units: MILLIMETERS
+Design precision: 4
+dxf2a complete.

@@ -4,10 +4,15 @@
 (                                                                     )
 (    Drawing          : ST-LINKV3_open.brd                            )
 (    Software Version : 23.1S005                                      )
-(    Date/Time        : Wed Jul 24 22:47:54 2024                      )
+(    Date/Time        : Thu Jul 25 10:12:59 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
 
  ---- Photoplot outline rectangle not found; using drawing extents.
 
@@ -78,7 +83,7 @@ Results from parameter file ...
   RECTANGLE  1.27000     x 2.54000      90.000 NO     DARK 
   RECTANGLE  1.75010     x 3.19990       0.000 NO     DARK 
 
-     TOP-withMask created.
+     TOP-withMask created with warnings
 
 
 ================================================================
@@ -112,7 +117,7 @@ Results from parameter file ...
   CIRCLE     1.16990                                  DARK 
   CIRCLE     1.65000                                  DARK 
 
-     GND-withMask created.
+     GND-withMask created with warnings
 
 
 ================================================================
@@ -145,7 +150,7 @@ Results from parameter file ...
   CIRCLE     1.16990                                  DARK 
   CIRCLE     1.65000                                  DARK 
 
-     POWER-withMask created.
+     POWER-withMask created with warnings
 
 
 ================================================================
@@ -180,7 +185,7 @@ Results from parameter file ...
   SQUARE     1.10010                     0.000 NO     DARK 
   SQUARE     1.65000                     0.000 NO     DARK 
 
-     BOTTOM-withMask created.
+     BOTTOM-withMask created with warnings
 
 
 ================================================================
@@ -227,7 +232,7 @@ Results from parameter file ...
 
 
   APERTURES USED:  NONE
-     TOP_SOLDERMASK-withMask created.
+     TOP_SOLDERMASK-withMask created with warnings
 
 
 ================================================================
@@ -243,18 +248,18 @@ Results from parameter file ...
   Offset x:                           0.0000
   Offset y:                           0.0000
   Plot negative                       NO
-  Suppress unconnected internal pads  NO
+  Suppress unconnected internal pads  YES
   Draw holes only                     NO
 
 
 
   APERTURES USED:  NONE
-     BOTTOM_SOLDERMASK-withMask created.
+     BOTTOM_SOLDERMASK-withMask created with warnings
 
 
 ================================================================
-     PROCESSING FILM < TOP_SILKSCREEN >
-     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP_SILKSCREEN-withMask.art > ...
+     PROCESSING FILM < TOP_ASSEMBLY >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP_ASSEMBLY-withMask.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -270,13 +275,19 @@ Results from parameter file ...
 
 
 
-  APERTURES USED:  NONE
-     TOP_SILKSCREEN-withMask created.
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+
+     TOP_ASSEMBLY-withMask created with warnings
 
 
 ================================================================
-     PROCESSING FILM < BOTTOM_SILKSCREEN >
-     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/BOTTOM_SILKSCREEN-withMask.art > ...
+     PROCESSING FILM < BOTTOM_ASSEMBLY >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/BOTTOM_ASSEMBLY-withMask.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -287,25 +298,25 @@ Results from parameter file ...
   Offset x:                           0.0000
   Offset y:                           0.0000
   Plot negative                       NO
-  Suppress unconnected internal pads  NO
+  Suppress unconnected internal pads  YES
   Draw holes only                     NO
 
 
 
   APERTURES USED:  NONE
-     BOTTOM_SILKSCREEN-withMask created.
+     BOTTOM_ASSEMBLY-withMask created with warnings
 
 
 ------------------------------------------------------
  SUMMARY:
-        TOP-withMask created.
-        GND-withMask created.
-        POWER-withMask created.
-        BOTTOM-withMask created.
+        TOP-withMask created with warnings
+        GND-withMask created with warnings
+        POWER-withMask created with warnings
+        BOTTOM-withMask created with warnings
         OUTLINE-withMask created with warnings
-        TOP_SOLDERMASK-withMask created.
-        BOTTOM_SOLDERMASK-withMask created.
-        TOP_SILKSCREEN-withMask created.
-        BOTTOM_SILKSCREEN-withMask created.
+        TOP_SOLDERMASK-withMask created with warnings
+        BOTTOM_SOLDERMASK-withMask created with warnings
+        TOP_ASSEMBLY-withMask created with warnings
+        BOTTOM_ASSEMBLY-withMask created with warnings
 
  ARTWORK had warnings
