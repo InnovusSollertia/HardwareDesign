@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ST-LINKV3_open.brd                            )
 (    Software Version : 23.1S005                                      )
-(    Date/Time        : Thu Jul 25 10:15:32 2024                      )
+(    Date/Time        : Thu Jul 25 12:55:31 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -204,18 +204,20 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: rectangle or unfilled shape composed 0 width line found at (155.7020 281.9400)
-           ... ignored.
 
 
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
 
-  APERTURES USED:  NONE
      OUTLINE created with warnings
 
 
 ================================================================
-     PROCESSING FILM < TOP_SOLDERMASK >
-     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP_SOLDERMASK.art > ...
+     PROCESSING FILM < BOTTOM_SILK >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/BOTTOM_SILK.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -232,78 +234,12 @@ Results from parameter file ...
 
 
   APERTURES USED:  NONE
-     TOP_SOLDERMASK created with warnings
+     BOTTOM_SILK created with warnings
 
 
 ================================================================
-     PROCESSING FILM < BOTTOM_SOLDERMASK >
-     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/BOTTOM_SOLDERMASK.art > ...
-================================================================
-
-  FILM PARAMETERS :
-  ---------------------------------------------------------
-  Undefined line width                0.0000
-  Mirror code                         NONE
-  Rotate angle                        NONE
-  Offset x:                           0.0000
-  Offset y:                           0.0000
-  Plot negative                       NO
-  Suppress unconnected internal pads  YES
-  Draw holes only                     NO
-
-
-
-  APERTURES USED:  NONE
-     BOTTOM_SOLDERMASK created with warnings
-
-
-================================================================
-     PROCESSING FILM < TOP_SILKSCREEN >
-     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP_SILKSCREEN.art > ...
-================================================================
-
-  FILM PARAMETERS :
-  ---------------------------------------------------------
-  Undefined line width                0.0000
-  Mirror code                         NONE
-  Rotate angle                        NONE
-  Offset x:                           0.0000
-  Offset y:                           0.0000
-  Plot negative                       NO
-  Suppress unconnected internal pads  NO
-  Draw holes only                     NO
-
-
-
-  APERTURES USED:  NONE
-     TOP_SILKSCREEN created with warnings
-
-
-================================================================
-     PROCESSING FILM < BOTTOM_SILKSCREEN >
-     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/BOTTOM_SILKSCREEN.art > ...
-================================================================
-
-  FILM PARAMETERS :
-  ---------------------------------------------------------
-  Undefined line width                0.0000
-  Mirror code                         NONE
-  Rotate angle                        NONE
-  Offset x:                           0.0000
-  Offset y:                           0.0000
-  Plot negative                       NO
-  Suppress unconnected internal pads  NO
-  Draw holes only                     NO
-
-
-
-  APERTURES USED:  NONE
-     BOTTOM_SILKSCREEN created with warnings
-
-
-================================================================
-     PROCESSING FILM < TOP_ASSEMBLY >
-     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP_ASSEMBLY.art > ...
+     PROCESSING FILM < TOP_SILK >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP_SILK.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -326,12 +262,12 @@ Results from parameter file ...
   CIRCLE     0.10000                                  DARK 
   CIRCLE     0.20000                                  DARK 
 
-     TOP_ASSEMBLY created with warnings
+     TOP_SILK created with warnings
 
 
 ================================================================
-     PROCESSING FILM < BOTTOM_ASSEMBLY >
-     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/BOTTOM_ASSEMBLY.art > ...
+     PROCESSING FILM < TOP_SOLDER >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP_SOLDER.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -342,13 +278,79 @@ Results from parameter file ...
   Offset x:                           0.0000
   Offset y:                           0.0000
   Plot negative                       NO
-  Suppress unconnected internal pads  YES
+  Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
 
 
   APERTURES USED:  NONE
-     BOTTOM_ASSEMBLY created with warnings
+     TOP_SOLDER created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM_SOLDER >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/BOTTOM_SOLDER.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     BOTTOM_SOLDER created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP_PASTE >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/TOP_PASTE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     TOP_PASTE created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM_PASTE >
+     TO FILE < D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/BOTTOM_PASTE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     BOTTOM_PASTE created with warnings
 
 
 ------------------------------------------------------
@@ -358,11 +360,11 @@ Results from parameter file ...
         POWER created with warnings
         BOTTOM created with warnings
         OUTLINE created with warnings
-        TOP_SOLDERMASK created with warnings
-        BOTTOM_SOLDERMASK created with warnings
-        TOP_SILKSCREEN created with warnings
-        BOTTOM_SILKSCREEN created with warnings
-        TOP_ASSEMBLY created with warnings
-        BOTTOM_ASSEMBLY created with warnings
+        BOTTOM_SILK created with warnings
+        TOP_SILK created with warnings
+        TOP_SOLDER created with warnings
+        BOTTOM_SOLDER created with warnings
+        TOP_PASTE created with warnings
+        BOTTOM_PASTE created with warnings
 
  ARTWORK had warnings

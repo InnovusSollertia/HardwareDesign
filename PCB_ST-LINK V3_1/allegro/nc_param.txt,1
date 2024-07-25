@@ -6,7 +6,7 @@ FEEDRATE               1
 COORDINATES            ABSOLUTE
 OUTPUT-UNITS           METRIC
 TOOL-ORDER             INCREASING
-REPEAT-CODES           NO
+REPEAT-CODES           YES
 SUPPRESS-LEAD-ZEROES   YES
 SUPPRESS-TRAIL-ZEROES  NO
 SUPPRESS-EQUAL         YES
@@ -16,7 +16,7 @@ ENHANCED_EXCELLON      YES
 HEADER                 none
 LEADER                 12
 CODE                   ASCII
-SEPARATE               NO
+SEPARATE               YES
 SEPARATE-ROUTING       NO
 DRILLING               LAYER-PAIR
 BACKDRILL              YES

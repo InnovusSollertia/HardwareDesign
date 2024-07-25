@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ST-LINKV3_open.brd                            )
 (    Software Version : 23.1S005                                      )
-(    Date/Time        : Thu Jul 25 10:01:48 2024                      )
+(    Date/Time        : Thu Jul 25 10:01:54 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -21,7 +21,7 @@
  COORDINATES		ABSOLUTE
  OUTPUT-UNITS		METRIC
  TOOL-ORDER		INCREASING
- REPEAT-CODES		NO
+ REPEAT-CODES		YES
  SUPPRESS-LEAD-ZEROES	YES
  SUPPRESS-TRAIL-ZEROES	NO
  SUPPRESS-EQUAL		YES
@@ -29,7 +29,7 @@
  HEADER			none
  LEADER			12
  CODE			ASCII
- SEPARATE		NO
+ SEPARATE		YES
  SEPARATE-ROUTING	NO
  OPTIMIZE_DRILLING	YES
  ENHANCED_EXCELLON	YES
@@ -55,19 +55,32 @@ Drill files being output to directory 'D:/Projects/HardwareDesign/PCB_ST-LINK V3
 
 
 
-     'ST-LINKV3_open-1-4.drl' created for holes connecting TOP and BOTTOM
-     --------------------------------------------------------------------
+     'ST-LINKV3_open-1-4.drl' created for holes connecting TOP and BOTTOM ; Plating = PLATED
+     ---------------------------------------------------------------------------------------
 
      Tool  Num     Size      +/- Tolerance     Plating   Quantity
 
      T01    1.   0.3302    0.0000/  0.0000      PLATED         78
      T02    2.   0.7000    0.0000/  0.0000      PLATED         12
      T03    3.   1.1001    0.0000/  0.0000      PLATED         12
-     T04    4.   0.5999    0.0000/  0.0000  NON_PLATED          1
-     T05    5.   0.8999    0.0000/  0.0000  NON_PLATED          2
-     T06    6.   1.1699    0.0000/  0.0000  NON_PLATED          1
 
-     ---- Total holes:                                        106
+     ---- Total holes:                                        102
 
-     ---- Total head travel:              2.94 feet (0.90 meters)
+     ---- Total head travel:              2.61 feet (0.80 meters)
+
+
+
+
+     'ST-LINKV3_open-1-4-np.drl' created for holes connecting TOP and BOTTOM ; Plating = NON_PLATED
+     ----------------------------------------------------------------------------------------------
+
+     Tool  Num     Size      +/- Tolerance     Plating   Quantity
+
+     T04    1.   0.5999    0.0000/  0.0000  NON_PLATED          1
+     T05    2.   0.8999    0.0000/  0.0000  NON_PLATED          2
+     T06    3.   1.1699    0.0000/  0.0000  NON_PLATED          1
+
+     ---- Total holes:                                          4
+
+     ---- Total head travel:              2.18 feet (0.66 meters)
 
