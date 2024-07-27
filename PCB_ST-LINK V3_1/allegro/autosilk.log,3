@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Silkscreen Audit Log File                                        )
+(                                                                     )
+(    Drawing          : ST-LINKV3_open.brd                            )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Fri Jul 26 10:55:38 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Auditing silkscreen for the top of the board.
+
+Element to Pad clearance is 0.0500
+
+     ----- Top Silkscreen Audit -----
+
+LINE @ (164.6980, 233.4731) --> (164.6980, 248.6760) ... with via @ (165.1000, 233.4260)
+LINE @ (164.6980, 230.8760) --> (164.6980, 233.3789) ... with via @ (165.1000, 233.4260)
+TEXT 'R2' @ (172.0850, 255.9050) ... with text 'R11' @ (175.3870, 257.4290)
+TEXT 'Y1' @ (169.1640, 261.2280) ... with pin @ (169.8920, 262.3190)
+
+Audit Errors: 4
+
+
+Total Audit Errors: 4
+
+Log End
+

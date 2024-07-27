@@ -1,6 +1,6 @@
 (ExpressProject "ST-LinkV3"
   (ProjectVersion "19981106")
-  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[07/24/24]")
+  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[07/27/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -93,8 +93,8 @@
     (BOM_Include_File
        "D:\PROJECTS\HARDWAREDESIGN\PCB_ST-LINK V3_1\ST-LINKV3.INC")
     (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
-    (BOM_One_Part_Per_Line "FALSE")
-    (Open_BOM_in_Excel "FALSE")
+    (BOM_One_Part_Per_Line "TRUE")
+    (Open_BOM_in_Excel "TRUE")
     (BOM_View_Output "FALSE"))
   (Folder "Layout"
     (File ".\allegro\st-linkv3.brd"
@@ -232,6 +232,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
+      (Path "Design Resources"
+         "D:\Projects\HardwareDesign\PCB_ST-LINK V3_1\st-linkv3.dsn")
+      (Path "Design Resources"
+         "D:\Projects\HardwareDesign\PCB_ST-LINK V3_1\st-linkv3.dsn"
+         "SCHEMATIC1")
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs"))
@@ -244,9 +249,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 814 24 453")
-        (Scroll "1801 361")
-        (Zoom "112")
+        (Placement "44 0 1 -1 -1 5 24 5 895 24 453")
+        (Scroll "-149 0")
+        (Zoom "24")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\PCB_ST-LINK V3_1\ST-LINKV3.DSN")
       (Schematic "SCHEMATIC1")

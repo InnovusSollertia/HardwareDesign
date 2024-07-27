@@ -1,0 +1,32 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  ST-LINKV3_open.brd*
+G04 Film Name:    OUTLINE*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 23.1-S005*
+G04 Origin Date:  Fri Jul 26 11:07:03 2024*
+G04 *
+G04 Layer:  BOARD GEOMETRY/DESIGN_OUTLINE*
+G04 *
+G04 Offset:    (0.0000 0.0000)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     0.0000*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSTAX35Y35*MOMM*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,.127*%
+G75*
+%LPD*%
+G75*
+G54D10*
+G01X155702Y28194D02*
+Y215392D01*
+G01D02*
+X2032D01*
+G01Y28194D02*
+X155702D01*
+G01X2032Y215392D02*
+Y28194D01*
+M02*
