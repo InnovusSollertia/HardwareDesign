@@ -1,0 +1,127 @@
+\t (00:00:52) orcadx 23.1 S005 Windows SPB 64-bit Edition
+\t (00:00:52)     Journal start - Mon Jul 29 16:20:52 2024
+\t (00:00:52)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=18172 CPUs=12
+\t (00:00:52) CmdLine= C:\Cadence\SPB_23.1\tools\bin\unison.exe -layout -orcadx
+\t (00:00:52) 
+\d (00:00:52) Design opened: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd
+\i (00:00:52) trapsize 4342
+\i (00:00:54) QtSignal PropertyShapeFillWidget PropertyShapeFillStyle CurrentIndexChanged 0
+\i (00:00:54) QtSignal PropertyShapeFillWidget PropertyShapeFillPattern CurrentIndexChanged Vertical
+\i (00:00:54) QtSignal PropertyStaticShapeFillWidget PropertyShapeFillStyle CurrentIndexChanged +
+\i (00:00:54) QtSignal 0
+\i (00:00:54) QtSignal PropertyStaticShapeFillWidget PropertyShapeFillPattern CurrentIndexChanged +
+\i (00:00:54) QtSignal Vertical
+\i (00:00:54) QtSignal PropertyVoidCtrlWidget PropertyVoidStyle CurrentIndexChanged 0
+\i (00:00:54) QtSignal PropertyVoidCtrlWidget PropertyCornerStyle CurrentIndexChanged 0
+\i (00:00:56) trapsize 5720
+\i (00:00:59) trapsize 5710
+\i (00:01:00) trapsize 5835
+\i (00:01:06) QtSignal UCP_Shape_add UCPAddShape_Mode CurrentIndexChanged 0
+\i (00:01:07) QtSignal UCP_Add_Text AddText_TextBlock_SpinBox valueChanged 1
+\i (00:01:07) updateport VisibilityPane
+\i (00:01:07) updateport PropPane
+\i (00:01:07) ucpedit 
+\i (00:01:07) updateport VisibilityPane
+\i (00:01:33) zoom in 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom in 176.9824 264.9609
+\i (00:01:33) trapsize 2918
+\i (00:01:33) zoom in 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom in 176.9824 264.9609
+\i (00:01:33) trapsize 1459
+\i (00:01:33) zoom in 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom in 176.9824 264.9609
+\i (00:01:33) trapsize 729
+\i (00:01:34) zoom in 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom in 176.9824 264.9609
+\i (00:01:34) trapsize 365
+\i (00:01:35) zoom out 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom out 176.9824 264.9609
+\i (00:01:35) trapsize 729
+\i (00:01:35) zoom out 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom out 176.9824 264.9610
+\i (00:01:35) trapsize 1459
+\i (00:01:35) zoom out 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom out 176.9825 264.9610
+\i (00:01:35) trapsize 2918
+\i (00:01:36) zoom out 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out 176.9824 264.9610
+\i (00:01:36) trapsize 5835
+\i (00:01:45) ucp_selection_mode 
+\i (00:01:45) ucp_selection_mode 
+\i (00:01:45) ucpedit 
+\i (00:01:45) updateport VisibilityPane
+\i (00:01:51) updateport ReportsPane
+\i (00:01:51) updateport SearchPane
+\i (00:01:51) updateport PropPane
+\i (00:01:56) updateport ReportsPane
+\i (00:01:56) updateport SearchPane
+\i (00:01:56) updateport VisibilityPane
+\i (00:01:56) updateport PropPane
+\i (00:01:56) trapsize 5611
+\i (00:01:56) trapsize 5835
+\i (00:01:58) drag_start grid 151.3082 285.2669
+\i (00:01:59) drag_stop 212.8096 209.5281
+\i (00:01:59) updateport VisibilityPane
+\i (00:02:00) drag_start grid 173.5981 219.5643
+\i (00:02:01) drag_stop 207.5580 221.0815
+\i (00:02:01) updateport VisibilityPane
+\i (00:02:02) pick grid 207.5580 221.0815
+\t (00:02:02) last pick:  207.5580 221.0815
+\i (00:02:02) updateport VisibilityPane
+\i (00:02:03) zoom out 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom out 207.5580 220.8481
+\i (00:02:03) trapsize 11670
+\i (00:02:03) zoom out 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom out 207.5581 220.8480
+\i (00:02:03) trapsize 23340
+\i (00:02:05) drag_start grid 400.5173 241.3442
+\i (00:02:05) drag_stop 278.2148 334.7049
+\i (00:02:05) updateport VisibilityPane
+\i (00:02:07) drag_start grid 310.8910 290.3586
+\i (00:02:07) ucp_move 
+\t (00:02:07) No valid items selected for the current operation, exiting.
+\i (00:02:07) updateport ReportsPane
+\i (00:02:07) updateport SearchPane
+\i (00:02:07) updateport VisibilityPane
+\i (00:02:07) updateport PropPane
+\i (00:02:07) ucpedit 
+\i (00:02:07) updateport VisibilityPane
+\i (00:02:07) drag_stop grid 209.1279 292.2258
+\i (00:02:08) prepopup 209.1279 292.2258
+\i (00:02:10) pick grid 241.3373 225.9397
+\t (00:02:10) last pick:  241.3373 225.9397
+\i (00:02:10) updateport VisibilityPane
+\i (00:02:18) QtSignal PropertyStatusWidget drc_highlight_toggle_btn clicked true
+\i (00:02:19) QtSignal PropertyStatusWidget drc_highlight_toggle_btn clicked false
+\i (00:02:19) QtSignal PropertyStatusWidget drc_highlight_toggle_btn clicked true
+\i (00:02:23) QtSignal PropertyParameterWidget ParameterSheetOptions CurrentIndexChanged 3
+\t (00:02:23) Change sheet size failed: db_chkobs_exts returned 2
+\i (00:02:23) ucpedit 
+\i (00:02:23) updateport VisibilityPane
+\i (00:02:24) QtSignal PropertyParameterWidget ParameterSheetOptions CurrentIndexChanged 3
+\t (00:02:24) Change sheet size failed: db_chkobs_exts returned 2
+\i (00:02:24) ucpedit 
+\i (00:02:24) updateport VisibilityPane
+\i (00:02:28) QtSignal PropertySelectionFilterWidget Groups clicked on
+\i (00:02:46) QtSignal VisibilityLayersWidget VisLayersDataLayersAccordion headerClicked 0
+\i (00:02:47) QtSignal VisibilityLayersWidget VisLayersDataLayersAccordion headerClicked 1
+\i (00:02:48) QtSignal VisibilityLayersWidget VisLayersDataLayersAccordion headerClicked 0
+\i (00:02:49) QtSignal VisibilityLayersWidget VisLayersDataLayersAccordion headerClicked 1
+\i (00:02:59) ucp_single_exports 
+\i (00:03:37) ucpedit 
+\i (00:03:37) updateport VisibilityPane
+\i (00:03:41) QtSignal CplGrpSel CplGrpSel closed
+\i (00:03:41) QtSignal CplPrefDialog CplPrefDialog closed
+\i (00:03:41) QtSignal ImpPrefDialog ImpPrefDialog closed
+\i (00:03:41) QtSignal ImpGrpSel ImpGrpSel closed
+\t (00:03:47)     Journal end - Mon Jul 29 16:23:47 2024

@@ -1,0 +1,502 @@
+FILE_TYPE=FORM_DEFN VERSION=2
+FORM 
+FIXED
+PORT 75 1
+HEADER "PCB Review V2.19"
+TILE
+GROUP "Top Layer"
+GLOC 2 0 
+GSIZE 66 7
+ENDGROUP
+FIELD Show_Top_Copper
+FLOC 3 2 
+CHECKLIST "Copper" 
+ENDFIELD
+FIELD Color_Top_Copper
+FLOC 14 2 
+COLOR 3 1
+ENDFIELD
+FIELD Color_Top_Copper_HuePlus
+FLOC 17 2 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Top_Copper_HueMinus
+FLOC 17 3 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Top_Copper_SaturationPlus
+FLOC 21 2 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Top_Copper_SaturationMinus
+FLOC 21 3 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Top_Copper_LightPlus
+FLOC 25 2 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Top_Copper_LightMinus
+FLOC 25 3 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Show_Top_RefDes_Disp
+FLOC 38 2 
+CHECKLIST "RefDes" 
+ENDFIELD
+FIELD Color_Top_RefDes_Disp
+FLOC 49 2 
+COLOR 3 1
+ENDFIELD
+FIELD Color_Top_RefDes_Disp_HuePlus
+FLOC 52 2 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Top_RefDes_Disp_HueMinus
+FLOC 52 3 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Top_RefDes_Disp_SaturationPlus
+FLOC 56 2 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Top_RefDes_Disp_SaturationMinus
+FLOC 56 3 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Top_RefDes_Disp_LightPlus
+FLOC 60 2 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Top_RefDes_Disp_LightMinus
+FLOC 60 3 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Show_Top_Outline_Disp
+FLOC 3 4 
+CHECKLIST "Outline" 
+ENDFIELD
+FIELD Color_Top_Outline_Disp
+FLOC 14 4 
+COLOR 3 1
+ENDFIELD
+FIELD Color_Top_Outline_Disp_HuePlus
+FLOC 17 4 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Top_Outline_Disp_HueMinus
+FLOC 17 5 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Top_Outline_Disp_SaturationPlus
+FLOC 21 4 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Top_Outline_Disp_SaturationMinus
+FLOC 21 5 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Top_Outline_Disp_LightPlus
+FLOC 25 4 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Top_Outline_Disp_LightMinus
+FLOC 25 5 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Show_Top_Bounds
+FLOC 38 4 
+CHECKLIST "Bounds" 
+ENDFIELD
+FIELD Color_Top_Bounds
+FLOC 49 4 
+COLOR 3 1
+ENDFIELD
+FIELD Color_Top_Bounds_HuePlus
+FLOC 52 4 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Top_Bounds_HueMinus
+FLOC 52 5 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Top_Bounds_SaturationPlus
+FLOC 56 4 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Top_Bounds_SaturationMinus
+FLOC 56 5 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Top_Bounds_LightPlus
+FLOC 60 4 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Top_Bounds_LightMinus
+FLOC 60 5 
+MENUBUTTON "-" 4 1
+ENDFIELD
+GROUP "Bottom Layer"
+GLOC 2 7 
+GSIZE 66 7
+ENDGROUP
+FIELD Show_Bottom_Copper
+FLOC 3 9 
+CHECKLIST "Copper" 
+ENDFIELD
+FIELD Color_Bottom_Copper
+FLOC 14 9 
+COLOR 3 1
+ENDFIELD
+FIELD Color_Bottom_Copper_HuePlus
+FLOC 17 9 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Bottom_Copper_HueMinus
+FLOC 17 10 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Bottom_Copper_SaturationPlus
+FLOC 21 9 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Bottom_Copper_SaturationMinus
+FLOC 21 10 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Bottom_Copper_LightPlus
+FLOC 25 9 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Bottom_Copper_LightMinus
+FLOC 25 10 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Show_Bottom_RefDes_Disp
+FLOC 38 9 
+CHECKLIST "RefDes" 
+ENDFIELD
+FIELD Color_Bottom_RefDes_Disp
+FLOC 49 9 
+COLOR 3 1
+ENDFIELD
+FIELD Color_Bottom_RefDes_Disp_HuePlus
+FLOC 52 9 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Bottom_RefDes_Disp_HueMinus
+FLOC 52 10 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Bottom_RefDes_Disp_SaturationPlus
+FLOC 56 9 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Bottom_RefDes_Disp_SaturationMinus
+FLOC 56 10 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Bottom_RefDes_Disp_LightPlus
+FLOC 60 9 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Bottom_RefDes_Disp_LightMinus
+FLOC 60 10 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Show_Bottom_Outline_Disp
+FLOC 3 11 
+CHECKLIST "Outline" 
+ENDFIELD
+FIELD Color_Bottom_Outline_Disp
+FLOC 14 11 
+COLOR 3 1
+ENDFIELD
+FIELD Color_Bottom_Outline_Disp_HuePlus
+FLOC 17 11 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Bottom_Outline_Disp_HueMinus
+FLOC 17 12 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Bottom_Outline_Disp_SaturationPlus
+FLOC 21 11 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Bottom_Outline_Disp_SaturationMinus
+FLOC 21 12 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Bottom_Outline_Disp_LightPlus
+FLOC 25 11 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Bottom_Outline_Disp_LightMinus
+FLOC 25 12 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Show_Bottom_Bounds
+FLOC 38 11 
+CHECKLIST "Bounds" 
+ENDFIELD
+FIELD Color_Bottom_Bounds
+FLOC 49 11 
+COLOR 3 1
+ENDFIELD
+FIELD Color_Bottom_Bounds_HuePlus
+FLOC 52 11 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Bottom_Bounds_HueMinus
+FLOC 52 12 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Bottom_Bounds_SaturationPlus
+FLOC 56 11 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Bottom_Bounds_SaturationMinus
+FLOC 56 12 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Bottom_Bounds_LightPlus
+FLOC 60 11 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Bottom_Bounds_LightMinus
+FLOC 60 12 
+MENUBUTTON "-" 4 1
+ENDFIELD
+GROUP ""
+GLOC 2 14 
+GSIZE 66 5
+ENDGROUP
+FIELD Show_Pin_Labels
+FLOC 3 16 
+CHECKLIST "Pin Labels" 
+ENDFIELD
+FIELD Color_Pin_Labels
+FLOC 14 16 
+COLOR 3 1
+ENDFIELD
+FIELD Color_Pin_Labels_HuePlus
+FLOC 17 16 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Pin_Labels_HueMinus
+FLOC 17 17 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Pin_Labels_SaturationPlus
+FLOC 21 16 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Pin_Labels_SaturationMinus
+FLOC 21 17 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Pin_Labels_LightPlus
+FLOC 25 16 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Pin_Labels_LightMinus
+FLOC 25 17 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD "ShowNetLabels"
+FLOC 38 16 
+CHECKLIST "(Net Labels)" 
+ENDFIELD
+GROUP ""
+GLOC 2 19 
+GSIZE 66 7
+ENDGROUP
+FIELD "DisableCustomColors"
+FLOC 3 21 
+CHECKLIST "Disable Custom Colors" 
+ENDFIELD
+FIELD "DRC"
+FLOC 38 21 
+CHECKLIST "(DRC) " 
+ENDFIELD
+FIELD "RatsNest"
+FLOC 3 23 
+CHECKLIST "(Rats)" 
+ENDFIELD
+FIELD "ShowGrid"
+FLOC 38 23 
+CHECKLIST "Grid" 
+ENDFIELD
+GROUP ""
+GLOC 2 26 
+GSIZE 66 8
+ENDGROUP
+FIELD "ShadowMode"
+FLOC 3 28 
+CHECKLIST "Shadow Mode" 
+ENDFIELD
+FIELD "DimActiveLayer"
+FLOC 23 28 
+CHECKLIST "Dim Active Layer" 
+ENDFIELD
+FIELD "DimCustomColors"
+FLOC 44 28 
+CHECKLIST "Dim Custom Colors" 
+ENDFIELD
+FIELD "Brightness"
+FLOC 3 31 
+INTSLIDEBAR 4 3
+MIN 0
+MAX 100
+ENDFIELD
+TEXT "Brightness"
+FLOC 11 31 
+FSIZE 10 2 
+ENDTEXT
+TEXT "Transparency:"
+FLOC 23 31 
+FSIZE 15 2 
+ENDTEXT
+FIELD "GlobalTransparency"
+FLOC 35 31 
+INTSLIDEBAR 4 3
+MIN 0
+MAX 100
+ENDFIELD
+TEXT "Global"
+FLOC 43 31 
+FSIZE 10 2 
+ENDTEXT
+FIELD "ShapeTransparency"
+FLOC 49 31 
+INTSLIDEBAR 4 3
+MIN 0
+MAX 100
+ENDFIELD
+TEXT "Shape"
+FLOC 57 31 
+FSIZE 10 2 
+ENDTEXT
+GROUP "Inner Layers"
+GLOC 2 34 
+GSIZE 66 7
+ENDGROUP
+FIELD Show_Gnd
+FLOC 20 36 
+CHECKLIST "Gnd" 
+ENDFIELD
+FIELD Color_Gnd
+FLOC 31 36 
+COLOR 3 1
+ENDFIELD
+FIELD Color_Gnd_HuePlus
+FLOC 34 36 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Gnd_HueMinus
+FLOC 34 37 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Gnd_SaturationPlus
+FLOC 38 36 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Gnd_SaturationMinus
+FLOC 38 37 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Gnd_LightPlus
+FLOC 42 36 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Gnd_LightMinus
+FLOC 42 37 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Show_Power
+FLOC 20 38 
+CHECKLIST "Power" 
+ENDFIELD
+FIELD Color_Power
+FLOC 31 38 
+COLOR 3 1
+ENDFIELD
+FIELD Color_Power_HuePlus
+FLOC 34 38 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Power_HueMinus
+FLOC 34 39 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Power_SaturationPlus
+FLOC 38 38 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Power_SaturationMinus
+FLOC 38 39 
+MENUBUTTON "-" 4 1
+ENDFIELD
+FIELD Color_Power_LightPlus
+FLOC 42 38 
+MENUBUTTON "+" 4 1
+ENDFIELD
+FIELD Color_Power_LightMinus
+FLOC 42 39 
+MENUBUTTON "-" 4 1
+ENDFIELD
+GROUP ""
+GLOC 2 41 
+GSIZE 53 5
+ENDGROUP
+FIELD Relabel
+FLOC 7 43 
+MENUBUTTON "Relabel" 8 3
+ENDFIELD
+FIELD Recolor
+FLOC 18 43 
+MENUBUTTON "Recolor" 8 3
+ENDFIELD
+FIELD SetView 
+FLOC 29 43 
+MENUBUTTON "Set View" 8 3
+ENDFIELD
+FIELD Refresh
+FLOC 40 43 
+MENUBUTTON "Refresh" 8 3
+ENDFIELD
+GROUP ""
+GLOC 56 41 
+GSIZE 12 5
+ENDGROUP
+FIELD RunAll
+FLOC 58 43 
+MENUBUTTON "Run All" 8 3
+ENDFIELD
+GROUP "NOTES"
+GLOC 2 46 
+GSIZE 66 13
+ENDGROUP
+TEXT "'Relabel' modifies and displays the reference designators on the RefDes display layer. Silkscreen and assembly layers are not changed."
+FLOC 3 48 
+FSIZE 62 5 
+ENDTEXT
+TEXT "'Recolor' re-colors all the layers shown above."
+FLOC 3 51 
+FSIZE 64 2 
+ENDTEXT
+TEXT "'Set View' sets view to default layer visibility, shadow, grid, etc."
+FLOC 3 53 
+FSIZE 66 2 
+ENDTEXT
+TEXT "'Refresh' refreshes this popup with any changes made from other windows."
+FLOC 3 55 
+FSIZE 66 2 
+ENDTEXT
+TEXT "+/- button pairs are for Hue, Saturation, and Lightness."
+FLOC 3 57 
+FSIZE 66 2 
+ENDTEXT
+ENDTILE
+ENDFORM
