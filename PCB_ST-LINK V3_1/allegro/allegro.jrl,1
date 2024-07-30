@@ -1,353 +1,618 @@
-\t (00:00:06) allegro 23.1 S005 Windows SPB 64-bit Edition
-\t (00:00:06)     Journal start - Sat Jul 27 16:00:31 2024
-\t (00:00:06)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=3096 CPUs=12
-\t (00:00:06) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
-\t (00:00:06) 
-   (00:00:06) Loading axlcore.cxt 
-\t (00:00:07) Opening existing design...
-\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ST-LINKV3_open"
-\d (00:00:07) Design opened: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd
-\i (00:00:07) trapsize 12704
-\i (00:00:07) trapsize 13611
-\i (00:00:07) trapsize 13895
-\i (00:00:07) trapsize 22998
-\i (00:00:07) trapsize 22998
-\t (00:00:08) > Sending response DoneOpenBoard
-\t (00:00:08) Loading NV GPU Plugin
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
-\i (00:00:08) QtSignal Modes
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
-\i (00:00:08) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
-\i (00:00:08) QtSignal 0 "|" "Board Outline  (1/6)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
-\i (00:00:08) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
-\i (00:00:08) QtSignal "|" "Shapes  (1/4)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
-\i (00:00:08) QtSignal 0 "|" Polygon
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
-\i (00:00:08) QtSignal 0 "|" "IPC-2581"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
-\i (00:00:08) QtSignal 0 "|" Testprep
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
-\i (00:00:08) QtSignal Manual
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
-\i (00:00:08) QtSignal "Display Status"
-\i (00:00:08) trapsize 6292
-\i (00:00:09) generaledit 
-\i (00:00:10) trapsize 6286
-\i (00:00:10) trapsize 6251
-\i (00:00:10) trapsize 6181
-\i (00:00:10) trapsize 6141
-\i (00:00:10) trapsize 6069
-\i (00:00:10) trapsize 6052
-\i (00:00:10) trapsize 5966
-\i (00:00:10) trapsize 5950
-\i (00:00:10) trapsize 5934
-\i (00:00:10) trapsize 5928
-\i (00:00:10) trapsize 5907
-\i (00:00:10) trapsize 5887
-\i (00:00:10) trapsize 5866
-\i (00:00:10) trapsize 5856
-\i (00:00:10) trapsize 5850
-\i (00:00:10) trapsize 5840
-\i (00:00:11) trapsize 5830
-\i (00:00:11) trapsize 5820
-\i (00:00:11) trapsize 5810
-\i (00:00:11) roam start
-\i (00:00:11) roam y -16
-\i (00:00:11) roam x -16
-\i (00:00:11) roam y -16
-\i (00:00:11) roam y -16
-\i (00:00:11) roam y -16
-\i (00:00:11) roam y -16
-\i (00:00:11) roam y -32
-\i (00:00:11) roam y -16
-\i (00:00:11) roam x -16
-\i (00:00:11) roam y -16
-\i (00:00:11) roam y -32
-\i (00:00:11) roam y -16
-\i (00:00:11) roam y -32
-\i (00:00:11) roam y -16
-\i (00:00:11) roam y -16
-\i (00:00:11) roam y -16
-\i (00:00:11) roam y -16
-\i (00:00:12) roam y -16
-\i (00:00:12) roam y -16
-\i (00:00:12) roam y -16
-\i (00:00:12) roam y -16
-\i (00:00:12) roam x 16
-\i (00:00:12) roam y -16
-\i (00:00:12) roam y -16
-\i (00:00:12) roam x 16
-\i (00:00:12) roam y -16
-\i (00:00:12) roam y -16
-\i (00:00:12) roam x 16
-\i (00:00:12) roam y -16
-\i (00:00:12) roam y -16
-\i (00:00:12) roam y -16
-\i (00:00:12) roam y -16
-\i (00:00:12) roam y -16
-\i (00:00:12) roam end
-\i (00:00:12) zoom in 1 
-\i (00:00:12) setwindow pcb
-\i (00:00:12) zoom in 168.7121 242.1461
-\i (00:00:12) trapsize 2905
-\i (00:00:13) roam start
-\i (00:00:13) roam y -16
-\i (00:00:13) roam x 16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam x 16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam x 16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam x 16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam x 16
-\i (00:00:13) roam y -32
-\i (00:00:13) roam x 16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam x 16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam x 16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam x 16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam x 16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam x 16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam x 16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam y -16
-\i (00:00:13) roam y -16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x -16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam y 16
-\i (00:00:14) roam x 16
-\i (00:00:14) roam x 16
-\i (00:00:15) roam end
-\i (00:00:16) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP_SILK"
-\i (00:00:16) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP_SILK"
-\i (00:00:17) roam start
-\i (00:00:17) roam x -16
-\i (00:00:17) roam x -16
-\i (00:00:17) roam x -16
-\i (00:00:17) roam x -32
-\i (00:00:17) roam x -16
-\i (00:00:17) roam x -16
-\i (00:00:17) roam y -16
-\i (00:00:17) roam x -16
-\i (00:00:17) roam x -16
-\i (00:00:17) roam x -16
-\i (00:00:17) roam x -16
-\i (00:00:17) roam x -16
-\i (00:00:17) roam x -32
-\i (00:00:17) roam x -16
-\i (00:00:17) roam y -16
-\i (00:00:17) roam x -32
-\i (00:00:17) roam x -16
-\i (00:00:17) roam x -16
-\i (00:00:17) roam y -16
-\i (00:00:17) roam x -16
-\i (00:00:17) roam x -16
-\i (00:00:17) roam x -16
-\i (00:00:17) roam y -16
-\i (00:00:18) roam x -16
-\i (00:00:18) roam y -16
-\i (00:00:18) roam x -16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam y 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:18) roam x 16
-\i (00:00:19) roam x 16
-\i (00:00:19) roam x 16
-\i (00:00:19) roam y 16
-\i (00:00:19) roam end
-\i (00:00:19) zoom in 1 
-\i (00:00:19) setwindow pcb
-\i (00:00:19) zoom in 202.8727 245.5155
-\i (00:00:19) trapsize 1452
-\i (00:00:20) roam start
-\i (00:00:20) roam x -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam y -32
-\i (00:00:20) roam x -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam x -16
-\i (00:00:20) roam y -32
-\i (00:00:20) roam x -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam x -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam x -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam x -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam x -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam x -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam x -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam x -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam x -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam x -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam x -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam x -16
-\i (00:00:20) roam y -32
-\i (00:00:20) roam y -16
-\i (00:00:20) roam x -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam x -16
-\i (00:00:20) roam y -16
-\i (00:00:20) roam end
-\i (00:00:20) zoom out 1 
-\i (00:00:20) setwindow pcb
-\i (00:00:20) zoom out 194.0709 258.3254
-\i (00:00:20) trapsize 2905
-\i (00:00:20) zoom out 1 
-\i (00:00:20) setwindow pcb
-\i (00:00:20) zoom out 194.0709 258.3254
-\i (00:00:20) trapsize 5810
-\i (00:00:21) roam start
-\i (00:00:21) roam y -16
-\i (00:00:21) roam y -16
-\i (00:00:21) roam y -16
-\i (00:00:21) roam y -32
-\i (00:00:21) roam y -16
-\i (00:00:21) roam y -16
-\i (00:00:21) roam y -16
-\i (00:00:21) roam y -16
-\i (00:00:21) roam y -16
-\i (00:00:21) roam y -16
-\i (00:00:21) roam y -16
-\i (00:00:21) roam x 16
-\i (00:00:21) roam y -16
-\i (00:00:21) roam x 16
-\i (00:00:21) roam x 16
-\i (00:00:21) roam y -16
-\i (00:00:21) roam x 16
-\i (00:00:21) roam x 16
-\i (00:00:21) roam x 16
-\i (00:00:21) roam x 32
-\i (00:00:21) roam y 16
-\i (00:00:21) roam x 16
-\i (00:00:21) roam x 16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam x 16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam x -16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam x -16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam y 16
-\i (00:00:21) roam end
-\i (00:00:22) zoom in 1 
-\i (00:00:22) setwindow pcb
-\i (00:00:22) zoom in 213.5626 238.5441
-\i (00:00:22) trapsize 2905
-\i (00:00:23) exit 
-\t (00:00:23)     Journal end - Sat Jul 27 16:00:48 2024
+\t (00:00:11) allegro 23.1 S005 Windows SPB 64-bit Edition
+\t (00:00:11)     Journal start - Tue Jul 30 11:43:50 2024
+\t (00:00:11)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=13364 CPUs=12
+\t (00:00:11) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
+\t (00:00:11) 
+   (00:00:11) Loading axlcore.cxt 
+\t (00:00:12) Opening existing design...
+\i (00:00:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ST-LINKV3_open"
+\d (00:00:12) Design opened: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd
+\i (00:00:13) trapsize 12704
+\i (00:00:13) trapsize 13611
+\i (00:00:13) trapsize 13895
+\i (00:00:13) trapsize 17644
+\i (00:00:13) trapsize 17644
+\t (00:00:13) > Sending response DoneOpenBoard
+\t (00:00:13) Loading NV GPU Plugin
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
+\i (00:00:13) QtSignal Modes
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:00:13) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:00:13) QtSignal 0 "|" "Board Outline  (1/6)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
+\i (00:00:13) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
+\i (00:00:13) QtSignal "|" "Shapes  (1/4)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
+\i (00:00:13) QtSignal 0 "|" Polygon
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
+\i (00:00:13) QtSignal 0 "|" "IPC-2581"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
+\i (00:00:13) QtSignal 0 "|" Testprep
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
+\i (00:00:13) QtSignal Manual
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
+\i (00:00:13) QtSignal "Display Status"
+\i (00:00:13) trapsize 5810
+\i (00:00:18) generaledit 
+\i (00:01:16) skill 
+\i (00:01:40) trapsize 35476
+\i (00:01:40) trapsize 35857
+\i (00:02:00) skill 'load "C:`\Cadence`\PCBReview.il"' 
+   (00:02:00) 
+   (00:02:00) load "C:\Cadence\PCBReview.il"
+   (00:02:00)         ^^
+   (00:02:00) PARSER WARNING at line 1 column 9 of file *string*
+   (00:02:00) *WARNING* (Parser): character found after backslash is not meaningful - '\C'
+   (00:02:00) 
+   (00:02:00) load "C:\Cadence\PCBReview.il"
+   (00:02:00)                 ^^
+   (00:02:00) PARSER WARNING at line 1 column 17 of file *string*
+   (00:02:00) *WARNING* (Parser): character found after backslash is not meaningful - '\P'
+   (00:02:00) *Error* load: can't access file - "C:CadencePCBReview.il"
+   (00:02:00) ERROR
+\i (00:02:18) skill 'load "C:/Cadence/PCBReview.il"' 
+   (00:02:18) t
+\i (00:02:23) skill pcbreview 
+   (00:02:23)  length=0 
+   (00:02:23)  Nlayers=4 
+   (00:02:23)  length(innerLayerCopperList)=0
+   (00:02:23)  layer=TOP Top
+   (00:02:23)  layer=GND Gnd
+   (00:02:23)  make_layerObj_t=Gnd
+   (00:02:23)  length(innerLayerCopperList)=1
+   (00:02:23)  layer=POWER Power
+   (00:02:23)  make_layerObj_t=Power
+   (00:02:23)  length(innerLayerCopperList)=2
+   (00:02:23)  layer=BOTTOM Bottom
+   (00:02:23) Gnd isVisible=nil 
+   (00:02:23) Power isVisible=nil 
+   (00:02:23) rgb of Top_Copper = (0 255 0)
+   (00:02:23) rgb of PIN/TOP = (0 255 0)
+   (00:02:23) rgb of VIA CLASS/TOP = (0 255 0)
+   (00:02:23) rgb of Top_RefDes_Disp = (0 151 183)
+   (00:02:23) rgb of Top_RefDes_Assy = (0 255 255)
+   (00:02:23) rgb of Top_RefDes_Silk = (0 128 0)
+   (00:02:23) rgb of Top_Outline_Disp = (99 139 58)
+   (00:02:23) rgb of Top_Outline_Assy = (0 255 255)
+   (00:02:23) rgb of Top_Outline_Silk = (0 0 255)
+   (00:02:23) rgb of Top_Bounds = (99 139 58)
+   (00:02:23) rgb of Gnd = (0 128 0)
+   (00:02:23) rgb of Power = (176 254 0)
+   (00:02:23) rgb of Bottom_Copper = (255 255 0)
+   (00:02:23) rgb of PIN/BOTTOM = (255 255 0)
+   (00:02:23) rgb of VIA CLASS/BOTTOM = (255 255 0)
+   (00:02:23) rgb of Bottom_RefDes_Disp = (0 151 183)
+   (00:02:23) rgb of Bottom_RefDes_Assy = (0 255 255)
+   (00:02:23) rgb of Bottom_RefDes_Silk = (0 128 0)
+   (00:02:23) rgb of Bottom_Outline_Disp = (99 139 58)
+   (00:02:23) rgb of Bottom_Outline_Assy = (0 255 255)
+   (00:02:23) rgb of Bottom_Outline_Silk = (255 0 0)
+   (00:02:23) rgb of Bottom_Bounds = (99 139 58)
+   (00:02:23) rgb of Board_Outline = (172 172 172)
+   (00:02:23) rgb of Pin_Labels = (99 139 58)
+   (00:02:23) init showNetLabels =nil 
+   (00:02:23) init showNetLabels =nil 
+   (00:02:23) init showGrid =nil 
+   (00:02:23) init showCustomColors =t 
+   (00:02:23) init shadowModeOn =nil 
+   (00:02:23) init dimActiveLayerOn =nil 
+   (00:02:23) init dimCustomColorsOn =nil 
+   (00:02:23) init brightnessPercent =50 
+   (00:02:23) init globalTransparencyPercent =50 
+   (00:02:23) init shapeTransparencyPercent =39 
+   (00:02:23) Done: form setup
+   (00:02:23) t
+\i (00:02:28) setwindow form.modRDForm
+\i (00:02:28) FORM modRDForm shownetlabels YES 
+   (00:02:28) showNetLabels =t 
+\i (00:02:29) FORM modRDForm shownetlabels NO 
+   (00:02:29) showNetLabels =nil 
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:02:30) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+\i (00:02:33) setwindow pcb
+\i (00:02:33) skill pcbreview 
+   (00:02:33)  length=0 
+   (00:02:33)  Nlayers=4 
+   (00:02:33)  length(innerLayerCopperList)=0
+   (00:02:33)  layer=TOP Top
+   (00:02:33)  layer=GND Gnd
+   (00:02:33)  make_layerObj_t=Gnd
+   (00:02:33)  length(innerLayerCopperList)=1
+   (00:02:33)  layer=POWER Power
+   (00:02:33)  make_layerObj_t=Power
+   (00:02:33)  length(innerLayerCopperList)=2
+   (00:02:33)  layer=BOTTOM Bottom
+   (00:02:33) Gnd isVisible=nil 
+   (00:02:33) Power isVisible=nil 
+   (00:02:33) rgb of Top_Copper = (0 255 0)
+   (00:02:33) rgb of PIN/TOP = (0 255 0)
+   (00:02:33) rgb of VIA CLASS/TOP = (0 255 0)
+   (00:02:33) rgb of Top_RefDes_Disp = (0 151 183)
+   (00:02:33) rgb of Top_RefDes_Assy = (0 255 255)
+   (00:02:33) rgb of Top_RefDes_Silk = (0 128 0)
+   (00:02:33) rgb of Top_Outline_Disp = (99 139 58)
+   (00:02:33) rgb of Top_Outline_Assy = (0 255 255)
+   (00:02:33) rgb of Top_Outline_Silk = (0 0 255)
+   (00:02:33) rgb of Top_Bounds = (99 139 58)
+   (00:02:33) rgb of Gnd = (0 128 0)
+   (00:02:33) rgb of Power = (176 254 0)
+   (00:02:33) rgb of Bottom_Copper = (255 255 0)
+   (00:02:33) rgb of PIN/BOTTOM = (255 255 0)
+   (00:02:33) rgb of VIA CLASS/BOTTOM = (255 255 0)
+   (00:02:33) rgb of Bottom_RefDes_Disp = (0 151 183)
+   (00:02:33) rgb of Bottom_RefDes_Assy = (0 255 255)
+   (00:02:33) rgb of Bottom_RefDes_Silk = (0 128 0)
+   (00:02:33) rgb of Bottom_Outline_Disp = (99 139 58)
+   (00:02:33) rgb of Bottom_Outline_Assy = (0 255 255)
+   (00:02:33) rgb of Bottom_Outline_Silk = (255 0 0)
+   (00:02:33) rgb of Bottom_Bounds = (99 139 58)
+   (00:02:33) rgb of Board_Outline = (172 172 172)
+   (00:02:33) rgb of Pin_Labels = (99 139 58)
+   (00:02:33) init showNetLabels =t 
+   (00:02:33) init showNetLabels =nil 
+   (00:02:33) init showGrid =nil 
+   (00:02:33) init showCustomColors =t 
+   (00:02:33) init shadowModeOn =nil 
+   (00:02:33) init dimActiveLayerOn =nil 
+   (00:02:33) init dimCustomColorsOn =nil 
+   (00:02:33) init brightnessPercent =50 
+   (00:02:33) init globalTransparencyPercent =50 
+   (00:02:33) init shapeTransparencyPercent =39 
+   (00:02:33) Done: form setup
+   (00:02:33) t
+\i (00:02:45) setwindow form.modRDForm
+\i (00:02:45) FORM modRDForm runall  
+\t (00:02:45) REF DES/DISPLAY_TOP text deletion completed.
+\t (00:02:45) REF DES/DISPLAY_BOTTOM text deletion completed.
+\t (00:02:45) PACKAGE GEOMETRY/DISPLAY_TOP text deletion completed.
+\t (00:02:45) PACKAGE GEOMETRY/DISPLAY_BOTTOM text deletion completed.
+\t (00:02:45) PACKAGE GEOMETRY/PIN_NUMBER text deletion completed.
+   (00:02:45) *PIN HAS NO NUMBER: "C45_H90"
+   (00:02:45) *PIN HAS NO NUMBER: "C45_H90"
+   (00:02:45) *PIN HAS NO NUMBER: "C30_H60"
+   (00:02:45) *PIN HAS NO NUMBER: "C58_5_H117"
+   (00:02:45) *PIN HAS NO NUMBER: "C45_H90"
+   (00:02:45) *PIN HAS NO NUMBER: "C45_H90"
+   (00:02:45) *PIN HAS NO NUMBER: "C30_H60"
+   (00:02:45) *PIN HAS NO NUMBER: "C58_5_H117"
+   (00:02:45) RECOLOR Layer ETCH/TOP 
+   (00:02:45) new color for color#192=RGB(0 255 0)=HSL(120.0 1.0 0.5)=allegroHSL=(80 240 120)
+   (00:02:45) RECOLOR Layer ETCH/BOTTOM 
+   (00:02:45) new color for color#188=RGB(0 191 255)=HSL(195.0588 1.0 0.5)=allegroHSL=(130 240 120)
+   (00:02:45) RECOLOR Layer REF DES/DISPLAY_TOP 
+   (00:02:45) new color for color#191=RGB(193 255 130)=HSL(89.76 1.0 0.754902)=allegroHSL=(60 240 181)
+   (00:02:45) RECOLOR Layer PACKAGE GEOMETRY/DISPLAY_TOP 
+   (00:02:45) new color for color#190=RGB(0 125 0)=HSL(120.0 1.0 0.245098)=allegroHSL=(80 240 59)
+   (00:02:45) RECOLOR Layer PACKAGE GEOMETRY/PLACE_BOUND_TOP 
+   (00:02:45) new color for color#189=RGB(130 255 130)=HSL(120.0 1.0 0.754902)=allegroHSL=(80 240 181)
+   (00:02:45) RECOLOR Layer REF DES/DISPLAY_BOTTOM 
+   (00:02:45) new color for color#187=RGB(130 255 224)=HSL(165.12 1.0 0.754902)=allegroHSL=(110 240 181)
+   (00:02:45) RECOLOR Layer PACKAGE GEOMETRY/DISPLAY_BOTTOM 
+   (00:02:45) new color for color#186=RGB(0 94 125)=HSL(194.88 1.0 0.245098)=allegroHSL=(130 240 59)
+   (00:02:45) RECOLOR Layer PACKAGE GEOMETRY/PLACE_BOUND_BOTTOM 
+   (00:02:45) new color for color#185=RGB(130 224 255)=HSL(194.88 1.0 0.754902)=allegroHSL=(130 240 181)
+   (00:02:45) RECOLOR Layer PACKAGE GEOMETRY/PIN_NUMBER 
+   (00:02:45) new color for color#181=RGB(255 255 255)=HSL(0 0 1.0)=allegroHSL=(0 0 240)
+   (00:02:45) RECOLOR Layer BOARD GEOMETRY/OUTLINE 
+   (00:02:45) new color for color#182=RGB(255 0 0)=HSL(0.0 1.0 0.5)=allegroHSL=(0 240 120)
+\i (00:02:46) setwindow pcb
+\i (00:02:46) zoom in 1 
+\i (00:02:46) setwindow pcb
+\i (00:02:46) zoom in 197.2508 274.7446
+\i (00:02:46) trapsize 17929
+\i (00:02:47) zoom in 1 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom in 191.1550 260.0430
+\i (00:02:47) trapsize 8964
+\i (00:02:47) zoom in 1 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom in 189.5414 254.1265
+\i (00:02:47) trapsize 4482
+\i (00:02:47) zoom in 1 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom in 189.9000 253.9473
+\i (00:02:47) trapsize 2241
+\i (00:02:48) zoom out 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom out 190.0793 253.8576
+\i (00:02:48) trapsize 4482
+\i (00:02:48) zoom out 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom out 190.1690 253.6783
+\i (00:02:48) trapsize 8964
+\i (00:02:48) zoom out 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom out 190.8862 253.4990
+\i (00:02:48) trapsize 17929
+\i (00:02:48) zoom in 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom in 205.5876 273.9376
+\i (00:02:48) trapsize 8964
+\i (00:02:48) zoom in 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom in 200.9262 273.5791
+\i (00:02:48) trapsize 4482
+\i (00:02:48) zoom in 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom in 200.4780 273.4895
+\i (00:02:48) trapsize 2241
+\i (00:02:49) zoom out 1 
+\i (00:02:49) setwindow pcb
+\i (00:02:49) zoom out 199.5368 275.0134
+\i (00:02:49) trapsize 4482
+\i (00:02:49) zoom out 1 
+\i (00:02:49) setwindow pcb
+\i (00:02:49) zoom out 199.5368 274.3859
+\i (00:02:49) trapsize 8964
+\i (00:02:51) setwindow form.modRDForm
+\i (00:02:51) FORM modRDForm refresh  
+   (00:02:51) rgb of Top_Copper = (0 255 0)
+   (00:02:51) rgb of PIN/TOP = (0 255 0)
+   (00:02:51) rgb of VIA CLASS/TOP = (0 255 0)
+   (00:02:51) rgb of Top_RefDes_Disp = (193 255 130)
+   (00:02:51) rgb of Top_RefDes_Assy = (0 255 255)
+   (00:02:51) rgb of Top_RefDes_Silk = (0 128 0)
+   (00:02:51) rgb of Top_Outline_Disp = (0 125 0)
+   (00:02:51) rgb of Top_Outline_Assy = (0 255 255)
+   (00:02:51) rgb of Top_Outline_Silk = (0 0 255)
+   (00:02:51) rgb of Top_Bounds = (130 255 130)
+   (00:02:51) rgb of Gnd = (0 128 0)
+   (00:02:51) rgb of Power = (176 254 0)
+   (00:02:51) rgb of Bottom_Copper = (0 191 255)
+   (00:02:51) rgb of PIN/BOTTOM = (0 191 255)
+   (00:02:51) rgb of VIA CLASS/BOTTOM = (0 191 255)
+   (00:02:51) rgb of Bottom_RefDes_Disp = (130 255 224)
+   (00:02:51) rgb of Bottom_RefDes_Assy = (0 255 255)
+   (00:02:51) rgb of Bottom_RefDes_Silk = (0 128 0)
+   (00:02:51) rgb of Bottom_Outline_Disp = (0 94 125)
+   (00:02:51) rgb of Bottom_Outline_Assy = (0 255 255)
+   (00:02:51) rgb of Bottom_Outline_Silk = (255 0 0)
+   (00:02:51) rgb of Bottom_Bounds = (130 224 255)
+   (00:02:51) rgb of Board_Outline = (255 0 0)
+   (00:02:51) rgb of Pin_Labels = (255 255 255)
+   (00:02:51) found a matching text block=3 !!
+   (00:02:51) init showNetLabels =nil 
+   (00:02:51) init showNetLabels =nil 
+   (00:02:51) init showGrid =nil 
+   (00:02:51) init showCustomColors =nil 
+   (00:02:51) init shadowModeOn =t 
+   (00:02:51) init dimActiveLayerOn =t 
+   (00:02:51) init dimCustomColorsOn =nil 
+   (00:02:51) init brightnessPercent =100 
+   (00:02:51) init globalTransparencyPercent =50 
+   (00:02:51) init shapeTransparencyPercent =30 
+\i (00:02:53) FORM modRDForm show_top_refdes_disp NO 
+\i (00:02:53) FORM modRDForm show_top_refdes_disp YES 
+\i (00:02:54) FORM modRDForm show_top_refdes_disp NO 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) zoom in 1 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) zoom in 191.8275 277.4339
+\i (00:02:54) trapsize 4482
+\i (00:02:55) zoom in 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom in 197.6544 274.1171
+\i (00:02:55) trapsize 2241
+\i (00:02:55) zoom in 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom in 198.9094 272.2346
+\i (00:02:55) trapsize 1121
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out 198.3268 272.5035
+\i (00:02:55) trapsize 2241
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out 198.3267 272.5036
+\i (00:02:55) trapsize 4482
+\i (00:02:56) zoom out 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom out 197.7889 271.9657
+\i (00:02:56) trapsize 8964
+\i (00:02:57) setwindow form.modRDForm
+\i (00:02:57) FORM modRDForm show_top_copper YES 
+\i (00:02:57) FORM modRDForm show_top_copper NO 
+\i (00:02:58) FORM modRDForm show_top_copper YES 
+\i (00:02:58) FORM modRDForm show_top_copper NO 
+\i (00:02:59) FORM modRDForm show_top_copper YES 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom in 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom in 203.3467 271.2486
+\i (00:03:00) trapsize 4482
+\i (00:03:01) zoom in 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom in 200.2092 268.3801
+\i (00:03:01) trapsize 2241
+\i (00:03:01) zoom in 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom in 198.4612 269.4110
+\i (00:03:01) trapsize 1121
+\i (00:03:01) zoom in 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom in 198.1475 269.7024
+\i (00:03:01) trapsize 560
+\i (00:03:01) zoom out 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom out 198.1475 269.7136
+\i (00:03:01) trapsize 1121
+\i (00:03:01) zoom out 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom out 198.1924 269.7137
+\i (00:03:01) trapsize 2241
+\i (00:03:02) zoom out 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom out 198.1924 269.7137
+\i (00:03:02) trapsize 4482
+\i (00:03:02) zoom out 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom out 198.1924 269.7137
+\i (00:03:02) trapsize 8964
+\i (00:03:02) zoom out 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom out 197.8339 268.6379
+\i (00:03:02) trapsize 17929
+\i (00:03:02) zoom out 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom out 196.3996 263.2594
+\i (00:03:02) trapsize 35857
+\i (00:03:02) zoom out 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom out 194.9652 218.8082
+\i (00:03:02) trapsize 71714
+\i (00:03:03) zoom in 1 
+\i (00:03:03) setwindow pcb
+\i (00:03:03) zoom in 184.9252 233.8682
+\i (00:03:03) trapsize 35857
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+   (00:03:03) *WARNING* (axlFormSetField): Form handle access attempted after form closed!
+\i (00:03:04) zoom in 1 
+\i (00:03:04) setwindow pcb
+\i (00:03:04) zoom in 205.7224 306.2998
+\i (00:03:04) trapsize 17929
+\i (00:03:04) zoom in 1 
+\i (00:03:04) setwindow pcb
+\i (00:03:04) zoom in 202.1367 271.1598
+\i (00:03:04) trapsize 8964
+\i (00:03:05) trapsize 1452
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out 199.8484 177.7097
+\i (00:03:06) trapsize 2905
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out 199.6742 177.6515
+\i (00:03:06) trapsize 5810
+\i (00:03:07) zoom out 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom out 197.1180 176.3734
+\i (00:03:07) trapsize 11619
+\i (00:03:07) zoom out 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom out 196.8856 176.3735
+\i (00:03:07) trapsize 24313
+\i (00:03:07) zoom out 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom out 92.3896 253.8284
+\i (00:03:07) trapsize 24313
+\i (00:03:07) zoom in 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom in 145.8784 266.4712
+\i (00:03:07) trapsize 12157
+\i (00:03:07) zoom in 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom in 148.3097 263.7968
+\i (00:03:07) trapsize 6078
+\i (00:03:08) zoom in 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom in 174.9326 251.1540
+\i (00:03:08) trapsize 3039
+\i (00:03:08) pick grid 150.1941 239.6053
+\t (00:03:08) last pick:  150.1140 239.5220
+\i (00:03:10) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:03:10) QtSignal CVPLayerGrid CVPAllConductors clicked false
+\i (00:03:11) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:03:13) QtSignal CVPLayerGrid CVPAllConductors clicked false
+\i (00:03:14) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:03:15) QtSignal CVPLayerGrid CVPBoxAllGnd clicked true
+\i (00:03:16) QtSignal CVPLayerGrid CVPBoxAllPower clicked true
+\i (00:03:16) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:03:22) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:03:22) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:03:23) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM_SILK"
+\i (00:03:23) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM_SILK"
+\i (00:03:24) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM_SOLDER"
+\i (00:03:24) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM_SOLDER"
+\i (00:03:26) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: GND"
+\i (00:03:26) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: GND"
+\i (00:03:28) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: OUTLINE"
+\i (00:03:28) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: OUTLINE"
+\i (00:03:29) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: POWER"
+\i (00:03:29) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: POWER"
+\i (00:03:32) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:03:32) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:03:36) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP_SILK"
+\i (00:03:36) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP_SILK"
+\i (00:03:38) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP_SOLDER"
+\i (00:03:38) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP_SOLDER"
+\i (00:03:40) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged
+\i (00:03:40) QtSignal ColorVisibilityPane CVPViewDropdown activated
+\i (00:03:41) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:03:42) QtSignal CVPLayerGrid CVPAllAll_Layers clicked true
+\i (00:03:42) zoom out 1 
+\i (00:03:42) setwindow pcb
+\i (00:03:42) zoom out 205.3240 250.5462
+\i (00:03:42) trapsize 6078
+\i (00:03:43) zoom in 1 
+\i (00:03:43) setwindow pcb
+\i (00:03:43) zoom in 205.6886 246.0482
+\i (00:03:43) trapsize 3039
+\i (00:03:44) zoom in 1 
+\i (00:03:44) setwindow pcb
+\i (00:03:44) zoom in 179.0658 241.6719
+\i (00:03:44) trapsize 1520
+\i (00:03:45) zoom in 1 
+\i (00:03:45) setwindow pcb
+\i (00:03:45) zoom in 182.1050 241.1248
+\i (00:03:45) trapsize 760
+\i (00:03:45) zoom in 1 
+\i (00:03:45) setwindow pcb
+\i (00:03:45) zoom in 182.2721 241.0944
+\i (00:03:45) trapsize 380
+\i (00:03:46) zoom out 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom out 181.6795 241.5047
+\i (00:03:46) trapsize 760
+\i (00:03:46) zoom out 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom out 181.7404 241.5352
+\i (00:03:46) trapsize 1520
+\i (00:03:46) zoom out 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom out 181.8620 241.7176
+\i (00:03:46) trapsize 3039
+\i (00:03:46) zoom out 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom out 182.4090 241.9607
+\i (00:03:46) trapsize 6078
+\i (00:03:46) zoom in 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom in 194.8087 264.9366
+\i (00:03:46) trapsize 3039
+\i (00:03:47) zoom in 1 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) zoom in 195.2342 267.6719
+\i (00:03:47) trapsize 1520
+\i (00:03:47) zoom in 1 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) zoom in 194.6872 269.1915
+\i (00:03:47) trapsize 760
+\i (00:03:47) zoom out 1 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) zoom out 194.2922 271.2430
+\i (00:03:47) trapsize 1520
+\i (00:03:47) zoom out 1 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) zoom out 194.2618 271.0910
+\i (00:03:47) trapsize 3039
+\i (00:03:47) zoom out 1 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) zoom out 194.1401 270.8479
+\i (00:03:47) trapsize 6078
+\i (00:03:48) zoom in 1 
+\i (00:03:48) setwindow pcb
+\i (00:03:48) zoom in 192.5598 279.7221
+\i (00:03:48) trapsize 3039
+\i (00:03:48) zoom in 1 
+\i (00:03:48) setwindow pcb
+\i (00:03:48) zoom in 191.5873 279.4182
+\i (00:03:48) trapsize 1520
+\i (00:03:48) zoom in 1 
+\i (00:03:48) setwindow pcb
+\i (00:03:48) zoom in 191.5569 279.1447
+\i (00:03:48) trapsize 760
+\i (00:03:49) zoom out 1 
+\i (00:03:49) setwindow pcb
+\i (00:03:49) zoom out 191.5721 278.8864
+\i (00:03:49) trapsize 1520
+\i (00:03:49) zoom out 1 
+\i (00:03:49) setwindow pcb
+\i (00:03:49) zoom out 191.7545 278.4610
+\i (00:03:49) trapsize 3039
+\i (00:03:49) zoom out 1 
+\i (00:03:49) setwindow pcb
+\i (00:03:49) zoom out 191.7544 271.1670
+\i (00:03:49) trapsize 6078
+\i (00:03:52) save 
+\i (00:03:53) fillin yes 
+\t (00:03:53) > Sending response DoneOpenBoard
+\i (00:03:53) generaledit 
+\i (00:03:54) zoom in 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom in 174.4921 230.1994
+\i (00:03:54) trapsize 3039
+\i (00:03:54) zoom in 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom in 174.4922 230.1386
+\i (00:03:54) trapsize 1520
+\i (00:03:54) zoom in 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom in 174.4922 230.0778
+\i (00:03:54) trapsize 760
+\i (00:03:55) add connect 
+\t (00:03:55) Pick first element.
+\i (00:36:53) exit 
+\e (00:36:54) Do you want to save the changes you made to D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd?
+\i (00:36:56) fillin yes 
+\t (00:36:56)     Journal end - Tue Jul 30 12:20:36 2024

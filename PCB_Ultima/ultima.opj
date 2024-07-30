@@ -1,6 +1,6 @@
 (ExpressProject "ultima"
   (ProjectVersion "19981106")
-  (SoftwareVersion "23.1 S004 (4189164)  [4/25/2024]-[06/18/24]")
+  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[07/30/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -11,8 +11,28 @@
     (File ".\ultima.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
-    (CompileFileAddedOrDeleted "x"))
-  (Folder "Layout")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\ultima.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Layout"
+    (File ".\allegro\ultima.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\ultima.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (Folder "PSpice Resources"
@@ -23,8 +43,62 @@
       (Sort User))
     (Folder "Include Files"
       (Sort User)))
-  (Folder "Logs")
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\eco.txt")))
   (PartMRUSelector
+    (SM0603SRC
+      (FullPartName "SM0603SRC.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\SEMICONDUCTORS. LED\(0603, SUPER RED) SM0603SRC\SM0603SRC.OLB")
+      (DeviceIndex "0"))
+    (SM0603GCL
+      (FullPartName "SM0603GCL.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\SEMICONDUCTORS. LED\(0603, GREEN) SM0603GCL\SM0603GCL.OLB")
+      (DeviceIndex "0"))
+    (MCT06030D2610BP100
+      (FullPartName "MCT06030D2610BP100.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\RESISTORS. FILM\(0603, 261R) MCT06030D2610BP100\MCT06030D2610BP100.OLB")
+      (DeviceIndex "0"))
+    (ERA-6ARB472V
+      (FullPartName "ERA-6ARB472V.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\RESISTORS. FILM\(0805, 4.7K) ERA-6ARB472V\ERA-6ARB472V.OLB")
+      (DeviceIndex "0"))
+    (SN74AVC1T45DBVR
+      (FullPartName "SN74AVC1T45DBVR.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. VOLTAGE LEVELS\(SOT-23-6) SN74AVC1T45DBVR\SN74AVC1T45DBVR.OLB")
+      (DeviceIndex "0"))
+    (S8421-45R
+      (FullPartName "S8421-45R.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. BATTERY HOLDER\(CR2032) S8421-45R\S8421-45R.OLB")
+      (DeviceIndex "0"))
+    (BAS4004E6327HTSA1
+      (FullPartName "BAS4004E6327HTSA1.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\SEMICONDUCTORS. SCHOTTKY DIODES\(SOT-23-3) BAS4004E6327HTSA1\BAS4004E6327HTSA1.OLB")
+      (DeviceIndex "0"))
+    (06034C104KAT2A
+      (FullPartName "06034C104KAT2A.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CAPACITORS. CERAMIC\(0603, 0.1UF, 4V) 06034C104KAT2A\06034C104KAT2A.OLB")
+      (DeviceIndex "0"))
+    (XC7K325T-2FFG900I
+      (FullPartName "XC7K325T-2FFG900I.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. FPGA\(FCBGA-900) XC7K325T-2FFG900I\XC7K325T-2FFG900I.OLB")
+      (DeviceIndex "0"))
     (XC7K420T-3FFG1156E
       (FullPartName "XC7K420T-3FFG1156E.Normal")
       (LibraryName
@@ -34,27 +108,28 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "D:\Projects\ProjectScience\electronics\Ultima\ultima.dsn")
+         "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ultima.dsn")
       (Path "Design Resources"
-         "D:\Projects\ProjectScience\electronics\Ultima\ultima.dsn" "MAIN")
+         "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ultima.dsn" "MAIN")
       (Select "Design Resources"
-         "D:\Projects\ProjectScience\electronics\Ultima\ultima.dsn" "MAIN"
-         "DEVICE3"))
+         "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ultima.dsn" "MAIN" "BASE"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 208 0 529"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 531"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 974 24 547")
-        (Scroll "3072 21989")
-        (Zoom "512")
+        (Placement "44 0 1 -1 -1 -1 -1 5 961 24 549")
+        (Scroll "4138 7254")
+        (Zoom "200")
         (Occurrence "/"))
-      (Path "D:\PROJECTS\PROJECTSCIENCE\ELECTRONICS\ULTIMA\ULTIMA.DSN")
+      (Path "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ULTIMA.DSN")
       (Schematic "MAIN")
-      (Page "DEVICE1")))
+      (Page "BASE")))
   (MPSSessionName "Prometheus")
-  (LastUsedLibraryBrowseDirectory "D:\Projects\CadenceEMD\Main_Libraries\FPGA"))
+  (LastUsedLibraryBrowseDirectory
+     "D:\Projects\CadenceAllegro\Old-library\Semiconductors. LED\(0603, Super Red) SM0603SRC")
+  (ISPCBBASICLICENSE "false"))

@@ -1,0 +1,76 @@
+Reading Layer Conversion File 
+Reading DXF file...
+done.
+WARNING: DXF extents are too large to for Allegro.
+  Continuing at maximum db extents.
+  DXF entities outside these extents will be lost.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHDB-396): A design outline already exists.
+ERROR: Failed to add (LW)POLYLINE
+  on BOARD GEOMETRY / DESIGN_OUTLINE
+  POLYLINE on line number 150
+
+ERROR: ERROR(SPMHDB-396): A design outline already exists.
+ERROR: Failed to add (LW)POLYLINE
+  on BOARD GEOMETRY / DESIGN_OUTLINE
+  POLYLINE on line number 212
+
+ERROR: ERROR(SPMHDB-396): A design outline already exists.
+ERROR: Failed to add (LW)POLYLINE
+  on BOARD GEOMETRY / DESIGN_OUTLINE
+  POLYLINE on line number 274
+
+ERROR: ERROR(SPMHDB-396): A design outline already exists.
+ERROR: Failed to add (LW)POLYLINE
+  on BOARD GEOMETRY / DESIGN_OUTLINE
+  POLYLINE on line number 336
+
+ERROR: ERROR(SPMHDB-396): A design outline already exists.
+ERROR: Failed to add (LW)POLYLINE
+  on BOARD GEOMETRY / DESIGN_OUTLINE
+  POLYLINE on line number 398
+
+ERROR: ERROR(SPMHDB-396): A design outline already exists.
+ERROR: Failed to add (LW)POLYLINE
+  on BOARD GEOMETRY / DESIGN_OUTLINE
+  POLYLINE on line number 460
+
+ERROR: ERROR(SPMHDB-396): A design outline already exists.
+ERROR: Failed to add (LW)POLYLINE
+  on BOARD GEOMETRY / DESIGN_OUTLINE
+  POLYLINE on line number 522
+
+ERROR: ERROR(SPMHDB-396): A design outline already exists.
+ERROR: Failed to add (LW)POLYLINE
+  on BOARD GEOMETRY / DESIGN_OUTLINE
+  POLYLINE on line number 584
+Layer conversion file: D:/PROJECTS/HARDWAREDESIGN/PCB_ULTIMA/BoardGeometryImport_1Layer_l.cnv
+DXF file: D:/PROJECTS/HARDWAREDESIGN/PCB_ULTIMA/BoardGeometryImport_1Layer.DXF
+BRD file: D:/PROJECTS/HARDWAREDESIGN/PCB_ULTIMA/allegro/#Taaaaag15288.tmp
+Update existing design?: YES
+Use default text?: NO
+DXF units: MILLIMETERS
+Design units: MILS
+Design precision: 4
+dxf2a complete.
