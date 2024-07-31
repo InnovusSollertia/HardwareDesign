@@ -6,67 +6,55 @@ NOTE: Replacing illegal character * with X in *Paper_Space0.
 done.
 
 ERROR: ERROR(SPMHDB-183): 'LINE' object may not exist on layer 'BOARD GEOMETRY/DESIGN_OUTLINE'.
-ERROR: Failed to add CIRCLE on line number 1820
+ERROR: Failed to add LINE on line number 2310
 
 ERROR: ERROR(SPMHDB-183): 'LINE' object may not exist on layer 'BOARD GEOMETRY/DESIGN_OUTLINE'.
-ERROR: Failed to add CIRCLE on line number 1846
+ERROR: Failed to add LINE on line number 2334
 
 ERROR: ERROR(SPMHDB-183): 'LINE' object may not exist on layer 'BOARD GEOMETRY/DESIGN_OUTLINE'.
-ERROR: Failed to add CIRCLE on line number 1872
+ERROR: Failed to add LINE on line number 2358
 
 ERROR: ERROR(SPMHDB-183): 'LINE' object may not exist on layer 'BOARD GEOMETRY/DESIGN_OUTLINE'.
-ERROR: Failed to add CIRCLE on line number 1898
+ERROR: Failed to add LINE on line number 2382
 
 ERROR: ERROR(SPMHDB-183): 'LINE' object may not exist on layer 'BOARD GEOMETRY/DESIGN_OUTLINE'.
-ERROR: Failed to add CIRCLE on line number 1924
+ERROR: Failed to add CIRCLE on line number 2406
 
 ERROR: ERROR(SPMHDB-183): 'LINE' object may not exist on layer 'BOARD GEOMETRY/DESIGN_OUTLINE'.
-ERROR: Failed to add CIRCLE on line number 1950
+ERROR: Failed to add CIRCLE on line number 2426
 
 ERROR: ERROR(SPMHDB-183): 'LINE' object may not exist on layer 'BOARD GEOMETRY/DESIGN_OUTLINE'.
-ERROR: Failed to add CIRCLE on line number 1976
+ERROR: Failed to add CIRCLE on line number 2446
 
 ERROR: ERROR(SPMHDB-183): 'LINE' object may not exist on layer 'BOARD GEOMETRY/DESIGN_OUTLINE'.
-ERROR: Failed to add CIRCLE on line number 2002
-WARNING: DXF Elements are outside the design extents.
-Incresing the extents to accomodate these entities.
-DXF entities may be out of their desired positions.
-WARNING: DXF Elements are outside the design extents.
-Incresing the extents to accomodate these entities.
-DXF entities may be out of their desired positions.
+ERROR: Failed to add CIRCLE on line number 2466
 
 ERROR: ERROR(SPMHDB-183): 'LINE' object may not exist on layer 'BOARD GEOMETRY/DESIGN_OUTLINE'.
-ERROR: Failed to add LINE on line number 2028
-WARNING: DXF Elements are outside the design extents.
-Incresing the extents to accomodate these entities.
-DXF entities may be out of their desired positions.
-WARNING: DXF Elements are outside the design extents.
-Incresing the extents to accomodate these entities.
-DXF entities may be out of their desired positions.
+ERROR: Failed to add CIRCLE on line number 2486
 
 ERROR: ERROR(SPMHDB-183): 'LINE' object may not exist on layer 'BOARD GEOMETRY/DESIGN_OUTLINE'.
-ERROR: Failed to add LINE on line number 2058
+ERROR: Failed to add CIRCLE on line number 2506
 
 ERROR: ERROR(SPMHDB-183): 'LINE' object may not exist on layer 'BOARD GEOMETRY/DESIGN_OUTLINE'.
-ERROR: Failed to add LINE on line number 2088
+ERROR: Failed to add CIRCLE on line number 2526
 
 ERROR: ERROR(SPMHDB-183): 'LINE' object may not exist on layer 'BOARD GEOMETRY/DESIGN_OUTLINE'.
-ERROR: Failed to add LINE on line number 2118
+ERROR: Failed to add CIRCLE on line number 2546
 
 ERROR: ERROR(SPMHDB-183): 'LINE' object may not exist on layer 'BOARD GEOMETRY/DESIGN_OUTLINE'.
-ERROR: Failed to add ARC on line number 2148
+ERROR: Failed to add CIRCLE on line number 2566
 
 ERROR: ERROR(SPMHDB-183): 'LINE' object may not exist on layer 'BOARD GEOMETRY/DESIGN_OUTLINE'.
-ERROR: Failed to add ARC on line number 2180
+ERROR: Failed to add CIRCLE on line number 2586
 
 ERROR: ERROR(SPMHDB-183): 'LINE' object may not exist on layer 'BOARD GEOMETRY/DESIGN_OUTLINE'.
-ERROR: Failed to add ARC on line number 2212
+ERROR: Failed to add CIRCLE on line number 2606
 
 ERROR: ERROR(SPMHDB-183): 'LINE' object may not exist on layer 'BOARD GEOMETRY/DESIGN_OUTLINE'.
-ERROR: Failed to add ARC on line number 2244
-Layer conversion file: D:/Projects/HardwareDesign/PCB_Ultima/BoardGeometryImport_l.cnv
-DXF file: D:/Projects/HardwareDesign/PCB_Ultima/BoardGeometryImport.DXF
-BRD file: D:/Projects/HardwareDesign/PCB_Ultima/allegro/#Taaaadf08532.tmp
+ERROR: Failed to add CIRCLE on line number 2626
+Layer conversion file: C:/Cadence/SPB_23.1/share/pcb/text/dlibx2iff.cnv
+DXF file: C:/Users/Prometheus/Downloads/Downloads/Telegram Desktop/EATX Scale01 v2.dxf
+BRD file: D:/PROJECTS/HARDWAREDESIGN/PCB_ULTIMA/allegro/#Taaaafb17636.tmp
 Update existing design?: YES
 Use default text?: NO
 DXF units: MILLIMETERS

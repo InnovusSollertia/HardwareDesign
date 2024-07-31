@@ -1,6 +1,6 @@
 (ExpressProject "ultima"
   (ProjectVersion "19981106")
-  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[07/30/24]")
+  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[07/31/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -54,6 +54,21 @@
       (Type "Log File")
       (LogFile "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\eco.txt")))
   (PartMRUSelector
+    (RT0603FRE10100RL
+      (FullPartName "RT0603FRE10100RL.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\RESISTORS. FILM\0603, 100) RT0603FRE10100RL\RT0603FRE10100RL.OLB")
+      (DeviceIndex "0"))
+    (ERA-3AEB80R6V
+      (FullPartName "ERA-3AEB80R6V.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\RESISTORS. FILM\(0603, 80R) ERA-3AEB80R6V\ERA-3AEB80R6V.OLB")
+      (DeviceIndex "0"))
+    (06034C104KAT2A
+      (FullPartName "06034C104KAT2A.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CAPACITORS. CERAMIC\(0603, 0.1UF, 4V) 06034C104KAT2A\06034C104KAT2A.OLB")
+      (DeviceIndex "0"))
     (SM0603SRC
       (FullPartName "SM0603SRC.Normal")
       (LibraryName
@@ -89,11 +104,6 @@
       (LibraryName
          "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\SEMICONDUCTORS. SCHOTTKY DIODES\(SOT-23-3) BAS4004E6327HTSA1\BAS4004E6327HTSA1.OLB")
       (DeviceIndex "0"))
-    (06034C104KAT2A
-      (FullPartName "06034C104KAT2A.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CAPACITORS. CERAMIC\(0603, 0.1UF, 4V) 06034C104KAT2A\06034C104KAT2A.OLB")
-      (DeviceIndex "0"))
     (XC7K325T-2FFG900I
       (FullPartName "XC7K325T-2FFG900I.Normal")
       (LibraryName
@@ -110,26 +120,17 @@
       (Path "Design Resources"
          "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ultima.dsn")
       (Path "Design Resources"
-         "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ultima.dsn" "MAIN")
+         "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ultima.dsn" "SCHEMATIC")
       (Select "Design Resources"
-         "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ultima.dsn" "MAIN" "BASE"))
+         "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ultima.dsn" "SCHEMATIC"
+         "DEVICE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 531"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 961 24 549")
-        (Scroll "4138 7254")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ULTIMA.DSN")
-      (Schematic "MAIN")
-      (Page "BASE")))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 747"))
+      (Tab 0)))
   (MPSSessionName "Prometheus")
   (LastUsedLibraryBrowseDirectory
-     "D:\Projects\CadenceAllegro\Old-library\Semiconductors. LED\(0603, Super Red) SM0603SRC")
+     "D:\Projects\CadenceAllegro\Old-library\Resistors. Film\0603, 100) RT0603FRE10100RL")
   (ISPCBBASICLICENSE "false"))
