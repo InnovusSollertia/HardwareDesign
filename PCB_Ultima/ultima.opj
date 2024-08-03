@@ -1,6 +1,6 @@
 (ExpressProject "ultima"
   (ProjectVersion "19981106")
-  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[07/31/24]")
+  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[08/03/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -54,6 +54,11 @@
       (Type "Log File")
       (LogFile "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\eco.txt")))
   (PartMRUSelector
+    (06034C104KAT2A
+      (FullPartName "06034C104KAT2A.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CAPACITORS. CERAMIC\(0603, 0.1UF, 4V) 06034C104KAT2A\06034C104KAT2A.OLB")
+      (DeviceIndex "0"))
     (RT0603FRE10100RL
       (FullPartName "RT0603FRE10100RL.Normal")
       (LibraryName
@@ -63,11 +68,6 @@
       (FullPartName "ERA-3AEB80R6V.Normal")
       (LibraryName
          "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\RESISTORS. FILM\(0603, 80R) ERA-3AEB80R6V\ERA-3AEB80R6V.OLB")
-      (DeviceIndex "0"))
-    (06034C104KAT2A
-      (FullPartName "06034C104KAT2A.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CAPACITORS. CERAMIC\(0603, 0.1UF, 4V) 06034C104KAT2A\06034C104KAT2A.OLB")
       (DeviceIndex "0"))
     (SM0603SRC
       (FullPartName "SM0603SRC.Normal")
@@ -118,18 +118,28 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ultima.dsn")
+         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn")
       (Path "Design Resources"
-         "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ultima.dsn" "SCHEMATIC")
+         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn" "SCHEMATIC")
       (Select "Design Resources"
-         "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ultima.dsn" "SCHEMATIC"
+         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn" "SCHEMATIC"
          "DEVICE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 747"))
-      (Tab 0)))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 531"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 948 24 549")
+        (Scroll "62 0")
+        (Zoom "20")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ULTIMA.DSN")
+      (Schematic "SCHEMATIC")
+      (Page "DEVICE1")))
   (MPSSessionName "Prometheus")
   (LastUsedLibraryBrowseDirectory
      "D:\Projects\CadenceAllegro\Old-library\Resistors. Film\0603, 100) RT0603FRE10100RL")
