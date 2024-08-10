@@ -1,6 +1,6 @@
 (ExpressProject "ultima"
   (ProjectVersion "19981106")
-  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[08/03/24]")
+  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[08/10/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -26,14 +26,71 @@
     ("Allegro Setup Part Type Length" "255")
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
-    ("Allegro Netlist User Defined Property" "FALSE"))
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_View_Output_Type "2")
+    (DRC_Preserved_Waived "FALSE")
+    (RUN_Online_Rules "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Check_Ports "TRUE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Check_Single_Node_Nets_Online "TRUE")
+    (DRC_Check_No_Driving_Source_Online "TRUE")
+    (DRC_Check_Duplicate_NetNames_Online "TRUE")
+    (DRC_Check_Off-Page_Connectors_Online "TRUE")
+    (DRC_Check_Ports_Online "TRUE")
+    (DRC_Check_Unconnected_Nets_Online "TRUE")
+    (DRC_Check_Floating_Pins_Online "TRUE")
+    (DRC_Run_Electrical_Reports "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Report_Off-grid_Objects "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "TRUE")
+    (DRC_Check_for_Misleading_TAP "TRUE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "FALSE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility_Online "TRUE")
+    (DRC_Check_PCB_Footprint_Property_Online "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync_Online "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment_Online "TRUE")
+    (DRC_Check_Missing_Pin_Numbers_Online "TRUE")
+    (DRC_Check_Device_With_No_Pins_Online "TRUE")
+    (DRC_Check_Power_Ground_Short_Online "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks_Online "TRUE")
+    (DRC_Run_Physical_Reports "TRUE")
+    (DRC_Visible_Power_pins "TRUE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Run_Simulation_Rules "FALSE")
+    (DRC_Check_Pspice_Model_Lib_Path_Online "FALSE")
+    (DRC_Run_Custom_Rules "FALSE")
+    (DRC_Report_File "d:\projects\hardwaredesign\pcb_st-link v3_1\report.DRC"))
   (Folder "Layout"
     (File ".\allegro\ultima.brd"
       (Type "Board File")
       (OutputBoard ".\allegro\ultima.brd")
       (NetListPath ".\allegro")
       (ActiveBoard "1")))
-  (Folder "Outputs")
+  (Folder "Outputs"
+    (File "..\pcb_st-link v3_1\report.drc"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
@@ -54,6 +111,56 @@
       (Type "Log File")
       (LogFile "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\eco.txt")))
   (PartMRUSelector
+    (SN74LV541APWR
+      (FullPartName "SN74LV541APWR.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. LOGIC BUFFERS\() SN74LV541APWR\SN74LV541APWR.OLB")
+      (DeviceIndex "0"))
+    (SN74AVC2T245RSWR
+      (FullPartName "SN74AVC2T245RSWR.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. LOGIC BUFFERS\() SN74AVC2T245RSWR\SN74AVC2T245RSWR.OLB")
+      (DeviceIndex "0"))
+    (SN74AVC1T45DBVR
+      (FullPartName "SN74AVC1T45DBVR.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. LOGIC BUFFERS\() SN74AVC1T45DBVR\SN74AVC1T45DBVR.OLB")
+      (DeviceIndex "0"))
+    (ASFLMB-66.000MHZ-XY-T
+      (FullPartName "ASFLMB-66.000MHZ-XY-T.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CRYSTALS AND OSCILLATORS\(66 MHZ, 4P, SMD) ASFLMB-66.000MHZ-XY-T\ASFLMB-66.000MHZ-XY-T.OLB")
+      (DeviceIndex "0"))
+    (08-0625-70
+      (FullPartName "08-0625-70.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. PIN HEADERS\(1X8, 2.54MM, OPEN, HEADER MALE) 08-0625-70\08-0625-70.OLB")
+      (DeviceIndex "0"))
+    (87832-1420
+      (FullPartName "87832-1420.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. JTAG\(SMD, 2MM) 87832-1420\87832-1420.OLB")
+      (DeviceIndex "0"))
+    (C1206C223F8HACAUTO
+      (FullPartName "C1206C223F8HACAUTO.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CAPACITORS. CERAMIC\(1206, 0.022UF, 10V) C1206C223F8HACAUTO\C1206C223F8HACAUTO.OLB")
+      (DeviceIndex "0"))
+    (JMK325BJ107MM-T
+      (FullPartName "JMK325BJ107MM-T.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CAPACITORS. CERAMIC\(1210, 100UF, 6.3V) JMK325BJ107MM-T\JMK325BJ107MM-T.OLB")
+      (DeviceIndex "0"))
+    (JMK105BBJ475MV8F
+      (FullPartName "JMK105BBJ475MV8F.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CAPACITORS. CERAMIC\(0402, 4.7UF, 6.3V) JMK105BBJ475MV8F\JMK105BBJ475MV8F.OLB")
+      (DeviceIndex "0"))
+    (TR3E337K010C0060
+      (FullPartName "TR3E337K010C0060.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CAPACITORS. TANTALUM\(SMD, 330UF, 10V) TR3E337K010C0060\TR3E337K010C0060.OLB")
+      (DeviceIndex "0"))
     (06034C104KAT2A
       (FullPartName "06034C104KAT2A.Normal")
       (LibraryName
@@ -89,11 +196,6 @@
       (LibraryName
          "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\RESISTORS. FILM\(0805, 4.7K) ERA-6ARB472V\ERA-6ARB472V.OLB")
       (DeviceIndex "0"))
-    (SN74AVC1T45DBVR
-      (FullPartName "SN74AVC1T45DBVR.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. VOLTAGE LEVELS\(SOT-23-6) SN74AVC1T45DBVR\SN74AVC1T45DBVR.OLB")
-      (DeviceIndex "0"))
     (S8421-45R
       (FullPartName "S8421-45R.Normal")
       (LibraryName
@@ -121,6 +223,7 @@
          "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn")
       (Path "Design Resources"
          "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn" "SCHEMATIC")
+      (Path "Outputs")
       (Select "Design Resources"
          "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn" "SCHEMATIC"
          "DEVICE1"))
@@ -128,19 +231,19 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 531"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 669"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 948 24 549")
-        (Scroll "62 0")
-        (Zoom "20")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1332 24 687")
+        (Scroll "0 381")
+        (Zoom "112")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ULTIMA.DSN")
       (Schematic "SCHEMATIC")
       (Page "DEVICE1")))
   (MPSSessionName "Prometheus")
   (LastUsedLibraryBrowseDirectory
-     "D:\Projects\CadenceAllegro\Old-library\Resistors. Film\0603, 100) RT0603FRE10100RL")
+     "D:\Projects\CadenceAllegro\Old-library\Integral Circuit. Logic Buffers\() SN74LV541APWR")
   (ISPCBBASICLICENSE "false"))
