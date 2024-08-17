@@ -1,14 +1,15 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    PDF Export                                                       )
+(    GenFeed                                                          )
 (                                                                     )
 (    Software Version : 23.1S005                                      )
-(    Date/Time        : Fri Jul 26 11:08:00 2024                      )
+(    Date/Time        : Sat Aug 17 14:24:41 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
+Extract file used: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/pxlBA.txt
 
-Output file: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.pdf
-Design file: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd
-pdf_out complete.
+  Wrote feedbackview.cdsz file to D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro directory
+
+SUMMARY: No errors or warnings detected.

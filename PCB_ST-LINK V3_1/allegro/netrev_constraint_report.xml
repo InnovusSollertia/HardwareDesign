@@ -1,28 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <?xml-stylesheet type="text/xsl" href="file:///c:/cadence/spb_23.1/share/pcb/consmgr/VDD/report/treeview.xsl"?>
-<ConstraintDifferenceReport Path="file:///c:/cadence/spb_23.1/share/pcb/consmgr/VDD/report/rc" Status="not-run" Type="Constraint Difference Report">
+<ConstraintDifferenceReport Path="file:///c:/cadence/spb_23.1/share/pcb/consmgr/VDD/report/rc" Type="Constraint Difference Report">
 
   <RptSummary Col1="Layout" Col2="Schematic">
-    <Entry Name="Report time">Tue Jul 23 14:56:36 2024
+    <Entry Name="Report time">Sat Aug 17 14:24:54 2024
 </Entry>
     <Entry Name="Software version">23.1 (S005)</Entry>
-    <Entry Name="Layout">D:\Projects\HardwareDesign\PCB_ST-LINK V3_1\allegro\ST-LINKV3.brd</Entry>
+    <Entry Name="Layout">D:\Projects\HardwareDesign\PCB_ST-LINK V3_1\allegro\ST-LINKV3_open.brd</Entry>
     <Entry Name="Schematic">D:\Projects\HardwareDesign\PCB_ST-LINK V3_1\allegro\pstcmdb.dat</Entry>
-    <Entry Name="Baseline File">C:\Users\PROMET~1\AppData\Local\Temp\#Taaaaaj11660.tmp</Entry>
-    <Entry Name="Status">Diff3 not run. Input file and Baseline file having matching keys.</Entry>
+    <Entry Name="Baseline File">C:\Users\PROMET~1\AppData\Local\Temp\#Taaaaaj14508.tmp</Entry>
+    <Entry Name="Destination design updated">Yes</Entry>
+    <Entry Name="Update Mode">Diff3</Entry>
+    <Entry Name="Constraint Information">Electrical, NetClasses, Properties</Entry>
+    <Entry Name="Objects with conflicts">0</Entry>
   </RptSummary>
 
   <Tree>
-    <Item Filter="0x1" Name="Summary" Ref="main-summary"/>
+    <Item Filter="0x5" Name="Summary" Ref="main-summary">
+      <Item Filter="0x4" Name="Nets [1]" Ref="2">
+        <Item Filter="0x4" Name="GSENSE" Ref="1"/>
+      </Item>
+    </Item>
   </Tree>
 
   <Summaries>
-    <MainSummary ID="main-summary"/>
+    <MainSummary ID="main-summary">
+      <ChangedObject Filter="0x4" Name="Nets" ObjNumber="1" Ref="2"/>
+    </MainSummary>
+    <GroupSummary ID="2" Name="Nets">
+      <ChangedObject Attributes="1" Child="0" Filter="0x4" Membership="0" Name="GSENSE" Notes="0" Other="0" Ref="1" Reference="0"/>
+    </GroupSummary>
+    <ObjectSummary ID="1" Kind="Net" Name="GSENSE">
+      <Attributes Filter="0x4" Type="Attributes">
+        <Attribute Filter="0x4" Name="VOLTAGE" Status="Add" Taken="Src" Type="Scalar">
+          <Value>
+            <Dst></Dst>
+            <Src>1.5V</Src>
+            <Base></Base>
+          </Value>
+        </Attribute>
+      </Attributes>
+    </ObjectSummary>
   </Summaries>
-
-  <Notes>
-    <Note Text="Diff3 not run. Input file and Baseline file having matching keys." Type="Warning"/>
-  </Notes>
 
   <Layers>
     <Layer Name="TOP" Type="Conductor"/>

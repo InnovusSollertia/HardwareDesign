@@ -1,15 +1,15 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    DBDOCTOR                                                         )
+(    GenFeed                                                          )
 (                                                                     )
-(    Drawing          : ST-LINKV3_open.brd                            )
 (    Software Version : 23.1S005                                      )
-(    Date/Time        : Fri Jul 26 11:07:02 2024                      )
+(    Date/Time        : Sat Aug 17 14:24:39 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
+Extract file used: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/pxlBA.txt
 
-WARNING:   WARNING(SPMHDB-42): Run batch DRC to regenerate DRC errs.
+  Wrote feedbackview.cdsz file to D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro directory
 
-1 warnings, 0 errors detected, 0 errors could be fixed.
+SUMMARY: No errors or warnings detected.

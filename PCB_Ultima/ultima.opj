@@ -1,6 +1,6 @@
 (ExpressProject "ultima"
   (ProjectVersion "19981106")
-  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[08/12/24]")
+  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[08/17/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -81,7 +81,8 @@
     (DRC_Run_Simulation_Rules "FALSE")
     (DRC_Check_Pspice_Model_Lib_Path_Online "FALSE")
     (DRC_Run_Custom_Rules "FALSE")
-    (DRC_Report_File "d:\projects\hardwaredesign\pcb_st-link v3_1\report.DRC"))
+    (DRC_Report_File "d:\projects\hardwaredesign\pcb_st-link v3_1\report.DRC")
+    (Board_sim_option "VHDL_flow"))
   (Folder "Layout"
     (File ".\allegro\ultima.brd"
       (Type "Board File")
@@ -224,14 +225,9 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn")
-      (Path "Design Resources"
-         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn" "SCHEMATIC")
-      (Path "Outputs")
-      (Select "Design Resources"
-         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn" "SCHEMATIC"
-         "DEVICE1"))
+      (Path "Design Resources" ".\ultima.dsn")
+      (Path "Design Resources" ".\ultima.dsn" "SCHEMATIC")
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -242,8 +238,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1332 24 687")
-        (Scroll "77 8329")
-        (Zoom "224")
+        (Scroll "0 216")
+        (Zoom "28")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ULTIMA.DSN")
       (Schematic "SCHEMATIC")

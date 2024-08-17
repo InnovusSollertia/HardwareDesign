@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : ST-LINKV3.brd                                 )
+(    Drawing          : ST-LINKV3_open.brd                            )
 (    Software Version : 23.1S005                                      )
-(    Date/Time        : Tue Jul 23 14:56:35 2024                      )
+(    Date/Time        : Sat Aug 17 14:24:53 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,15 +19,15 @@ Missing symbol has error:    No
 DRC update:                  Yes
 Schematic directory:         '.'
 Design Directory:            'D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro'
-Old design name:             'D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3.brd'
-New design name:             'D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3.brd'
+Old design name:             'D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd'
+New design name:             'D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd'
 
-CmdLine: netrev -$ -i . -y 1 -h -q netrev_constraint_report.xml D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/#Taaaaal01476.tmp
+CmdLine: netrev -y 1 -h -q netrev_constraint_report.xml D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/#Taaaabu18404.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read ./pstchip.dat 
-   Finished reading ./pstchip.dat (00:00:00.39)
+   Finished reading ./pstchip.dat (00:00:00.47)
 Starting to read ./pstxprt.dat 
    Finished reading ./pstxprt.dat (00:00:00.00)
 Starting to read ./pstxnet.dat 
@@ -41,17 +41,16 @@ Starting to read ./pstxnet.dat
 ===========================================================
 Start Constraint Diff3 Import
 	Constraint File:    ./pstcmdb.dat
-	Allegro Baseline:   C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaaj11660.tmp
-	Start time: Tue Jul 23 14:56:36 2024
+	Allegro Baseline:   C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaaj14508.tmp
+	Start time: Sat Aug 17 14:24:54 2024
 ===========================================================
 
 
 The constraint difference report file can be viewed using the following command:
 cdnFlowOOSMsg.exe -file "file:///D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/netrev_constraint_report.xml"
 
-NOTE: Constraint information is up-to-date. No processing was required.
 ===========================================================
-Finished Constraint Update	Time: Tue Jul 23 14:56:36 2024
+Finished Constraint Update	Time: Sat Aug 17 14:24:54 2024
 ===========================================================
 
 ------ Library Paths ------
@@ -78,7 +77,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Jul 23 14:56:35 2024
+netrev run on Aug 17 14:24:52 2024
    DESIGN NAME : 'ST-LINKV3'
    PACKAGING ON Jun 12 2024 12:32:55
 
@@ -103,6 +102,6 @@ netrev run on Jul 23 14:56:35 2024
  No oversight detected
  No warning detected
 
-cpu time      0:01:18
-elapsed time  0:00:01
+cpu time      0:02:54
+elapsed time  0:00:02
 

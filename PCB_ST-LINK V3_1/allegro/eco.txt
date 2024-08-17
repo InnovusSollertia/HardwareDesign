@@ -2,10 +2,268 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3.brd           |
-|                                                    Tue Jul 23 14:56:35 2024  |
+|  D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd      |
+|                                                    Sat Aug 17 14:24:53 2024  |
 |------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  0            pins MOVED FROM this net (to net name listed on right)
+                                 IC1.K13         188.924 262.098
+                                                                         GSENSE
+                                 R5.1            195.646 269.748
+                                                                         GSENSE
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd      |
+|                                                    Sat Aug 17 14:24:53 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 08-0625-70_HDRV8W51P0X254_1X8_2
+ 95278-401A10LF_95278401A10LF_95
+ 219320-0001_0_2193200001_219320
+ 280372-1_SHDR6W63P0X254_1X6_178
+ ASE-25.000MHZ-LC-T_ASE24576MHZL
+ ERA-6ARB472V_ERA6AEB1020V_DISCR
+ ERA-6ARB472V_ERA6AEB1020V_DIS_1
+ ERA-6ARB472V_ERA6AEB1020V_DIS_2
+ ERA-6ARB472V_ERA6AEB1020V_DIS_3
+ ERA-6ARB472V_ERA6AEB1020V_DIS_4
+ GRM033D70E105ME15D_CAPC0603X3_1
+ GRM033D70E105ME15D_CAPC0603X3_2
+ GRM033D70E105ME15D_CAPC0603X33N
+ LM1117MPX-33NOPB_SOT230P700X180
+ SM0603GCL_LEDC1608X60N_SM0603GC
+ SMF05C.TCT_SOT65P210X110-6N_SMF
+ SN74LVC8T245PWR_SOP65P640X120-2
+ SRV05-4ATCT_SOT95P280X145-6N_SR
+ STM32F723IEK6_BGA201C65P15X15_1
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd      |
+|                                                    Sat Aug 17 14:24:53 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  GRM033D70E105ME15D_CAPC0603X33N 200.914 238.760 GRM033D70E105ME15D_CAPC0603X33N_DISCRETE_100NF
+ C2                  GRM033D70E105ME15D_CAPC0603X33N 177.038 275.590 GRM033D70E105ME15D_CAPC0603X33N_DISCRETE_100NF
+ C3                  GRM033D70E105ME15D_CAPC0603X3_1 177.038 276.606 GRM033D70E105ME15D_CAPC0603X33N_DISCRETE_10UF
+ C4                  GRM033D70E105ME15D_CAPC0603X3_1 177.038 273.304 GRM033D70E105ME15D_CAPC0603X33N_DISCRETE_10UF
+ C5                  GRM033D70E105ME15D_CAPC0603X3_2 193.294 264.414 GRM033D70E105ME15D_CAPC0603X33N_DISCRETE_2.2UF
+ C6                  GRM033D70E105ME15D_CAPC0603X3_2 197.612 261.874 GRM033D70E105ME15D_CAPC0603X33N_DISCRETE_2.2UF
+ C7                  GRM033D70E105ME15D_CAPC0603X3_2 193.294 268.224 GRM033D70E105ME15D_CAPC0603X33N_DISCRETE_2.2UF
+ C8                  GRM033D70E105ME15D_CAPC0603X33N 180.340 271.272 GRM033D70E105ME15D_CAPC0603X33N_DISCRETE_100NF
+ C9                  GRM033D70E105ME15D_CAPC0603X33N 177.038 271.272 GRM033D70E105ME15D_CAPC0603X33N_DISCRETE_100NF
+ C10                 GRM033D70E105ME15D_CAPC0603X33N 182.880 229.362 GRM033D70E105ME15D_CAPC0603X33N_DISCRETE_100NF
+ C11                 GRM033D70E105ME15D_CAPC0603X33N 182.880 228.092 GRM033D70E105ME15D_CAPC0603X33N_DISCRETE_100NF
+ C12                 GRM033D70E105ME15D_CAPC0603X33N 200.710 233.883 GRM033D70E105ME15D_CAPC0603X33N_DISCRETE_100NF
+ C13                 GRM033D70E105ME15D_CAPC0603X33N 195.732 257.911 GRM033D70E105ME15D_CAPC0603X33N_DISCRETE_100NF
+ C14                 GRM033D70E105ME15D_CAPC0603X33N 195.732 256.032 GRM033D70E105ME15D_CAPC0603X33N_DISCRETE_100NF
+ C15                 GRM033D70E105ME15D_CAPC0603X33N 200.660 232.664 GRM033D70E105ME15D_CAPC0603X33N_DISCRETE_100NF
+ C16                 GRM033D70E105ME15D_CAPC0603X33N 189.484 278.130 GRM033D70E105ME15D_CAPC0603X33N_DISCRETE_100NF
+ D1                  SRV05-4ATCT_SOT95P280X145-6N_SR 189.992 239.776 SRV05-4ATCT_SOT95P280X145-6N_SRV05-4ATCT
+ D2                  SMF05C.TCT_SOT65P210X110-6N_SMF 175.006 249.428 SMF05C.TCT_SOT65P210X110-6N_SMF05C.TCT
+ D3                  SMF05C.TCT_SOT65P210X110-6N_SMF 170.688 249.428 SMF05C.TCT_SOT65P210X110-6N_SMF05C.TCT
+ IC1                 STM32F723IEK6_BGA201C65P15X15_1 185.674 263.398 STM32F723IEK6_BGA201C65P15X15_1000X1000X60_STM32F723IEK6
+ IC2                 LM1117MPX-33NOPB_SOT230P700X180 183.642 275.590 LM1117MPX-33NOPB_SOT230P700X180-4N_LM1117MPX-33NOPB
+ IC3                 SN74LVC8T245PWR_SOP65P640X120-2 183.134 249.428 SN74LVC8T245PWR_SOP65P640X120-24N_SN74LVC8T245PWR
+ J1                  280372-1_SHDR6W63P0X254_1X6_178 195.834 245.872 280372-1_SHDR6W63P0X254_1X6_1780X500X1280P_280372-1
+ J2                  219320-0001_0_2193200001_219320 183.896 234.950 219320-0001_2193200001_219320-0001
+ J3                  08-0625-70_HDRV8W51P0X254_1X8_2 157.480 249.936 08-0625-70_HDRV8W51P0X254_1X8_2032X254X816P_08-0625-70
+ J4                  280372-1_SHDR6W63P0X254_1X6_178 161.798 246.126 280372-1_SHDR6W63P0X254_1X6_1780X500X1280P_280372-1
+ J5                  95278-401A10LF_95278401A10LF_95 161.036 259.588 95278-401A10LF_95278401A10LF_95278-401A10LF
+ LED1                SM0603GCL_LEDC1608X60N_SM0603GC 192.278 273.050 SM0603GCL_LEDC1608X60N_SM0603GCL
+ R1                  ERA-6ARB472V_ERA6AEB1020V_DISCR 171.196 258.318 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_4.7K
+ R2                  ERA-6ARB472V_ERA6AEB1020V_DISCR 171.196 255.016 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_4.7K
+ R3                  ERA-6ARB472V_ERA6AEB1020V_DISCR 176.276 255.016 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_4.7K
+ R4                  ERA-6ARB472V_ERA6AEB1020V_DIS_4 186.944 243.586 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_100K
+ R5                  ERA-6ARB472V_ERA6AEB1020V_DIS_3 196.596 269.748 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_100
+ R6                  ERA-6ARB472V_ERA6AEB1020V_DIS_4 200.660 241.808 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_100K
+ R7                  ERA-6ARB472V_ERA6AEB1020V_DIS_3 181.610 243.586 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_100
+ R8                  ERA-6ARB472V_ERA6AEB1020V_DIS_3 167.640 233.172 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_100
+ R9                  ERA-6ARB472V_ERA6AEB1020V_DIS_1 187.960 228.600 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_10K
+ R10                 ERA-6ARB472V_ERA6AEB1020V_DIS_1 185.166 239.776 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_10K
+ R11                 ERA-6ARB472V_ERA6AEB1020V_DIS_1 176.276 258.318 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_10K
+ R12                 ERA-6ARB472V_ERA6AEB1020V_DIS_2 195.580 265.430 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_3K
+ R13                 ERA-6ARB472V_ERA6AEB1020V_DIS_3 196.596 273.050 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_100
+ R14                 ERA-6ARB472V_ERA6AEB1020V_DIS_3 166.624 238.506 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_100
+ R15                 ERA-6ARB472V_ERA6AEB1020V_DIS_3 196.596 276.352 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_100
+ R16                 ERA-6ARB472V_ERA6AEB1020V_DIS_3 169.926 243.586 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_100
+ R17                 ERA-6ARB472V_ERA6AEB1020V_DIS_3 175.260 235.458 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_100
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd      |
+|                                                    Sat Aug 17 14:24:53 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R18                 ERA-6ARB472V_ERA6AEB1020V_DIS_3 166.624 243.586 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_100
+ R19                 ERA-6ARB472V_ERA6AEB1020V_DIS_3 176.276 241.554 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_100
+ R30                 ERA-6ARB472V_ERA6AEB1020V_DIS_3 176.276 263.906 ERA-6ARB472V_ERA6AEB1020V_DISCRETE_100
+ Y1                  ASE-25.000MHZ-LC-T_ASE24576MHZL 170.942 263.144 ASE-25.000MHZ-LC-T_ASE24576MHZLCT_ASE-25.000MHZ-LC-T
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd      |
+|                                                    Sat Aug 17 14:24:53 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2           200.914 238.760 PRIM_FILE      .\pstchip.dat
+ C1.2           200.914 238.760 XY             (1900,290)
+ C2.2           177.038 275.590 PRIM_FILE      .\pstchip.dat
+ C2.2           177.038 275.590 XY             (410,660)
+ C3.2           177.038 276.606 PRIM_FILE      .\pstchip.dat
+ C3.2           177.038 276.606 XY             (470,660)
+ C4.2           177.038 273.304 PRIM_FILE      .\pstchip.dat
+ C4.2           177.038 273.304 XY             (540,660)
+ C5.2           193.294 264.414 PRIM_FILE      .\pstchip.dat
+ C5.2           193.294 264.414 XY             (1940,410)
+ C6.2           197.612 261.874 PRIM_FILE      .\pstchip.dat
+ C6.2           197.612 261.874 XY             (1970,730)
+ C7.2           193.294 268.224 PRIM_FILE      .\pstchip.dat
+ C7.2           193.294 268.224 XY             (1470,1020)
+ C8.2           180.340 271.272 PRIM_FILE      .\pstchip.dat
+ C8.2           180.340 271.272 XY             (400,850)
+ C9.2           177.038 271.272 PRIM_FILE      .\pstchip.dat
+ C9.2           177.038 271.272 XY             (450,850)
+ C10.2          182.880 229.362 PRIM_FILE      .\pstchip.dat
+ C10.2          182.880 229.362 XY             (500,850)
+ C11.2          182.880 228.092 PRIM_FILE      .\pstchip.dat
+ C11.2          182.880 228.092 XY             (550,850)
+ C12.2          200.710 233.883 PRIM_FILE      .\pstchip.dat
+ C12.2          200.710 233.883 XY             (600,850)
+ C13.2          195.732 257.911 PRIM_FILE      .\pstchip.dat
+ C13.2          195.732 257.911 XY             (650,850)
+ C14.2          195.732 256.032 PRIM_FILE      .\pstchip.dat
+ C14.2          195.732 256.032 XY             (700,850)
+ C15.2          200.660 232.664 PRIM_FILE      .\pstchip.dat
+ C15.2          200.660 232.664 XY             (750,850)
+ C16.2          189.484 278.130 PRIM_FILE      .\pstchip.dat
+ C16.2          189.484 278.130 XY             (800,850)
+ D1.5           189.992 239.776 PRIM_FILE      .\pstchip.dat
+ D1.5           189.992 239.776 XY             (150,1420)
+ D2.2           175.006 249.428 PRIM_FILE      .\pstchip.dat
+ D2.2           175.006 249.428 XY             (670,1410)
+ D3.2           170.688 249.428 PRIM_FILE      .\pstchip.dat
+ D3.2           170.688 249.428 XY             (670,1340)
+ IC1.F9         185.674 263.398 PRIM_FILE      .\pstchip.dat
+ IC1.F9         185.674 263.398 XY             (1630,190)
+ IC2.4          183.642 275.590 PRIM_FILE      .\pstchip.dat
+ IC2.4          183.642 275.590 XY             (630,610)
+ IC3.24         183.134 249.428 PRIM_FILE      .\pstchip.dat
+ IC3.24         183.134 249.428 XY             (140,560)
+ J1.6           195.834 245.872 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd      |
+|                                                    Sat Aug 17 14:24:53 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J1.6           195.834 245.872 XY             (2040,230)
+ J2.B9          183.896 234.950 PRIM_FILE      .\pstchip.dat
+ J2.B9          183.896 234.950 XY             (140,1120)
+ J3.8           157.480 249.936 PRIM_FILE      .\pstchip.dat
+ J3.8           157.480 249.936 XY             (110,100)
+ J4.6           161.798 246.126 PRIM_FILE      .\pstchip.dat
+ J4.6           161.798 246.126 XY             (110,240)
+ J5.9           161.036 259.588 PRIM_FILE      .\pstchip.dat
+ J5.9           161.036 259.588 XY             (170,370)
+ LED1.1         192.278 273.050 PRIM_FILE      .\pstchip.dat
+ LED1.1         192.278 273.050 XY             (1270,770)
+ R1.2           171.196 258.318 PRIM_FILE      .\pstchip.dat
+ R1.2           171.196 258.318 XY             (1905,1110)
+ R2.2           171.196 255.016 PRIM_FILE      .\pstchip.dat
+ R2.2           171.196 255.016 XY             (1915,700)
+ R3.2           176.276 255.016 PRIM_FILE      .\pstchip.dat
+ R3.2           176.276 255.016 XY             (1915,810)
+ R4.2           186.944 243.586 PRIM_FILE      .\pstchip.dat
+ R4.2           186.944 243.586 XY             (435,1030)
+ R5.2           196.596 269.748 PRIM_FILE      .\pstchip.dat
+ R5.2           196.596 269.748 XY             (2020,505)
+ R6.2           200.660 241.808 PRIM_FILE      .\pstchip.dat
+ R6.2           200.660 241.808 XY             (1905,200)
+ R7.2           181.610 243.586 PRIM_FILE      .\pstchip.dat
+ R7.2           181.610 243.586 XY             (480,1095)
+ R8.2           167.640 233.172 PRIM_FILE      .\pstchip.dat
+ R8.2           167.640 233.172 XY             (480,1125)
+ R9.2           187.960 228.600 PRIM_FILE      .\pstchip.dat
+ R9.2           187.960 228.600 XY             (315,1190)
+ R10.2          185.166 239.776 PRIM_FILE      .\pstchip.dat
+ R10.2          185.166 239.776 XY             (45,1190)
+ R11.2          176.276 258.318 PRIM_FILE      .\pstchip.dat
+ R11.2          176.276 258.318 XY             (1930,545)
+ R12.2          195.580 265.430 PRIM_FILE      .\pstchip.dat
+ R12.2          195.580 265.430 XY             (1905,410)
+ R13.2          196.596 273.050 PRIM_FILE      .\pstchip.dat
+ R13.2          196.596 273.050 XY             (1350,785)
+ R14.2          166.624 238.506 PRIM_FILE      .\pstchip.dat
+ R14.2          166.624 238.506 XY             (480,1155)
+ R15.2          196.596 276.352 PRIM_FILE      .\pstchip.dat
+ R15.2          196.596 276.352 XY             (1350,815)
+ R16.2          169.926 243.586 PRIM_FILE      .\pstchip.dat
+ R16.2          169.926 243.586 XY             (480,1185)
+ R17.2          175.260 235.458 PRIM_FILE      .\pstchip.dat
+ R17.2          175.260 235.458 XY             (480,1215)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd      |
+|                                                    Sat Aug 17 14:24:53 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R18.2          166.624 243.586 PRIM_FILE      .\pstchip.dat
+ R18.2          166.624 243.586 XY             (480,1245)
+ R19.2          176.276 241.554 PRIM_FILE      .\pstchip.dat
+ R19.2          176.276 241.554 XY             (480,1275)
+ R30.2          176.276 263.906 PRIM_FILE      .\pstchip.dat
+ R30.2          176.276 263.906 XY             (1410,965)
+ Y1.4           170.942 263.144 PRIM_FILE      .\pstchip.dat
+ Y1.4           170.942 263.144 XY             (1200,960)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd      |
+|                                                    Sat Aug 17 14:24:53 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J2.A6          186.396 234.950 CDS_PINID      \DP1\
+|------------------------------------------------------------------------------|
+|       Nets changed          :       2                                        |
+|       Comp definitions added:      19                                        |
+|       Components changed    :      49                                        |
+|       Pin property added    :       1                                        |
+|       Slot property added   :      98                                        |
 |                                                                              |
-|   Total ECO changes reported:       0                                        |
+|   Total ECO changes reported:     169                                        |
 |------------------------------------------------------------------------------|

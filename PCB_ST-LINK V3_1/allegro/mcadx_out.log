@@ -1,9 +1,0 @@
-Reading layer conversion file "C:/Cadence/SPB_23.1/share/pcb/text/ecad_mcad_silkscreen.cnv" ...
-
-
-WARNING: Design outline is missing on the layer "BOARD GEOMETRY/DESIGN_OUTLINE".
-
-
-
-Output file: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/EDMD_Silkscreen_Layers.mcadx
-Design file: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd
