@@ -1,6 +1,6 @@
 (ExpressProject "ultima"
   (ProjectVersion "19981106")
-  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[08/17/24]")
+  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[08/18/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -112,6 +112,26 @@
       (Type "Log File")
       (LogFile "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\eco.txt")))
   (PartMRUSelector
+    (ASP-134486-01
+      (FullPartName "ASP-134486-01.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. FPC & FMC\(400P) ASP-134486-01\ASP-134486-01.OLB")
+      (DeviceIndex "0"))
+    (ASP-134603-01
+      (FullPartName "ASP-134603-01.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. FPC & FMC\(400P) ASP-134603-01\ASP-134603-01.OLB")
+      (DeviceIndex "0"))
+    (SN74LVC1G66DBVR
+      (FullPartName "SN74LVC1G66DBVR.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. ANALOG SWITCHES\(SOT-23-5) SN74LVC1G66DBVR\SN74LVC1G66DBVR.OLB")
+      (DeviceIndex "0"))
+    (W2A4YC104KAT2A
+      (FullPartName "W2A4YC104KAT2A.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CAPACITORS. ARRAYS\(SMD, 0.1U, 16V) W2A4YC104KAT2A\W2A4YC104KAT2A.OLB")
+      (DeviceIndex "0"))
     (2-2013310-2
       (FullPartName "2-2013310-2.Normal")
       (LibraryName
@@ -216,35 +236,33 @@
       (FullPartName "XC7K325T-2FFG900I.Normal")
       (LibraryName
          "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. FPGA\(FCBGA-900) XC7K325T-2FFG900I\XC7K325T-2FFG900I.OLB")
-      (DeviceIndex "0"))
-    (XC7K420T-3FFG1156E
-      (FullPartName "XC7K420T-3FFG1156E.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEEMD\MAIN_LIBRARIES\FPGA\XC7K420T-3FFG1156E.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\ultima.dsn")
-      (Path "Design Resources" ".\ultima.dsn" "SCHEMATIC")
-      (Path "Outputs"))
+      (Path "Design Resources"
+         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn")
+      (Path "Design Resources"
+         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn" "SCH001")
+      (Select "Design Resources"
+         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn" "SCH001" "DEV1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 669"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 453"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1332 24 687")
-        (Scroll "0 216")
-        (Zoom "28")
+        (Placement "44 0 1 -1 -1 -1 -1 5 948 24 471")
+        (Scroll "548 2277")
+        (Zoom "128")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ULTIMA.DSN")
-      (Schematic "SCHEMATIC")
-      (Page "DEVICE1")))
+      (Schematic "SCH001")
+      (Page "DEV1")))
   (MPSSessionName "Prometheus")
   (LastUsedLibraryBrowseDirectory
-     "D:\Projects\CadenceAllegro\Old-library\Connectors. Memory\(204p) 2-2013310-2")
+     "D:\Projects\CadenceAllegro\Old-library\Connectors. FPC & FMC\(400P) ASP-134486-01")
   (ISPCBBASICLICENSE "false"))
