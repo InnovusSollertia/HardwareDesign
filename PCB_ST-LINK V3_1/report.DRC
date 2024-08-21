@@ -1,4 +1,4 @@
-Date and Time : 08/18/24 18:14:52
+Date and Time : 08/21/24 18:31:12
 
 --------------------------------------------------
 Checking Schematic: SCH001
@@ -6,938 +6,1704 @@ Checking Schematic: SCH001
 Checking Electrical Rules 
 
 Checking For Single Node Nets
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_TMS_BUF 
-                    SCH001, DEV1  (259.08, 279.40) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_TCK_BUF 
-                    SCH001, DEV1  (259.08, 289.56) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_TDI_BUF 
-                    SCH001, DEV1  (259.08, 276.86) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_TMS_BUF 
-                    SCH001, DEV1  (259.08, 281.94) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_TCK_BUF 
-                    SCH001, DEV1  (259.08, 287.02) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX2_P 
-                    SCH001, DEV1  (543.56, 980.44) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_SPDIF_OUT_LS 
-                    SCH001, DEV1  (543.56, 563.88) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX3_N 
-                    SCH001, DEV1  (543.56, 1049.02) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA24_P 
-                    SCH001, DEV1  (665.48, 970.28) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA31_N 
-                    SCH001, DEV1  (543.56, 492.76) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA14_N 
-                    SCH001, DEV1  (543.56, 629.92) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D13 
-                    SCH001, DEV1  (543.56, 637.54) 
-WARNING(ORCAP-1600): Net has fewer than two connections PMBUS_ALERT_LS 
-                    SCH001, DEV1  (665.48, 548.64) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA01_CC_P 
-                    SCH001, DEV1  (543.56, 350.52) 
-WARNING(ORCAP-1600): Net has fewer than two connections SFP_TX_N 
-                    SCH001, DEV1  (543.56, 591.82) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_TDO_FPGA_TDI 
-                    SCH001, DEV1  (116.84, 312.42) 
-WARNING(ORCAP-1600): Net has fewer than two connections ROTARY_INCA 
-                    SCH001, DEV1  (665.48, 426.72) 
-WARNING(ORCAP-1600): Net has fewer than two connections USB_CTS 
-                    SCH001, DEV1  (543.56, 886.46) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA08_P 
-                    SCH001, DEV1  (543.56, 396.24) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA00_CC_P 
-                    SCH001, DEV1  (543.56, 271.78) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA04_N 
-                    SCH001, DEV1  (543.56, 508.00) 
-WARNING(ORCAP-1600): Net has fewer than two connections SDIO_CLK_LS 
-                    SCH001, DEV1  (665.48, 571.50) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXD2 
-                    SCH001, DEV1  (665.48, 119.38) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX2_N 
-                    SCH001, DEV1  (543.56, 977.90) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA13_N 
-                    SCH001, DEV1  (665.48, 652.78) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A9 
-                    SCH001, DEV1  (665.48, 259.08) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA20_N 
-                    SCH001, DEV1  (665.48, 886.46) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA18_CC_P 
-                    SCH001, DEV1  (543.56, 490.22) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A18 
-                    SCH001, DEV1  (543.56, 1031.24) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXD1 
-                    SCH001, DEV1  (543.56, 1033.78) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA07_P 
-                    SCH001, DEV1  (543.56, 431.80) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX5_P 
-                    SCH001, DEV1  (665.48, 142.24) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA25_P 
-                    SCH001, DEV1  (665.48, 655.32) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP1_M2C_P 
-                    SCH001, DEV1  (543.56, 299.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363241 
+                    SCH001, DEV1  (215.90, 596.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363265 
+                    SCH001, DEV1  (215.90, 612.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358596 
+                    SCH001, DEV1  (152.40, 642.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359632 
+                    SCH001, DEV1  (152.40, 782.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363645 
+                    SCH001, DEV1  (215.90, 853.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363337 
+                    SCH001, DEV1  (215.90, 657.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363745 
+                    SCH001, DEV1  (215.90, 916.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359668 
+                    SCH001, DEV1  (152.40, 805.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359868 
+                    SCH001, DEV1  (152.40, 932.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363229 
+                    SCH001, DEV1  (215.90, 589.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359636 
+                    SCH001, DEV1  (152.40, 784.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359704 
+                    SCH001, DEV1  (152.40, 828.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359880 
+                    SCH001, DEV1  (152.40, 939.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363297 
+                    SCH001, DEV1  (215.90, 632.46) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363089 
+                    SCH001, DEV1  (215.90, 500.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363453 
+                    SCH001, DEV1  (215.90, 731.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359852 
+                    SCH001, DEV1  (152.40, 922.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections N357818 
+                    SCH001, DEV1  (152.40, 480.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363477 
+                    SCH001, DEV1  (215.90, 746.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363329 
+                    SCH001, DEV1  (215.90, 652.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359560 
+                    SCH001, DEV1  (152.40, 736.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_PRSNT_M2C_B 
+                    SCH001, DEV1  (203.20, 454.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_GBTCLK1_M2C_P 
+                    SCH001, DEV1  (43.18, 81.28) 
 WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA19_N 
                     SCH001, DEV1  (665.48, 1188.72) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXD7 
-                    SCH001, DEV1  (665.48, 127.00) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA15_P 
-                    SCH001, DEV1  (543.56, 269.24) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A15 
-                    SCH001, DEV1  (665.48, 276.86) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA05_N 
-                    SCH001, DEV1  (665.48, 1026.16) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA26_P 
-                    SCH001, DEV1  (543.56, 177.80) 
-WARNING(ORCAP-1600): Net has fewer than two connections FPGA_VBATT 
-                    SCH001, DEV1  (543.56, 233.68) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A8 
-                    SCH001, DEV1  (665.48, 342.90) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D14 
-                    SCH001, DEV1  (543.56, 1112.52) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_DP0_M2M_P 
-                    SCH001, DEV1  (543.56, 452.12) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA18_CC_N 
-                    SCH001, DEV1  (543.56, 414.02) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA03_P 
-                    SCH001, DEV1  (543.56, 655.32) 
-WARNING(ORCAP-1600): Net has fewer than two connections XADC_DXP 
-                    SCH001, DEV1  (665.48, 170.18) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA08_N 
-                    SCH001, DEV1  (665.48, 1104.90) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA00_CC_N 
-                    SCH001, DEV1  (543.56, 195.58) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA29_N 
-                    SCH001, DEV1  (543.56, 175.26) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP0_C2M_P 
-                    SCH001, DEV1  (543.56, 289.56) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_CLK0_M2C_P 
-                    SCH001, DEV1  (665.48, 873.76) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A20 
-                    SCH001, DEV1  (543.56, 1023.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA02_N 
-                    SCH001, DEV1  (543.56, 236.22) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO_LED_7_LS 
-                    SCH001, DEV1  (543.56, 477.52) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA12_P 
-                    SCH001, DEV1  (543.56, 281.94) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_VADJ_ON_B_LS 
-                    SCH001, DEV1  (543.56, 734.06) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP1_C2M_P 
-                    SCH001, DEV1  (543.56, 218.44) 
-WARNING(ORCAP-1600): Net has fewer than two connections XADC_GPIO_1 
-                    SCH001, DEV1  (665.48, 500.38) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA26_N 
-                    SCH001, DEV1  (665.48, 1198.88) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA21_P 
-                    SCH001, DEV1  (665.48, 962.66) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_GBTCLK0_M2C_N 
-                    SCH001, DEV1  (43.18, 71.12) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D15 
-                    SCH001, DEV1  (543.56, 1188.72) 
-WARNING(ORCAP-1600): Net has fewer than two connections SDIO_DAT1_LS 
-                    SCH001, DEV1  (665.48, 495.30) 
-WARNING(ORCAP-1600): Net has fewer than two connections SMA_MGT_TX_N 
-                    SCH001, DEV1  (543.56, 744.22) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA28_N 
-                    SCH001, DEV1  (665.48, 894.08) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA20_N 
-                    SCH001, DEV1  (543.56, 332.74) 
-WARNING(ORCAP-1600): Net has fewer than two connections SMA_MGT_REFCLK_N 
-                    SCH001, DEV1  (543.56, 683.26) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA23_P 
-                    SCH001, DEV1  (543.56, 848.36) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A24 
-                    SCH001, DEV1  (543.56, 952.50) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO_SW_S 
-                    SCH001, DEV1  (665.48, 543.56) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO_SW_E 
-                    SCH001, DEV1  (665.48, 906.78) 
-WARNING(ORCAP-1600): Net has fewer than two connections LCD_DB6_LS 
-                    SCH001, DEV1  (665.48, 464.82) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA11_P 
-                    SCH001, DEV1  (543.56, 165.10) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA07_N 
-                    SCH001, DEV1  (665.48, 1033.78) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA04_N 
-                    SCH001, DEV1  (665.48, 1099.82) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA20_P 
-                    SCH001, DEV1  (543.56, 774.70) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA17_CC_P 
-                    SCH001, DEV1  (543.56, 546.10) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA03_N 
-                    SCH001, DEV1  (543.56, 657.86) 
-WARNING(ORCAP-1600): Net has fewer than two connections LCD_RW_LS 
-                    SCH001, DEV1  (665.48, 546.10) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX1_P 
-                    SCH001, DEV1  (543.56, 1061.72) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA22_P 
-                    SCH001, DEV1  (543.56, 845.82) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXCLK 
-                    SCH001, DEV1  (543.56, 965.20) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA23_P 
-                    SCH001, DEV1  (543.56, 187.96) 
-WARNING(ORCAP-1600): Net has fewer than two connections FPGA_M2 
-                    SCH001, DEV1  (665.48, 515.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections SFP_RX_P 
-                    SCH001, DEV1  (543.56, 523.24) 
-WARNING(ORCAP-1600): Net has fewer than two connections SGMII_RX_N 
-                    SCH001, DEV1  (543.56, 601.98) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA03_N 
-                    SCH001, DEV1  (665.48, 1021.08) 
-WARNING(ORCAP-1600): Net has fewer than two connections SMA_MGT_RX_P 
-                    SCH001, DEV1  (543.56, 756.92) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA16_P 
-                    SCH001, DEV1  (543.56, 855.98) 
-WARNING(ORCAP-1600): Net has fewer than two connections IIC_MUX_RESET_B 
-                    SCH001, DEV1  (543.56, 1104.90) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO_LED_0_LS 
-                    SCH001, DEV1  (665.48, 533.40) 
-WARNING(ORCAP-1600): Net has fewer than two connections SI5326_OUT_C_P 
-                    SCH001, DEV1  (543.56, 838.20) 
-WARNING(ORCAP-1600): Net has fewer than two connections USER_CLOCK_P 
-                    SCH001, DEV1  (543.56, 812.80) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXD3 
-                    SCH001, DEV1  (665.48, 203.20) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA01_CC_P 
-                    SCH001, DEV1  (543.56, 624.84) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA13_N 
-                    SCH001, DEV1  (543.56, 121.92) 
-WARNING(ORCAP-1600): Net has fewer than two connections FPGA_CCLK 
-                    SCH001, DEV1  (581.66, 157.48) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA24_N 
-                    SCH001, DEV1  (665.48, 1046.48) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D3 
-                    SCH001, DEV1  (543.56, 1176.02) 
-WARNING(ORCAP-1600): Net has fewer than two connections SMA_MGT_RX_N 
-                    SCH001, DEV1  (543.56, 754.38) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA33_N 
-                    SCH001, DEV1  (543.56, 645.16) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA08_N 
-                    SCH001, DEV1  (543.56, 398.78) 
-WARNING(ORCAP-1600): Net has fewer than two connections SI5326_OUT_C_N 
-                    SCH001, DEV1  (543.56, 835.66) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA31_P 
-                    SCH001, DEV1  (665.48, 739.14) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX6_N 
-                    SCH001, DEV1  (665.48, 373.38) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_DP0_M2M_N 
-                    SCH001, DEV1  (543.56, 449.58) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A13 
-                    SCH001, DEV1  (665.48, 284.48) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA14_P 
-                    SCH001, DEV1  (543.56, 706.12) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A10 
-                    SCH001, DEV1  (665.48, 256.54) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP2_M2C_P 
-                    SCH001, DEV1  (543.56, 147.32) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA12_N 
-                    SCH001, DEV1  (543.56, 205.74) 
-WARNING(ORCAP-1600): Net has fewer than two connections REC_CLOCK_C_P 
-                    SCH001, DEV1  (665.48, 353.06) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A11 
-                    SCH001, DEV1  (665.48, 350.52) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA06_P 
-                    SCH001, DEV1  (665.48, 1173.48) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA25_P 
-                    SCH001, DEV1  (543.56, 556.26) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO_LED_6_LS 
-                    SCH001, DEV1  (543.56, 406.40) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_WAIT 
-                    SCH001, DEV1  (665.48, 205.74) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_GBTCLK0_M2C_P 
-                    SCH001, DEV1  (43.18, 101.60) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA12_N 
-                    SCH001, DEV1  (543.56, 170.18) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA27_N 
-                    SCH001, DEV1  (543.56, 180.34) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA19_P 
-                    SCH001, DEV1  (543.56, 558.80) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A14 
-                    SCH001, DEV1  (665.48, 281.94) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX0_N 
-                    SCH001, DEV1  (543.56, 906.78) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_CLK1_M2C_P 
-                    SCH001, DEV1  (665.48, 967.74) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA10_N 
-                    SCH001, DEV1  (543.56, 284.48) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX7_P 
-                    SCH001, DEV1  (665.48, 365.76) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA01_CC_N 
-                    SCH001, DEV1  (543.56, 548.64) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA15_P 
-                    SCH001, DEV1  (543.56, 627.38) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D12 
-                    SCH001, DEV1  (543.56, 1117.60) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP2_C2M_P 
-                    SCH001, DEV1  (543.56, 137.16) 
-WARNING(ORCAP-1600): Net has fewer than two connections SFP_RX_N 
-                    SCH001, DEV1  (543.56, 520.70) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA30_P 
-                    SCH001, DEV1  (665.48, 586.74) 
-WARNING(ORCAP-1600): Net has fewer than two connections REC_CLOCK_C_N 
-                    SCH001, DEV1  (665.48, 355.60) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A1 
-                    SCH001, DEV1  (665.48, 337.82) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_CLK1_M2C_N 
-                    SCH001, DEV1  (543.56, 330.20) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D7 
-                    SCH001, DEV1  (543.56, 345.44) 
-WARNING(ORCAP-1600): Net has fewer than two connections ROTARY_PUSH 
-                    SCH001, DEV1  (665.48, 502.92) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA12_N 
-                    SCH001, DEV1  (665.48, 563.88) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA16_N 
-                    SCH001, DEV1  (665.48, 721.36) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA29_P 
-                    SCH001, DEV1  (665.48, 812.80) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXD0 
-                    SCH001, DEV1  (665.48, 208.28) 
-WARNING(ORCAP-1600): Net has fewer than two connections DDR3_RESET_B 
-                    SCH001, DEV1  (665.48, 1130.30) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_CRS 
-                    SCH001, DEV1  (543.56, 1198.88) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP0_M2C_N 
-                    SCH001, DEV1  (543.56, 368.30) 
-WARNING(ORCAP-1600): Net has fewer than two connections USB_RTS 
-                    SCH001, DEV1  (543.56, 800.10) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D5 
-                    SCH001, DEV1  (543.56, 424.18) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_INT 
-                    SCH001, DEV1  (543.56, 1046.48) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA27_P 
-                    SCH001, DEV1  (665.48, 1117.60) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A17 
-                    SCH001, DEV1  (543.56, 1099.82) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX4_N 
-                    SCH001, DEV1  (665.48, 60.96) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA02_N 
-                    SCH001, DEV1  (543.56, 652.78) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA30_P 
-                    SCH001, DEV1  (543.56, 340.36) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_CLK 
-                    SCH001, DEV1  (543.56, 787.40) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D10 
-                    SCH001, DEV1  (543.56, 1196.34) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP1_C2M_N 
-                    SCH001, DEV1  (543.56, 215.90) 
-WARNING(ORCAP-1600): Net has fewer than two connections SI5326_INT_ALM_LS 
-                    SCH001, DEV1  (665.48, 955.04) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXD5 
-                    SCH001, DEV1  (665.48, 124.46) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP0_C2M_N 
-                    SCH001, DEV1  (543.56, 287.02) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA04_N 
-                    SCH001, DEV1  (543.56, 388.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections SM_FAN_TACH 
-                    SCH001, DEV1  (665.48, 187.96) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D11 
-                    SCH001, DEV1  (543.56, 1115.06) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_PRSNT_M2C_B_LS 
-                    SCH001, DEV1  (543.56, 944.88) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA12_P 
-                    SCH001, DEV1  (543.56, 246.38) 
-WARNING(ORCAP-1600): Net has fewer than two connections XADC_GPIO_2 
-                    SCH001, DEV1  (665.48, 584.20) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX0_N 
-                    SCH001, DEV1  (543.56, 825.50) 
-WARNING(ORCAP-1600): Net has fewer than two connections FPGA_PROG_B 
-                    SCH001, DEV1  (543.56, 767.08) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_RESET 
-                    SCH001, DEV1  (543.56, 868.68) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA19_P 
-                    SCH001, DEV1  (543.56, 617.22) 
-WARNING(ORCAP-1600): Net has fewer than two connections PMBUS_CLK_LS 
-                    SCH001, DEV1  (665.48, 937.26) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA13_P 
-                    SCH001, DEV1  (543.56, 858.52) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA18_CC_N 
-                    SCH001, DEV1  (665.48, 736.60) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA20_N 
-                    SCH001, DEV1  (543.56, 698.50) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A25 
-                    SCH001, DEV1  (543.56, 949.96) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA22_P 
-                    SCH001, DEV1  (543.56, 259.08) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA18_CC_P 
-                    SCH001, DEV1  (665.48, 734.06) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D15 
-                    SCH001, DEV1  (543.56, 863.60) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA33_P 
-                    SCH001, DEV1  (665.48, 662.94) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D0 
-                    SCH001, DEV1  (543.56, 1107.44) 
-WARNING(ORCAP-1600): Net has fewer than two connections ROTARY_INCB 
-                    SCH001, DEV1  (665.48, 424.18) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXD6 
-                    SCH001, DEV1  (543.56, 894.08) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA23_N 
-                    SCH001, DEV1  (543.56, 850.90) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXCLT_RXDV 
-                    SCH001, DEV1  (543.56, 1193.80) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA08_P 
-                    SCH001, DEV1  (543.56, 434.34) 
-WARNING(ORCAP-1600): Net has fewer than two connections SDIO_SDDET 
-                    SCH001, DEV1  (665.48, 490.22) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO_LED_4_LS 
-                    SCH001, DEV1  (665.48, 807.72) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA22_N 
-                    SCH001, DEV1  (543.56, 769.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A0 
-                    SCH001, DEV1  (665.48, 340.36) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO_LED_5_LS 
-                    SCH001, DEV1  (543.56, 561.34) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA07_P 
-                    SCH001, DEV1  (543.56, 167.64) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP3_C2M_N 
-                    SCH001, DEV1  (543.56, 63.50) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP2_C2M_N 
-                    SCH001, DEV1  (543.56, 134.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA16_N 
-                    SCH001, DEV1  (543.56, 779.78) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA17_CC_N 
-                    SCH001, DEV1  (543.56, 411.48) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA18_P 
-                    SCH001, DEV1  (543.56, 777.24) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA09_P 
-                    SCH001, DEV1  (543.56, 467.36) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D5 
-                    SCH001, DEV1  (665.48, 109.22) 
-WARNING(ORCAP-1600): Net has fewer than two connections SFP_TX_P 
-                    SCH001, DEV1  (543.56, 594.36) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXD1 
-                    SCH001, DEV1  (665.48, 195.58) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA14_N 
-                    SCH001, DEV1  (543.56, 127.00) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA13_P 
-                    SCH001, DEV1  (543.56, 119.38) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A12 
-                    SCH001, DEV1  (665.48, 271.78) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO_SW_N 
-                    SCH001, DEV1  (665.48, 467.36) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA30_N 
-                    SCH001, DEV1  (665.48, 589.28) 
-WARNING(ORCAP-1600): Net has fewer than two connections SYSCLK_P 
-                    SCH001, DEV1  (665.48, 695.96) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXD5 
-                    SCH001, DEV1  (543.56, 807.72) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_CLK_QO_N 
-                    SCH001, DEV1  (665.48, 149.86) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA33_N 
-                    SCH001, DEV1  (665.48, 665.48) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D1 
-                    SCH001, DEV1  (543.56, 114.30) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXD3 
-                    SCH001, DEV1  (543.56, 889.00) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D16 
-                    SCH001, DEV1  (543.56, 789.94) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO_SW_W 
-                    SCH001, DEV1  (665.48, 604.52) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA24_P 
-                    SCH001, DEV1  (543.56, 96.52) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D4 
-                    SCH001, DEV1  (665.48, 106.68) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP3_C2M_P 
-                    SCH001, DEV1  (543.56, 66.04) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_SPDIF 
-                    SCH001, DEV1  (543.56, 708.66) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA02_P 
-                    SCH001, DEV1  (543.56, 650.24) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA04_P 
-                    SCH001, DEV1  (543.56, 584.20) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXD2 
-                    SCH001, DEV1  (543.56, 967.74) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA28_P 
-                    SCH001, DEV1  (665.48, 817.88) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D3 
-                    SCH001, DEV1  (543.56, 342.90) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_COL 
-                    SCH001, DEV1  (665.48, 332.74) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA13_P 
-                    SCH001, DEV1  (665.48, 574.04) 
-WARNING(ORCAP-1600): Net has fewer than two connections DDR3_TEMP_EVENT 
-                    SCH001, DEV1  (665.48, 1069.34) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA00_CC_N 
-                    SCH001, DEV1  (543.56, 317.50) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D6 
-                    SCH001, DEV1  (665.48, 111.76) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA09_P 
-                    SCH001, DEV1  (543.56, 208.28) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA09_N 
-                    SCH001, DEV1  (543.56, 393.70) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX1_N 
-                    SCH001, DEV1  (543.56, 1059.18) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA22_P 
-                    SCH001, DEV1  (665.48, 1115.06) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP2_M2C_N 
-                    SCH001, DEV1  (543.56, 144.78) 
-WARNING(ORCAP-1600): Net has fewer than two connections SDIO_CMD_LS 
-                    SCH001, DEV1  (665.48, 568.96) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO_DIP_SW3 
-                    SCH001, DEV1  (665.48, 431.80) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX6_N 
-                    SCH001, DEV1  (665.48, 213.36) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D9 
-                    SCH001, DEV1  (543.56, 1120.14) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA01_CC_N 
-                    SCH001, DEV1  (543.56, 274.32) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX3_P 
-                    SCH001, DEV1  (543.56, 1051.56) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA02_P 
-                    SCH001, DEV1  (665.48, 868.68) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXER 
-                    SCH001, DEV1  (665.48, 274.32) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A19 
-                    SCH001, DEV1  (543.56, 1026.16) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_C2M_PG_LS 
-                    SCH001, DEV1  (543.56, 662.94) 
-WARNING(ORCAP-1600): Net has fewer than two connections SM_FAN_PWM 
-                    SCH001, DEV1  (543.56, 883.92) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA06_P 
-                    SCH001, DEV1  (543.56, 320.04) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA32_P 
-                    SCH001, DEV1  (665.48, 436.88) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA12_P 
-                    SCH001, DEV1  (665.48, 487.68) 
 WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA31_N 
                     SCH001, DEV1  (665.48, 815.34) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_PERST_LS 
-                    SCH001, DEV1  (543.56, 576.58) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO_LED_3_LS 
-                    SCH001, DEV1  (665.48, 535.94) 
-WARNING(ORCAP-1600): Net has fewer than two connections SGMII_TX_N 
-                    SCH001, DEV1  (543.56, 673.10) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_FWE_B 
-                    SCH001, DEV1  (543.56, 957.58) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA17_CC_N 
-                    SCH001, DEV1  (543.56, 469.90) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA11_N 
-                    SCH001, DEV1  (665.48, 881.38) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX5_N 
-                    SCH001, DEV1  (665.48, 292.10) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA20_P 
-                    SCH001, DEV1  (665.48, 883.92) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA10_P 
-                    SCH001, DEV1  (543.56, 358.14) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA11_N 
-                    SCH001, DEV1  (543.56, 88.90) 
-WARNING(ORCAP-1600): Net has fewer than two connections USB_TX 
-                    SCH001, DEV1  (543.56, 942.34) 
-WARNING(ORCAP-1600): Net has fewer than two connections XADC_VAUX8P_R 
-                    SCH001, DEV1  (543.56, 873.76) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX1_P 
-                    SCH001, DEV1  (543.56, 899.16) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP0_M2C_P 
-                    SCH001, DEV1  (543.56, 370.84) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA23_P 
-                    SCH001, DEV1  (665.48, 1036.32) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA31_P 
-                    SCH001, DEV1  (543.56, 568.96) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXER 
-                    SCH001, DEV1  (543.56, 1043.94) 
-WARNING(ORCAP-1600): Net has fewer than two connections SGMIICLK_Q0_N 
-                    SCH001, DEV1  (543.56, 530.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections USER_SMA_CLOCK_N 
+                    SCH001, DEV1  (543.56, 805.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections SDIO_DAT0_LS 
+                    SCH001, DEV1  (665.48, 640.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX7_P 
+                    SCH001, DEV1  (665.48, 447.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX1_N 
+                    SCH001, DEV1  (543.56, 896.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A7 
+                    SCH001, DEV1  (665.48, 345.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections PMBUS_ALERT_LS 
+                    SCH001, DEV1  (665.48, 548.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D3 
+                    SCH001, DEV1  (543.56, 1176.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_DP0_C2M_N 
+                    SCH001, DEV1  (543.56, 439.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections XADC_VAUX0P_R 
+                    SCH001, DEV1  (543.56, 723.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA20_P 
+                    SCH001, DEV1  (543.56, 408.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA10_P 
+                    SCH001, DEV1  (543.56, 83.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA00_CC_P 
+                    SCH001, DEV1  (543.56, 271.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX7_N 
+                    SCH001, DEV1  (665.48, 363.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections GPIO_SW_W 
+                    SCH001, DEV1  (665.48, 604.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX6_N 
+                    SCH001, DEV1  (665.48, 373.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D2 
+                    SCH001, DEV1  (543.56, 1173.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA16_P 
+                    SCH001, DEV1  (543.56, 200.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections XADC_GPIO_2 
+                    SCH001, DEV1  (665.48, 584.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXCLK 
+                    SCH001, DEV1  (543.56, 965.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_VSYNC 
+                    SCH001, DEV1  (543.56, 640.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections SFP_RX_P 
+                    SCH001, DEV1  (543.56, 523.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA25_P 
+                    SCH001, DEV1  (665.48, 655.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D1 
+                    SCH001, DEV1  (543.56, 1186.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections GPIO_LED_1_LS 
+                    SCH001, DEV1  (665.48, 457.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections GPIO_LED_6_LS 
+                    SCH001, DEV1  (543.56, 406.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections CPU_RESET 
+                    SCH001, DEV1  (665.48, 530.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363697 
+                    SCH001, DEV1  (215.90, 886.46) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358252 
+                    SCH001, DEV1  (152.40, 546.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections N357866 
+                    SCH001, DEV1  (152.40, 490.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363597 
+                    SCH001, DEV1  (215.90, 822.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358572 
+                    SCH001, DEV1  (152.40, 627.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359540 
+                    SCH001, DEV1  (152.40, 723.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359564 
+                    SCH001, DEV1  (152.40, 739.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359792 
+                    SCH001, DEV1  (152.40, 883.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363357 
+                    SCH001, DEV1  (215.90, 670.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363721 
+                    SCH001, DEV1  (215.90, 901.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359656 
+                    SCH001, DEV1  (152.40, 797.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363321 
+                    SCH001, DEV1  (215.90, 647.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359544 
+                    SCH001, DEV1  (152.40, 726.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359904 
+                    SCH001, DEV1  (152.40, 955.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358848 
+                    SCH001, DEV1  (152.40, 680.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363653 
+                    SCH001, DEV1  (215.90, 858.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358304 
+                    SCH001, DEV1  (152.40, 579.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363257 
+                    SCH001, DEV1  (215.90, 607.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363341 
+                    SCH001, DEV1  (215.90, 660.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363521 
+                    SCH001, DEV1  (215.90, 774.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363545 
+                    SCH001, DEV1  (215.90, 789.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363713 
+                    SCH001, DEV1  (215.90, 896.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359864 
+                    SCH001, DEV1  (152.40, 929.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358536 
+                    SCH001, DEV1  (152.40, 604.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D5 
+                    SCH001, DEV1  (665.48, 109.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D5 
+                    SCH001, DEV1  (543.56, 424.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections SDIO_DAT1_LS 
+                    SCH001, DEV1  (665.48, 495.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA12_N 
+                    SCH001, DEV1  (543.56, 170.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections SMA_MGT_REFCLK_N 
+                    SCH001, DEV1  (543.56, 683.26) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA24_P 
+                    SCH001, DEV1  (665.48, 970.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections FPGA_CCLK 
+                    SCH001, DEV1  (581.66, 157.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA29_P 
+                    SCH001, DEV1  (543.56, 251.46) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA15_P 
+                    SCH001, DEV1  (543.56, 627.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A4 
+                    SCH001, DEV1  (665.48, 264.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections ROTARY_INCA 
+                    SCH001, DEV1  (665.48, 426.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA04_P 
+                    SCH001, DEV1  (543.56, 464.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA08_N 
+                    SCH001, DEV1  (665.48, 1104.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections SI5326_INT_ALM_LS 
+                    SCH001, DEV1  (665.48, 955.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP2_C2M_P 
+                    SCH001, DEV1  (543.56, 137.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXD4 
+                    SCH001, DEV1  (543.56, 731.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA07_N 
+                    SCH001, DEV1  (543.56, 93.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections XADC_VP_R 
+                    SCH001, DEV1  (581.66, 1160.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A9 
+                    SCH001, DEV1  (665.48, 259.08) 
 WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D8 
                     SCH001, DEV1  (665.48, 182.88) 
 WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA09_P 
                     SCH001, DEV1  (665.48, 1181.10) 
-WARNING(ORCAP-1600): Net has fewer than two connections SDIO_CD_DAT3_LS 
-                    SCH001, DEV1  (665.48, 642.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_HSYNC 
-                    SCH001, DEV1  (543.56, 711.20) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX4_P 
-                    SCH001, DEV1  (665.48, 223.52) 
-WARNING(ORCAP-1600): Net has fewer than two connections XADC_GPIO_0 
-                    SCH001, DEV1  (665.48, 576.58) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D11 
-                    SCH001, DEV1  (543.56, 574.04) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_GBTCLK0_M2C_P 
-                    SCH001, DEV1  (43.18, 60.96) 
-WARNING(ORCAP-1600): Net has fewer than two connections IIC_SCL_DDR3 
-                    SCH001, DEV1  (101.60, 982.98) 
-WARNING(ORCAP-1600): Net has fewer than two connections SI5326_RST_LS 
-                    SCH001, DEV1  (665.48, 792.48) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA14_P 
-                    SCH001, DEV1  (581.66, 203.20) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA28_P 
-                    SCH001, DEV1  (543.56, 325.12) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_CLK0_M2C_N 
-                    SCH001, DEV1  (543.56, 276.86) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA15_N 
-                    SCH001, DEV1  (665.48, 726.44) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO_LED_2_LS 
-                    SCH001, DEV1  (665.48, 612.14) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA32_N 
-                    SCH001, DEV1  (543.56, 261.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D4 
-                    SCH001, DEV1  (543.56, 500.38) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA29_P 
-                    SCH001, DEV1  (543.56, 251.46) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA00_CC_P 
-                    SCH001, DEV1  (543.56, 314.96) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA08_N 
-                    SCH001, DEV1  (543.56, 436.88) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP3_M2C_N 
-                    SCH001, DEV1  (543.56, 73.66) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX2_P 
-                    SCH001, DEV1  (543.56, 1132.84) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_INT 
-                    SCH001, DEV1  (665.48, 1031.24) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA04_P 
-                    SCH001, DEV1  (543.56, 464.82) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA01_CC_N 
-                    SCH001, DEV1  (665.48, 876.30) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA05_P 
-                    SCH001, DEV1  (543.56, 586.74) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D8 
-                    SCH001, DEV1  (543.56, 502.92) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA05_P 
-                    SCH001, DEV1  (665.48, 949.96) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA07_N 
-                    SCH001, DEV1  (543.56, 93.98) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX4_N 
-                    SCH001, DEV1  (665.48, 220.98) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A5 
-                    SCH001, DEV1  (665.48, 261.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections XADC_VAUX8N_R 
-                    SCH001, DEV1  (543.56, 876.30) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA27_P 
-                    SCH001, DEV1  (543.56, 256.54) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA15_N 
-                    SCH001, DEV1  (543.56, 193.04) 
-WARNING(ORCAP-1600): Net has fewer than two connections LCD_DB7_LS 
-                    SCH001, DEV1  (665.48, 386.08) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA05_P 
-                    SCH001, DEV1  (543.56, 474.98) 
-WARNING(ORCAP-1600): Net has fewer than two connections USER_SMA_CLOCK_N 
-                    SCH001, DEV1  (543.56, 805.18) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXD0 
-                    SCH001, DEV1  (543.56, 1038.86) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX4_P 
-                    SCH001, DEV1  (665.48, 58.42) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA07_P 
-                    SCH001, DEV1  (665.48, 957.58) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA11_P 
-                    SCH001, DEV1  (665.48, 805.18) 
-WARNING(ORCAP-1600): Net has fewer than two connections SMA_MGT_TX_P 
-                    SCH001, DEV1  (543.56, 746.76) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A6 
-                    SCH001, DEV1  (665.48, 190.50) 
-WARNING(ORCAP-1600): Net has fewer than two connections XADC_VAUX0P_R 
-                    SCH001, DEV1  (543.56, 723.90) 
-WARNING(ORCAP-1600): Net has fewer than two connections USB_RX 
-                    SCH001, DEV1  (543.56, 802.64) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_CLK1_M2C_P 
-                    SCH001, DEV1  (543.56, 327.66) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D13 
-                    SCH001, DEV1  (665.48, 132.08) 
-WARNING(ORCAP-1600): Net has fewer than two connections LCD_RS_LS 
-                    SCH001, DEV1  (665.48, 388.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA33_P 
-                    SCH001, DEV1  (543.56, 642.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXD4 
-                    SCH001, DEV1  (543.56, 731.52) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D2 
-                    SCH001, DEV1  (543.56, 419.10) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D6 
-                    SCH001, DEV1  (543.56, 421.64) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA26_P 
-                    SCH001, DEV1  (665.48, 1196.34) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP1_M2C_N 
-                    SCH001, DEV1  (543.56, 297.18) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D10 
-                    SCH001, DEV1  (543.56, 571.50) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A16 
-                    SCH001, DEV1  (543.56, 1102.36) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_MDIO 
-                    SCH001, DEV1  (543.56, 718.82) 
-WARNING(ORCAP-1600): Net has fewer than two connections FPGA_FCS 
-                    SCH001, DEV1  (665.48, 180.34) 
-WARNING(ORCAP-1600): Net has fewer than two connections XADC_VN_R 
-                    SCH001, DEV1  (703.58, 91.44) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO_SW_C 
-                    SCH001, DEV1  (543.56, 543.56) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX6_P 
-                    SCH001, DEV1  (665.48, 210.82) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXCTL_TXEN 
-                    SCH001, DEV1  (543.56, 962.66) 
-WARNING(ORCAP-1600): Net has fewer than two connections SDIO_SDWP 
-                    SCH001, DEV1  (665.48, 414.02) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA13_N 
-                    SCH001, DEV1  (543.56, 782.32) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA04_P 
-                    SCH001, DEV1  (665.48, 1023.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX5_P 
-                    SCH001, DEV1  (665.48, 294.64) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA09_N 
-                    SCH001, DEV1  (543.56, 132.08) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA02_P 
-                    SCH001, DEV1  (543.56, 312.42) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA25_N 
-                    SCH001, DEV1  (665.48, 731.52) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA19_N 
-                    SCH001, DEV1  (543.56, 482.60) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA16_P 
-                    SCH001, DEV1  (665.48, 645.16) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D9 
-                    SCH001, DEV1  (543.56, 426.72) 
-WARNING(ORCAP-1600): Net has fewer than two connections SGMII_RX_P 
-                    SCH001, DEV1  (543.56, 604.52) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX7_N 
-                    SCH001, DEV1  (665.48, 363.22) 
-WARNING(ORCAP-1600): Net has fewer than two connections SDIO_DAT2_LS 
-                    SCH001, DEV1  (665.48, 492.76) 
-WARNING(ORCAP-1600): Net has fewer than two connections IIC_SDA_MAIN 
-                    SCH001, DEV1  (543.56, 871.22) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA16_P 
-                    SCH001, DEV1  (543.56, 200.66) 
-WARNING(ORCAP-1600): Net has fewer than two connections SFP_LOS_LS 
-                    SCH001, DEV1  (543.56, 1094.74) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA10_P 
-                    SCH001, DEV1  (665.48, 1107.44) 
-WARNING(ORCAP-1600): Net has fewer than two connections USER_SMA_GPIO_P 
-                    SCH001, DEV1  (665.48, 419.10) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D0 
-                    SCH001, DEV1  (543.56, 190.50) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_CLK0_M2C_N 
-                    SCH001, DEV1  (665.48, 952.50) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO_LED_1_LS 
-                    SCH001, DEV1  (665.48, 457.20) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA05_N 
-                    SCH001, DEV1  (543.56, 513.08) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA21_P 
-                    SCH001, DEV1  (543.56, 693.42) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA07_N 
-                    SCH001, DEV1  (543.56, 355.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA29_P 
+                    SCH001, DEV1  (665.48, 812.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A18 
+                    SCH001, DEV1  (543.56, 1031.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections GPIO_DIP_SW0 
+                    SCH001, DEV1  (665.48, 434.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA07_P 
+                    SCH001, DEV1  (543.56, 431.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections FPGA_PROG_B 
+                    SCH001, DEV1  (543.56, 767.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA17_CC_N 
+                    SCH001, DEV1  (665.48, 657.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363153 
+                    SCH001, DEV1  (215.90, 541.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363345 
+                    SCH001, DEV1  (215.90, 662.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363809 
+                    SCH001, DEV1  (215.90, 957.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363509 
+                    SCH001, DEV1  (254.00, 767.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359900 
+                    SCH001, DEV1  (152.40, 952.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363117 
+                    SCH001, DEV1  (215.90, 518.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359828 
+                    SCH001, DEV1  (152.40, 906.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363281 
+                    SCH001, DEV1  (215.90, 622.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359772 
+                    SCH001, DEV1  (152.40, 871.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358616 
+                    SCH001, DEV1  (152.40, 655.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363777 
+                    SCH001, DEV1  (215.90, 937.26) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359800 
+                    SCH001, DEV1  (152.40, 889.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363405 
+                    SCH001, DEV1  (215.90, 701.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359820 
+                    SCH001, DEV1  (152.40, 901.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363369 
+                    SCH001, DEV1  (215.90, 678.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363097 
+                    SCH001, DEV1  (215.90, 505.46) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363177 
+                    SCH001, DEV1  (215.90, 556.26) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363165 
+                    SCH001, DEV1  (215.90, 548.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358248 
+                    SCH001, DEV1  (152.40, 543.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363209 
+                    SCH001, DEV1  (215.90, 576.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359576 
+                    SCH001, DEV1  (152.40, 746.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363437 
+                    SCH001, DEV1  (215.90, 721.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363249 
+                    SCH001, DEV1  (215.90, 601.98) 
 WARNING(ORCAP-1600): Net has fewer than two connections SMA_MGT_REFCLK_P 
                     SCH001, DEV1  (543.56, 685.80) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA25_N 
-                    SCH001, DEV1  (543.56, 480.06) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX3_N 
-                    SCH001, DEV1  (665.48, 68.58) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA19_P 
-                    SCH001, DEV1  (665.48, 1112.52) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO_DIP_SW2 
-                    SCH001, DEV1  (665.48, 508.00) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX7_P 
-                    SCH001, DEV1  (665.48, 447.04) 
-WARNING(ORCAP-1600): Net has fewer than two connections USER_SMA_GPIO_N 
-                    SCH001, DEV1  (665.48, 421.64) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX1_N 
-                    SCH001, DEV1  (543.56, 896.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_PRSNT_M2C_B_LS 
-                    SCH001, DEV1  (543.56, 721.36) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D14 
-                    SCH001, DEV1  (543.56, 861.06) 
-WARNING(ORCAP-1600): Net has fewer than two connections PMBUS_DATA_LS 
-                    SCH001, DEV1  (665.48, 396.24) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A4 
-                    SCH001, DEV1  (665.48, 264.16) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA08_P 
-                    SCH001, DEV1  (665.48, 1102.36) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX2_N 
-                    SCH001, DEV1  (543.56, 1130.30) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA24_N 
-                    SCH001, DEV1  (543.56, 99.06) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA18_N 
-                    SCH001, DEV1  (543.56, 701.04) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA17_CC_P 
-                    SCH001, DEV1  (543.56, 487.68) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXD7 
-                    SCH001, DEV1  (543.56, 736.60) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D2 
-                    SCH001, DEV1  (543.56, 1173.48) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA15_P 
-                    SCH001, DEV1  (665.48, 650.24) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA00_CC_P 
-                    SCH001, DEV1  (665.48, 723.90) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_DP0_C2M_P 
-                    SCH001, DEV1  (543.56, 441.96) 
-WARNING(ORCAP-1600): Net has fewer than two connections FPGA_M0 
-                    SCH001, DEV1  (665.48, 525.78) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_VSYNC 
-                    SCH001, DEV1  (543.56, 640.08) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA28_N 
-                    SCH001, DEV1  (581.66, 248.92) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA22_N 
-                    SCH001, DEV1  (543.56, 182.88) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX0_P 
-                    SCH001, DEV1  (543.56, 828.04) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA06_N 
-                    SCH001, DEV1  (665.48, 1176.02) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_GBTCLK1_M2C_P 
-                    SCH001, DEV1  (43.18, 81.28) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_GBTCLK0_M2C_N 
-                    SCH001, DEV1  (43.18, 111.76) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA32_P 
-                    SCH001, DEV1  (543.56, 337.82) 
-WARNING(ORCAP-1600): Net has fewer than two connections SDIO_DAT0_LS 
-                    SCH001, DEV1  (665.48, 640.08) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXCLK 
-                    SCH001, DEV1  (665.48, 200.66) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A23 
-                    SCH001, DEV1  (543.56, 1036.32) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_DE 
-                    SCH001, DEV1  (543.56, 632.46) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_CLK0_M2C_P 
-                    SCH001, DEV1  (543.56, 353.06) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP3_M2C_P 
-                    SCH001, DEV1  (543.56, 76.20) 
-WARNING(ORCAP-1600): Net has fewer than two connections SGMII_TX_P 
-                    SCH001, DEV1  (543.56, 675.64) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA11_N 
-                    SCH001, DEV1  (543.56, 505.46) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX6_P 
-                    SCH001, DEV1  (665.48, 375.92) 
-WARNING(ORCAP-1600): Net has fewer than two connections SFP_TX_DISABLE 
-                    SCH001, DEV1  (665.48, 411.48) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA10_N 
-                    SCH001, DEV1  (665.48, 1186.18) 
-WARNING(ORCAP-1600): Net has fewer than two connections FPGA_M1 
-                    SCH001, DEV1  (703.58, 518.16) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA10_P 
-                    SCH001, DEV1  (543.56, 83.82) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_CLK1_M2C_N 
-                    SCH001, DEV1  (665.48, 1043.94) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_CLK_QO_P 
-                    SCH001, DEV1  (665.48, 152.40) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA06_N 
-                    SCH001, DEV1  (543.56, 589.28) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A22 
-                    SCH001, DEV1  (543.56, 1018.54) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA21_N 
-                    SCH001, DEV1  (543.56, 695.96) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA23_N 
-                    SCH001, DEV1  (543.56, 111.76) 
-WARNING(ORCAP-1600): Net has fewer than two connections LCD_DB5_LS 
-                    SCH001, DEV1  (665.48, 462.28) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A2 
-                    SCH001, DEV1  (665.48, 269.24) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D12 
-                    SCH001, DEV1  (543.56, 713.74) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXD4 
-                    SCH001, DEV1  (543.56, 1170.94) 
-WARNING(ORCAP-1600): Net has fewer than two connections USER_SMA_CLOCK_P 
-                    SCH001, DEV1  (543.56, 881.38) 
-WARNING(ORCAP-1600): Net has fewer than two connections LCD_E_LS 
-                    SCH001, DEV1  (665.48, 538.48) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A21 
-                    SCH001, DEV1  (543.56, 1021.08) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA22_N 
-                    SCH001, DEV1  (665.48, 1193.80) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA09_N 
-                    SCH001, DEV1  (665.48, 1183.64) 
-WARNING(ORCAP-1600): Net has fewer than two connections CPU_RESET 
-                    SCH001, DEV1  (665.48, 530.86) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA21_N 
-                    SCH001, DEV1  (665.48, 965.20) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA10_N 
-                    SCH001, DEV1  (543.56, 86.36) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA29_N 
-                    SCH001, DEV1  (665.48, 889.00) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA06_N 
-                    SCH001, DEV1  (543.56, 243.84) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_ADV_B 
-                    SCH001, DEV1  (543.56, 970.28) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX0_P 
-                    SCH001, DEV1  (543.56, 909.32) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA02_N 
-                    SCH001, DEV1  (665.48, 871.22) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A3 
-                    SCH001, DEV1  (665.48, 193.04) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA17_CC_P 
-                    SCH001, DEV1  (665.48, 581.66) 
-WARNING(ORCAP-1600): Net has fewer than two connections LCD_DB4_LS 
-                    SCH001, DEV1  (665.48, 469.90) 
-WARNING(ORCAP-1600): Net has fewer than two connections FPGA_DONE 
-                    SCH001, DEV1  (543.56, 919.48) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA06_P 
-                    SCH001, DEV1  (543.56, 665.48) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA30_N 
-                    SCH001, DEV1  (543.56, 264.16) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA20_P 
-                    SCH001, DEV1  (543.56, 408.94) 
-WARNING(ORCAP-1600): Net has fewer than two connections USER_CLOCK_N 
-                    SCH001, DEV1  (543.56, 815.34) 
-WARNING(ORCAP-1600): Net has fewer than two connections SYSCLK_N 
-                    SCH001, DEV1  (665.48, 693.42) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXD6 
-                    SCH001, DEV1  (665.48, 121.92) 
-WARNING(ORCAP-1600): Net has fewer than two connections IIC_SCL_MAIN 
-                    SCH001, DEV1  (543.56, 795.02) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX3_P 
-                    SCH001, DEV1  (665.48, 71.12) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_PG_M2C_LS 
-                    SCH001, DEV1  (543.56, 739.14) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA26_N 
-                    SCH001, DEV1  (543.56, 101.60) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA00_CC_N 
-                    SCH001, DEV1  (665.48, 802.64) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D7 
-                    SCH001, DEV1  (665.48, 114.30) 
-WARNING(ORCAP-1600): Net has fewer than two connections XADC_GPIO_3 
-                    SCH001, DEV1  (665.48, 505.46) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D1 
-                    SCH001, DEV1  (543.56, 1186.18) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA11_P 
-                    SCH001, DEV1  (543.56, 581.66) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_WAKE_B_LS 
-                    SCH001, DEV1  (543.56, 495.30) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_GBTCLK1_M2C_N 
-                    SCH001, DEV1  (43.18, 91.44) 
-WARNING(ORCAP-1600): Net has fewer than two connections IIC_SDA_DDR3 
-                    SCH001, DEV1  (101.60, 977.90) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA16_N 
-                    SCH001, DEV1  (543.56, 124.46) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA03_P 
-                    SCH001, DEV1  (665.48, 944.88) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA05_N 
-                    SCH001, DEV1  (543.56, 401.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA15_P 
+                    SCH001, DEV1  (543.56, 269.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA19_P 
+                    SCH001, DEV1  (543.56, 558.80) 
 WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA15_N 
                     SCH001, DEV1  (543.56, 551.18) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_OE_B 
-                    SCH001, DEV1  (543.56, 955.04) 
-WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A7 
-                    SCH001, DEV1  (665.48, 345.44) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA23_N 
-                    SCH001, DEV1  (665.48, 1038.86) 
-WARNING(ORCAP-1600): Net has fewer than two connections XADC_DXN 
-                    SCH001, DEV1  (665.48, 167.64) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_DP0_C2M_N 
-                    SCH001, DEV1  (543.56, 439.42) 
-WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D17 
-                    SCH001, DEV1  (543.56, 792.48) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA21_N 
-                    SCH001, DEV1  (543.56, 109.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA13_P 
+                    SCH001, DEV1  (543.56, 858.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A3 
+                    SCH001, DEV1  (665.48, 193.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA10_N 
+                    SCH001, DEV1  (543.56, 284.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D14 
+                    SCH001, DEV1  (543.56, 1112.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections SGMII_TX_P 
+                    SCH001, DEV1  (543.56, 675.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections GPIO_SW_E 
+                    SCH001, DEV1  (665.48, 906.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA11_N 
+                    SCH001, DEV1  (543.56, 88.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA30_N 
+                    SCH001, DEV1  (543.56, 264.16) 
 WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX7_N 
                     SCH001, DEV1  (665.48, 444.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX3_P 
+                    SCH001, DEV1  (543.56, 1051.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D16 
+                    SCH001, DEV1  (543.56, 789.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP0_C2M_N 
+                    SCH001, DEV1  (543.56, 287.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections SGMIICLK_Q0_P 
+                    SCH001, DEV1  (543.56, 533.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA21_N 
+                    SCH001, DEV1  (543.56, 695.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections IIC_SDA_MAIN 
+                    SCH001, DEV1  (543.56, 871.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA14_P 
+                    SCH001, DEV1  (543.56, 706.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA22_P 
+                    SCH001, DEV1  (543.56, 845.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_HSYNC 
+                    SCH001, DEV1  (543.56, 711.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections SMA_MGT_RX_P 
+                    SCH001, DEV1  (543.56, 756.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A21 
+                    SCH001, DEV1  (543.56, 1021.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX5_P 
+                    SCH001, DEV1  (665.48, 142.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA21_P 
+                    SCH001, DEV1  (665.48, 962.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA07_N 
+                    SCH001, DEV1  (543.56, 355.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359716 
+                    SCH001, DEV1  (152.40, 835.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358532 
+                    SCH001, DEV1  (152.40, 601.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359848 
+                    SCH001, DEV1  (152.40, 919.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363381 
+                    SCH001, DEV1  (215.90, 685.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363629 
+                    SCH001, DEV1  (215.90, 843.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections N361797 
+                    SCH001, DEV1  (152.40, 967.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363465 
+                    SCH001, DEV1  (215.90, 739.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358608 
+                    SCH001, DEV1  (152.40, 650.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363269 
+                    SCH001, DEV1  (215.90, 614.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359876 
+                    SCH001, DEV1  (152.40, 937.26) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363501 
+                    SCH001, DEV1  (215.90, 762.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363377 
+                    SCH001, DEV1  (215.90, 683.26) 
+WARNING(ORCAP-1600): Net has fewer than two connections N355509 
+                    SCH001, DEV1  (215.90, 533.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections N361813 
+                    SCH001, DEV1  (152.40, 977.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358564 
+                    SCH001, DEV1  (152.40, 622.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359740 
+                    SCH001, DEV1  (152.40, 850.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358540 
+                    SCH001, DEV1  (152.40, 607.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359824 
+                    SCH001, DEV1  (152.40, 904.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363793 
+                    SCH001, DEV1  (215.90, 947.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363685 
+                    SCH001, DEV1  (215.90, 878.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections N357854 
+                    SCH001, DEV1  (152.40, 487.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363161 
+                    SCH001, DEV1  (215.90, 546.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359892 
+                    SCH001, DEV1  (152.40, 947.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA06_N 
+                    SCH001, DEV1  (543.56, 243.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX3_N 
+                    SCH001, DEV1  (665.48, 68.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections PMBUS_CLK_LS 
+                    SCH001, DEV1  (665.48, 937.26) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA13_P 
+                    SCH001, DEV1  (543.56, 119.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA26_P 
+                    SCH001, DEV1  (543.56, 177.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA31_N 
+                    SCH001, DEV1  (543.56, 492.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA22_P 
+                    SCH001, DEV1  (665.48, 1115.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA10_P 
+                    SCH001, DEV1  (543.56, 358.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections SFP_TX_DISABLE 
+                    SCH001, DEV1  (665.48, 411.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D17 
+                    SCH001, DEV1  (543.56, 792.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections SDIO_CMD_LS 
+                    SCH001, DEV1  (665.48, 568.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections FPGA_M1 
+                    SCH001, DEV1  (703.58, 518.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA31_P 
+                    SCH001, DEV1  (665.48, 739.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA23_N 
+                    SCH001, DEV1  (543.56, 850.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections SGMII_RX_P 
+                    SCH001, DEV1  (543.56, 604.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXD7 
+                    SCH001, DEV1  (543.56, 736.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA04_N 
+                    SCH001, DEV1  (543.56, 388.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D11 
+                    SCH001, DEV1  (543.56, 1115.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections SGMIICLK_Q0_N 
+                    SCH001, DEV1  (543.56, 530.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_PG_M2C_LS 
+                    SCH001, DEV1  (543.56, 739.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_SPDIF 
+                    SCH001, DEV1  (543.56, 708.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA23_P 
+                    SCH001, DEV1  (543.56, 187.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA03_N 
+                    SCH001, DEV1  (665.48, 1021.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA01_CC_P 
+                    SCH001, DEV1  (665.48, 800.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX4_P 
+                    SCH001, DEV1  (665.48, 223.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA25_P 
+                    SCH001, DEV1  (543.56, 556.26) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_MDIO 
+                    SCH001, DEV1  (543.56, 718.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA09_P 
+                    SCH001, DEV1  (543.56, 467.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358600 
+                    SCH001, DEV1  (152.40, 645.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections N357992 
+                    SCH001, DEV1  (152.40, 510.54) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363137 
+                    SCH001, DEV1  (215.90, 530.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363245 
+                    SCH001, DEV1  (215.90, 599.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363497 
+                    SCH001, DEV1  (215.90, 759.46) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358280 
+                    SCH001, DEV1  (152.40, 563.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358880 
+                    SCH001, DEV1  (152.40, 701.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359692 
+                    SCH001, DEV1  (152.40, 820.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363841 
+                    SCH001, DEV1  (215.90, 977.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363349 
+                    SCH001, DEV1  (215.90, 665.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358844 
+                    SCH001, DEV1  (152.40, 678.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359732 
+                    SCH001, DEV1  (152.40, 845.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363609 
+                    SCH001, DEV1  (215.90, 830.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359768 
+                    SCH001, DEV1  (152.40, 868.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358892 
+                    SCH001, DEV1  (152.40, 708.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359676 
+                    SCH001, DEV1  (152.40, 810.26) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363441 
+                    SCH001, DEV1  (215.90, 723.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363221 
+                    SCH001, DEV1  (215.90, 584.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358620 
+                    SCH001, DEV1  (152.40, 657.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363173 
+                    SCH001, DEV1  (215.90, 553.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363657 
+                    SCH001, DEV1  (215.90, 861.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358320 
+                    SCH001, DEV1  (152.40, 589.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363157 
+                    SCH001, DEV1  (215.90, 543.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_RESET 
+                    SCH001, DEV1  (543.56, 868.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX6_P 
+                    SCH001, DEV1  (665.48, 210.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA14_P 
+                    SCH001, DEV1  (581.66, 203.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_INT 
+                    SCH001, DEV1  (543.56, 1046.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections FPGA_VBATT 
+                    SCH001, DEV1  (543.56, 233.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA23_P 
+                    SCH001, DEV1  (543.56, 848.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA11_N 
+                    SCH001, DEV1  (665.48, 881.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D15 
+                    SCH001, DEV1  (543.56, 863.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections XADC_DXN 
+                    SCH001, DEV1  (665.48, 167.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections SYSCLK_P 
+                    SCH001, DEV1  (665.48, 695.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA21_N 
+                    SCH001, DEV1  (543.56, 109.22) 
 WARNING(ORCAP-1600): Net has fewer than two connections GPIO_DIP_SW1 
                     SCH001, DEV1  (665.48, 358.14) 
 WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA03_N 
                     SCH001, DEV1  (543.56, 162.56) 
-WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXC_GTXCLK 
-                    SCH001, DEV1  (543.56, 817.88) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA03_P 
-                    SCH001, DEV1  (543.56, 238.76) 
-WARNING(ORCAP-1600): Net has fewer than two connections SGMIICLK_Q0_P 
-                    SCH001, DEV1  (543.56, 533.40) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA21_P 
-                    SCH001, DEV1  (543.56, 106.68) 
-WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX5_N 
-                    SCH001, DEV1  (665.48, 139.70) 
-WARNING(ORCAP-1600): Net has fewer than two connections XADC_VP_R 
-                    SCH001, DEV1  (581.66, 1160.78) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA19_N 
-                    SCH001, DEV1  (543.56, 619.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D9 
+                    SCH001, DEV1  (543.56, 426.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA29_N 
+                    SCH001, DEV1  (543.56, 175.26) 
+WARNING(ORCAP-1600): Net has fewer than two connections IIC_SCL_MAIN 
+                    SCH001, DEV1  (543.56, 795.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA05_P 
+                    SCH001, DEV1  (665.48, 949.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A0 
+                    SCH001, DEV1  (665.48, 340.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCD_DB5_LS 
+                    SCH001, DEV1  (665.48, 462.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D6 
+                    SCH001, DEV1  (543.56, 421.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA12_P 
+                    SCH001, DEV1  (543.56, 246.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA18_CC_P 
+                    SCH001, DEV1  (543.56, 490.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_CLK0_M2C_N 
+                    SCH001, DEV1  (665.48, 952.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA32_P 
+                    SCH001, DEV1  (665.48, 436.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA28_N 
+                    SCH001, DEV1  (581.66, 248.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA05_N 
+                    SCH001, DEV1  (543.56, 513.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359596 
+                    SCH001, DEV1  (152.40, 759.46) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363681 
+                    SCH001, DEV1  (215.90, 876.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359628 
+                    SCH001, DEV1  (152.40, 779.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358888 
+                    SCH001, DEV1  (152.40, 706.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359796 
+                    SCH001, DEV1  (152.40, 886.46) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358276 
+                    SCH001, DEV1  (152.40, 561.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359620 
+                    SCH001, DEV1  (152.40, 774.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358264 
+                    SCH001, DEV1  (152.40, 553.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359856 
+                    SCH001, DEV1  (152.40, 924.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358912 
+                    SCH001, DEV1  (152.40, 721.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363133 
+                    SCH001, DEV1  (215.90, 528.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359816 
+                    SCH001, DEV1  (152.40, 899.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363789 
+                    SCH001, DEV1  (215.90, 944.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363409 
+                    SCH001, DEV1  (215.90, 703.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363817 
+                    SCH001, DEV1  (215.90, 962.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363561 
+                    SCH001, DEV1  (215.90, 800.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358624 
+                    SCH001, DEV1  (152.40, 660.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363193 
+                    SCH001, DEV1  (215.90, 566.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359804 
+                    SCH001, DEV1  (152.40, 891.54) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359604 
+                    SCH001, DEV1  (152.40, 764.54) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363801 
+                    SCH001, DEV1  (215.90, 952.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363277 
+                    SCH001, DEV1  (215.90, 619.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections SI5326_RST_LS 
+                    SCH001, DEV1  (665.48, 792.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA03_P 
+                    SCH001, DEV1  (665.48, 944.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX0_P 
+                    SCH001, DEV1  (543.56, 909.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A14 
+                    SCH001, DEV1  (665.48, 281.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA14_N 
+                    SCH001, DEV1  (543.56, 127.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections GPIO_LED_2_LS 
+                    SCH001, DEV1  (665.48, 612.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections USER_SMA_GPIO_N 
+                    SCH001, DEV1  (665.48, 421.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections GPIO_SW_S 
+                    SCH001, DEV1  (665.48, 543.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA17_CC_N 
+                    SCH001, DEV1  (543.56, 469.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA08_N 
+                    SCH001, DEV1  (543.56, 436.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D0 
+                    SCH001, DEV1  (543.56, 1107.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections FPGA_DONE 
+                    SCH001, DEV1  (543.56, 919.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA08_P 
+                    SCH001, DEV1  (543.56, 396.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA24_N 
+                    SCH001, DEV1  (543.56, 99.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXD3 
+                    SCH001, DEV1  (543.56, 889.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections REC_CLOCK_C_N 
+                    SCH001, DEV1  (665.48, 355.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXER 
+                    SCH001, DEV1  (543.56, 1043.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_DP0_M2M_N 
+                    SCH001, DEV1  (543.56, 449.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections GPIO_LED_5_LS 
+                    SCH001, DEV1  (543.56, 561.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D4 
+                    SCH001, DEV1  (665.48, 106.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA16_N 
+                    SCH001, DEV1  (665.48, 721.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D2 
+                    SCH001, DEV1  (543.56, 419.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections FPGA_M0 
+                    SCH001, DEV1  (665.48, 525.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections FPGA_M2 
+                    SCH001, DEV1  (665.48, 515.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections DDR3_RESET_B 
+                    SCH001, DEV1  (665.48, 1130.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA15_N 
+                    SCH001, DEV1  (543.56, 193.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections IIC_MUX_RESET_B 
+                    SCH001, DEV1  (543.56, 1104.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363457 
+                    SCH001, DEV1  (215.90, 734.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363149 
+                    SCH001, DEV1  (215.90, 538.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359844 
+                    SCH001, DEV1  (152.40, 916.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359552 
+                    SCH001, DEV1  (152.40, 731.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359764 
+                    SCH001, DEV1  (152.40, 866.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358832 
+                    SCH001, DEV1  (152.40, 670.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358852 
+                    SCH001, DEV1  (152.40, 683.26) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359672 
+                    SCH001, DEV1  (152.40, 807.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363077 
+                    SCH001, DEV1  (215.90, 492.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363373 
+                    SCH001, DEV1  (215.90, 680.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363481 
+                    SCH001, DEV1  (215.90, 749.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358872 
+                    SCH001, DEV1  (152.40, 695.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358904 
+                    SCH001, DEV1  (152.40, 716.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363185 
+                    SCH001, DEV1  (215.90, 561.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363829 
+                    SCH001, DEV1  (215.90, 970.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358560 
+                    SCH001, DEV1  (152.40, 619.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363113 
+                    SCH001, DEV1  (215.90, 515.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363237 
+                    SCH001, DEV1  (215.90, 594.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363581 
+                    SCH001, DEV1  (215.90, 812.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359592 
+                    SCH001, DEV1  (152.40, 756.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363189 
+                    SCH001, DEV1  (215.90, 563.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363389 
+                    SCH001, DEV1  (215.90, 690.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363365 
+                    SCH001, DEV1  (215.90, 675.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358324 
+                    SCH001, DEV1  (152.40, 591.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX2_P 
+                    SCH001, DEV1  (543.56, 980.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXD0 
+                    SCH001, DEV1  (543.56, 1038.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections SDIO_SDWP 
+                    SCH001, DEV1  (665.48, 414.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA02_N 
+                    SCH001, DEV1  (665.48, 871.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A17 
+                    SCH001, DEV1  (543.56, 1099.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX1_N 
+                    SCH001, DEV1  (543.56, 1059.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA14_N 
+                    SCH001, DEV1  (543.56, 629.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A24 
+                    SCH001, DEV1  (543.56, 952.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA30_N 
+                    SCH001, DEV1  (665.48, 589.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCD_DB4_LS 
+                    SCH001, DEV1  (665.48, 469.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections USB_CTS 
+                    SCH001, DEV1  (543.56, 886.46) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_CLK_QO_N 
+                    SCH001, DEV1  (665.48, 149.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA30_P 
+                    SCH001, DEV1  (665.48, 586.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA17_CC_P 
+                    SCH001, DEV1  (543.56, 487.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCD_RS_LS 
+                    SCH001, DEV1  (665.48, 388.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXD2 
+                    SCH001, DEV1  (665.48, 119.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D7 
+                    SCH001, DEV1  (543.56, 345.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A10 
+                    SCH001, DEV1  (665.48, 256.54) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX1_P 
+                    SCH001, DEV1  (543.56, 1061.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_DP0_C2M_P 
+                    SCH001, DEV1  (543.56, 441.96) 
 WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA27_N 
                     SCH001, DEV1  (665.48, 1120.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA06_P 
+                    SCH001, DEV1  (543.56, 320.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA06_P 
+                    SCH001, DEV1  (665.48, 1173.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections XADC_GPIO_3 
+                    SCH001, DEV1  (665.48, 505.46) 
+WARNING(ORCAP-1600): Net has fewer than two connections XADC_GPIO_0 
+                    SCH001, DEV1  (665.48, 576.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D3 
+                    SCH001, DEV1  (543.56, 342.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA21_P 
+                    SCH001, DEV1  (543.56, 693.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359652 
+                    SCH001, DEV1  (152.40, 795.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358068 
+                    SCH001, DEV1  (152.40, 528.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359884 
+                    SCH001, DEV1  (152.40, 942.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358292 
+                    SCH001, DEV1  (152.40, 571.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363101 
+                    SCH001, DEV1  (215.90, 508.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363289 
+                    SCH001, DEV1  (215.90, 627.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358272 
+                    SCH001, DEV1  (152.40, 558.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358836 
+                    SCH001, DEV1  (152.40, 673.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363797 
+                    SCH001, DEV1  (215.90, 949.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363765 
+                    SCH001, DEV1  (215.90, 929.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359616 
+                    SCH001, DEV1  (152.40, 772.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363493 
+                    SCH001, DEV1  (215.90, 756.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359896 
+                    SCH001, DEV1  (152.40, 949.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363717 
+                    SCH001, DEV1  (215.90, 899.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359640 
+                    SCH001, DEV1  (152.40, 787.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363205 
+                    SCH001, DEV1  (215.90, 574.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363621 
+                    SCH001, DEV1  (215.90, 838.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363549 
+                    SCH001, DEV1  (215.90, 792.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections N361755 
+                    SCH001, DEV1  (190.50, 767.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363741 
+                    SCH001, DEV1  (215.90, 914.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363557 
+                    SCH001, DEV1  (215.90, 797.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359748 
+                    SCH001, DEV1  (152.40, 855.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363701 
+                    SCH001, DEV1  (215.90, 889.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections VADJ 
+                    SCH001, DEV1  (215.90, 449.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_TDO_LPC_TDI 
+                    SCH001, DEV1  (154.94, 457.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_GBTCLK0_M2C_P 
+                    SCH001, DEV1  (43.18, 101.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA12_P 
+                    SCH001, DEV1  (665.48, 487.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX3_N 
+                    SCH001, DEV1  (543.56, 1049.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXD1 
+                    SCH001, DEV1  (665.48, 195.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A23 
+                    SCH001, DEV1  (543.56, 1036.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA22_P 
+                    SCH001, DEV1  (543.56, 259.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D4 
+                    SCH001, DEV1  (543.56, 500.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX7_P 
+                    SCH001, DEV1  (665.48, 365.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA18_CC_P 
+                    SCH001, DEV1  (665.48, 734.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA20_P 
+                    SCH001, DEV1  (665.48, 883.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA07_N 
+                    SCH001, DEV1  (665.48, 1033.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA01_CC_N 
+                    SCH001, DEV1  (665.48, 876.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXCLT_RXDV 
+                    SCH001, DEV1  (543.56, 1193.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA23_P 
+                    SCH001, DEV1  (665.48, 1036.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA03_P 
+                    SCH001, DEV1  (543.56, 238.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXER 
+                    SCH001, DEV1  (665.48, 274.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A20 
+                    SCH001, DEV1  (543.56, 1023.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA26_N 
+                    SCH001, DEV1  (543.56, 101.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA00_CC_P 
+                    SCH001, DEV1  (665.48, 723.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D7 
+                    SCH001, DEV1  (665.48, 114.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXD0 
+                    SCH001, DEV1  (665.48, 208.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA17_CC_N 
+                    SCH001, DEV1  (543.56, 411.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections XADC_VAUX8N_R 
+                    SCH001, DEV1  (543.56, 876.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCD_E_LS 
+                    SCH001, DEV1  (665.48, 538.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA16_P 
+                    SCH001, DEV1  (543.56, 855.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA06_N 
+                    SCH001, DEV1  (665.48, 1176.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363217 
+                    SCH001, DEV1  (215.90, 581.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358072 
+                    SCH001, DEV1  (152.40, 530.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359712 
+                    SCH001, DEV1  (152.40, 833.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections N357940 
+                    SCH001, DEV1  (152.40, 508.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363433 
+                    SCH001, DEV1  (215.90, 718.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359736 
+                    SCH001, DEV1  (152.40, 848.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections N361845 
+                    SCH001, DEV1  (152.40, 982.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363805 
+                    SCH001, DEV1  (215.90, 955.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363533 
+                    SCH001, DEV1  (215.90, 782.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359808 
+                    SCH001, DEV1  (152.40, 894.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359916 
+                    SCH001, DEV1  (152.40, 962.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359872 
+                    SCH001, DEV1  (152.40, 934.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections N361817 
+                    SCH001, DEV1  (152.40, 980.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections N357924 
+                    SCH001, DEV1  (152.40, 497.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363073 
+                    SCH001, DEV1  (215.90, 490.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358552 
+                    SCH001, DEV1  (152.40, 614.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358576 
+                    SCH001, DEV1  (152.40, 629.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358548 
+                    SCH001, DEV1  (152.40, 612.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358556 
+                    SCH001, DEV1  (152.40, 617.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363197 
+                    SCH001, DEV1  (215.90, 568.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363769 
+                    SCH001, DEV1  (215.90, 932.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359548 
+                    SCH001, DEV1  (152.40, 728.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358820 
+                    SCH001, DEV1  (152.40, 662.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363169 
+                    SCH001, DEV1  (215.90, 551.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359588 
+                    SCH001, DEV1  (152.40, 754.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358588 
+                    SCH001, DEV1  (152.40, 637.54) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_TCK_BUF 
+                    SCH001, DEV1  (259.08, 287.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections USB_RTS 
+                    SCH001, DEV1  (543.56, 800.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA19_P 
+                    SCH001, DEV1  (543.56, 617.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_SPDIF_OUT_LS 
+                    SCH001, DEV1  (543.56, 563.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections DDR3_TEMP_EVENT 
+                    SCH001, DEV1  (665.48, 1069.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA27_N 
+                    SCH001, DEV1  (543.56, 180.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_CLK1_M2C_P 
+                    SCH001, DEV1  (665.48, 967.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA09_N 
+                    SCH001, DEV1  (543.56, 393.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA11_P 
+                    SCH001, DEV1  (665.48, 805.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA23_N 
+                    SCH001, DEV1  (665.48, 1038.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A6 
+                    SCH001, DEV1  (665.48, 190.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA01_CC_P 
+                    SCH001, DEV1  (543.56, 350.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA03_P 
+                    SCH001, DEV1  (543.56, 655.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX6_N 
+                    SCH001, DEV1  (665.48, 213.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections XADC_DXP 
+                    SCH001, DEV1  (665.48, 170.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP0_M2C_P 
+                    SCH001, DEV1  (543.56, 370.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA00_CC_N 
+                    SCH001, DEV1  (543.56, 195.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D13 
+                    SCH001, DEV1  (665.48, 132.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX5_N 
+                    SCH001, DEV1  (665.48, 139.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_PRSNT_M2C_B_LS 
+                    SCH001, DEV1  (543.56, 944.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections GPIO_LED_7_LS 
+                    SCH001, DEV1  (543.56, 477.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA02_P 
+                    SCH001, DEV1  (543.56, 650.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A5 
+                    SCH001, DEV1  (665.48, 261.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXD1 
+                    SCH001, DEV1  (543.56, 1033.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections SGMII_RX_N 
+                    SCH001, DEV1  (543.56, 601.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_CRS 
+                    SCH001, DEV1  (543.56, 1198.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP0_M2C_N 
+                    SCH001, DEV1  (543.56, 368.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359660 
+                    SCH001, DEV1  (152.40, 800.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363541 
+                    SCH001, DEV1  (215.90, 787.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358828 
+                    SCH001, DEV1  (152.40, 668.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363849 
+                    SCH001, DEV1  (215.90, 982.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363129 
+                    SCH001, DEV1  (215.90, 525.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359556 
+                    SCH001, DEV1  (152.40, 734.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363729 
+                    SCH001, DEV1  (215.90, 906.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363513 
+                    SCH001, DEV1  (215.90, 769.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358256 
+                    SCH001, DEV1  (152.40, 548.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358592 
+                    SCH001, DEV1  (152.40, 640.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363473 
+                    SCH001, DEV1  (215.90, 744.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363665 
+                    SCH001, DEV1  (215.90, 866.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359812 
+                    SCH001, DEV1  (152.40, 896.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359728 
+                    SCH001, DEV1  (152.40, 843.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363633 
+                    SCH001, DEV1  (215.90, 845.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358328 
+                    SCH001, DEV1  (152.40, 594.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363461 
+                    SCH001, DEV1  (215.90, 736.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363773 
+                    SCH001, DEV1  (215.90, 934.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358080 
+                    SCH001, DEV1  (152.40, 535.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358840 
+                    SCH001, DEV1  (152.40, 675.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363749 
+                    SCH001, DEV1  (215.90, 919.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363709 
+                    SCH001, DEV1  (215.90, 894.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_GBTCLK1_M2C_N 
+                    SCH001, DEV1  (43.18, 91.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA25_N 
+                    SCH001, DEV1  (543.56, 480.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA32_P 
+                    SCH001, DEV1  (543.56, 337.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXD3 
+                    SCH001, DEV1  (665.48, 203.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA15_N 
+                    SCH001, DEV1  (665.48, 726.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA13_N 
+                    SCH001, DEV1  (543.56, 121.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_FWE_B 
+                    SCH001, DEV1  (543.56, 957.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A8 
+                    SCH001, DEV1  (665.48, 342.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA11_N 
+                    SCH001, DEV1  (543.56, 505.46) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA10_N 
+                    SCH001, DEV1  (665.48, 1186.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D12 
+                    SCH001, DEV1  (543.56, 1117.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA06_P 
+                    SCH001, DEV1  (543.56, 665.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP1_C2M_N 
+                    SCH001, DEV1  (543.56, 215.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D1 
+                    SCH001, DEV1  (543.56, 114.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA18_N 
+                    SCH001, DEV1  (543.56, 701.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA31_P 
+                    SCH001, DEV1  (543.56, 568.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA22_N 
+                    SCH001, DEV1  (543.56, 769.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections SM_FAN_TACH 
+                    SCH001, DEV1  (665.48, 187.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A13 
+                    SCH001, DEV1  (665.48, 284.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A2 
+                    SCH001, DEV1  (665.48, 269.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA19_N 
+                    SCH001, DEV1  (543.56, 619.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA20_N 
+                    SCH001, DEV1  (665.48, 886.46) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA10_P 
+                    SCH001, DEV1  (665.48, 1107.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections USER_SMA_GPIO_P 
+                    SCH001, DEV1  (665.48, 419.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections USER_SMA_CLOCK_P 
+                    SCH001, DEV1  (543.56, 881.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA28_P 
+                    SCH001, DEV1  (665.48, 817.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA22_N 
+                    SCH001, DEV1  (665.48, 1193.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359860 
+                    SCH001, DEV1  (152.40, 927.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363065 
+                    SCH001, DEV1  (215.90, 485.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363273 
+                    SCH001, DEV1  (215.90, 617.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359700 
+                    SCH001, DEV1  (152.40, 825.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363637 
+                    SCH001, DEV1  (215.90, 848.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363605 
+                    SCH001, DEV1  (215.90, 828.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363301 
+                    SCH001, DEV1  (215.90, 635.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections N361801 
+                    SCH001, DEV1  (152.40, 970.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358604 
+                    SCH001, DEV1  (152.40, 647.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358868 
+                    SCH001, DEV1  (152.40, 693.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359720 
+                    SCH001, DEV1  (152.40, 838.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363529 
+                    SCH001, DEV1  (215.90, 779.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358856 
+                    SCH001, DEV1  (152.40, 685.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358568 
+                    SCH001, DEV1  (152.40, 624.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363485 
+                    SCH001, DEV1  (215.90, 751.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359832 
+                    SCH001, DEV1  (152.40, 909.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections N361805 
+                    SCH001, DEV1  (152.40, 972.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363585 
+                    SCH001, DEV1  (215.90, 815.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358824 
+                    SCH001, DEV1  (152.40, 665.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363785 
+                    SCH001, DEV1  (215.90, 942.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359644 
+                    SCH001, DEV1  (152.40, 789.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections VCC12_P 
+                    SCH001, DEV1  (241.30, 449.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_GBTCLK0_M2C_N 
+                    SCH001, DEV1  (43.18, 111.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA10_N 
+                    SCH001, DEV1  (543.56, 86.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA13_P 
+                    SCH001, DEV1  (665.48, 574.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA29_N 
+                    SCH001, DEV1  (665.48, 889.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_ADV_B 
+                    SCH001, DEV1  (543.56, 970.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXCTL_TXEN 
+                    SCH001, DEV1  (543.56, 962.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_CLK0_M2C_P 
+                    SCH001, DEV1  (543.56, 353.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA09_P 
+                    SCH001, DEV1  (543.56, 208.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA17_CC_P 
+                    SCH001, DEV1  (665.48, 581.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections SFP_TX_N 
+                    SCH001, DEV1  (543.56, 591.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA19_N 
+                    SCH001, DEV1  (543.56, 482.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA08_P 
+                    SCH001, DEV1  (665.48, 1102.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections GPIO_DIP_SW3 
+                    SCH001, DEV1  (665.48, 431.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections USB_TX 
+                    SCH001, DEV1  (543.56, 942.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA33_N 
+                    SCH001, DEV1  (665.48, 665.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections USER_CLOCK_N 
+                    SCH001, DEV1  (543.56, 815.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA05_P 
+                    SCH001, DEV1  (543.56, 586.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA17_CC_P 
+                    SCH001, DEV1  (543.56, 546.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_CLK0_M2C_P 
+                    SCH001, DEV1  (665.48, 873.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_C2M_PG_LS 
+                    SCH001, DEV1  (543.56, 662.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections SM_FAN_PWM 
+                    SCH001, DEV1  (543.56, 883.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA12_P 
+                    SCH001, DEV1  (543.56, 281.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXD4 
+                    SCH001, DEV1  (543.56, 1170.94) 
 WARNING(ORCAP-1600): Net has fewer than two connections XADC_VAUX0N_R 
                     SCH001, DEV1  (543.56, 726.44) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA01_CC_P 
-                    SCH001, DEV1  (665.48, 800.10) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO_DIP_SW0 
-                    SCH001, DEV1  (665.48, 434.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D10 
+                    SCH001, DEV1  (543.56, 571.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX0_P 
+                    SCH001, DEV1  (543.56, 828.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363705 
+                    SCH001, DEV1  (215.90, 891.54) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358884 
+                    SCH001, DEV1  (152.40, 703.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358584 
+                    SCH001, DEV1  (152.40, 635.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359680 
+                    SCH001, DEV1  (152.40, 812.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363057 
+                    SCH001, DEV1  (215.90, 480.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359568 
+                    SCH001, DEV1  (152.40, 741.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363385 
+                    SCH001, DEV1  (215.90, 688.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363285 
+                    SCH001, DEV1  (215.90, 624.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363225 
+                    SCH001, DEV1  (215.90, 586.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358332 
+                    SCH001, DEV1  (152.40, 596.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363673 
+                    SCH001, DEV1  (215.90, 871.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections N357928 
+                    SCH001, DEV1  (152.40, 500.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363525 
+                    SCH001, DEV1  (215.90, 777.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358864 
+                    SCH001, DEV1  (152.40, 690.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359776 
+                    SCH001, DEV1  (152.40, 873.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358300 
+                    SCH001, DEV1  (152.40, 576.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363733 
+                    SCH001, DEV1  (215.90, 909.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363253 
+                    SCH001, DEV1  (215.90, 604.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363401 
+                    SCH001, DEV1  (215.90, 698.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359760 
+                    SCH001, DEV1  (152.40, 863.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358580 
+                    SCH001, DEV1  (152.40, 632.46) 
+WARNING(ORCAP-1600): Net has fewer than two connections N361849 
+                    SCH001, DEV1  (152.40, 985.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359584 
+                    SCH001, DEV1  (152.40, 751.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_TCK_BUF 
+                    SCH001, DEV1  (259.08, 289.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections SI5326_OUT_C_P 
+                    SCH001, DEV1  (543.56, 838.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA28_P 
+                    SCH001, DEV1  (543.56, 325.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections GPIO_LED_3_LS 
+                    SCH001, DEV1  (665.48, 535.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA27_P 
+                    SCH001, DEV1  (665.48, 1117.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections GPIO_DIP_SW2 
+                    SCH001, DEV1  (665.48, 508.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA04_P 
+                    SCH001, DEV1  (665.48, 1023.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA09_N 
+                    SCH001, DEV1  (543.56, 132.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_DP0_M2M_P 
+                    SCH001, DEV1  (543.56, 452.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_CLK 
+                    SCH001, DEV1  (543.56, 787.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections SMA_MGT_RX_N 
+                    SCH001, DEV1  (543.56, 754.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D10 
+                    SCH001, DEV1  (543.56, 1196.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX2_P 
+                    SCH001, DEV1  (543.56, 1132.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_CLK1_M2C_N 
+                    SCH001, DEV1  (665.48, 1043.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX2_N 
+                    SCH001, DEV1  (543.56, 1130.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections GPIO_LED_4_LS 
+                    SCH001, DEV1  (665.48, 807.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_CLK1_M2C_N 
+                    SCH001, DEV1  (543.56, 330.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX2_N 
+                    SCH001, DEV1  (543.56, 977.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA21_P 
+                    SCH001, DEV1  (543.56, 106.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A19 
+                    SCH001, DEV1  (543.56, 1026.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP3_C2M_P 
+                    SCH001, DEV1  (543.56, 66.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA12_N 
+                    SCH001, DEV1  (543.56, 205.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA16_N 
+                    SCH001, DEV1  (543.56, 779.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D0 
+                    SCH001, DEV1  (543.56, 190.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA26_N 
+                    SCH001, DEV1  (665.48, 1198.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCD_DB7_LS 
+                    SCH001, DEV1  (665.48, 386.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363693 
+                    SCH001, DEV1  (215.90, 883.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363689 
+                    SCH001, DEV1  (215.90, 881.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359580 
+                    SCH001, DEV1  (152.40, 749.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363421 
+                    SCH001, DEV1  (215.90, 711.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359840 
+                    SCH001, DEV1  (152.40, 914.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363669 
+                    SCH001, DEV1  (215.90, 868.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363821 
+                    SCH001, DEV1  (215.90, 965.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359908 
+                    SCH001, DEV1  (152.40, 957.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363577 
+                    SCH001, DEV1  (215.90, 810.26) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363753 
+                    SCH001, DEV1  (215.90, 922.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359920 
+                    SCH001, DEV1  (152.40, 965.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363125 
+                    SCH001, DEV1  (215.90, 523.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358900 
+                    SCH001, DEV1  (152.40, 713.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359784 
+                    SCH001, DEV1  (152.40, 878.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363417 
+                    SCH001, DEV1  (215.90, 708.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363649 
+                    SCH001, DEV1  (215.90, 855.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363641 
+                    SCH001, DEV1  (215.90, 850.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358308 
+                    SCH001, DEV1  (152.40, 581.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363181 
+                    SCH001, DEV1  (215.90, 558.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359912 
+                    SCH001, DEV1  (152.40, 960.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359756 
+                    SCH001, DEV1  (152.40, 861.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363761 
+                    SCH001, DEV1  (215.90, 927.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_GBTCLK0_M2C_N 
+                    SCH001, DEV1  (43.18, 71.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections SFP_TX_P 
+                    SCH001, DEV1  (543.56, 594.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections GPIO_SW_C 
+                    SCH001, DEV1  (543.56, 543.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_PERST_LS 
+                    SCH001, DEV1  (543.56, 576.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA05_N 
+                    SCH001, DEV1  (665.48, 1026.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections SGMII_TX_N 
+                    SCH001, DEV1  (543.56, 673.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX4_N 
+                    SCH001, DEV1  (665.48, 60.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA24_N 
+                    SCH001, DEV1  (665.48, 1046.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA25_N 
+                    SCH001, DEV1  (665.48, 731.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections GPIO_SW_N 
+                    SCH001, DEV1  (665.48, 467.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA33_P 
+                    SCH001, DEV1  (665.48, 662.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA11_P 
+                    SCH001, DEV1  (543.56, 165.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections XADC_VAUX8P_R 
+                    SCH001, DEV1  (543.56, 873.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX1_P 
+                    SCH001, DEV1  (543.56, 899.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXD6 
+                    SCH001, DEV1  (543.56, 894.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_CLK_QO_P 
+                    SCH001, DEV1  (665.48, 152.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections SDIO_SDDET 
+                    SCH001, DEV1  (665.48, 490.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXC_GTXCLK 
+                    SCH001, DEV1  (543.56, 817.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA06_N 
+                    SCH001, DEV1  (543.56, 589.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA12_N 
+                    SCH001, DEV1  (665.48, 563.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA15_P 
+                    SCH001, DEV1  (665.48, 650.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections SDIO_CD_DAT3_LS 
+                    SCH001, DEV1  (665.48, 642.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX0_N 
+                    SCH001, DEV1  (543.56, 825.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections XADC_GPIO_1 
+                    SCH001, DEV1  (665.48, 500.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA18_P 
+                    SCH001, DEV1  (543.56, 777.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358312 
+                    SCH001, DEV1  (152.40, 584.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363449 
+                    SCH001, DEV1  (215.90, 728.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358544 
+                    SCH001, DEV1  (152.40, 609.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363661 
+                    SCH001, DEV1  (215.90, 863.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358908 
+                    SCH001, DEV1  (152.40, 718.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359836 
+                    SCH001, DEV1  (152.40, 911.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363813 
+                    SCH001, DEV1  (215.90, 960.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363613 
+                    SCH001, DEV1  (215.90, 833.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363853 
+                    SCH001, DEV1  (215.90, 985.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358336 
+                    SCH001, DEV1  (152.40, 599.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363505 
+                    SCH001, DEV1  (215.90, 764.54) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363081 
+                    SCH001, DEV1  (215.90, 495.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363261 
+                    SCH001, DEV1  (215.90, 609.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363845 
+                    SCH001, DEV1  (215.90, 980.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363569 
+                    SCH001, DEV1  (215.90, 805.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358284 
+                    SCH001, DEV1  (152.40, 566.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358612 
+                    SCH001, DEV1  (152.40, 652.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363325 
+                    SCH001, DEV1  (215.90, 650.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363309 
+                    SCH001, DEV1  (215.90, 640.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363425 
+                    SCH001, DEV1  (215.90, 713.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363317 
+                    SCH001, DEV1  (215.90, 645.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_TDO_FPGA_TDI 
+                    SCH001, DEV1  (116.84, 312.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_GBTCLK0_M2C_P 
+                    SCH001, DEV1  (43.18, 60.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections USER_CLOCK_P 
+                    SCH001, DEV1  (543.56, 812.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections SMA_MGT_TX_N 
+                    SCH001, DEV1  (543.56, 744.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A15 
+                    SCH001, DEV1  (665.48, 276.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA01_CC_P 
+                    SCH001, DEV1  (543.56, 624.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA07_P 
+                    SCH001, DEV1  (665.48, 957.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA20_N 
+                    SCH001, DEV1  (543.56, 698.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A25 
+                    SCH001, DEV1  (543.56, 949.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D13 
+                    SCH001, DEV1  (543.56, 637.54) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA30_P 
+                    SCH001, DEV1  (543.56, 340.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections SMA_MGT_TX_P 
+                    SCH001, DEV1  (543.56, 746.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX6_P 
+                    SCH001, DEV1  (665.48, 375.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA16_P 
+                    SCH001, DEV1  (665.48, 645.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections USB_RX 
+                    SCH001, DEV1  (543.56, 802.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_CLK1_M2C_P 
+                    SCH001, DEV1  (543.56, 327.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA04_N 
+                    SCH001, DEV1  (543.56, 508.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections SDIO_CLK_LS 
+                    SCH001, DEV1  (665.48, 571.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A1 
+                    SCH001, DEV1  (665.48, 337.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D8 
+                    SCH001, DEV1  (543.56, 502.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA13_N 
+                    SCH001, DEV1  (665.48, 652.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections ROTARY_PUSH 
+                    SCH001, DEV1  (665.48, 502.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX3_P 
+                    SCH001, DEV1  (665.48, 71.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections SFP_LOS_LS 
+                    SCH001, DEV1  (543.56, 1094.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A11 
+                    SCH001, DEV1  (665.48, 350.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA27_P 
+                    SCH001, DEV1  (543.56, 256.54) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXD2 
+                    SCH001, DEV1  (543.56, 967.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA09_N 
+                    SCH001, DEV1  (665.48, 1183.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections XADC_VN_R 
+                    SCH001, DEV1  (703.58, 91.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363489 
+                    SCH001, DEV1  (215.90, 754.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359888 
+                    SCH001, DEV1  (152.40, 944.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363145 
+                    SCH001, DEV1  (215.90, 535.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363625 
+                    SCH001, DEV1  (215.90, 840.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363353 
+                    SCH001, DEV1  (215.90, 668.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358876 
+                    SCH001, DEV1  (152.40, 698.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363121 
+                    SCH001, DEV1  (215.90, 520.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358268 
+                    SCH001, DEV1  (152.40, 556.26) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358244 
+                    SCH001, DEV1  (152.40, 541.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363293 
+                    SCH001, DEV1  (215.90, 629.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359612 
+                    SCH001, DEV1  (152.40, 769.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363517 
+                    SCH001, DEV1  (215.90, 772.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359788 
+                    SCH001, DEV1  (152.40, 881.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363429 
+                    SCH001, DEV1  (215.90, 716.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363313 
+                    SCH001, DEV1  (215.90, 642.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359752 
+                    SCH001, DEV1  (152.40, 858.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363201 
+                    SCH001, DEV1  (215.90, 571.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359684 
+                    SCH001, DEV1  (152.40, 815.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359688 
+                    SCH001, DEV1  (152.40, 817.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363589 
+                    SCH001, DEV1  (215.90, 817.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359708 
+                    SCH001, DEV1  (152.40, 830.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358316 
+                    SCH001, DEV1  (152.40, 586.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359724 
+                    SCH001, DEV1  (152.40, 840.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections IIC_SDA_DDR3 
+                    SCH001, DEV1  (66.04, 589.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_TMS_BUF 
+                    SCH001, DEV1  (259.08, 281.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA05_P 
+                    SCH001, DEV1  (543.56, 474.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXD7 
+                    SCH001, DEV1  (665.48, 127.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXCLK 
+                    SCH001, DEV1  (665.48, 200.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_CLK0_M2C_N 
+                    SCH001, DEV1  (543.56, 276.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA20_N 
+                    SCH001, DEV1  (543.56, 332.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA13_N 
+                    SCH001, DEV1  (543.56, 782.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA19_P 
+                    SCH001, DEV1  (665.48, 1112.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX5_P 
+                    SCH001, DEV1  (665.48, 294.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX5_N 
+                    SCH001, DEV1  (665.48, 292.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D14 
+                    SCH001, DEV1  (543.56, 861.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCD_DB6_LS 
+                    SCH001, DEV1  (665.48, 464.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA08_N 
+                    SCH001, DEV1  (543.56, 398.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections SI5326_OUT_C_N 
+                    SCH001, DEV1  (543.56, 835.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA04_N 
+                    SCH001, DEV1  (665.48, 1099.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA20_P 
+                    SCH001, DEV1  (543.56, 774.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA08_P 
+                    SCH001, DEV1  (543.56, 434.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP0_C2M_P 
+                    SCH001, DEV1  (543.56, 289.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXD5 
+                    SCH001, DEV1  (665.48, 124.46) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX4_N 
+                    SCH001, DEV1  (665.48, 220.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA23_N 
+                    SCH001, DEV1  (543.56, 111.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCD_RW_LS 
+                    SCH001, DEV1  (665.48, 546.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_VADJ_ON_B_LS 
+                    SCH001, DEV1  (543.56, 734.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA26_P 
+                    SCH001, DEV1  (665.48, 1196.34) 
 WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA32_N 
                     SCH001, DEV1  (665.48, 513.08) 
-WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA17_CC_N 
-                    SCH001, DEV1  (665.48, 657.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA11_P 
+                    SCH001, DEV1  (543.56, 581.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA22_N 
+                    SCH001, DEV1  (543.56, 182.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_WAIT 
+                    SCH001, DEV1  (665.48, 205.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363085 
+                    SCH001, DEV1  (215.90, 497.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363061 
+                    SCH001, DEV1  (215.90, 482.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections N361809 
+                    SCH001, DEV1  (152.40, 975.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363413 
+                    SCH001, DEV1  (215.90, 706.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359664 
+                    SCH001, DEV1  (152.40, 802.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363781 
+                    SCH001, DEV1  (215.90, 939.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363757 
+                    SCH001, DEV1  (215.90, 924.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363553 
+                    SCH001, DEV1  (215.90, 795.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363069 
+                    SCH001, DEV1  (215.90, 487.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363397 
+                    SCH001, DEV1  (215.90, 695.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359600 
+                    SCH001, DEV1  (152.40, 762.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363213 
+                    SCH001, DEV1  (215.90, 579.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363833 
+                    SCH001, DEV1  (215.90, 972.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358896 
+                    SCH001, DEV1  (152.40, 711.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358260 
+                    SCH001, DEV1  (152.40, 551.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359696 
+                    SCH001, DEV1  (152.40, 822.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358296 
+                    SCH001, DEV1  (152.40, 574.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363109 
+                    SCH001, DEV1  (215.90, 513.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359780 
+                    SCH001, DEV1  (152.40, 876.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363093 
+                    SCH001, DEV1  (215.90, 502.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363617 
+                    SCH001, DEV1  (215.90, 835.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363825 
+                    SCH001, DEV1  (215.90, 967.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_COL 
+                    SCH001, DEV1  (665.48, 332.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections GPIO_LED_0_LS 
+                    SCH001, DEV1  (665.48, 533.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA00_CC_N 
+                    SCH001, DEV1  (543.56, 317.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA28_N 
+                    SCH001, DEV1  (665.48, 894.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_RX0_N 
+                    SCH001, DEV1  (543.56, 906.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA18_CC_N 
+                    SCH001, DEV1  (665.48, 736.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_OE_B 
+                    SCH001, DEV1  (543.56, 955.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A12 
+                    SCH001, DEV1  (665.48, 271.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA01_CC_N 
+                    SCH001, DEV1  (543.56, 548.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA02_N 
+                    SCH001, DEV1  (543.56, 652.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_PRSNT_M2C_B_LS 
+                    SCH001, DEV1  (543.56, 721.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA33_N 
+                    SCH001, DEV1  (543.56, 645.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections ROTARY_INCB 
+                    SCH001, DEV1  (665.48, 424.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_TXD5 
+                    SCH001, DEV1  (543.56, 807.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections SFP_RX_N 
+                    SCH001, DEV1  (543.56, 520.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections PHY_RXD6 
+                    SCH001, DEV1  (665.48, 121.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA02_P 
+                    SCH001, DEV1  (665.48, 868.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A22 
+                    SCH001, DEV1  (543.56, 1018.54) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA02_N 
+                    SCH001, DEV1  (543.56, 236.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA07_P 
+                    SCH001, DEV1  (543.56, 167.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA00_CC_N 
+                    SCH001, DEV1  (665.48, 802.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP2_C2M_N 
+                    SCH001, DEV1  (543.56, 134.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections REC_CLOCK_C_P 
+                    SCH001, DEV1  (665.48, 353.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D11 
+                    SCH001, DEV1  (543.56, 574.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_LPC_LA21_N 
+                    SCH001, DEV1  (665.48, 965.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363233 
+                    SCH001, DEV1  (215.90, 591.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359572 
+                    SCH001, DEV1  (152.40, 744.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363393 
+                    SCH001, DEV1  (215.90, 693.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363725 
+                    SCH001, DEV1  (215.90, 904.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358288 
+                    SCH001, DEV1  (152.40, 568.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358084 
+                    SCH001, DEV1  (152.40, 538.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363537 
+                    SCH001, DEV1  (215.90, 784.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363105 
+                    SCH001, DEV1  (215.90, 510.54) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363573 
+                    SCH001, DEV1  (215.90, 807.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363361 
+                    SCH001, DEV1  (215.90, 673.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363469 
+                    SCH001, DEV1  (215.90, 741.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363677 
+                    SCH001, DEV1  (215.90, 873.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363305 
+                    SCH001, DEV1  (215.90, 637.54) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363333 
+                    SCH001, DEV1  (215.90, 655.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363565 
+                    SCH001, DEV1  (215.90, 802.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363445 
+                    SCH001, DEV1  (215.90, 726.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363601 
+                    SCH001, DEV1  (215.90, 825.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359648 
+                    SCH001, DEV1  (152.40, 792.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections N358860 
+                    SCH001, DEV1  (152.40, 688.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363737 
+                    SCH001, DEV1  (215.90, 911.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359624 
+                    SCH001, DEV1  (152.40, 777.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363837 
+                    SCH001, DEV1  (215.90, 975.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections N363593 
+                    SCH001, DEV1  (215.90, 820.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections N359744 
+                    SCH001, DEV1  (152.40, 853.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections IIC_SCL_DDR3 
+                    SCH001, DEV1  (66.04, 594.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_TMS_BUF 
+                    SCH001, DEV1  (259.08, 279.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D15 
+                    SCH001, DEV1  (543.56, 1188.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA16_N 
+                    SCH001, DEV1  (543.56, 124.46) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA05_N 
+                    SCH001, DEV1  (543.56, 401.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_TX4_P 
+                    SCH001, DEV1  (665.48, 58.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D6 
+                    SCH001, DEV1  (665.48, 111.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_DE 
+                    SCH001, DEV1  (543.56, 632.46) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA32_N 
+                    SCH001, DEV1  (543.56, 261.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA00_CC_P 
+                    SCH001, DEV1  (543.56, 314.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_HA02_P 
+                    SCH001, DEV1  (543.56, 312.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections PMBUS_DATA_LS 
+                    SCH001, DEV1  (665.48, 396.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA18_CC_N 
+                    SCH001, DEV1  (543.56, 414.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_INT 
+                    SCH001, DEV1  (665.48, 1031.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_D9 
+                    SCH001, DEV1  (543.56, 1120.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA01_CC_N 
+                    SCH001, DEV1  (543.56, 274.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections SYSCLK_N 
+                    SCH001, DEV1  (665.48, 693.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA33_P 
+                    SCH001, DEV1  (543.56, 642.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA03_N 
+                    SCH001, DEV1  (543.56, 657.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections SDIO_DAT2_LS 
+                    SCH001, DEV1  (665.48, 492.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA24_P 
+                    SCH001, DEV1  (543.56, 96.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_DP3_C2M_N 
+                    SCH001, DEV1  (543.56, 63.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_R_D12 
+                    SCH001, DEV1  (543.56, 713.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections FMC_HPC_LA04_P 
+                    SCH001, DEV1  (543.56, 584.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections FLASH_A16 
+                    SCH001, DEV1  (543.56, 1102.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections FPGA_FCS 
+                    SCH001, DEV1  (665.48, 180.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections PCIE_WAKE_B_LS 
+                    SCH001, DEV1  (543.56, 495.30) 
 
 Checking For Unconnected Bus Nets
 
@@ -946,24 +1712,24 @@ Checking Off-Page Connections
 Checking Pin to Port Connections
 
 Reporting Off-Grid Objects
+    R11  -  DEV1 (187.96, 265.43)
     R1  -  DEV1 (170.18, 26.67)
     R7  -  DEV1 (55.88, 227.33)
-    R11  -  DEV1 (187.96, 265.43)
     R4  -  DEV1 (45.72, 19.05)
-    R13  -  DEV1 (53.34, 806.45)
     R6  -  DEV1 (45.72, 39.37)
     R405  -  DEV1 (525.78, 1179.83)
+    R14  -  DEV1 (12.70, 527.05)
+    R16  -  DEV1 (78.74, 582.93)
     R234  -  DEV1 (737.87, 289.56)
     R5  -  DEV1 (124.46, 29.21)
-    R2  -  DEV1 (241.30, 16.51)
     R10  -  DEV1 (129.54, 265.43)
-    R609  -  DEV1 (25.40, 918.21)
+    R2  -  DEV1 (241.30, 16.51)
+    R15  -  DEV1 (12.70, 529.59)
     R3  -  DEV1 (241.30, 26.67)
     R8  -  DEV1 (45.72, 229.87)
     R9  -  DEV1 (55.88, 232.41)
     R12  -  DEV1 (187.96, 278.13)
-    R3  -  DEV1 (25.40, 915.67)
-    R14  -  DEV1 (114.30, 971.55)
+    R13  -  DEV1 (17.78, 417.83)
 
 Reporting Ports
 
@@ -974,3 +1740,152 @@ Reporting Globals
 Checking Misleading Tap connection
 
 INFO(ORCAP-2207): Check Bus width mismatch
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C70/1  Nets: 'VTTVREF' and 'VCC3V3'. 
+                    SCH001, DEV1  (228.60, 345.44) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C62/1  Nets: 'VCC3V3' and 'MGTAVCC'. 
+                    SCH001, DEV1  (228.60, 449.58) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C63/1  Nets: 'VCC12_P' and 'MGTAVCC'. 
+                    SCH001, DEV1  (241.30, 449.58) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C61/1  Nets: 'MGTAVCC' and 'VADJ'. 
+                    SCH001, DEV1  (220.98, 195.58) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C4/1  Nets: 'FMC_HPC_GBTCLK1_M2C_N' and 'VCC1V5_FPGA'. 
+                    SCH001, DEV1  (43.18, 91.44) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C4/2  Nets: 'FMC_HPC_GBTCLK1_M2C_C_N' and 'VCC1V5_FPGA'. 
+                    SCH001, DEV1  (55.88, 91.44) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C5/1  Nets: 'FMC_LPC_GBTCLK0_M2C_P' and 'VCC1V5_FPGA'. 
+                    SCH001, DEV1  (43.18, 101.60) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C5/2  Nets: 'FMC_LPC_GBTCLK0_M2C_C_P' and 'VCC1V5_FPGA'. 
+                    SCH001, DEV1  (55.88, 101.60) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C6/1  Nets: 'FMC_LPC_GBTCLK0_M2C_N' and 'VCC1V5_FPGA'. 
+                    SCH001, DEV1  (43.18, 111.76) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C6/2  Nets: 'FMC_LPC_GBTCLK0_M2C_C_N' and 'VCC1V5_FPGA'. 
+                    SCH001, DEV1  (55.88, 111.76) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C7/1  Nets: 'VTTDDR' and 'VCC2V5'. 
+                    SCH001, DEV1  (195.58, 378.46) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C7/2  Nets: 'VCC1V5_FPGA' and 'GND'. 
+                    SCH001, DEV1  (195.58, 391.16) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C1/1  Nets: 'FMC_HPC_GBTCLK0_M2C_P' and 'VTTDDR'. 
+                    SCH001, DEV1  (43.18, 60.96) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C1/2  Nets: 'FMC_HPC_GBTCLK0_M2C_C_P' and 'GND'. 
+                    SCH001, DEV1  (55.88, 60.96) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C2/1  Nets: 'VTTDDR' and 'FMC_HPC_GBTCLK0_M2C_N'. 
+                    SCH001, DEV1  (182.88, 345.44) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C2/2  Nets: 'GND' and 'FMC_HPC_GBTCLK0_M2C_C_N'. 
+                    SCH001, DEV1  (182.88, 358.14) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C3/1  Nets: 'VTTDDR' and 'FMC_HPC_GBTCLK1_M2C_P'. 
+                    SCH001, DEV1  (195.58, 345.44) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C3/2  Nets: 'GND' and 'FMC_HPC_GBTCLK1_M2C_C_P'. 
+                    SCH001, DEV1  (195.58, 358.14) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C8/1  Nets: 'VTTDDR' and 'VCC3V3'. 
+                    SCH001, DEV1  (182.88, 378.46) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C8/2  Nets: 'VCC1V5_FPGA' and 'GND'. 
+                    SCH001, DEV1  (182.88, 391.16) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C9/1  Nets: 'VTTDDR' and 'VCCINT_FPGA'. 
+                    SCH001, DEV1  (170.18, 378.46) 
+ERROR(ORCAP-1604): Same Pin Number connected to more than one net. /C9/2  Nets: 'VCC1V5_FPGA' and 'GND'. 
+                    SCH001, DEV1  (170.18, 391.16) 
+
+--------------------------------------------------
+Checking Schematic: SCH001
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+ERROR(ORCAP-1621): This reference has already been assigned to a different package type. C6 
+                    SCH001, DEV1  (48.26, 109.22) 
+ERROR(ORCAP-1621): This reference has already been assigned to a different package type. C1 
+                    SCH001, DEV1  (48.26, 58.42) 
+ERROR(ORCAP-1621): This reference has already been assigned to a different package type. C4 
+                    SCH001, DEV1  (48.26, 88.90) 
+ERROR(ORCAP-1621): This reference has already been assigned to a different package type. C62 
+                    SCH001, DEV1  (226.06, 454.66) 
+ERROR(ORCAP-1621): This reference has already been assigned to a different package type. C2 
+                    SCH001, DEV1  (180.34, 350.52) 
+ERROR(ORCAP-1621): This reference has already been assigned to a different package type. C61 
+                    SCH001, DEV1  (218.44, 200.66) 
+ERROR(ORCAP-1621): This reference has already been assigned to a different package type. C63 
+                    SCH001, DEV1  (238.76, 454.66) 
+ERROR(ORCAP-1621): This reference has already been assigned to a different package type. C3 
+                    SCH001, DEV1  (193.04, 350.52) 
+ERROR(ORCAP-1621): This reference has already been assigned to a different package type. C5 
+                    SCH001, DEV1  (48.26, 99.06) 
+ERROR(ORCAP-1621): This reference has already been assigned to a different package type. C9 
+                    SCH001, DEV1  (167.64, 383.54) 
+ERROR(ORCAP-1605): Other parts in this package have different values or PCB footprints. C70 
+                    SCH001, DEV1  (266.70, 279.40) 
+ERROR(ORCAP-1605): Other parts in this package have different values or PCB footprints. C1 
+                    SCH001, DEV1  (167.64, 350.52) 
+ERROR(ORCAP-1605): Other parts in this package have different values or PCB footprints. C61 
+                    SCH001, DEV1  (218.44, 200.66) 
+ERROR(ORCAP-1605): Other parts in this package have different values or PCB footprints. C63 
+                    SCH001, DEV1  (238.76, 454.66) 
+ERROR(ORCAP-1605): Other parts in this package have different values or PCB footprints. C3 
+                    SCH001, DEV1  (193.04, 350.52) 
+ERROR(ORCAP-1605): Other parts in this package have different values or PCB footprints. C2 
+                    SCH001, DEV1  (48.26, 68.58) 
+ERROR(ORCAP-1605): Other parts in this package have different values or PCB footprints. C5 
+                    SCH001, DEV1  (48.26, 99.06) 
+ERROR(ORCAP-1605): Other parts in this package have different values or PCB footprints. C6 
+                    SCH001, DEV1  (193.04, 416.56) 
+ERROR(ORCAP-1605): Other parts in this package have different values or PCB footprints. C4 
+                    SCH001, DEV1  (167.64, 416.56) 
+ERROR(ORCAP-1605): Other parts in this package have different values or PCB footprints. C9 
+                    SCH001, DEV1  (106.68, 71.12) 
+ERROR(ORCAP-1605): Other parts in this package have different values or PCB footprints. C62 
+                    SCH001, DEV1  (233.68, 200.66) 
+
+Report for Duplicate References
+ERROR(ORCAP-1631): Duplicate reference C70 
+                    SCH001, DEV1  (266.70, 279.40) 
+ERROR(ORCAP-1631): Duplicate reference C8 
+                    SCH001, DEV1  (17.78, 274.32) 
+ERROR(ORCAP-1631): Duplicate reference C1 
+                    SCH001, DEV1  (167.64, 350.52) 
+ERROR(ORCAP-1631): Duplicate reference C61 
+                    SCH001, DEV1  (218.44, 200.66) 
+ERROR(ORCAP-1631): Duplicate reference C7 
+                    SCH001, DEV1  (193.04, 383.54) 
+ERROR(ORCAP-1631): Duplicate reference C63 
+                    SCH001, DEV1  (238.76, 454.66) 
+ERROR(ORCAP-1631): Duplicate reference C3 
+                    SCH001, DEV1  (193.04, 350.52) 
+ERROR(ORCAP-1631): Duplicate reference C2 
+                    SCH001, DEV1  (48.26, 68.58) 
+ERROR(ORCAP-1631): Duplicate reference C5 
+                    SCH001, DEV1  (48.26, 99.06) 
+ERROR(ORCAP-1631): Duplicate reference C6 
+                    SCH001, DEV1  (193.04, 416.56) 
+ERROR(ORCAP-1631): Duplicate reference C4 
+                    SCH001, DEV1  (167.64, 416.56) 
+ERROR(ORCAP-1631): Duplicate reference C9 
+                    SCH001, DEV1  (106.68, 71.12) 
+ERROR(ORCAP-1631): Duplicate reference C62 
+                    SCH001, DEV1  (233.68, 200.66) 
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Entire Design: ULTIMA 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------
