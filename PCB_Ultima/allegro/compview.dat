@@ -1,5 +1,11 @@
 A!REFDES!COMP_VOLTAGE!COMP_ROOM!COMP_GROUP!COMP_SIGNAL_MODEL!COMP_NO_XNET_CONNECTION!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_REUSE_ID!COMP_REUSE_NAME!COMP_REUSE_INSTANCE!
-J!D:/Projects/HardwareDesign/PCB_Ultima/allegro/ultima_new.brd!Thu Aug 22 19:50:15 2024!0.0000!0.0000!53.3400!43.1800!0.0001!centimeters!ULTIMA!10.400000 mil!2!OUT OF DATE!
+J!D:/Projects/HardwareDesign/PCB_Ultima/allegro/ultima_new.brd!Fri Aug 23 00:29:56 2024!0.0000!0.0000!53.3400!43.1800!0.0001!centimeters!ULTIMA!10.400000 mil!2!OUT OF DATE!
+S!C140!!!!!!!!!!!
+S!IC6!!!!!!!!!!!
+S!IC7!!!!!!!!!!!
+S!IC8!!!!!!!!!!!
+S!IC9!!!!!!!!!!!
+S!R38!!!!!!!!!!!
 S!C1!!!!!!!!!!!
 S!C10!!!!!!!!!!!
 S!C11!!!!!!!!!!!

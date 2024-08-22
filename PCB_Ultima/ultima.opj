@@ -1,6 +1,6 @@
 (ExpressProject "ultima"
   (ProjectVersion "19981106")
-  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[08/22/24]")
+  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[08/23/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -262,27 +262,17 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "D:\Projects\HardwareDesign\PCB_Ultima\ultima.dsn")
+         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn")
       (Path "Design Resources"
-         "D:\Projects\HardwareDesign\PCB_Ultima\ultima.dsn" "SCH001")
+         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn" "SCH001")
       (Select "Design Resources"
-         "D:\Projects\HardwareDesign\PCB_Ultima\ultima.dsn" "SCH001" "DEV1"))
+         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn" "SCH001" "DEV1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 751"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1343 24 769")
-        (Scroll "239 0")
-        (Zoom "56")
-        (Occurrence "/"))
-      (Path "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ULTIMA.DSN")
-      (Schematic "SCH001")
-      (Page "DEV1")))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 535"))
+      (Tab 0)))
   (MPSSessionName "Prometheus")
   (LastUsedLibraryBrowseDirectory
      "D:\Projects\CadenceAllegro\Old-library\Integral Circuit. Clock generator\(QFN-36) SI5324C-C-GM")

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ultima_new.brd                                )
 (    Software Version : 23.1S005                                      )
-(    Date/Time        : Thu Aug 22 18:25:57 2024                      )
+(    Date/Time        : Fri Aug 23 00:30:01 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -17,68 +17,88 @@ Ripup retain bondwire:       No
 Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
-Schematic directory:         'D:\Projects\HardwareDesign\PCB_Ultima\allegro'
+Schematic directory:         '.'
 Design Directory:            'D:/Projects/HardwareDesign/PCB_Ultima/allegro'
 Old design name:             'D:/Projects/HardwareDesign/PCB_Ultima/allegro/ultima_new.brd'
 New design name:             'D:/Projects/HardwareDesign/PCB_Ultima/allegro/ultima_new.brd'
 
-CmdLine: netrev.exe -y 1 -v -n -i D:\Projects\HardwareDesign\PCB_Ultima\allegro D:/Projects/HardwareDesign/PCB_Ultima/allegro/ultima_new.brd D:/Projects/HardwareDesign/PCB_Ultima/allegro/ultima_new.brd
+CmdLine: netrev -i . -y 1 -q netrev_constraint_report.xml D:/Projects/HardwareDesign/PCB_Ultima/allegro/#Taaaaei05756.tmp
 
 ------ Preparing to read pst files ------
 
-Starting to read D:/Projects/HardwareDesign/PCB_Ultima/allegro/pstchip.dat 
-   Finished reading D:/Projects/HardwareDesign/PCB_Ultima/allegro/pstchip.dat (00:00:00.54)
-Starting to read D:/Projects/HardwareDesign/PCB_Ultima/allegro/pstxprt.dat 
-   Finished reading D:/Projects/HardwareDesign/PCB_Ultima/allegro/pstxprt.dat (00:00:00.00)
-Starting to read D:/Projects/HardwareDesign/PCB_Ultima/allegro/pstxnet.dat 
-   Finished reading D:/Projects/HardwareDesign/PCB_Ultima/allegro/pstxnet.dat (00:00:00.00)
+Starting to read ./pstchip.dat 
+   Finished reading ./pstchip.dat (00:00:00.44)
+Starting to read ./pstxprt.dat 
+   Finished reading ./pstxprt.dat (00:00:00.00)
+Starting to read ./pstxnet.dat 
+   Finished reading ./pstxnet.dat (00:00:00.02)
 
 ------ Oversights/Warnings/Errors ------
 
 
 #1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
-WARNING(SPMHNI-337): Unable to load symbol 'QFN50P600X600X95-37N-D' used by RefDes IC5 for device 'SI5324C-C-GM_QFN50P600X600X95-37N-D_SI5324C-C-GM': WARNING(SPMHUT-127): Could not find padstack D105_30.
-    due to ERROR(SPMHDB-273): Unable to load shape symbol D105_30 (Check PSMPATH setting for thi
+WARNING(SPMHNI-337): Unable to load symbol 'SON65P200X200X65-7N-D' used by RefDes IC13 for device 'ADP123ACPZ-R7_SON65P200X200X65-7N-D_ADP123ACPZ-R7': WARNING(SPMHUT-127): Could not find padstack D60_35.
+    due to ERROR(SPMHDB-273): Unable to load shape symbol D60_35 (Check PSMPATH setting for this
+
+     Could not find padstack D60_35.
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol 'SON50P300X300X100-11N-D' used by RefDes IC15 for device 'TPS51200DRCT_SON50P300X300X100-11N-D_TPS51200DRCT': WARNING(SPMHUT-127): Could not find padstack D80_30.
+    due to ERROR(SPMHDB-273): Unable to load shape symbol D80_30 (Check PSMPATH setting for th
+
+     Could not find padstack D80_30.
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol 'QFN50P600X600X95-37N-D' used by RefDes IC12 for device 'SI5324C-C-GM_QFN50P600X600X95-37N-D_SI5324C-C-GM': WARNING(SPMHUT-127): Could not find padstack D105_30.
+    due to ERROR(SPMHDB-273): Unable to load shape symbol D105_30 (Check PSMPATH setting for th
 
      Could not find padstack D105_30.
 
 
 
 ===========================================================
-Start Constraint Override Import
-	Constraint File:    D:/Projects/HardwareDesign/PCB_Ultima/allegro/pstcmdb.dat
-	Start time: Thu Aug 22 18:25:58 2024
+Start Constraint Diff3 Import
+	Constraint File:    ./pstcmdb.dat
+	Allegro Baseline:   C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaaj07712.tmp
+	Start time: Fri Aug 23 00:30:01 2024
 ===========================================================
+
+
+The constraint difference report file can be viewed using the following command:
+cdnFlowOOSMsg.exe -file file:///D:/Projects/HardwareDesign/PCB_Ultima/allegro/netrev_constraint_report.xml
+
 ===========================================================
-Finished Constraint Update	Time: Thu Aug 22 18:25:58 2024
+Finished Constraint Update	Time: Fri Aug 23 00:30:01 2024
 ===========================================================
 
 ------ Library Paths ------
 MODULEPATH =  . 
-           C:/Cadence/SPB_23.1/share/orApps/OrCaptureApp/../../../share/local/pcb/modules 
+           c:/cadence/spb_23.1/share/local/pcb/modules 
 
 PSMPATH =  . 
            symbols 
            .. 
            ../symbols 
-           C:/Cadence/SPB_23.1/share/orApps/OrCaptureApp/../../../share/local/pcb/symbols 
-           C:/Cadence/SPB_23.1/share/orApps/OrCaptureApp/../../../share/pcb/pcb_lib/symbols 
-           C:/Cadence/SPB_23.1/share/orApps/OrCaptureApp/../../../share/pcb/allegrolib/symbols 
+           c:/cadence/spb_23.1/share/local/pcb/symbols 
+           c:/cadence/spb_23.1/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_23.1/share/pcb/allegrolib/symbols 
 
 PADPATH =  . 
            symbols 
            .. 
            ../symbols 
-           C:/Cadence/SPB_23.1/share/orApps/OrCaptureApp/../../../share/local/pcb/padstacks 
-           C:/Cadence/SPB_23.1/share/orApps/OrCaptureApp/../../../share/pcb/pcb_lib/symbols 
-           C:/Cadence/SPB_23.1/share/orApps/OrCaptureApp/../../../share/pcb/allegrolib/symbols 
+           c:/cadence/spb_23.1/share/local/pcb/padstacks 
+           c:/cadence/spb_23.1/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_23.1/share/pcb/allegrolib/symbols 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Aug 22 18:25:57 2024
+netrev run on Aug 23 0:30:00 2024
    DESIGN NAME : 'ULTIMA'
    PACKAGING ON Jun 12 2024 12:32:55
 
@@ -101,8 +121,8 @@ netrev run on Aug 22 18:25:57 2024
 
  No error detected
  No oversight detected
-  1 warnings detected
+  3 warnings detected
 
-cpu time      0:04:04
+cpu time      0:02:26
 elapsed time  0:00:01
 

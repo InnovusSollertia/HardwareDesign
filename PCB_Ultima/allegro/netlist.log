@@ -1,4 +1,12 @@
-{ Using PSTWRITER 23.1.0 d001Aug-22-2024 at 19:32:31 }
+{ Using PSTWRITER 23.1.0 d001Aug-23-2024 at 00:31:37 }
 
-#1 ERROR(ORCAP-36037): Duplicate Pin Number "1" found on "VIN" and "GND_(EXPOSED_PAD)" on Package LMZ12002TZE-ADJ_NOPB , IC7: SCH001, DEV1 (419.10, 213.36). Rename one of these.
-#2 ERROR(ORCAP-36018): Netlisting cannot complete because of the errors listed above in the session log. Correct the errors and netlist design.
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\pstchip.dat
+
+Loading... D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\pstchip.dat
+
+Loading... D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\pstxprt.dat
+
+Loading... D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\pstxnet.dat
+packaging the design view...
