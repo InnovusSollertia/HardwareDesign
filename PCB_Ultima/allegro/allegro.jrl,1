@@ -1,0 +1,412 @@
+\t (00:00:05) allegro 23.1 S005 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Fri Aug 23 00:17:22 2024
+\t (00:00:05)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=5756 CPUs=12
+\t (00:00:05) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:06) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ultima_new"
+\d (00:00:07) Design opened: D:/Projects/HardwareDesign/PCB_Ultima/allegro/ultima_new.brd
+\i (00:00:07) trapsize 5543
+\i (00:00:07) trapsize 5939
+\i (00:00:07) trapsize 6063
+\i (00:00:08) trapsize 6246
+\i (00:00:08) trapsize 6246
+\t (00:00:08) Loading NV GPU Plugin
+\i (00:00:08) trapsize 2228
+\i (00:00:10) generaledit 
+\i (00:00:47) design sync eco 
+\t (00:00:47) > Generating Physical Netlist
+\t (00:00:47) Starting genfeedformat...
+\t (00:00:50) > Generating Physical Netlist successful
+\t (00:00:50) > Generating Differences
+\t (00:00:51) > Generating Differences successful
+\t (00:00:51) > Displaying differences output
+\t (00:00:51) > Displaying differences output successful
+\t (00:00:51) > Generating Physical Netlist
+\t (00:00:51) Starting genfeedformat...
+\t (00:00:53) > Generating Physical Netlist successful
+\t (00:00:53) > Generating Differences
+\t (00:00:53) > Generating Differences successful
+\t (00:00:53) > Displaying differences output
+\i (00:00:53) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged
+\i (00:00:53) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
+\i (00:00:53) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged
+\i (00:00:53) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
+\t (00:00:53) > Displaying differences output successful
+\i (00:00:56) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:00:58) QtSignal DesignSyncDialog sch_comboBox EditingFinished "."
+\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:02) QtSignal DesignSyncDialog sync_button clicked
+\t (00:01:02) Starting Cadence Logic Import...
+\w (00:01:05) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:01:05) Opening existing design...
+\i (00:01:06) trapsize 2228
+\i (00:01:06) generaledit 
+\i (00:01:09) setwindow text
+\i (00:01:09) close
+\i (00:06:16) setwindow pcb
+\i (00:06:16) quickplace 
+\i (00:06:22) setwindow form.quickplc
+\i (00:06:22) FORM quickplc place_by_refdes YES 
+\i (00:06:25) FORM quickplc place_all YES 
+\i (00:06:30) FORM quickplc bottom_edge YES 
+\i (00:06:33) FORM quickplc bottom_edge NO 
+\i (00:06:39) FORM quickplc place  
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:06:39) ERROR(SPMHDB-273): Unable to load shape symbol D105_30 (Check PSMPATH setting for this symbol).
+\w (00:06:39) WARNING(SPMHUT-127): Could not find padstack D105_30.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:06:39) ERROR(SPMHDB-273): Unable to load shape symbol D80_30 (Check PSMPATH setting for this symbol).
+\w (00:06:39) WARNING(SPMHUT-127): Could not find padstack D80_30.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:06:39) ERROR(SPMHDB-273): Unable to load shape symbol D60_35 (Check PSMPATH setting for this symbol).
+\w (00:06:39) WARNING(SPMHUT-127): Could not find padstack D60_35.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:06:40) Component(s) could not be placed.  See logfile for errors.
+\i (00:06:48) FORM quickplc done  
+\i (00:06:48) setwindow pcb
+\i (00:06:48) generaledit 
+\i (00:06:49) pick grid 13.8140 33.1537
+\t (00:06:49) last pick:  13.8000 33.2000
+\i (00:06:57) place interactive 
+\e (00:06:57) ERROR(SPMHGE-457): Error see the logfile.
+\i (00:06:57) generaledit 
+\i (00:07:01) place manual 
+\i (00:07:02) setwindow form.plc_manual
+\i (00:07:02) FORM plc_manual tree  'Components by refdes' 
+\i (00:07:10) FORM plc_manual categories 'Mechanical symbols' 
+\i (00:07:13) FORM plc_manual categories 'Components by refdes' 
+\i (00:07:14) FORM plc_manual advanced_settings  
+\i (00:07:16) FORM plc_manual library YES 
+\i (00:07:22) FORM plc_manual tree  'Components by refdes' 
+\i (00:07:22) FORM plc_manual placement_list  
+\i (00:07:28) FORM plc_manual tree  C? 'Components by refdes' 
+\i (00:07:31) FORM plc_manual cancel  
+\i (00:07:31) setwindow pcb
+\i (00:07:31) generaledit 
+\i (00:08:18) design sync eco 
+\t (00:08:18) > Generating Physical Netlist
+\t (00:08:18) Starting genfeedformat...
+\t (00:08:20) > Generating Physical Netlist successful
+\t (00:08:20) > Generating Differences
+\t (00:08:20) > Generating Differences successful
+\t (00:08:20) > Displaying differences output
+\t (00:08:20) > Displaying differences output successful
+\t (00:08:21) > Generating Physical Netlist
+\t (00:08:21) Starting genfeedformat...
+\t (00:08:22) > Generating Physical Netlist successful
+\t (00:08:22) > Generating Differences
+\t (00:08:23) > Generating Differences successful
+\t (00:08:23) > Displaying differences output
+\i (00:08:23) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged
+\i (00:08:23) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
+\i (00:08:23) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged
+\i (00:08:23) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
+\t (00:08:23) > Displaying differences output successful
+\i (00:08:27) QtSignal DesignSyncDialog sync_button clicked
+\t (00:08:27) Starting Cadence Logic Import...
+\w (00:08:29) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:08:29) Opening existing design...
+\i (00:08:33) trapsize 2228
+\i (00:08:33) generaledit 
+\i (00:08:45) setwindow text
+\i (00:08:45) close
+\i (00:08:49) setwindow pcb
+\i (00:08:49) color192 
+\i (00:08:50) generaledit 
+\i (00:09:05) xsection 
+\i (00:09:13) QtSignal SPBMainWindow CCMQtXSectionDlg closed
+\i (00:09:14) QtSignal m_vSplitter m_stackupsTab currentChanged
+\i (00:09:14) QtSignal m_vSplitter m_stackupsTab currentChanged
+\i (00:09:14) QtSignal CCMQtXSectionDlg AddLayerDlg closed
+\i (00:09:14) generaledit 
+\i (00:09:19) place manual 
+\i (00:09:19) setwindow form.plc_manual
+\i (00:09:19) FORM plc_manual tree  'Components by refdes' 
+\i (00:09:23) FORM plc_manual tree  C140 'Components by refdes' 
+\i (00:09:27) FORM plc_manual tree  IC2 'Components by refdes' 
+\i (00:09:28) FORM plc_manual tree 'MULTISEL YES' IC2 'Components by refdes' 
+\w (00:09:28) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:09:28) Placing IC2 / XC7K325T-2FFG900I_BGA900C100P30X30_3100X3100X335_XC7K325T-2FFG900I / BGA900C100P30X30_3100X3100X335 on Top.
+\i (00:09:35) FORM plc_manual cancel  
+\i (00:09:35) setwindow pcb
+\i (00:09:35) generaledit 
+\i (00:09:37) zoom out 1 
+\i (00:09:37) setwindow pcb
+\i (00:09:37) zoom out 19.8744 28.7867
+   (00:09:37) Loading consmgr.cxt 
+   (00:09:37) Loading acns_formula.cxt 
+\i (00:09:37) trapsize 2431
+\i (00:09:37) zoom out 1 
+\i (00:09:37) setwindow pcb
+\i (00:09:37) zoom out 21.6873 31.4125
+\i (00:09:37) trapsize 2431
+\i (00:09:37) zoom out 1 
+\i (00:09:37) setwindow pcb
+\i (00:09:37) zoom out 21.6873 31.4125
+\i (00:09:37) trapsize 2431
+\i (00:09:37) zoom out 1 
+\i (00:09:37) setwindow pcb
+\i (00:09:37) zoom out 21.6873 31.4125
+\i (00:09:37) trapsize 2431
+\i (00:09:38) zoom out 1 
+\i (00:09:38) setwindow pcb
+\i (00:09:38) zoom out 21.6873 31.4125
+\i (00:09:38) trapsize 2431
+\i (00:09:51) pop dyn_option_select 'Application Mode@:@Placement Edit' 
+\i (00:09:51) placementedit 
+\i (00:09:51) setwindow form.mini
+\i (00:09:51) FORM mini tree  'Components by refdes' 
+\i (00:10:02) setwindow pcb
+\i (00:10:02) drag_start grid 0.5835 41.3808
+\i (00:10:04) drag_stop 54.0722 43.0827
+\i (00:10:09) pick grid 53.2456 40.4569
+\t (00:10:09) last pick:  53.2000 40.5000
+\i (00:10:10) drag_start grid 52.8079 39.2899
+\i (00:10:13) drag_stop 0.1459 42.9855
+\i (00:10:15) prepopup 2.8689 42.1102
+\i (00:10:17) pop dyn_option_select '@:@Unplace component' 
+\i (00:10:17) unplace component 
+\i (00:10:17) placementedit 
+\i (00:10:23) setwindow form.mini
+\i (00:10:23) FORM mini tree  D1 'Components by refdes' 
+\i (00:10:24) FORM mini tree  DS1 'Components by refdes' 
+\i (00:10:24) FORM mini tree 'MULTISEL YES' DS1 'Components by refdes' 
+\i (00:10:24) setwindow pcb
+\i (00:10:24) place manual 
+\w (00:10:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:10:24) Placing DS1 / SM0603GCL_LEDC1608X60N_SM0603GCL / LEDC1608X60N on Top.
+\i (00:10:30) setwindow form.mini
+\i (00:10:30) FORM mini tree 'MULTISEL NO' DS1 'Components by refdes' 
+\i (00:10:30) setwindow pcb
+\i (00:10:30) placementedit 
+\i (00:10:33) setwindow form.mini
+\i (00:10:33) FORM mini tree  IC2 'Components by refdes' 
+\i (00:10:33) FORM mini tree 'MULTISEL YES' IC2 'Components by refdes' 
+\i (00:10:33) setwindow pcb
+\i (00:10:33) place manual 
+\w (00:10:33) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:10:33) Placing IC2 / XC7K325T-2FFG900I_BGA900C100P30X30_3100X3100X335_XC7K325T-2FFG900I / BGA900C100P30X30_3100X3100X335 on Top.
+\i (00:10:41) pick grid 19.5477 27.0847
+\t (00:10:41) last pick:  19.5000 27.1000
+\i (00:10:41) placementedit 
+\i (00:10:44) zoom in 1 
+\i (00:10:44) setwindow pcb
+\i (00:10:44) zoom in 19.9367 27.5224
+\i (00:10:44) trapsize 1216
+\i (00:10:44) zoom in 1 
+\i (00:10:44) setwindow pcb
+\i (00:10:44) zoom in 19.9367 27.5224
+\i (00:10:44) trapsize 608
+\i (00:10:44) zoom in 1 
+\i (00:10:44) setwindow pcb
+\i (00:10:44) zoom in 19.9368 27.5224
+\i (00:10:44) trapsize 304
+\i (00:10:46) zoom in 1 
+\i (00:10:46) setwindow pcb
+\i (00:10:46) zoom in 19.4505 27.2671
+\i (00:10:46) trapsize 152
+\i (00:10:46) zoom in 1 
+\i (00:10:46) setwindow pcb
+\i (00:10:46) zoom in 19.4504 27.2672
+\i (00:10:46) trapsize 76
+\i (00:10:49) zoom out 1 
+\i (00:10:49) setwindow pcb
+\i (00:10:49) zoom out 19.5979 27.1532
+\i (00:10:49) trapsize 152
+\i (00:10:49) zoom out 1 
+\i (00:10:49) setwindow pcb
+\i (00:10:49) zoom out 19.5979 27.1532
+\i (00:10:49) trapsize 304
+\i (00:10:49) zoom out 1 
+\i (00:10:49) setwindow pcb
+\i (00:10:49) zoom out 19.5978 27.1532
+\i (00:10:49) trapsize 608
+\i (00:10:51) zoom out 1 
+\i (00:10:51) setwindow pcb
+\i (00:10:51) zoom out 20.1449 27.8949
+\i (00:10:51) trapsize 1216
+\i (00:10:51) zoom out 1 
+\i (00:10:51) setwindow pcb
+\i (00:10:51) zoom out 20.1449 27.8949
+\i (00:10:51) trapsize 2431
+\i (00:12:24) drag_start grid 14.9768 31.7528
+\i (00:12:24) drag_stop 21.2496 22.3680
+\i (00:12:26) pick grid 20.7147 27.0847
+\t (00:12:26) last pick:  20.7000 27.1000
+\i (00:12:26) move 
+\t (00:12:26) last pick:  19.5000 27.1000
+\t (00:12:26) Moving IC2 / XC7K325T-2FFG900I_BGA900C100P30X30_3100X3100X335_XC7K325T-2FFG900I / BGA900C100P30X30_3100X3100X335.
+\t (00:12:26) Pick new location for the element(s).
+\i (00:12:28) pick grid 19.7422 27.4737
+\t (00:12:28) last pick:  19.7000 27.5000
+\i (00:12:28) placementedit 
+\i (00:12:29) prepopup 20.1798 28.3490
+\i (00:12:33) pop dyn_option_select '@:@Unplace component' 
+\i (00:12:33) unplace component 
+\i (00:12:33) placementedit 
+\i (00:12:37) design sync eco 
+\t (00:12:37) > Generating Physical Netlist
+\t (00:12:37) Starting genfeedformat...
+\t (00:12:38) > Generating Physical Netlist successful
+\t (00:12:38) > Generating Differences
+\t (00:12:38) > Generating Differences successful
+\t (00:12:38) > Displaying differences output
+\t (00:12:39) > Displaying differences output successful
+\t (00:12:39) > Generating Physical Netlist
+\t (00:12:39) Starting genfeedformat...
+\t (00:12:39) > Generating Physical Netlist successful
+\t (00:12:39) > Generating Differences
+\t (00:12:40) > Generating Differences successful
+\t (00:12:40) > Displaying differences output
+\i (00:12:40) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged
+\i (00:12:40) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
+\i (00:12:40) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged
+\i (00:12:40) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
+\t (00:12:40) > Displaying differences output successful
+\i (00:12:44) QtSignal DesignSyncDialog sync_button clicked
+\t (00:12:44) Starting Cadence Logic Import...
+\w (00:12:45) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:12:45) Opening existing design...
+\i (00:12:46) setwindow form.mini
+\i (00:12:46) FORM mini tree  'Components by refdes' 
+\i (00:12:46) setwindow pcb
+\i (00:12:46) trapsize 2431
+\i (00:12:46) placementedit 
+\i (00:12:48) setwindow text
+\i (00:12:48) close
+\i (00:12:58) setwindow form.mini
+\i (00:12:58) FORM mini tree  IC2 'Components by refdes' 
+\i (00:13:00) FORM mini tree 'MULTISEL YES' IC2 'Components by refdes' 
+\i (00:13:00) setwindow pcb
+\i (00:13:00) place manual 
+\w (00:13:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:13:00) Placing IC2 / XC7K325T-2FFG900I_BGA900C100P30X30_3100X3100X335_XC7K325T-2FFG900I / BGA900C100P30X30_3100X3100X335 on Top.
+\i (00:13:02) pick grid 20.0826 25.0424
+\t (00:13:02) last pick:  20.1000 25.0000
+\i (00:13:03) placementedit 
+\i (00:13:05) setwindow form.mini
+\i (00:13:05) FORM mini tree  IC10 'Components by refdes' 
+\i (00:13:07) FORM mini tree 'MULTISEL YES' IC10 'Components by refdes' 
+\i (00:13:07) setwindow pcb
+\i (00:13:07) place manual 
+\t (00:13:07) Placing IC10 / XC7K325T-2FFG900I_BGA900C100P30X30_3100X3100X335_XC7K325T-2FFG900I / BGA900C100P30X30_3100X3100X335 on Top.
+\i (00:13:12) pick grid 30.2454 25.0911
+\t (00:13:12) last pick:  30.2000 25.1000
+\i (00:13:12) placementedit 
+\i (00:13:14) zoom in 1 
+\i (00:13:14) setwindow pcb
+\i (00:13:14) zoom in 31.0721 26.2581
+\i (00:13:14) trapsize 1216
+\i (00:13:15) zoom in 1 
+\i (00:13:15) setwindow pcb
+\i (00:13:15) zoom in 31.0721 26.2581
+\i (00:13:15) trapsize 608
+\i (00:13:15) zoom in 1 
+\i (00:13:15) setwindow pcb
+\i (00:13:15) zoom in 31.0721 26.2581
+\i (00:13:15) trapsize 304
+\i (00:13:18) zoom out 1 
+\i (00:13:18) setwindow pcb
+\i (00:13:18) zoom out 28.6894 25.5713
+\i (00:13:18) trapsize 608
+\i (00:13:22) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Utilities  (0/8)"
+\i (00:13:22) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Utilities  (0/8)"
+\i (00:13:24) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Utilities  (0/8)" +
+\i (00:13:24) QtSignal "Rats On"
+\i (00:13:24) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Utilities  (0/8)" "Rats On"
+\i (00:13:24) rats all 
+\i (00:13:25) placementedit 
+\i (00:13:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Utilities  (0/8)" +
+\i (00:13:26) QtSignal "Rat Off"
+\i (00:13:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Utilities  (0/8)" "Rat Off"
+\i (00:13:26) unrats all 
+\i (00:13:26) placementedit 
+\i (00:13:28) prepopup 29.1150 28.3187
+\i (00:13:29) drag_start grid 27.7291 28.2823
+\i (00:13:30) drag_stop 26.3068 27.6866
+\i (00:13:30) roam x -96 
+\i (00:13:30) roam x -96
+\i (00:13:30) roam x -96 
+\i (00:13:30) roam x -96
+\i (00:13:30) roam x -96 
+\i (00:13:30) roam x -96
+\i (00:13:31) roam x -96 
+\i (00:13:31) roam x -96
+\i (00:13:31) roam x -96 
+\i (00:13:31) roam x -96
+\i (00:13:31) roam x -96 
+\i (00:13:31) roam x -96
+\i (00:13:33) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Utilities  (0/8)" +
+\i (00:13:33) QtSignal "Rats On"
+\i (00:13:33) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Utilities  (0/8)" "Rats On"
+\i (00:13:33) rats all 
+\i (00:13:33) placementedit 
+\i (00:13:37) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Utilities  (0/8)" +
+\i (00:13:37) QtSignal "Rat Off"
+\i (00:13:37) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Utilities  (0/8)" "Rat Off"
+\i (00:13:37) unrats all 
+\i (00:13:37) placementedit 
+\i (00:13:40) exit 
+\e (00:13:40) Do you want to save the changes you made to D:/Projects/HardwareDesign/PCB_Ultima/allegro/ultima_new.brd?
+\i (00:13:42) fillin yes 
+\t (00:13:43)     Journal end - Fri Aug 23 00:30:59 2024
