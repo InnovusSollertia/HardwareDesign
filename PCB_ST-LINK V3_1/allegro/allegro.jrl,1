@@ -1,59 +1,59 @@
-\t (00:00:01) allegro 23.1 S005 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Tue Jul 30 14:49:42 2024
-\t (00:00:01)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=16888 CPUs=12
-\t (00:00:01) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
-\t (00:00:01) 
-   (00:00:02) Loading axlcore.cxt 
-\t (00:00:02) Opening existing design...
-\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ST-LINKV3_open"
-\d (00:00:03) Design opened: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd
-\i (00:00:03) trapsize 1661
-\i (00:00:03) trapsize 1780
-\i (00:00:03) trapsize 1817
-\i (00:00:03) trapsize 2308
-\i (00:00:03) trapsize 2308
-\t (00:00:03) > Sending response DoneOpenBoard
-\t (00:00:03) Loading NV GPU Plugin
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
-\i (00:00:03) QtSignal Modes
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
-\i (00:00:03) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
-\i (00:00:03) QtSignal 0 "|" "Board Outline  (1/6)"
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
-\i (00:00:03) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
-\i (00:00:03) QtSignal "|" "Shapes  (1/4)"
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
-\i (00:00:03) QtSignal 0 "|" Polygon
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
-\i (00:00:03) QtSignal 0 "|" "IPC-2581"
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
-\i (00:00:03) QtSignal 0 "|" Testprep
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
-\i (00:00:03) QtSignal Manual
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
-\i (00:00:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
-\i (00:00:03) QtSignal "Display Status"
-\i (00:00:03) trapsize 760
-\i (00:00:04) generaledit 
-\i (00:00:07) open 
-\i (00:00:36) fillin "menu_cancel"
-\i (00:00:36) generaledit 
-\i (00:00:40) opencd C:/Cadence/SPB_23.1/share/local/pcb/symbols/2193200001.dra 
-\t (00:00:40) Opening existing design...
-\i (00:00:41) trapsize 486
-\i (00:00:41) trapsize 501
-\i (00:00:41) trapsize 486
-\i (00:00:41) trapsize 532
-\t (00:00:41)     Journal end - Tue Jul 30 14:50:22 2024
+\t (00:00:08) allegro 23.1 S005 Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Thu Aug 22 16:12:50 2024
+\t (00:00:08)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=9488 CPUs=12
+\t (00:00:08) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
+\t (00:00:08) 
+   (00:00:08) Loading axlcore.cxt 
+\t (00:00:09) Opening existing design...
+\w (00:00:09) WARNING(SPMHDB-213): DRC set to "out of date". The current product selection supports a different DRC capability than what is saved in the design.
+\i (00:00:09) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ST-LINKV3_open"
+\d (00:00:09) Design opened: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd
+\i (00:00:09) trapsize 14680
+\i (00:00:09) trapsize 16671
+\i (00:00:09) trapsize 17344
+\i (00:00:09) trapsize 32834
+\i (00:00:09) trapsize 32834
+\t (00:00:09) > Sending response DoneOpenBoard
+\t (00:00:10) Loading NV GPU Plugin
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
+\i (00:00:10) QtSignal Modes
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:00:10) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:00:10) QtSignal 0 "|" "Board Outline  (1/6)"
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
+\i (00:00:10) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
+\i (00:00:10) QtSignal "|" "Shapes  (1/4)"
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
+\i (00:00:10) QtSignal 0 "|" Polygon
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
+\i (00:00:10) QtSignal 0 "|" "IPC-2581"
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
+\i (00:00:10) QtSignal 0 "|" Testprep
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
+\i (00:00:10) QtSignal Manual
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
+\i (00:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
+\i (00:00:10) QtSignal "Display Status"
+\i (00:00:10) trapsize 3796
+\i (00:00:11) generaledit 
+\i (00:00:16) trapsize 32834
+\i (00:00:17) trapsize 11849
+\i (00:00:18) trapsize 3796
+\i (00:00:39) open 
+\i (00:00:47) fillin "D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd"
+\i (00:00:47) cd "D:/Projects/HardwareDesign/PCB_Ultima/allegro"
+\t (00:00:47) Opening existing design...
+\i (00:00:47) trapsize 9572
+\t (00:00:47)     Journal end - Thu Aug 22 16:13:30 2024

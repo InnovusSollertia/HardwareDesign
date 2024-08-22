@@ -1,6 +1,6 @@
 (ExpressProject "ultima"
   (ProjectVersion "19981106")
-  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[08/21/24]")
+  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[08/22/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -17,7 +17,7 @@
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
-    ("Allegro Netlist Output Board File" ".\allegro\ultima.brd")
+    ("Allegro Netlist Output Board File" ".\allegro\ultima_new.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -29,7 +29,7 @@
     ("Allegro Netlist User Defined Property" "FALSE")
     (DRC_Scope "0")
     (DRC_Action "0")
-    (DRC_Create_Warnings "TRUE")
+    (DRC_Create_Warnings "FALSE")
     (DRC_View_Output "TRUE")
     (DRC_View_Output_Type "2")
     (DRC_Preserved_Waived "FALSE")
@@ -82,11 +82,32 @@
     (DRC_Check_Pspice_Model_Lib_Path_Online "FALSE")
     (DRC_Run_Custom_Rules "FALSE")
     (DRC_Report_File "d:\projects\hardwaredesign\pcb_st-link v3_1\report.DRC")
-    (Board_sim_option "VHDL_flow"))
+    (Board_sim_option "VHDL_flow")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80"))
   (Folder "Layout"
     (File ".\allegro\ultima.brd"
       (Type "Board File")
       (OutputBoard ".\allegro\ultima.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\ultima_new.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\ultima_new.brd")
       (NetListPath ".\allegro")
       (ActiveBoard "1")))
   (Folder "Outputs"
@@ -112,6 +133,56 @@
       (Type "Log File")
       (LogFile "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\eco.txt")))
   (PartMRUSelector
+    (SI5324C-C-GM
+      (FullPartName "SI5324C-C-GM.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. CLOCK GENERATOR\(QFN-36) SI5324C-C-GM\SI5324C-C-GM.OLB")
+      (DeviceIndex "0"))
+    (TPS51200DRCT
+      (FullPartName "TPS51200DRCT.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. LDO VOLTAGE REGULATORS\(SMD) TPS51200DRCT\TPS51200DRCT.OLB")
+      (DeviceIndex "0"))
+    (ADP123ACPZ-R7
+      (FullPartName "ADP123ACPZ-R7.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. LDO VOLTAGE REGULATORS\(SMD) ADP123ACPZ-R7\ADP123ACPZ-R7.OLB")
+      (DeviceIndex "0"))
+    (LMZ12002TZE-ADJ_NOPB
+      (FullPartName "LMZ12002TZE-ADJ_NOPB.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. LDO VOLTAGE REGULATORS\(SMD) LMZ12002TZE-ADJ_NOPB\LMZ12002TZE-ADJ_NOPB.OLB")
+      (DeviceIndex "0"))
+    (TL1963ADCQR
+      (FullPartName "TL1963ADCQR.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. LDO VOLTAGE REGULATORS\(SOT-223-6) TL1963ADCQR\TL1963ADCQR.OLB")
+      (DeviceIndex "0"))
+    (VSC8211XVW
+      (FullPartName "VSC8211XVW.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. ETHERNET\(LBGA-117) VSC8211XVW\VSC8211XVW.OLB")
+      (DeviceIndex "0"))
+    (AX3HAF1-114.0000T
+      (FullPartName "AX3HAF1-114.0000T.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. CLOCK GENERATOR\(SMD-6) AX3HAF1-114.0000T\AX3HAF1-114.0000T.OLB")
+      (DeviceIndex "0"))
+    (XLH53V010.000000I
+      (FullPartName "XLH53V010.000000I.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. CLOCK GENERATOR\(TSSOP-6) XLH53V010.000000I\XLH53V010.000000I.OLB")
+      (DeviceIndex "0"))
+    (SIT9102AI-243N25E200.00000X
+      (FullPartName "SIT9102AI-243N25E200.00000X.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. CLOCK GENERATOR\(TSSOP-8) SIT9102AI-243N25E200.00000X\SIT9102AI-243N25E200.00000X.OLB")
+      (DeviceIndex "0"))
+    (SI52112-B5-GT
+      (FullPartName "SI52112-B5-GT.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. CLOCK GENERATOR\(TSSOP-8) SI52112-B5-GT\SI52112-B5-GT.OLB")
+      (DeviceIndex "0"))
     (ASP-134486-01
       (FullPartName "ASP-134486-01.Normal")
       (LibraryName
@@ -186,66 +257,16 @@
       (FullPartName "TR3E337K010C0060.Normal")
       (LibraryName
          "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CAPACITORS. TANTALUM\(SMD, 330UF, 10V) TR3E337K010C0060\TR3E337K010C0060.OLB")
-      (DeviceIndex "0"))
-    (06034C104KAT2A
-      (FullPartName "06034C104KAT2A.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CAPACITORS. CERAMIC\(0603, 0.1UF, 4V) 06034C104KAT2A\06034C104KAT2A.OLB")
-      (DeviceIndex "0"))
-    (RT0603FRE10100RL
-      (FullPartName "RT0603FRE10100RL.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\RESISTORS. FILM\0603, 100) RT0603FRE10100RL\RT0603FRE10100RL.OLB")
-      (DeviceIndex "0"))
-    (ERA-3AEB80R6V
-      (FullPartName "ERA-3AEB80R6V.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\RESISTORS. FILM\(0603, 80R) ERA-3AEB80R6V\ERA-3AEB80R6V.OLB")
-      (DeviceIndex "0"))
-    (SM0603SRC
-      (FullPartName "SM0603SRC.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\SEMICONDUCTORS. LED\(0603, SUPER RED) SM0603SRC\SM0603SRC.OLB")
-      (DeviceIndex "0"))
-    (SM0603GCL
-      (FullPartName "SM0603GCL.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\SEMICONDUCTORS. LED\(0603, GREEN) SM0603GCL\SM0603GCL.OLB")
-      (DeviceIndex "0"))
-    (MCT06030D2610BP100
-      (FullPartName "MCT06030D2610BP100.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\RESISTORS. FILM\(0603, 261R) MCT06030D2610BP100\MCT06030D2610BP100.OLB")
-      (DeviceIndex "0"))
-    (ERA-6ARB472V
-      (FullPartName "ERA-6ARB472V.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\RESISTORS. FILM\(0805, 4.7K) ERA-6ARB472V\ERA-6ARB472V.OLB")
-      (DeviceIndex "0"))
-    (S8421-45R
-      (FullPartName "S8421-45R.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. BATTERY HOLDER\(CR2032) S8421-45R\S8421-45R.OLB")
-      (DeviceIndex "0"))
-    (BAS4004E6327HTSA1
-      (FullPartName "BAS4004E6327HTSA1.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\SEMICONDUCTORS. SCHOTTKY DIODES\(SOT-23-3) BAS4004E6327HTSA1\BAS4004E6327HTSA1.OLB")
-      (DeviceIndex "0"))
-    (XC7K325T-2FFG900I
-      (FullPartName "XC7K325T-2FFG900I.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. FPGA\(FCBGA-900) XC7K325T-2FFG900I\XC7K325T-2FFG900I.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn")
+         "D:\Projects\HardwareDesign\PCB_Ultima\ultima.dsn")
       (Path "Design Resources"
-         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn" "SCH001")
+         "D:\Projects\HardwareDesign\PCB_Ultima\ultima.dsn" "SCH001")
       (Select "Design Resources"
-         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn" "SCH001" "DEV1"))
+         "D:\Projects\HardwareDesign\PCB_Ultima\ultima.dsn" "SCH001" "DEV1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -256,13 +277,13 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 1343 24 769")
-        (Scroll "0 508")
-        (Zoom "32")
+        (Scroll "239 0")
+        (Zoom "56")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ULTIMA.DSN")
       (Schematic "SCH001")
       (Page "DEV1")))
   (MPSSessionName "Prometheus")
   (LastUsedLibraryBrowseDirectory
-     "D:\Projects\CadenceAllegro\Old-library\Connectors. FPC & FMC\(400P) ASP-134486-01")
+     "D:\Projects\CadenceAllegro\Old-library\Integral Circuit. Clock generator\(QFN-36) SI5324C-C-GM")
   (ISPCBBASICLICENSE "false"))

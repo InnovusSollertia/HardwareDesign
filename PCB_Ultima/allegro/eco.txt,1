@@ -1,0 +1,1750 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  FMC_LPC_CLK0_M2C_N pins ADDED TO this new net
+                                 IC1.AG23       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_CLK0_M2C_P pins ADDED TO this new net
+                                 IC1.AF22       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_CLK1_M2C_N pins ADDED TO this new net
+                                 IC1.AH29       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_CLK1_M2C_P pins ADDED TO this new net
+                                 IC1.AG29       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA00_CC_N pins ADDED TO this new net
+                                 IC1.AE24       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA00_CC_P pins ADDED TO this new net
+                                 IC1.AD23       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA01_CC_N pins ADDED TO this new net
+                                 IC1.AF23       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA01_CC_P pins ADDED TO this new net
+                                 IC1.AE23       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA02_N pins ADDED TO this new net
+                                 IC1.AF21       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA02_P pins ADDED TO this new net
+                                 IC1.AF20       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA03_N pins ADDED TO this new net
+                                 IC1.AH20       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA03_P pins ADDED TO this new net
+                                 IC1.AG20       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA04_N pins ADDED TO this new net
+                                 IC1.AJ21       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA04_P pins ADDED TO this new net
+                                 IC1.AH21       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA05_N pins ADDED TO this new net
+                                 IC1.AH22       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  FMC_LPC_LA05_P pins ADDED TO this new net
+                                 IC1.AG22       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA06_N pins ADDED TO this new net
+                                 IC1.AK21       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA06_P pins ADDED TO this new net
+                                 IC1.AK20       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA07_N pins ADDED TO this new net
+                                 IC1.AH25       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA07_P pins ADDED TO this new net
+                                 IC1.AG25       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA08_N pins ADDED TO this new net
+                                 IC1.AJ23       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA08_P pins ADDED TO this new net
+                                 IC1.AJ22       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA09_N pins ADDED TO this new net
+                                 IC1.AK24       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA09_P pins ADDED TO this new net
+                                 IC1.AK23       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA10_N pins ADDED TO this new net
+                                 IC1.AK25       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA10_P pins ADDED TO this new net
+                                 IC1.AJ24       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA11_N pins ADDED TO this new net
+                                 IC1.AF25       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA11_P pins ADDED TO this new net
+                                 IC1.AE25       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA12_N pins ADDED TO this new net
+                                 IC1.AB20       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA12_P pins ADDED TO this new net
+                                 IC1.AA20       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  FMC_LPC_LA13_N pins ADDED TO this new net
+                                 IC1.AC25       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA13_P pins ADDED TO this new net
+                                 IC1.AB24       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA14_N pins ADDED TO this new net
+                                 IC1.AD21       IC1.AE21       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA15_N pins ADDED TO this new net
+                                 IC1.AD24       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA15_P pins ADDED TO this new net
+                                 IC1.AC24       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA16_N pins ADDED TO this new net
+                                 IC1.AD22       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA16_P pins ADDED TO this new net
+                                 IC1.AC22       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA17_CC_N pins ADDED TO this new net
+                                 IC1.AC27       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA17_CC_P pins ADDED TO this new net
+                                 IC1.AB27       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA18_CC_N pins ADDED TO this new net
+                                 IC1.AD28       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA18_CC_P pins ADDED TO this new net
+                                 IC1.AD27       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA19_N pins ADDED TO this new net
+                                 IC1.AK26       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA19_P pins ADDED TO this new net
+                                 IC1.AJ26       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA20_N pins ADDED TO this new net
+                                 IC1.AF27       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA20_P pins ADDED TO this new net
+                                 IC1.AF26       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  FMC_LPC_LA21_N pins ADDED TO this new net
+                                 IC1.AG28       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA21_P pins ADDED TO this new net
+                                 IC1.AG27       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA22_N pins ADDED TO this new net
+                                 IC1.AK28       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA22_P pins ADDED TO this new net
+                                 IC1.AJ27       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA23_N pins ADDED TO this new net
+                                 IC1.AH27       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA23_P pins ADDED TO this new net
+                                 IC1.AH26       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA24_N pins ADDED TO this new net
+                                 IC1.AH30       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA24_P pins ADDED TO this new net
+                                 IC1.AG30       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA25_N pins ADDED TO this new net
+                                 IC1.AD26       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA25_P pins ADDED TO this new net
+                                 IC1.AC26       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA26_N pins ADDED TO this new net
+                                 IC1.AK30       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA26_P pins ADDED TO this new net
+                                 IC1.AK29       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA27_N pins ADDED TO this new net
+                                 IC1.AJ29       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA27_P pins ADDED TO this new net
+                                 IC1.AJ28       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA28_N pins ADDED TO this new net
+                                 IC1.AF30       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  FMC_LPC_LA28_P pins ADDED TO this new net
+                                 IC1.AE30       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA29_N pins ADDED TO this new net
+                                 IC1.AF28       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA29_P pins ADDED TO this new net
+                                 IC1.AE28       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA30_N pins ADDED TO this new net
+                                 IC1.AB30       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA30_P pins ADDED TO this new net
+                                 IC1.AB29       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA31_N pins ADDED TO this new net
+                                 IC1.AE29       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA31_P pins ADDED TO this new net
+                                 IC1.AD29       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA32_N pins ADDED TO this new net
+                                 IC1.AA30       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA32_P pins ADDED TO this new net
+                                 IC1.Y30        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA33_N pins ADDED TO this new net
+                                 IC1.AC30       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FMC_LPC_LA33_P pins ADDED TO this new net
+                                 IC1.AC29       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FPGA_CCLK    pins ADDED TO this new net
+                                 IC1.B10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FPGA_DONE    pins ADDED TO this new net
+                                 IC1.M10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FPGA_INIT_B  pins ADDED TO this new net
+                                 IC1.A10        R1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FPGA_M0      pins ADDED TO this new net
+                                 IC1.AB5        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  FPGA_M1      pins ADDED TO this new net
+                                 IC1.AB2        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FPGA_M2      pins ADDED TO this new net
+                                 IC1.AB1        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FPGA_PROG_B  pins ADDED TO this new net
+                                 IC1.K10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FPGA_TCK_BUF pins ADDED TO this new net
+                                 IC1.E10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FPGA_TDI_BUF pins ADDED TO this new net
+                                 IC1.H10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FPGA_TMS_BUF pins ADDED TO this new net
+                                 IC1.F10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FPGA_VBATT   pins ADDED TO this new net
+                                 IC1.C10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 IC2.2          IC2.5          J1.2           
+                                 LED2.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_DIP_SW0 pins ADDED TO this new net
+                                 IC1.Y29        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_DIP_SW1 pins ADDED TO this new net
+                                 IC1.W29        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_DIP_SW2 pins ADDED TO this new net
+                                 IC1.AA28       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_DIP_SW3 pins ADDED TO this new net
+                                 IC1.Y28        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_LED_4_LS pins ADDED TO this new net
+                                 IC1.AE26       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HDMI_INT     pins ADDED TO this new net
+                                 IC1.AH24       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JTAG_TDO     pins ADDED TO this new net
+                                 IC1.G10        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N24491       pins ADDED TO this new net
+                                 D11.2          R406.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N24523       pins ADDED TO this new net
+                                 J1.1           R406.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N24888       pins ADDED TO this new net
+                                 IC2.4          R1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N25412       pins ADDED TO this new net
+                                 IC2.3          R2.2           R3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N25470       pins ADDED TO this new net
+                                 LED2.2         R3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N25543       pins ADDED TO this new net
+                                 LED1.2         R2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  REC_CLOCK_C_N pins ADDED TO this new net
+                                 IC1.W28        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  REC_CLOCK_C_P pins ADDED TO this new net
+                                 IC1.W27        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ROTARY_INCA  pins ADDED TO this new net
+                                 IC1.Y26        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ROTARY_INCB  pins ADDED TO this new net
+                                 IC1.Y25        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ROTARY_PUSH  pins ADDED TO this new net
+                                 IC1.AA26       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDIO_CD_DAT3_LS pins ADDED TO this new net
+                                 IC1.AC21       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDIO_CLK_LS  pins ADDED TO this new net
+                                 IC1.AB23       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDIO_CMD_LS  pins ADDED TO this new net
+                                 IC1.AB22       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDIO_DAT0_LS pins ADDED TO this new net
+                                 IC1.AC20       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  SDIO_DAT1_LS pins ADDED TO this new net
+                                 IC1.AA23       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDIO_DAT2_LS pins ADDED TO this new net
+                                 IC1.AA22       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDIO_SDDET   pins ADDED TO this new net
+                                 IC1.AA21       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDIO_SDWP    pins ADDED TO this new net
+                                 IC1.Y21        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SFP_TX_DISABLE pins ADDED TO this new net
+                                 IC1.Y20        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SI5326_INT_ALM_LS pins ADDED TO this new net
+                                 IC1.AG24       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SI5326_RST_LS pins ADDED TO this new net
+                                 IC1.AE20       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USER_SMA_GPIO_N pins ADDED TO this new net
+                                 IC1.Y24        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USER_SMA_GPIO_P pins ADDED TO this new net
+                                 IC1.Y23        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VADJ_FPGA    pins ADDED TO this new net
+                                 IC1.AA29       IC1.AB26       IC1.AC23       
+                                 IC1.AD20       IC1.AD30       IC1.AE27       
+                                 IC1.AF24       IC1.AG21       IC1.AH28       
+                                 IC1.AJ25       IC1.AK22       IC1.Y22        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC2V5_FPGA  pins ADDED TO this new net
+                                 IC1.AB6        IC1.L10        IC1.P30        
+                                 IC1.R27        IC1.T9         IC1.T24        
+                                 IC1.U21        IC1.V28        IC1.W25        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC2V5       pins ADDED TO this new net
+                                 IC2.6          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC3V3       pins ADDED TO this new net
+                                 IC2.1          LED1.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCCAUX_IO    pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 D11.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XADC_AGND    pins ADDED TO this new net
+                                 C1.1           C202.1         IC1.P14        
+                                 IC1.R14        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XADC_DXN     pins ADDED TO this new net
+                                 IC1.U14        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XADC_DXP     pins ADDED TO this new net
+                                 IC1.U15        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XADC_GPIO_0  pins ADDED TO this new net
+                                 IC1.AB25       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XADC_GPIO_1  pins ADDED TO this new net
+                                 IC1.AA25       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XADC_GPIO_2  pins ADDED TO this new net
+                                 IC1.AB28       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XADC_GPIO_3  pins ADDED TO this new net
+                                 IC1.AA27       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XADC_VCC     pins ADDED TO this new net
+                                 C1.2           IC1.P15        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XADC_VN_R    pins ADDED TO this new net
+                                 IC1.T14        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XADC_VP_R    pins ADDED TO this new net
+                                 IC1.R15        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XADC_VREFP   pins ADDED TO this new net
+                                 C202.2         IC1.T15        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 06034C104KAT2A_CAPC1608X90N_DISCRETE_0.1U
+ BAS4004E6327HTSA1_SOT95P240X110-3N_BAS4004E6327HTSA1
+ ERA-6ARB472V_ERA6AEB1020V_DISCRETE_4.7K
+ MCT06030D2610BP100_RESC1608X55N_DISCRETE_261
+ S8421-45R_S8421-45R_1_S8421-45R
+ SM0603GCL_LEDC1608X60N_SM0603GCL
+ SM0603SRC_SM0603SRC_SM0603SRC
+ SN74AVC1T45DBVR_SOT95P280X145-6N_SN74AVC1T45DBVR
+ XC7K325T-2FFG900I_BGA900C100P30X30_3100X3100X335_XC7K325T-2FFG900I
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  06034C104KAT2A_CAPC1608X90N_DISCRETE_0.1U 
+ C202                06034C104KAT2A_CAPC1608X90N_DISCRETE_0.1U 
+ D11                 BAS4004E6327HTSA1_SOT95P240X110-3N_BAS4004E6327HTSA1 
+ IC1                 XC7K325T-2FFG900I_BGA900C100P30X30_3100X3100X335_XC7K325T-2FFG900I 
+ IC2                 SN74AVC1T45DBVR_SOT95P280X145-6N_SN74AVC1T45DBVR 
+ J1                  S8421-45R_S8421-45R_1_S8421-45R 
+ LED1                SM0603SRC_SM0603SRC_SM0603SRC 
+ LED2                SM0603GCL_LEDC1608X60N_SM0603GCL 
+ R1                  ERA-6ARB472V_ERA6AEB1020V_DISCRETE_4.7K 
+ R2                  MCT06030D2610BP100_RESC1608X55N_DISCRETE_261 
+ R3                  MCT06030D2610BP100_RESC1608X55N_DISCRETE_261 
+ R406                ERA-6ARB472V_ERA6AEB1020V_DISCRETE_4.7K 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C1.2                           XY             (2200,4300)
+ C202.2                         PRIM_FILE      .\pstchip.dat
+ C202.2                         XY             (2830,400)
+ D11.2                          PRIM_FILE      .\pstchip.dat
+ D11.2                          XY             (110,60)
+ IC1.T15                        PRIM_FILE      .\pstchip.dat
+ IC1.T15                        XY             (2310,220)
+ IC2.6                          PRIM_FILE      .\pstchip.dat
+ IC2.6                          XY             (360,370)
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J1.2                           XY             (110,180)
+ LED1.2                         PRIM_FILE      .\pstchip.dat
+ LED1.2                         XY             (130,350)
+ LED2.1                         PRIM_FILE      .\pstchip.dat
+ LED2.1                         XY             (130,420)
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           XY             (530,395)
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           XY             (220,355)
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           XY             (220,435)
+ R406.2                         PRIM_FILE      .\pstchip.dat
+ R406.2                         XY             (65,120)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.1                           CDS_PINID      \1\
+ C1.2                           CDS_PINID      \2\
+ C202.1                         CDS_PINID      \1\
+ C202.2                         CDS_PINID      \2\
+ D11.1                          CDS_PINID      \A\
+ D11.2                          CDS_PINID      \K\
+ D11.3                          CDS_PINID      \A/K\
+ IC1.A1                         CDS_PINID      \GND_1\
+ IC1.A2                         CDS_PINID      \GND_2\
+ IC1.A3                         CDS_PINID      \MGTXTXN3_118\
+ IC1.A4                         CDS_PINID      \MGTXTXP3_118\
+ IC1.A5                         CDS_PINID      \GND_3\
+ IC1.A6                         CDS_PINID      \GND_4\
+ IC1.A7                         CDS_PINID      \MGTXRXN3_118\
+ IC1.A8                         CDS_PINID      \MGTXRXP3_118\
+ IC1.A9                         CDS_PINID      \GND_5\
+ IC1.A10                        CDS_PINID      \INIT_B_0\
+ IC1.A11                        CDS_PINID      \IO_L17P_T2_18\
+ IC1.A12                        CDS_PINID      \IO_L17N_T2_18\
+ IC1.A13                        CDS_PINID      \IO_L22N_T3_18\
+ IC1.A14                        CDS_PINID      \GND_6\
+ IC1.A15                        CDS_PINID      \IO_L24N_T3_18\
+ IC1.A16                        CDS_PINID      \IO_L20P_T3_17\
+ IC1.A17                        CDS_PINID      \IO_L20N_T3_17\
+ IC1.A18                        CDS_PINID      \IO_L22N_T3_17\
+ IC1.A19                        CDS_PINID      \VCCO_17_1\
+ IC1.A20                        CDS_PINID      \IO_L21P_T3_DQS_17\
+ IC1.A21                        CDS_PINID      \IO_L21N_T3_DQS_17\
+ IC1.A22                        CDS_PINID      \IO_L23N_T3_17\
+ IC1.A23                        CDS_PINID      \IO_L1N_T0_16\
+ IC1.A24                        CDS_PINID      \GND_7\
+ IC1.A25                        CDS_PINID      \IO_L10P_T1_16\
+ IC1.A26                        CDS_PINID      \IO_L10N_T1_16\
+ IC1.A27                        CDS_PINID      \IO_L7N_T1_16\
+ IC1.A28                        CDS_PINID      \IO_L9N_T1_DQS_16\
+ IC1.A29                        CDS_PINID      \VCCO_16_1\
+ IC1.A30                        CDS_PINID      \IO_L17N_T2_16\
+ IC1.AA1                        CDS_PINID      \GND_139\
+ IC1.AA2                        CDS_PINID      \GND_140\
+ IC1.AA3                        CDS_PINID      \MGTXRXN0_115\
+ IC1.AA4                        CDS_PINID      \MGTXRXP0_115\
+ IC1.AA5                        CDS_PINID      \GND_141\
+ IC1.AA6                        CDS_PINID      \GND_142\
+ IC1.AA7                        CDS_PINID      \GND_143\
+ IC1.AA8                        CDS_PINID      \IO_L2P_T0_33\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.AA9                        CDS_PINID      \VCCO_33_2\
+ IC1.AA10                       CDS_PINID      \IO_L5N_T0_33\
+ IC1.AA11                       CDS_PINID      \IO_L5P_T0_33\
+ IC1.AA12                       CDS_PINID      \IO_L1P_T0_33\
+ IC1.AA13                       CDS_PINID      \IO_L6P_T0_33\
+ IC1.AA14                       CDS_PINID      \GND_144\
+ IC1.AA15                       CDS_PINID      \IO_L20P_T3_32\
+ IC1.AA16                       CDS_PINID      \IO_L23N_T3_32\
+ IC1.AA17                       CDS_PINID      \IO_L23P_T3_32\
+ IC1.AA18                       CDS_PINID      \IO_L16P_T2_32\
+ IC1.AA19                       CDS_PINID      \VCCO_32_1\
+ IC1.AA20                       CDS_PINID      \IO_L6P_T0_12\
+ IC1.AA21                       CDS_PINID      \IO_L2N_T0_12\
+ IC1.AA22                       CDS_PINID      \IO_L4P_T0_12\
+ IC1.AA23                       CDS_PINID      \IO_L4N_T0_12\
+ IC1.AA24                       CDS_PINID      \GND_145\
+ IC1.AA25                       CDS_PINID      \IO_L6P_T0_13\
+ IC1.AA26                       CDS_PINID      \IO_L1N_T0_13\
+ IC1.AA27                       CDS_PINID      \IO_L5P_T0_13\
+ IC1.AA28                       CDS_PINID      \IO_L3N_T0_DQS_13\
+ IC1.AA29                       CDS_PINID      \VCCO_13_1\
+ IC1.AA30                       CDS_PINID      \IO_L8N_T1_13\
+ IC1.AB1                        CDS_PINID      \M2_0\
+ IC1.AB2                        CDS_PINID      \M1_0\
+ IC1.AB3                        CDS_PINID      \GND_146\
+ IC1.AB4                        CDS_PINID      \GND_147\
+ IC1.AB5                        CDS_PINID      \M0_0\
+ IC1.AB6                        CDS_PINID      \VCCO_0_2\
+ IC1.AB7                        CDS_PINID      \IO_25_VRP_34\
+ IC1.AB8                        CDS_PINID      \IO_L2N_T0_33\
+ IC1.AB9                        CDS_PINID      \IO_L3P_T0_DQS_33\
+ IC1.AB10                       CDS_PINID      \IO_L7P_T1_33\
+ IC1.AB11                       CDS_PINID      \GND_148\
+ IC1.AB12                       CDS_PINID      \IO_L1N_T0_33\
+ IC1.AB13                       CDS_PINID      \IO_L6N_T0_VREF_33\
+ IC1.AB14                       CDS_PINID      \IO_25_VRP_32\
+ IC1.AB15                       CDS_PINID      \IO_L20N_T3_32\
+ IC1.AB16                       CDS_PINID      \VCCO_32_2\
+ IC1.AB17                       CDS_PINID      \IO_L18P_T2_32\
+ IC1.AB18                       CDS_PINID      \IO_L16N_T2_32\
+ IC1.AB19                       CDS_PINID      \IO_L17P_T2_32\
+ IC1.AB20                       CDS_PINID      \IO_L6N_T0_VREF_12\
+ IC1.AB21                       CDS_PINID      \GND_149\
+ IC1.AB22                       CDS_PINID      \IO_L3P_T0_DQS_12\
+ IC1.AB23                       CDS_PINID      \IO_L3N_T0_DQS_12\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  15  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.AB24                       CDS_PINID      \IO_L7P_T1_12\
+ IC1.AB25                       CDS_PINID      \IO_L6N_T0_VREF_13\
+ IC1.AB26                       CDS_PINID      \VCCO_13_2\
+ IC1.AB27                       CDS_PINID      \IO_L12P_T1_MRCC_13\
+ IC1.AB28                       CDS_PINID      \IO_L5N_T0_13\
+ IC1.AB29                       CDS_PINID      \IO_L10P_T1_13\
+ IC1.AB30                       CDS_PINID      \IO_L10N_T1_13\
+ IC1.AC1                        CDS_PINID      \IO_L2N_T0_34\
+ IC1.AC2                        CDS_PINID      \IO_L2P_T0_34\
+ IC1.AC3                        CDS_PINID      \VCCO_34_1\
+ IC1.AC4                        CDS_PINID      \IO_L4N_T0_34\
+ IC1.AC5                        CDS_PINID      \IO_L4P_T0_34\
+ IC1.AC6                        CDS_PINID      \IO_0_VRN_34\
+ IC1.AC7                        CDS_PINID      \IO_L6P_T0_34\
+ IC1.AC8                        CDS_PINID      \GND_150\
+ IC1.AC9                        CDS_PINID      \IO_L3N_T0_DQS_33\
+ IC1.AC10                       CDS_PINID      \IO_L7N_T1_33\
+ IC1.AC11                       CDS_PINID      \IO_L9N_T1_DQS_33\
+ IC1.AC12                       CDS_PINID      \IO_L9P_T1_DQS_33\
+ IC1.AC13                       CDS_PINID      \VCCO_33_3\
+ IC1.AC14                       CDS_PINID      \IO_L22P_T3_32\
+ IC1.AC15                       CDS_PINID      \IO_L21N_T3_DQS_32\
+ IC1.AC16                       CDS_PINID      \IO_L21P_T3_DQS_32\
+ IC1.AC17                       CDS_PINID      \IO_L18N_T2_32\
+ IC1.AC18                       CDS_PINID      \GND_151\
+ IC1.AC19                       CDS_PINID      \IO_L17N_T2_32\
+ IC1.AC20                       CDS_PINID      \IO_L5P_T0_12\
+ IC1.AC21                       CDS_PINID      \IO_L5N_T0_12\
+ IC1.AC22                       CDS_PINID      \IO_L8P_T1_12\
+ IC1.AC23                       CDS_PINID      \VCCO_12_2\
+ IC1.AC24                       CDS_PINID      \IO_L9P_T1_DQS_12\
+ IC1.AC25                       CDS_PINID      \IO_L7N_T1_12\
+ IC1.AC26                       CDS_PINID      \IO_L19P_T3_13\
+ IC1.AC27                       CDS_PINID      \IO_L12N_T1_MRCC_13\
+ IC1.AC28                       CDS_PINID      \GND_152\
+ IC1.AC29                       CDS_PINID      \IO_L7P_T1_13\
+ IC1.AC30                       CDS_PINID      \IO_L7N_T1_13\
+ IC1.AD1                        CDS_PINID      \IO_L3N_T0_DQS_34\
+ IC1.AD2                        CDS_PINID      \IO_L3P_T0_DQS_34\
+ IC1.AD3                        CDS_PINID      \IO_L1N_T0_34\
+ IC1.AD4                        CDS_PINID      \IO_L1P_T0_34\
+ IC1.AD5                        CDS_PINID      \GND_153\
+ IC1.AD6                        CDS_PINID      \IO_L5P_T0_34\
+ IC1.AD7                        CDS_PINID      \IO_L6N_T0_VREF_34\
+ IC1.AD8                        CDS_PINID      \IO_L8P_T1_33\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  16  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.AD9                        CDS_PINID      \IO_L10P_T1_33\
+ IC1.AD10                       CDS_PINID      \VCCO_33_4\
+ IC1.AD11                       CDS_PINID      \IO_L12N_T1_MRCC_33\
+ IC1.AD12                       CDS_PINID      \IO_L12P_T1_MRCC_33\
+ IC1.AD13                       CDS_PINID      \IO_25_VRP_33\
+ IC1.AD14                       CDS_PINID      \IO_L22N_T3_32\
+ IC1.AD15                       CDS_PINID      \GND_154\
+ IC1.AD16                       CDS_PINID      \IO_L14N_T2_SRCC_32\
+ IC1.AD17                       CDS_PINID      \IO_L14P_T2_SRCC_32\
+ IC1.AD18                       CDS_PINID      \IO_L13P_T2_MRCC_32\
+ IC1.AD19                       CDS_PINID      \IO_L10P_T1_32\
+ IC1.AD20                       CDS_PINID      \VCCO_12_3\
+ IC1.AD21                       CDS_PINID      \IO_L10P_T1_12\
+ IC1.AD22                       CDS_PINID      \IO_L8N_T1_12\
+ IC1.AD23                       CDS_PINID      \IO_L12P_T1_MRCC_12\
+ IC1.AD24                       CDS_PINID      \IO_L9N_T1_DQS_12\
+ IC1.AD25                       CDS_PINID      \GND_155\
+ IC1.AD26                       CDS_PINID      \IO_L19N_T3_VREF_13\
+ IC1.AD27                       CDS_PINID      \IO_L11P_T1_SRCC_13\
+ IC1.AD28                       CDS_PINID      \IO_L11N_T1_SRCC_13\
+ IC1.AD29                       CDS_PINID      \IO_L9P_T1_DQS_13\
+ IC1.AD30                       CDS_PINID      \VCCO_13_3\
+ IC1.AE1                        CDS_PINID      \IO_L8P_T1_34\
+ IC1.AE2                        CDS_PINID      \GND_156\
+ IC1.AE3                        CDS_PINID      \IO_L10N_T1_34\
+ IC1.AE4                        CDS_PINID      \IO_L10P_T1_34\
+ IC1.AE5                        CDS_PINID      \IO_L11P_T1_SRCC_34\
+ IC1.AE6                        CDS_PINID      \IO_L5N_T0_34\
+ IC1.AE7                        CDS_PINID      \VCCO_34_2\
+ IC1.AE8                        CDS_PINID      \IO_L8N_T1_33\
+ IC1.AE9                        CDS_PINID      \IO_L10N_T1_33\
+ IC1.AE10                       CDS_PINID      \IO_L14P_T2_SRCC_33\
+ IC1.AE11                       CDS_PINID      \IO_L11P_T1_SRCC_33\
+ IC1.AE12                       CDS_PINID      \GND_157\
+ IC1.AE13                       CDS_PINID      \IO_L19P_T3_33\
+ IC1.AE14                       CDS_PINID      \IO_L19N_T3_VREF_32\
+ IC1.AE15                       CDS_PINID      \IO_L19P_T3_32\
+ IC1.AE16                       CDS_PINID      \IO_L6P_T0_32\
+ IC1.AE17                       CDS_PINID      \VCCO_32_3\
+ IC1.AE18                       CDS_PINID      \IO_L13N_T2_MRCC_32\
+ IC1.AE19                       CDS_PINID      \IO_L10N_T1_32\
+ IC1.AE20                       CDS_PINID      \IO_25_12\
+ IC1.AE21                       CDS_PINID      \IO_L10N_T1_12\
+ IC1.AE22                       CDS_PINID      \GND_158\
+ IC1.AE23                       CDS_PINID      \IO_L11P_T1_SRCC_12\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  17  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.AE24                       CDS_PINID      \IO_L12N_T1_MRCC_12\
+ IC1.AE25                       CDS_PINID      \IO_L16P_T2_12\
+ IC1.AE26                       CDS_PINID      \IO_25_13\
+ IC1.AE27                       CDS_PINID      \VCCO_13_4\
+ IC1.AE28                       CDS_PINID      \IO_L14P_T2_SRCC_13\
+ IC1.AE29                       CDS_PINID      \IO_L9N_T1_DQS_13\
+ IC1.AE30                       CDS_PINID      \IO_L16P_T2_13\
+ IC1.AF1                        CDS_PINID      \IO_L8N_T1_34\
+ IC1.AF2                        CDS_PINID      \IO_L7N_T1_34\
+ IC1.AF3                        CDS_PINID      \IO_L7P_T1_34\
+ IC1.AF4                        CDS_PINID      \VCCO_34_3\
+ IC1.AF5                        CDS_PINID      \IO_L11N_T1_SRCC_34\
+ IC1.AF6                        CDS_PINID      \IO_L12P_T1_MRCC_34\
+ IC1.AF7                        CDS_PINID      \IO_L20P_T3_34\
+ IC1.AF8                        CDS_PINID      \IO_L19P_T3_34\
+ IC1.AF9                        CDS_PINID      \GND_159\
+ IC1.AF10                       CDS_PINID      \IO_L14N_T2_SRCC_33\
+ IC1.AF11                       CDS_PINID      \IO_L11N_T1_SRCC_33\
+ IC1.AF12                       CDS_PINID      \IO_L23P_T3_33\
+ IC1.AF13                       CDS_PINID      \IO_L19N_T3_VREF_33\
+ IC1.AF14                       CDS_PINID      \VCCO_32_4\
+ IC1.AF15                       CDS_PINID      \IO_L4P_T0_32\
+ IC1.AF16                       CDS_PINID      \IO_L6N_T0_VREF_32\
+ IC1.AF17                       CDS_PINID      \IO_L12P_T1_MRCC_32\
+ IC1.AF18                       CDS_PINID      \IO_L11P_T1_SRCC_32\
+ IC1.AF19                       CDS_PINID      \GND_160\
+ IC1.AF20                       CDS_PINID      \IO_L19P_T3_12\
+ IC1.AF21                       CDS_PINID      \IO_L19N_T3_VREF_12\
+ IC1.AF22                       CDS_PINID      \IO_L13P_T2_MRCC_12\
+ IC1.AF23                       CDS_PINID      \IO_L11N_T1_SRCC_12\
+ IC1.AF24                       CDS_PINID      \VCCO_12_4\
+ IC1.AF25                       CDS_PINID      \IO_L16N_T2_12\
+ IC1.AF26                       CDS_PINID      \IO_L23P_T3_13\
+ IC1.AF27                       CDS_PINID      \IO_L23N_T3_13\
+ IC1.AF28                       CDS_PINID      \IO_L14N_T2_SRCC_13\
+ IC1.AF29                       CDS_PINID      \GND_161\
+ IC1.AF30                       CDS_PINID      \IO_L16N_T2_13\
+ IC1.AG1                        CDS_PINID      \VCCO_34_4\
+ IC1.AG2                        CDS_PINID      \IO_L15P_T2_DQS_34\
+ IC1.AG3                        CDS_PINID      \IO_L9N_T1_DQS_34\
+ IC1.AG4                        CDS_PINID      \IO_L9P_T1_DQS_34\
+ IC1.AG5                        CDS_PINID      \IO_L12N_T1_MRCC_34\
+ IC1.AG6                        CDS_PINID      \GND_162\
+ IC1.AG7                        CDS_PINID      \IO_L20N_T3_34\
+ IC1.AG8                        CDS_PINID      \IO_L19N_T3_VREF_34\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  18  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.AG9                        CDS_PINID      \IO_L16P_T2_33\
+ IC1.AG10                       CDS_PINID      \IO_L13P_T2_MRCC_33\
+ IC1.AG11                       CDS_PINID      \VCCO_33_5\
+ IC1.AG12                       CDS_PINID      \IO_L23N_T3_33\
+ IC1.AG13                       CDS_PINID      \IO_L24P_T3_33\
+ IC1.AG14                       CDS_PINID      \IO_L4N_T0_32\
+ IC1.AG15                       CDS_PINID      \IO_L2P_T0_32\
+ IC1.AG16                       CDS_PINID      \GND_163\
+ IC1.AG17                       CDS_PINID      \IO_L12N_T1_MRCC_32\
+ IC1.AG18                       CDS_PINID      \IO_L11N_T1_SRCC_32\
+ IC1.AG19                       CDS_PINID      \IO_L8P_T1_32\
+ IC1.AG20                       CDS_PINID      \IO_L22P_T3_12\
+ IC1.AG21                       CDS_PINID      \VCCO_12_5\
+ IC1.AG22                       CDS_PINID      \IO_L20P_T3_12\
+ IC1.AG23                       CDS_PINID      \IO_L13N_T2_MRCC_12\
+ IC1.AG24                       CDS_PINID      \IO_L14P_T2_SRCC_12\
+ IC1.AG25                       CDS_PINID      \IO_L18P_T2_12\
+ IC1.AG26                       CDS_PINID      \GND_164\
+ IC1.AG27                       CDS_PINID      \IO_L21P_T3_DQS_13\
+ IC1.AG28                       CDS_PINID      \IO_L21N_T3_DQS_13\
+ IC1.AG29                       CDS_PINID      \IO_L13P_T2_MRCC_13\
+ IC1.AG30                       CDS_PINID      \IO_L18P_T2_13\
+ IC1.AH1                        CDS_PINID      \IO_L15N_T2_DQS_34\
+ IC1.AH2                        CDS_PINID      \IO_L16P_T2_34\
+ IC1.AH3                        CDS_PINID      \GND_165\
+ IC1.AH4                        CDS_PINID      \IO_L13P_T2_MRCC_34\
+ IC1.AH5                        CDS_PINID      \IO_L14N_T2_SRCC_34\
+ IC1.AH6                        CDS_PINID      \IO_L14P_T2_SRCC_34\
+ IC1.AH7                        CDS_PINID      \IO_L21P_T3_DQS_34\
+ IC1.AH8                        CDS_PINID      \VCCO_34_5\
+ IC1.AH9                        CDS_PINID      \IO_L16N_T2_33\
+ IC1.AH10                       CDS_PINID      \IO_L13N_T2_MRCC_33\
+ IC1.AH11                       CDS_PINID      \IO_L18P_T2_33\
+ IC1.AH12                       CDS_PINID      \IO_L24N_T3_33\
+ IC1.AH13                       CDS_PINID      \GND_166\
+ IC1.AH14                       CDS_PINID      \IO_L21P_T3_DQS_33\
+ IC1.AH15                       CDS_PINID      \IO_L2N_T0_32\
+ IC1.AH16                       CDS_PINID      \IO_L3P_T0_DQS_32\
+ IC1.AH17                       CDS_PINID      \IO_L5P_T0_32\
+ IC1.AH18                       CDS_PINID      \VCCO_32_5\
+ IC1.AH19                       CDS_PINID      \IO_L8N_T1_32\
+ IC1.AH20                       CDS_PINID      \IO_L22N_T3_12\
+ IC1.AH21                       CDS_PINID      \IO_L23P_T3_12\
+ IC1.AH22                       CDS_PINID      \IO_L20N_T3_12\
+ IC1.AH23                       CDS_PINID      \GND_167\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  19  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.AH24                       CDS_PINID      \IO_L14N_T2_SRCC_12\
+ IC1.AH25                       CDS_PINID      \IO_L18N_T2_12\
+ IC1.AH26                       CDS_PINID      \IO_L22P_T3_13\
+ IC1.AH27                       CDS_PINID      \IO_L22N_T3_13\
+ IC1.AH28                       CDS_PINID      \VCCO_13_5\
+ IC1.AH29                       CDS_PINID      \IO_L13N_T2_MRCC_13\
+ IC1.AH30                       CDS_PINID      \IO_L18N_T2_13\
+ IC1.AJ1                        CDS_PINID      \IO_L17P_T2_34\
+ IC1.AJ2                        CDS_PINID      \IO_L16N_T2_34\
+ IC1.AJ3                        CDS_PINID      \IO_L18P_T2_34\
+ IC1.AJ4                        CDS_PINID      \IO_L13N_T2_MRCC_34\
+ IC1.AJ5                        CDS_PINID      \VCCO_34_6\
+ IC1.AJ6                        CDS_PINID      \IO_L22P_T3_34\
+ IC1.AJ7                        CDS_PINID      \IO_L21N_T3_DQS_34\
+ IC1.AJ8                        CDS_PINID      \IO_L23P_T3_34\
+ IC1.AJ9                        CDS_PINID      \IO_L15P_T2_DQS_33\
+ IC1.AJ10                       CDS_PINID      \GND_168\
+ IC1.AJ11                       CDS_PINID      \IO_L18N_T2_33\
+ IC1.AJ12                       CDS_PINID      \IO_L22N_T3_33\
+ IC1.AJ13                       CDS_PINID      \IO_L22P_T3_33\
+ IC1.AJ14                       CDS_PINID      \IO_L21N_T3_DQS_33\
+ IC1.AJ15                       CDS_PINID      \VCCO_32_6\
+ IC1.AJ16                       CDS_PINID      \IO_L3N_T0_DQS_32\
+ IC1.AJ17                       CDS_PINID      \IO_L5N_T0_32\
+ IC1.AJ18                       CDS_PINID      \IO_L9P_T1_DQS_32\
+ IC1.AJ19                       CDS_PINID      \IO_L7P_T1_32\
+ IC1.AJ20                       CDS_PINID      \GND_169\
+ IC1.AJ21                       CDS_PINID      \IO_L23N_T3_12\
+ IC1.AJ22                       CDS_PINID      \IO_L21P_T3_DQS_12\
+ IC1.AJ23                       CDS_PINID      \IO_L21N_T3_DQS_12\
+ IC1.AJ24                       CDS_PINID      \IO_L15P_T2_DQS_12\
+ IC1.AJ25                       CDS_PINID      \VCCO_13_6\
+ IC1.AJ26                       CDS_PINID      \IO_L24P_T3_13\
+ IC1.AJ27                       CDS_PINID      \IO_L20P_T3_13\
+ IC1.AJ28                       CDS_PINID      \IO_L17P_T2_13\
+ IC1.AJ29                       CDS_PINID      \IO_L17N_T2_13\
+ IC1.AJ30                       CDS_PINID      \GND_170\
+ IC1.AK1                        CDS_PINID      \IO_L17N_T2_34\
+ IC1.AK2                        CDS_PINID      \VCCO_34_7\
+ IC1.AK3                        CDS_PINID      \IO_L18N_T2_34\
+ IC1.AK4                        CDS_PINID      \IO_L24N_T3_34\
+ IC1.AK5                        CDS_PINID      \IO_L24P_T3_34\
+ IC1.AK6                        CDS_PINID      \IO_L22N_T3_34\
+ IC1.AK7                        CDS_PINID      \GND_171\
+ IC1.AK8                        CDS_PINID      \IO_L23N_T3_34\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  20  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.AK9                        CDS_PINID      \IO_L15N_T2_DQS_33\
+ IC1.AK10                       CDS_PINID      \IO_L17N_T2_33\
+ IC1.AK11                       CDS_PINID      \IO_L17P_T2_33\
+ IC1.AK12                       CDS_PINID      \VCCO_33_6\
+ IC1.AK13                       CDS_PINID      \IO_L20N_T3_33\
+ IC1.AK14                       CDS_PINID      \IO_L20P_T3_33\
+ IC1.AK15                       CDS_PINID      \IO_L1N_T0_32\
+ IC1.AK16                       CDS_PINID      \IO_L1P_T0_32\
+ IC1.AK17                       CDS_PINID      \GND_172\
+ IC1.AK18                       CDS_PINID      \IO_L9N_T1_DQS_32\
+ IC1.AK19                       CDS_PINID      \IO_L7N_T1_32\
+ IC1.AK20                       CDS_PINID      \IO_L24P_T3_12\
+ IC1.AK21                       CDS_PINID      \IO_L24N_T3_12\
+ IC1.AK22                       CDS_PINID      \VCCO_12_6\
+ IC1.AK23                       CDS_PINID      \IO_L17P_T2_12\
+ IC1.AK24                       CDS_PINID      \IO_L17N_T2_12\
+ IC1.AK25                       CDS_PINID      \IO_L15N_T2_DQS_12\
+ IC1.AK26                       CDS_PINID      \IO_L24N_T3_13\
+ IC1.AK27                       CDS_PINID      \GND_173\
+ IC1.AK28                       CDS_PINID      \IO_L20N_T3_13\
+ IC1.AK29                       CDS_PINID      \IO_L15P_T2_DQS_13\
+ IC1.AK30                       CDS_PINID      \IO_L15N_T2_DQS_13\
+ IC1.B1                         CDS_PINID      \MGTXTXN2_118\
+ IC1.B2                         CDS_PINID      \MGTXTXP2_118\
+ IC1.B3                         CDS_PINID      \MGTAVTT_1\
+ IC1.B4                         CDS_PINID      \GND_8\
+ IC1.B5                         CDS_PINID      \MGTXRXN2_118\
+ IC1.B6                         CDS_PINID      \MGTXRXP2_118\
+ IC1.B7                         CDS_PINID      \MGTAVCC_1\
+ IC1.B8                         CDS_PINID      \GND_9\
+ IC1.B9                         CDS_PINID      \GND_10\
+ IC1.B10                        CDS_PINID      \CCLK_0\
+ IC1.B11                        CDS_PINID      \GND_11\
+ IC1.B12                        CDS_PINID      \IO_L15N_T2_DQS_18\
+ IC1.B13                        CDS_PINID      \IO_L22P_T3_18\
+ IC1.B14                        CDS_PINID      \IO_L24P_T3_18\
+ IC1.B15                        CDS_PINID      \IO_L23N_T3_18\
+ IC1.B16                        CDS_PINID      \VCCO_17_2\
+ IC1.B17                        CDS_PINID      \IO_L17N_T2_17\
+ IC1.B18                        CDS_PINID      \IO_L22P_T3_17\
+ IC1.B19                        CDS_PINID      \IO_L24N_T3_17\
+ IC1.B20                        CDS_PINID      \IO_L19N_T3_VREF_17\
+ IC1.B21                        CDS_PINID      \GND_12\
+ IC1.B22                        CDS_PINID      \IO_L23P_T3_17\
+ IC1.B23                        CDS_PINID      \IO_L1P_T0_16\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  21  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.B24                        CDS_PINID      \IO_L8N_T1_16\
+ IC1.B25                        CDS_PINID      \IO_L12N_T1_MRCC_16\
+ IC1.B26                        CDS_PINID      \VCCO_16_2\
+ IC1.B27                        CDS_PINID      \IO_L7P_T1_16\
+ IC1.B28                        CDS_PINID      \IO_L9P_T1_DQS_16\
+ IC1.B29                        CDS_PINID      \IO_L15N_T2_DQS_16\
+ IC1.B30                        CDS_PINID      \IO_L17P_T2_16\
+ IC1.C1                         CDS_PINID      \GND_13\
+ IC1.C2                         CDS_PINID      \GND_14\
+ IC1.C3                         CDS_PINID      \MGTXTXN1_118\
+ IC1.C4                         CDS_PINID      \MGTXTXP1_118\
+ IC1.C5                         CDS_PINID      \MGTAVTT_2\
+ IC1.C6                         CDS_PINID      \GND_15\
+ IC1.C7                         CDS_PINID      \MGTREFCLK0N_118\
+ IC1.C8                         CDS_PINID      \MGTREFCLK0P_118\
+ IC1.C9                         CDS_PINID      \GND_16\
+ IC1.C10                        CDS_PINID      \VCCBATT_0\
+ IC1.C11                        CDS_PINID      \IO_L18N_T2_18\
+ IC1.C12                        CDS_PINID      \IO_L15P_T2_DQS_18\
+ IC1.C13                        CDS_PINID      \VCCO_18_1\
+ IC1.C14                        CDS_PINID      \IO_L21N_T3_DQS_18\
+ IC1.C15                        CDS_PINID      \IO_L23P_T3_18\
+ IC1.C16                        CDS_PINID      \IO_L15N_T2_DQS_17\
+ IC1.C17                        CDS_PINID      \IO_L17P_T2_17\
+ IC1.C18                        CDS_PINID      \GND_17\
+ IC1.C19                        CDS_PINID      \IO_L24P_T3_17\
+ IC1.C20                        CDS_PINID      \IO_L19P_T3_17\
+ IC1.C21                        CDS_PINID      \IO_L8N_T1_17\
+ IC1.C22                        CDS_PINID      \IO_L10N_T1_17\
+ IC1.C23                        CDS_PINID      \VCCO_16_3\
+ IC1.C24                        CDS_PINID      \IO_L8P_T1_16\
+ IC1.C25                        CDS_PINID      \IO_L12P_T1_MRCC_16\
+ IC1.C26                        CDS_PINID      \IO_L11N_T1_SRCC_16\
+ IC1.C27                        CDS_PINID      \IO_L13N_T2_MRCC_16\
+ IC1.C28                        CDS_PINID      \GND_18\
+ IC1.C29                        CDS_PINID      \IO_L15P_T2_DQS_16\
+ IC1.C30                        CDS_PINID      \IO_L16N_T2_16\
+ IC1.D1                         CDS_PINID      \MGTXTXN0_118\
+ IC1.D2                         CDS_PINID      \MGTXTXP0_118\
+ IC1.D3                         CDS_PINID      \MGTAVTT_3\
+ IC1.D4                         CDS_PINID      \GND_19\
+ IC1.D5                         CDS_PINID      \MGTXRXN1_118\
+ IC1.D6                         CDS_PINID      \MGTXRXP1_118\
+ IC1.D7                         CDS_PINID      \MGTAVCC_2\
+ IC1.D8                         CDS_PINID      \GND_20\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  22  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.D9                         CDS_PINID      \GND_21\
+ IC1.D10                        CDS_PINID      \VCCO_18_2\
+ IC1.D11                        CDS_PINID      \IO_L18P_T2_18\
+ IC1.D12                        CDS_PINID      \IO_L13P_T2_MRCC_18\
+ IC1.D13                        CDS_PINID      \IO_L13N_T2_MRCC_18\
+ IC1.D14                        CDS_PINID      \IO_L21P_T3_DQS_18\
+ IC1.D15                        CDS_PINID      \GND_22\
+ IC1.D16                        CDS_PINID      \IO_L15P_T2_DQS_17\
+ IC1.D17                        CDS_PINID      \IO_L13P_T2_MRCC_17\
+ IC1.D18                        CDS_PINID      \IO_L13N_T2_MRCC_17\
+ IC1.D19                        CDS_PINID      \IO_L14N_T2_SRCC_17\
+ IC1.D20                        CDS_PINID      \VCCO_17_3\
+ IC1.D21                        CDS_PINID      \IO_L8P_T1_17\
+ IC1.D22                        CDS_PINID      \IO_L10P_T1_17\
+ IC1.D23                        CDS_PINID      \IO_L2N_T0_16\
+ IC1.D24                        CDS_PINID      \IO_L4N_T0_16\
+ IC1.D25                        CDS_PINID      \GND_23\
+ IC1.D26                        CDS_PINID      \IO_L11P_T1_SRCC_16\
+ IC1.D27                        CDS_PINID      \IO_L13P_T2_MRCC_16\
+ IC1.D28                        CDS_PINID      \IO_L14N_T2_SRCC_16\
+ IC1.D29                        CDS_PINID      \IO_L16P_T2_16\
+ IC1.D30                        CDS_PINID      \VCCO_16_4\
+ IC1.E1                         CDS_PINID      \GND_24\
+ IC1.E2                         CDS_PINID      \GND_25\
+ IC1.E3                         CDS_PINID      \MGTXRXN0_118\
+ IC1.E4                         CDS_PINID      \MGTXRXP0_118\
+ IC1.E5                         CDS_PINID      \MGTAVTT_4\
+ IC1.E6                         CDS_PINID      \GND_26\
+ IC1.E7                         CDS_PINID      \MGTREFCLK1N_118\
+ IC1.E8                         CDS_PINID      \MGTREFCLK1P_118\
+ IC1.E9                         CDS_PINID      \GND_27\
+ IC1.E10                        CDS_PINID      \TCK_0\
+ IC1.E11                        CDS_PINID      \IO_L16N_T2_18\
+ IC1.E12                        CDS_PINID      \GND_28\
+ IC1.E13                        CDS_PINID      \IO_L14N_T2_SRCC_18\
+ IC1.E14                        CDS_PINID      \IO_L20P_T3_18\
+ IC1.E15                        CDS_PINID      \IO_L20N_T3_18\
+ IC1.E16                        CDS_PINID      \IO_L19N_T3_VREF_18\
+ IC1.E17                        CDS_PINID      \VCCO_17_4\
+ IC1.E18                        CDS_PINID      \IO_25_17\
+ IC1.E19                        CDS_PINID      \IO_L14P_T2_SRCC_17\
+ IC1.E20                        CDS_PINID      \IO_L12N_T1_MRCC_17\
+ IC1.E21                        CDS_PINID      \IO_L11N_T1_SRCC_17\
+ IC1.E22                        CDS_PINID      \GND_29\
+ IC1.E23                        CDS_PINID      \IO_L2P_T0_16\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  23  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.E24                        CDS_PINID      \IO_L4P_T0_16\
+ IC1.E25                        CDS_PINID      \IO_L3N_T0_DQS_16\
+ IC1.E26                        CDS_PINID      \IO_L5N_T0_16\
+ IC1.E27                        CDS_PINID      \VCCO_16_5\
+ IC1.E28                        CDS_PINID      \IO_L14P_T2_SRCC_16\
+ IC1.E29                        CDS_PINID      \IO_L18P_T2_16\
+ IC1.E30                        CDS_PINID      \IO_L18N_T2_16\
+ IC1.F1                         CDS_PINID      \MGTXTXN3_117\
+ IC1.F2                         CDS_PINID      \MGTXTXP3_117\
+ IC1.F3                         CDS_PINID      \MGTAVTT_5\
+ IC1.F4                         CDS_PINID      \GND_30\
+ IC1.F5                         CDS_PINID      \MGTXRXN3_117\
+ IC1.F6                         CDS_PINID      \MGTXRXP3_117\
+ IC1.F7                         CDS_PINID      \MGTAVCC_3\
+ IC1.F8                         CDS_PINID      \GND_31\
+ IC1.F9                         CDS_PINID      \GND_32\
+ IC1.F10                        CDS_PINID      \TMS_0\
+ IC1.F11                        CDS_PINID      \IO_L16P_T2_18\
+ IC1.F12                        CDS_PINID      \IO_L14P_T2_SRCC_18\
+ IC1.F13                        CDS_PINID      \IO_L12N_T1_MRCC_18\
+ IC1.F14                        CDS_PINID      \VCCO_18_3\
+ IC1.F15                        CDS_PINID      \IO_L19P_T3_18\
+ IC1.F16                        CDS_PINID      \IO_25_18\
+ IC1.F17                        CDS_PINID      \IO_L18N_T2_17\
+ IC1.F18                        CDS_PINID      \IO_L16N_T2_17\
+ IC1.F19                        CDS_PINID      \GND_33\
+ IC1.F20                        CDS_PINID      \IO_L12P_T1_MRCC_17\
+ IC1.F21                        CDS_PINID      \IO_L11P_T1_SRCC_17\
+ IC1.F22                        CDS_PINID      \IO_L9N_T1_DQS_17\
+ IC1.F23                        CDS_PINID      \IO_0_16\
+ IC1.F24                        CDS_PINID      \VCCO_16_6\
+ IC1.F25                        CDS_PINID      \IO_L3P_T0_DQS_16\
+ IC1.F26                        CDS_PINID      \IO_L5P_T0_16\
+ IC1.F27                        CDS_PINID      \IO_L21N_T3_DQS_16\
+ IC1.F28                        CDS_PINID      \IO_L20N_T3_16\
+ IC1.F29                        CDS_PINID      \GND_34\
+ IC1.F30                        CDS_PINID      \IO_L22N_T3_16\
+ IC1.G1                         CDS_PINID      \GND_35\
+ IC1.G2                         CDS_PINID      \GND_36\
+ IC1.G3                         CDS_PINID      \MGTXRXN2_117\
+ IC1.G4                         CDS_PINID      \MGTXRXP2_117\
+ IC1.G5                         CDS_PINID      \MGTAVTT_6\
+ IC1.G6                         CDS_PINID      \GND_37\
+ IC1.G7                         CDS_PINID      \MGTREFCLK0N_117\
+ IC1.G8                         CDS_PINID      \MGTREFCLK0P_117\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  24  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.G9                         CDS_PINID      \GND_38\
+ IC1.G10                        CDS_PINID      \TDO_0\
+ IC1.G11                        CDS_PINID      \VCCO_18_4\
+ IC1.G12                        CDS_PINID      \IO_0_18\
+ IC1.G13                        CDS_PINID      \IO_L12P_T1_MRCC_18\
+ IC1.G14                        CDS_PINID      \IO_L11N_T1_SRCC_18\
+ IC1.G15                        CDS_PINID      \IO_L7N_T1_18\
+ IC1.G16                        CDS_PINID      \GND_39\
+ IC1.G17                        CDS_PINID      \IO_L18P_T2_17\
+ IC1.G18                        CDS_PINID      \IO_L16P_T2_17\
+ IC1.G19                        CDS_PINID      \IO_0_17\
+ IC1.G20                        CDS_PINID      \IO_L2N_T0_17\
+ IC1.G21                        CDS_PINID      \VCCO_17_5\
+ IC1.G22                        CDS_PINID      \IO_L9P_T1_DQS_17\
+ IC1.G23                        CDS_PINID      \IO_L6P_T0_16\
+ IC1.G24                        CDS_PINID      \IO_L6N_T0_VREF_16\
+ IC1.G25                        CDS_PINID      \IO_25_16\
+ IC1.G26                        CDS_PINID      \GND_40\
+ IC1.G27                        CDS_PINID      \IO_L21P_T3_DQS_16\
+ IC1.G28                        CDS_PINID      \IO_L20P_T3_16\
+ IC1.G29                        CDS_PINID      \IO_L22P_T3_16\
+ IC1.G30                        CDS_PINID      \IO_L24N_T3_16\
+ IC1.H1                         CDS_PINID      \MGTXTXN2_117\
+ IC1.H2                         CDS_PINID      \MGTXTXP2_117\
+ IC1.H3                         CDS_PINID      \MGTAVTT_7\
+ IC1.H4                         CDS_PINID      \GND_41\
+ IC1.H5                         CDS_PINID      \MGTXRXN1_117\
+ IC1.H6                         CDS_PINID      \MGTXRXP1_117\
+ IC1.H7                         CDS_PINID      \MGTAVCC_4\
+ IC1.H8                         CDS_PINID      \GND_42\
+ IC1.H9                         CDS_PINID      \GND_43\
+ IC1.H10                        CDS_PINID      \TDI_0\
+ IC1.H11                        CDS_PINID      \IO_L10P_T1_18\
+ IC1.H12                        CDS_PINID      \IO_L10N_T1_18\
+ IC1.H13                        CDS_PINID      \GND_44\
+ IC1.H14                        CDS_PINID      \IO_L11P_T1_SRCC_18\
+ IC1.H15                        CDS_PINID      \IO_L7P_T1_18\
+ IC1.H16                        CDS_PINID      \IO_L9N_T1_DQS_18\
+ IC1.H17                        CDS_PINID      \IO_L3N_T0_DQS_17\
+ IC1.H18                        CDS_PINID      \VCCO_17_6\
+ IC1.H19                        CDS_PINID      \IO_L4N_T0_17\
+ IC1.H20                        CDS_PINID      \IO_L2P_T0_17\
+ IC1.H21                        CDS_PINID      \IO_L7P_T1_17\
+ IC1.H22                        CDS_PINID      \IO_L7N_T1_17\
+ IC1.H23                        CDS_PINID      \GND_45\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  25  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.H24                        CDS_PINID      \IO_L19P_T3_16\
+ IC1.H25                        CDS_PINID      \IO_L19N_T3_VREF_16\
+ IC1.H26                        CDS_PINID      \IO_L23P_T3_16\
+ IC1.H27                        CDS_PINID      \IO_L23N_T3_16\
+ IC1.H28                        CDS_PINID      \VCCO_16_7\
+ IC1.H29                        CDS_PINID      \IO_L7N_T1_AD10N_15\
+ IC1.H30                        CDS_PINID      \IO_L24P_T3_16\
+ IC1.J1                         CDS_PINID      \GND_46\
+ IC1.J2                         CDS_PINID      \GND_47\
+ IC1.J3                         CDS_PINID      \MGTXTXN1_117\
+ IC1.J4                         CDS_PINID      \MGTXTXP1_117\
+ IC1.J5                         CDS_PINID      \MGTAVTT_8\
+ IC1.J6                         CDS_PINID      \GND_48\
+ IC1.J7                         CDS_PINID      \MGTREFCLK1N_117\
+ IC1.J8                         CDS_PINID      \MGTREFCLK1P_117\
+ IC1.J9                         CDS_PINID      \GND_49\
+ IC1.J10                        CDS_PINID      \GND_50\
+ IC1.J11                        CDS_PINID      \IO_L8P_T1_18\
+ IC1.J12                        CDS_PINID      \IO_L8N_T1_18\
+ IC1.J13                        CDS_PINID      \IO_L4N_T0_18\
+ IC1.J14                        CDS_PINID      \IO_L5N_T0_18\
+ IC1.J15                        CDS_PINID      \VCCO_18_5\
+ IC1.J16                        CDS_PINID      \IO_L9P_T1_DQS_18\
+ IC1.J17                        CDS_PINID      \IO_L3P_T0_DQS_17\
+ IC1.J18                        CDS_PINID      \IO_L1N_T0_17\
+ IC1.J19                        CDS_PINID      \IO_L4P_T0_17\
+ IC1.J20                        CDS_PINID      \GND_51\
+ IC1.J21                        CDS_PINID      \IO_L5P_T0_AD2P_15\
+ IC1.J22                        CDS_PINID      \IO_L5N_T0_AD2N_15\
+ IC1.J23                        CDS_PINID      \IO_L1P_T0_AD0P_15\
+ IC1.J24                        CDS_PINID      \IO_L1N_T0_AD0N_15\
+ IC1.J25                        CDS_PINID      \VCCO_15_1\
+ IC1.J26                        CDS_PINID      \IO_L10N_T1_AD4N_15\
+ IC1.J27                        CDS_PINID      \IO_L8P_T1_AD3P_15\
+ IC1.J28                        CDS_PINID      \IO_L8N_T1_AD3N_15\
+ IC1.J29                        CDS_PINID      \IO_L7P_T1_AD10P_15\
+ IC1.J30                        CDS_PINID      \GND_52\
+ IC1.K1                         CDS_PINID      \MGTXTXN0_117\
+ IC1.K2                         CDS_PINID      \MGTXTXP0_117\
+ IC1.K3                         CDS_PINID      \MGTAVTT_9\
+ IC1.K4                         CDS_PINID      \GND_53\
+ IC1.K5                         CDS_PINID      \MGTXRXN0_117\
+ IC1.K6                         CDS_PINID      \MGTXRXP0_117\
+ IC1.K7                         CDS_PINID      \MGTAVCC_5\
+ IC1.K8                         CDS_PINID      \GND_54\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  26  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.K9                         CDS_PINID      \GND_55\
+ IC1.K10                        CDS_PINID      \PROGRAM_B_0\
+ IC1.K11                        CDS_PINID      \IO_L6N_T0_VREF_18\
+ IC1.K12                        CDS_PINID      \VCCO_18_6\
+ IC1.K13                        CDS_PINID      \IO_L4P_T0_18\
+ IC1.K14                        CDS_PINID      \IO_L5P_T0_18\
+ IC1.K15                        CDS_PINID      \IO_L2N_T0_18\
+ IC1.K16                        CDS_PINID      \IO_L1N_T0_18\
+ IC1.K17                        CDS_PINID      \GND_56\
+ IC1.K18                        CDS_PINID      \IO_L1P_T0_17\
+ IC1.K19                        CDS_PINID      \IO_L6P_T0_17\
+ IC1.K20                        CDS_PINID      \IO_L6N_T0_VREF_17\
+ IC1.K21                        CDS_PINID      \IO_L4N_T0_AD9N_15\
+ IC1.K22                        CDS_PINID      \VCCO_15_2\
+ IC1.K23                        CDS_PINID      \IO_L3P_T0_DQS_AD1P_15\
+ IC1.K24                        CDS_PINID      \IO_L3N_T0_DQS_AD1N_15\
+ IC1.K25                        CDS_PINID      \IO_L12N_T1_MRCC_AD5N_15\
+ IC1.K26                        CDS_PINID      \IO_L10P_T1_AD4P_15\
+ IC1.K27                        CDS_PINID      \GND_57\
+ IC1.K28                        CDS_PINID      \IO_L13P_T2_MRCC_15\
+ IC1.K29                        CDS_PINID      \IO_L13N_T2_MRCC_15\
+ IC1.K30                        CDS_PINID      \IO_L9N_T1_DQS_AD11N_15\
+ IC1.L1                         CDS_PINID      \GND_58\
+ IC1.L2                         CDS_PINID      \GND_59\
+ IC1.L3                         CDS_PINID      \MGTXTXN3_116\
+ IC1.L4                         CDS_PINID      \MGTXTXP3_116\
+ IC1.L5                         CDS_PINID      \MGTAVTT_10\
+ IC1.L6                         CDS_PINID      \GND_60\
+ IC1.L7                         CDS_PINID      \MGTREFCLK0N_116\
+ IC1.L8                         CDS_PINID      \MGTREFCLK0P_116\
+ IC1.L9                         CDS_PINID      \GND_61\
+ IC1.L10                        CDS_PINID      \CFGBVS_0\
+ IC1.L11                        CDS_PINID      \IO_L6P_T0_18\
+ IC1.L12                        CDS_PINID      \IO_L3P_T0_DQS_18\
+ IC1.L13                        CDS_PINID      \IO_L3N_T0_DQS_18\
+ IC1.L14                        CDS_PINID      \GND_62\
+ IC1.L15                        CDS_PINID      \IO_L2P_T0_18\
+ IC1.L16                        CDS_PINID      \IO_L1P_T0_18\
+ IC1.L17                        CDS_PINID      \IO_L5P_T0_17\
+ IC1.L18                        CDS_PINID      \IO_L5N_T0_17\
+ IC1.L19                        CDS_PINID      \VCCO_17_7\
+ IC1.L20                        CDS_PINID      \IO_L6N_T0_VREF_15\
+ IC1.L21                        CDS_PINID      \IO_L4P_T0_AD9P_15\
+ IC1.L22                        CDS_PINID      \IO_L2P_T0_AD8P_15\
+ IC1.L23                        CDS_PINID      \IO_L2N_T0_AD8N_15\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  27  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.L24                        CDS_PINID      \GND_63\
+ IC1.L25                        CDS_PINID      \IO_L12P_T1_MRCC_AD5P_15\
+ IC1.L26                        CDS_PINID      \IO_L11P_T1_SRCC_AD12P_15\
+ IC1.L27                        CDS_PINID      \IO_L11N_T1_SRCC_AD12N_15\
+ IC1.L28                        CDS_PINID      \IO_L14N_T2_SRCC_15\
+ IC1.L29                        CDS_PINID      \VCCO_15_3\
+ IC1.L30                        CDS_PINID      \IO_L9P_T1_DQS_AD11P_15\
+ IC1.M1                         CDS_PINID      \MGTXTXN2_116\
+ IC1.M2                         CDS_PINID      \MGTXTXP2_116\
+ IC1.M3                         CDS_PINID      \MGTAVTT_11\
+ IC1.M4                         CDS_PINID      \GND_64\
+ IC1.M5                         CDS_PINID      \MGTXRXN3_116\
+ IC1.M6                         CDS_PINID      \MGTXRXP3_116\
+ IC1.M7                         CDS_PINID      \MGTAVCC_6\
+ IC1.M8                         CDS_PINID      \GND_65\
+ IC1.M9                         CDS_PINID      \GND_66\
+ IC1.M10                        CDS_PINID      \DONE_0\
+ IC1.M11                        CDS_PINID      \VCCINT_1\
+ IC1.M12                        CDS_PINID      \GND_67\
+ IC1.M13                        CDS_PINID      \VCCINT_2\
+ IC1.M14                        CDS_PINID      \GND_68\
+ IC1.M15                        CDS_PINID      \VCCINT_3\
+ IC1.M16                        CDS_PINID      \GND_69\
+ IC1.M17                        CDS_PINID      \VCCINT_4\
+ IC1.M18                        CDS_PINID      \GND_70\
+ IC1.M19                        CDS_PINID      \IO_0_15\
+ IC1.M20                        CDS_PINID      \IO_L6P_T0_15\
+ IC1.M21                        CDS_PINID      \GND_71\
+ IC1.M22                        CDS_PINID      \IO_L24P_T3_RS1_15\
+ IC1.M23                        CDS_PINID      \IO_L24N_T3_RS0_15\
+ IC1.M24                        CDS_PINID      \IO_L23P_T3_FOE_B_15\
+ IC1.M25                        CDS_PINID      \IO_L23N_T3_FWE_B_15\
+ IC1.M26                        CDS_PINID      \VCCO_15_4\
+ IC1.M27                        CDS_PINID      \IO_L16N_T2_A27_15\
+ IC1.M28                        CDS_PINID      \IO_L14P_T2_SRCC_15\
+ IC1.M29                        CDS_PINID      \IO_L15P_T2_DQS_15\
+ IC1.M30                        CDS_PINID      \IO_L15N_T2_DQS_ADV_B_15\
+ IC1.N1                         CDS_PINID      \GND_72\
+ IC1.N2                         CDS_PINID      \GND_73\
+ IC1.N3                         CDS_PINID      \MGTXTXN1_116\
+ IC1.N4                         CDS_PINID      \MGTXTXP1_116\
+ IC1.N5                         CDS_PINID      \MGTAVTT_12\
+ IC1.N6                         CDS_PINID      \GND_74\
+ IC1.N7                         CDS_PINID      \MGTREFCLK1N_116\
+ IC1.N8                         CDS_PINID      \MGTREFCLK1P_116\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  28  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.N9                         CDS_PINID      \GND_75\
+ IC1.N10                        CDS_PINID      \VCCINT_5\
+ IC1.N11                        CDS_PINID      \GND_76\
+ IC1.N12                        CDS_PINID      \VCCINT_6\
+ IC1.N13                        CDS_PINID      \GND_77\
+ IC1.N14                        CDS_PINID      \VCCINT_7\
+ IC1.N15                        CDS_PINID      \GND_78\
+ IC1.N16                        CDS_PINID      \VCCBRAM_1\
+ IC1.N17                        CDS_PINID      \GND_79\
+ IC1.N18                        CDS_PINID      \VCCINT_8\
+ IC1.N19                        CDS_PINID      \IO_L19P_T3_A22_15\
+ IC1.N20                        CDS_PINID      \IO_L19N_T3_A21_VREF_15\
+ IC1.N21                        CDS_PINID      \IO_L20P_T3_A20_15\
+ IC1.N22                        CDS_PINID      \IO_L20N_T3_A19_15\
+ IC1.N23                        CDS_PINID      \VCCO_15_5\
+ IC1.N24                        CDS_PINID      \IO_L21N_T3_DQS_A18_15\
+ IC1.N25                        CDS_PINID      \IO_L18P_T2_A24_15\
+ IC1.N26                        CDS_PINID      \IO_L18N_T2_A23_15\
+ IC1.N27                        CDS_PINID      \IO_L16P_T2_A28_15\
+ IC1.N28                        CDS_PINID      \GND_80\
+ IC1.N29                        CDS_PINID      \IO_L17P_T2_A26_15\
+ IC1.N30                        CDS_PINID      \IO_L17N_T2_A25_15\
+ IC1.P1                         CDS_PINID      \MGTXTXN0_116\
+ IC1.P2                         CDS_PINID      \MGTXTXP0_116\
+ IC1.P3                         CDS_PINID      \MGTAVTT_13\
+ IC1.P4                         CDS_PINID      \GND_81\
+ IC1.P5                         CDS_PINID      \MGTXRXN2_116\
+ IC1.P6                         CDS_PINID      \MGTXRXP2_116\
+ IC1.P7                         CDS_PINID      \MGTAVCC_7\
+ IC1.P8                         CDS_PINID      \GND_82\
+ IC1.P9                         CDS_PINID      \GND_83\
+ IC1.P10                        CDS_PINID      \GND_84\
+ IC1.P11                        CDS_PINID      \VCCINT_9\
+ IC1.P12                        CDS_PINID      \GND_85\
+ IC1.P13                        CDS_PINID      \VCCAUX_1\
+ IC1.P14                        CDS_PINID      \GNDADC_0\
+ IC1.P15                        CDS_PINID      \VCCADC_0\
+ IC1.P16                        CDS_PINID      \GND_86\
+ IC1.P17                        CDS_PINID      \VCCINT_10\
+ IC1.P18                        CDS_PINID      \GND_87\
+ IC1.P19                        CDS_PINID      \IO_25_15\
+ IC1.P20                        CDS_PINID      \VCCO_15_6\
+ IC1.P21                        CDS_PINID      \IO_L22P_T3_A17_15\
+ IC1.P22                        CDS_PINID      \IO_L22N_T3_A16_15\
+ IC1.P23                        CDS_PINID      \IO_L21P_T3_DQS_15\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  29  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.P24                        CDS_PINID      \IO_L1P_T0_D00_MOSI_14\
+ IC1.P25                        CDS_PINID      \GND_88\
+ IC1.P26                        CDS_PINID      \IO_L10P_T1_D14_14\
+ IC1.P27                        CDS_PINID      \IO_L8P_T1_D11_14\
+ IC1.P28                        CDS_PINID      \IO_L8N_T1_D12_14\
+ IC1.P29                        CDS_PINID      \IO_L7P_T1_D09_14\
+ IC1.P30                        CDS_PINID      \VCCO_14_1\
+ IC1.R1                         CDS_PINID      \GND_89\
+ IC1.R2                         CDS_PINID      \GND_90\
+ IC1.R3                         CDS_PINID      \MGTXRXN1_116\
+ IC1.R4                         CDS_PINID      \MGTXRXP1_116\
+ IC1.R5                         CDS_PINID      \MGTAVTT_14\
+ IC1.R6                         CDS_PINID      \GND_91\
+ IC1.R7                         CDS_PINID      \MGTREFCLK0N_115\
+ IC1.R8                         CDS_PINID      \MGTREFCLK0P_115\
+ IC1.R9                         CDS_PINID      \GND_92\
+ IC1.R10                        CDS_PINID      \VCCINT_11\
+ IC1.R11                        CDS_PINID      \GND_93\
+ IC1.R12                        CDS_PINID      \VCCINT_12\
+ IC1.R13                        CDS_PINID      \GND_94\
+ IC1.R14                        CDS_PINID      \VREFN_0\
+ IC1.R15                        CDS_PINID      \VP_0\
+ IC1.R16                        CDS_PINID      \VCCBRAM_2\
+ IC1.R17                        CDS_PINID      \GND_95\
+ IC1.R18                        CDS_PINID      \VCCINT_13\
+ IC1.R19                        CDS_PINID      \IO_0_14\
+ IC1.R20                        CDS_PINID      \IO_L2P_T0_D02_14\
+ IC1.R21                        CDS_PINID      \IO_L2N_T0_D03_14\
+ IC1.R22                        CDS_PINID      \GND_96\
+ IC1.R23                        CDS_PINID      \IO_L3P_T0_DQS_PUDC_B_14\
+ IC1.R24                        CDS_PINID      \IO_L3N_T0_DQS_EMCCLK_14\
+ IC1.R25                        CDS_PINID      \IO_L1N_T0_D01_DIN_14\
+ IC1.R26                        CDS_PINID      \IO_L10N_T1_D15_14\
+ IC1.R27                        CDS_PINID      \VCCO_14_2\
+ IC1.R28                        CDS_PINID      \IO_L11P_T1_SRCC_14\
+ IC1.R29                        CDS_PINID      \IO_L7N_T1_D10_14\
+ IC1.R30                        CDS_PINID      \IO_L9P_T1_DQS_14\
+ IC1.T1                         CDS_PINID      \MGTXTXN3_115\
+ IC1.T2                         CDS_PINID      \MGTXTXP3_115\
+ IC1.T3                         CDS_PINID      \MGTAVTT_15\
+ IC1.T4                         CDS_PINID      \GND_97\
+ IC1.T5                         CDS_PINID      \MGTXRXN0_116\
+ IC1.T6                         CDS_PINID      \MGTXRXP0_116\
+ IC1.T7                         CDS_PINID      \MGTVCCAUX_1\
+ IC1.T8                         CDS_PINID      \GND_98\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  30  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.T9                         CDS_PINID      \VCCO_0_1\
+ IC1.T10                        CDS_PINID      \GND_99\
+ IC1.T11                        CDS_PINID      \VCCINT_14\
+ IC1.T12                        CDS_PINID      \GND_100\
+ IC1.T13                        CDS_PINID      \VCCAUX_2\
+ IC1.T14                        CDS_PINID      \VN_0\
+ IC1.T15                        CDS_PINID      \VREFP_0\
+ IC1.T16                        CDS_PINID      \GND_101\
+ IC1.T17                        CDS_PINID      \VCCINT_15\
+ IC1.T18                        CDS_PINID      \GND_102\
+ IC1.T19                        CDS_PINID      \GND_103\
+ IC1.T20                        CDS_PINID      \IO_L4P_T0_D04_14\
+ IC1.T21                        CDS_PINID      \IO_L4N_T0_D05_14\
+ IC1.T22                        CDS_PINID      \IO_L5P_T0_D06_14\
+ IC1.T23                        CDS_PINID      \IO_L5N_T0_D07_14\
+ IC1.T24                        CDS_PINID      \VCCO_14_3\
+ IC1.T25                        CDS_PINID      \IO_L14P_T2_SRCC_14\
+ IC1.T26                        CDS_PINID      \IO_L12P_T1_MRCC_14\
+ IC1.T27                        CDS_PINID      \IO_L12N_T1_MRCC_14\
+ IC1.T28                        CDS_PINID      \IO_L11N_T1_SRCC_14\
+ IC1.T29                        CDS_PINID      \GND_104\
+ IC1.T30                        CDS_PINID      \IO_L9N_T1_DQS_D13_14\
+ IC1.U1                         CDS_PINID      \GND_105\
+ IC1.U2                         CDS_PINID      \GND_106\
+ IC1.U3                         CDS_PINID      \MGTXTXN2_115\
+ IC1.U4                         CDS_PINID      \MGTXTXP2_115\
+ IC1.U5                         CDS_PINID      \MGTAVTT_16\
+ IC1.U6                         CDS_PINID      \GND_107\
+ IC1.U7                         CDS_PINID      \MGTREFCLK1N_115\
+ IC1.U8                         CDS_PINID      \MGTREFCLK1P_115\
+ IC1.U9                         CDS_PINID      \GND_108\
+ IC1.U10                        CDS_PINID      \VCCINT_16\
+ IC1.U11                        CDS_PINID      \GND_109\
+ IC1.U12                        CDS_PINID      \VCCINT_17\
+ IC1.U13                        CDS_PINID      \GND_110\
+ IC1.U14                        CDS_PINID      \DXN_0\
+ IC1.U15                        CDS_PINID      \DXP_0\
+ IC1.U16                        CDS_PINID      \VCCBRAM_3\
+ IC1.U17                        CDS_PINID      \GND_111\
+ IC1.U18                        CDS_PINID      \VCCINT_18\
+ IC1.U19                        CDS_PINID      \IO_L6P_T0_FCS_B_14\
+ IC1.U20                        CDS_PINID      \IO_L6N_T0_D08_VREF_14\
+ IC1.U21                        CDS_PINID      \VCCO_14_4\
+ IC1.U22                        CDS_PINID      \IO_L21P_T3_DQS_14\
+ IC1.U23                        CDS_PINID      \IO_L21N_T3_DQS_A06_D22_14\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  31  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.U24                        CDS_PINID      \IO_L23P_T3_A03_D19_14\
+ IC1.U25                        CDS_PINID      \IO_L14N_T2_SRCC_14\
+ IC1.U26                        CDS_PINID      \GND_112\
+ IC1.U27                        CDS_PINID      \IO_L13P_T2_MRCC_14\
+ IC1.U28                        CDS_PINID      \IO_L13N_T2_MRCC_14\
+ IC1.U29                        CDS_PINID      \IO_L15P_T2_DQS_RDWR_B_14\
+ IC1.U30                        CDS_PINID      \IO_L15N_T2_DQS_DOUT_CSO_B_14\
+ IC1.V1                         CDS_PINID      \MGTXTXN1_115\
+ IC1.V2                         CDS_PINID      \MGTXTXP1_115\
+ IC1.V3                         CDS_PINID      \MGTAVTT_17\
+ IC1.V4                         CDS_PINID      \GND_113\
+ IC1.V5                         CDS_PINID      \MGTXRXN3_115\
+ IC1.V6                         CDS_PINID      \MGTXRXP3_115\
+ IC1.V7                         CDS_PINID      \MGTVCCAUX_2\
+ IC1.V8                         CDS_PINID      \GND_114\
+ IC1.V9                         CDS_PINID      \GND_115\
+ IC1.V10                        CDS_PINID      \GND_116\
+ IC1.V11                        CDS_PINID      \VCCAUX_IO_G0_1\
+ IC1.V12                        CDS_PINID      \GND_117\
+ IC1.V13                        CDS_PINID      \VCCAUX_3\
+ IC1.V14                        CDS_PINID      \GND_118\
+ IC1.V15                        CDS_PINID      \VCCAUX_4\
+ IC1.V16                        CDS_PINID      \GND_119\
+ IC1.V17                        CDS_PINID      \VCCINT_19\
+ IC1.V18                        CDS_PINID      \GND_120\
+ IC1.V19                        CDS_PINID      \IO_L19P_T3_A10_D26_14\
+ IC1.V20                        CDS_PINID      \IO_L19N_T3_A09_D25_VREF_14\
+ IC1.V21                        CDS_PINID      \IO_L22P_T3_A05_D21_14\
+ IC1.V22                        CDS_PINID      \IO_L22N_T3_A04_D20_14\
+ IC1.V23                        CDS_PINID      \GND_121\
+ IC1.V24                        CDS_PINID      \IO_L23N_T3_A02_D18_14\
+ IC1.V25                        CDS_PINID      \IO_L18P_T2_A12_D28_14\
+ IC1.V26                        CDS_PINID      \IO_L16P_T2_CSI_B_14\
+ IC1.V27                        CDS_PINID      \IO_L16N_T2_A15_D31_14\
+ IC1.V28                        CDS_PINID      \VCCO_14_5\
+ IC1.V29                        CDS_PINID      \IO_L17P_T2_A14_D30_14\
+ IC1.V30                        CDS_PINID      \IO_L17N_T2_A13_D29_14\
+ IC1.W1                         CDS_PINID      \GND_122\
+ IC1.W2                         CDS_PINID      \GND_123\
+ IC1.W3                         CDS_PINID      \MGTXRXN2_115\
+ IC1.W4                         CDS_PINID      \MGTXRXP2_115\
+ IC1.W5                         CDS_PINID      \MGTAVTT_18\
+ IC1.W6                         CDS_PINID      \GND_124\
+ IC1.W7                         CDS_PINID      \MGTAVTTRCAL_115\
+ IC1.W8                         CDS_PINID      \MGTRREF_115\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  32  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.W9                         CDS_PINID      \GND_125\
+ IC1.W10                        CDS_PINID      \VCCAUX_IO_G0_2\
+ IC1.W11                        CDS_PINID      \GND_126\
+ IC1.W12                        CDS_PINID      \VCCAUX_IO_G0_3\
+ IC1.W13                        CDS_PINID      \GND_127\
+ IC1.W14                        CDS_PINID      \VCCAUX_5\
+ IC1.W15                        CDS_PINID      \GND_128\
+ IC1.W16                        CDS_PINID      \VCCBRAM_4\
+ IC1.W17                        CDS_PINID      \GND_129\
+ IC1.W18                        CDS_PINID      \VCCINT_20\
+ IC1.W19                        CDS_PINID      \IO_25_14\
+ IC1.W20                        CDS_PINID      \GND_130\
+ IC1.W21                        CDS_PINID      \IO_L24P_T3_A01_D17_14\
+ IC1.W22                        CDS_PINID      \IO_L24N_T3_A00_D16_14\
+ IC1.W23                        CDS_PINID      \IO_L20P_T3_A08_D24_14\
+ IC1.W24                        CDS_PINID      \IO_L20N_T3_A07_D23_14\
+ IC1.W25                        CDS_PINID      \VCCO_14_6\
+ IC1.W26                        CDS_PINID      \IO_L18N_T2_A11_D27_14\
+ IC1.W27                        CDS_PINID      \IO_L2P_T0_13\
+ IC1.W28                        CDS_PINID      \IO_L2N_T0_13\
+ IC1.W29                        CDS_PINID      \IO_L4P_T0_13\
+ IC1.W30                        CDS_PINID      \GND_131\
+ IC1.Y1                         CDS_PINID      \MGTXTXN0_115\
+ IC1.Y2                         CDS_PINID      \MGTXTXP0_115\
+ IC1.Y3                         CDS_PINID      \GND_132\
+ IC1.Y4                         CDS_PINID      \GND_133\
+ IC1.Y5                         CDS_PINID      \MGTXRXN1_115\
+ IC1.Y6                         CDS_PINID      \MGTXRXP1_115\
+ IC1.Y7                         CDS_PINID      \GND_134\
+ IC1.Y8                         CDS_PINID      \GND_135\
+ IC1.Y9                         CDS_PINID      \GND_136\
+ IC1.Y10                        CDS_PINID      \IO_L4N_T0_33\
+ IC1.Y11                        CDS_PINID      \IO_L4P_T0_33\
+ IC1.Y12                        CDS_PINID      \VCCO_33_1\
+ IC1.Y13                        CDS_PINID      \IO_0_VRN_33\
+ IC1.Y14                        CDS_PINID      \IO_0_VRN_32\
+ IC1.Y15                        CDS_PINID      \IO_L24N_T3_32\
+ IC1.Y16                        CDS_PINID      \IO_L24P_T3_32\
+ IC1.Y17                        CDS_PINID      \GND_137\
+ IC1.Y18                        CDS_PINID      \IO_L15N_T2_DQS_32\
+ IC1.Y19                        CDS_PINID      \IO_L15P_T2_DQS_32\
+ IC1.Y20                        CDS_PINID      \IO_0_12\
+ IC1.Y21                        CDS_PINID      \IO_L2P_T0_12\
+ IC1.Y22                        CDS_PINID      \VCCO_12_1\
+ IC1.Y23                        CDS_PINID      \IO_L1P_T0_12\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  33  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.Y24                        CDS_PINID      \IO_L1N_T0_12\
+ IC1.Y25                        CDS_PINID      \IO_0_13\
+ IC1.Y26                        CDS_PINID      \IO_L1P_T0_13\
+ IC1.Y27                        CDS_PINID      \GND_138\
+ IC1.Y28                        CDS_PINID      \IO_L3P_T0_DQS_13\
+ IC1.Y29                        CDS_PINID      \IO_L4N_T0_13\
+ IC1.Y30                        CDS_PINID      \IO_L8P_T1_13\
+ IC2.1                          CDS_PINID      \VCCA\
+ IC2.2                          CDS_PINID      \GND\
+ IC2.3                          CDS_PINID      \A\
+ IC2.4                          CDS_PINID      \B\
+ IC2.5                          CDS_PINID      \DIR\
+ IC2.6                          CDS_PINID      \VCCB\
+ J1.1                           CDS_PINID      \1\
+ J1.2                           CDS_PINID      \2\
+ LED1.1                         CDS_PINID      \A\
+ LED1.2                         CDS_PINID      \K\
+ LED2.1                         CDS_PINID      \K\
+ LED2.2                         CDS_PINID      \A\
+ R1.1                           CDS_PINID      \1\
+ R1.2                           CDS_PINID      \2\
+ R2.1                           CDS_PINID      \1\
+ R2.2                           CDS_PINID      \2\
+ R3.1                           CDS_PINID      \1\
+ R3.2                           CDS_PINID      \2\
+ R406.1                         CDS_PINID      \1\
+ R406.2                         CDS_PINID      \2\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  34  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ULTIMA.brd                    |
+|                                                    Tue Jul 30 18:05:01 2024  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :     167                                        |
+|       Comp definitions added:       9                                        |
+|       Components added      :      12                                        |
+|       Pin property added    :     927                                        |
+|       Slot property added   :      24                                        |
+|                                                                              |
+|   Total ECO changes reported:    1139                                        |
+|------------------------------------------------------------------------------|

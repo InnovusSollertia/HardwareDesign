@@ -3,3 +3,8 @@
 2024-07-30T18:05:01 ===> "D:/PROJECTS/HARDWAREDESIGN/PCB_ULTIMA/allegro/pstxprt.dat"
 2024-07-30T18:05:01 ===> "D:/PROJECTS/HARDWAREDESIGN/PCB_ULTIMA/allegro/pstdmlmodels.dat"
 2024-07-30T18:05:01 ===> "pstdedb.cdsz"
+2024-08-22T18:25:58 ===> "D:/Projects/HardwareDesign/PCB_Ultima/allegro/pstchip.dat"
+2024-08-22T18:25:58 ===> "D:/Projects/HardwareDesign/PCB_Ultima/allegro/pstxnet.dat"
+2024-08-22T18:25:58 ===> "D:/Projects/HardwareDesign/PCB_Ultima/allegro/pstxprt.dat"
+2024-08-22T18:25:58 ===> "D:/Projects/HardwareDesign/PCB_Ultima/allegro/pstdmlmodels.dat"
+2024-08-22T18:25:58 ===> "pstdedb.cdsz"
