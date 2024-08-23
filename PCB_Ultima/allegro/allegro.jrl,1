@@ -1,412 +1,2223 @@
-\t (00:00:05) allegro 23.1 S005 Windows SPB 64-bit Edition
-\t (00:00:05)     Journal start - Fri Aug 23 00:17:22 2024
-\t (00:00:05)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=5756 CPUs=12
-\t (00:00:05) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
-\t (00:00:05) 
-   (00:00:06) Loading axlcore.cxt 
+\t (00:00:04) allegro 23.1 S005 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Fri Aug 23 00:46:16 2024
+\t (00:00:04)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=12752 CPUs=12
+\t (00:00:04) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
 \t (00:00:07) Opening existing design...
 \i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ultima_new"
 \d (00:00:07) Design opened: D:/Projects/HardwareDesign/PCB_Ultima/allegro/ultima_new.brd
-\i (00:00:07) trapsize 5543
-\i (00:00:07) trapsize 5939
-\i (00:00:07) trapsize 6063
-\i (00:00:08) trapsize 6246
-\i (00:00:08) trapsize 6246
+\i (00:00:08) trapsize 1296
+\i (00:00:08) trapsize 1388
+\i (00:00:08) trapsize 1417
+\i (00:00:08) trapsize 1949
+\i (00:00:08) setwindow form.mini
+\i (00:00:08) FORM mini tree  'Components by refdes' 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) trapsize 1949
 \t (00:00:08) Loading NV GPU Plugin
-\i (00:00:08) trapsize 2228
-\i (00:00:10) generaledit 
-\i (00:00:47) design sync eco 
-\t (00:00:47) > Generating Physical Netlist
-\t (00:00:47) Starting genfeedformat...
-\t (00:00:50) > Generating Physical Netlist successful
-\t (00:00:50) > Generating Differences
-\t (00:00:51) > Generating Differences successful
-\t (00:00:51) > Displaying differences output
-\t (00:00:51) > Displaying differences output successful
-\t (00:00:51) > Generating Physical Netlist
-\t (00:00:51) Starting genfeedformat...
-\t (00:00:53) > Generating Physical Netlist successful
-\t (00:00:53) > Generating Differences
-\t (00:00:53) > Generating Differences successful
-\t (00:00:53) > Displaying differences output
-\i (00:00:53) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged
-\i (00:00:53) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
-\i (00:00:53) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged
-\i (00:00:53) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
-\t (00:00:53) > Displaying differences output successful
-\i (00:00:56) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:57) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:58) QtSignal DesignSyncDialog sch_comboBox EditingFinished "."
-\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:01:01) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:01:02) QtSignal DesignSyncDialog sync_button clicked
-\t (00:01:02) Starting Cadence Logic Import...
-\w (00:01:05) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
-\t (00:01:05) Opening existing design...
-\i (00:01:06) trapsize 2228
-\i (00:01:06) generaledit 
-\i (00:01:09) setwindow text
-\i (00:01:09) close
-\i (00:06:16) setwindow pcb
-\i (00:06:16) quickplace 
-\i (00:06:22) setwindow form.quickplc
-\i (00:06:22) FORM quickplc place_by_refdes YES 
-\i (00:06:25) FORM quickplc place_all YES 
-\i (00:06:30) FORM quickplc bottom_edge YES 
-\i (00:06:33) FORM quickplc bottom_edge NO 
-\i (00:06:39) FORM quickplc place  
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:06:39) ERROR(SPMHDB-273): Unable to load shape symbol D105_30 (Check PSMPATH setting for this symbol).
-\w (00:06:39) WARNING(SPMHUT-127): Could not find padstack D105_30.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:06:39) ERROR(SPMHDB-273): Unable to load shape symbol D80_30 (Check PSMPATH setting for this symbol).
-\w (00:06:39) WARNING(SPMHUT-127): Could not find padstack D80_30.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:06:39) ERROR(SPMHDB-273): Unable to load shape symbol D60_35 (Check PSMPATH setting for this symbol).
-\w (00:06:39) WARNING(SPMHUT-127): Could not find padstack D60_35.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:06:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:06:40) Component(s) could not be placed.  See logfile for errors.
-\i (00:06:48) FORM quickplc done  
-\i (00:06:48) setwindow pcb
-\i (00:06:48) generaledit 
-\i (00:06:49) pick grid 13.8140 33.1537
-\t (00:06:49) last pick:  13.8000 33.2000
-\i (00:06:57) place interactive 
-\e (00:06:57) ERROR(SPMHGE-457): Error see the logfile.
-\i (00:06:57) generaledit 
-\i (00:07:01) place manual 
-\i (00:07:02) setwindow form.plc_manual
-\i (00:07:02) FORM plc_manual tree  'Components by refdes' 
-\i (00:07:10) FORM plc_manual categories 'Mechanical symbols' 
-\i (00:07:13) FORM plc_manual categories 'Components by refdes' 
-\i (00:07:14) FORM plc_manual advanced_settings  
-\i (00:07:16) FORM plc_manual library YES 
-\i (00:07:22) FORM plc_manual tree  'Components by refdes' 
-\i (00:07:22) FORM plc_manual placement_list  
-\i (00:07:28) FORM plc_manual tree  C? 'Components by refdes' 
-\i (00:07:31) FORM plc_manual cancel  
-\i (00:07:31) setwindow pcb
-\i (00:07:31) generaledit 
-\i (00:08:18) design sync eco 
-\t (00:08:18) > Generating Physical Netlist
-\t (00:08:18) Starting genfeedformat...
-\t (00:08:20) > Generating Physical Netlist successful
-\t (00:08:20) > Generating Differences
-\t (00:08:20) > Generating Differences successful
-\t (00:08:20) > Displaying differences output
-\t (00:08:20) > Displaying differences output successful
-\t (00:08:21) > Generating Physical Netlist
-\t (00:08:21) Starting genfeedformat...
-\t (00:08:22) > Generating Physical Netlist successful
-\t (00:08:22) > Generating Differences
-\t (00:08:23) > Generating Differences successful
-\t (00:08:23) > Displaying differences output
-\i (00:08:23) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged
-\i (00:08:23) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
-\i (00:08:23) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged
-\i (00:08:23) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
-\t (00:08:23) > Displaying differences output successful
-\i (00:08:27) QtSignal DesignSyncDialog sync_button clicked
-\t (00:08:27) Starting Cadence Logic Import...
-\w (00:08:29) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
-\t (00:08:29) Opening existing design...
-\i (00:08:33) trapsize 2228
-\i (00:08:33) generaledit 
-\i (00:08:45) setwindow text
-\i (00:08:45) close
-\i (00:08:49) setwindow pcb
-\i (00:08:49) color192 
-\i (00:08:50) generaledit 
-\i (00:09:05) xsection 
-\i (00:09:13) QtSignal SPBMainWindow CCMQtXSectionDlg closed
-\i (00:09:14) QtSignal m_vSplitter m_stackupsTab currentChanged
-\i (00:09:14) QtSignal m_vSplitter m_stackupsTab currentChanged
-\i (00:09:14) QtSignal CCMQtXSectionDlg AddLayerDlg closed
-\i (00:09:14) generaledit 
-\i (00:09:19) place manual 
-\i (00:09:19) setwindow form.plc_manual
-\i (00:09:19) FORM plc_manual tree  'Components by refdes' 
-\i (00:09:23) FORM plc_manual tree  C140 'Components by refdes' 
-\i (00:09:27) FORM plc_manual tree  IC2 'Components by refdes' 
-\i (00:09:28) FORM plc_manual tree 'MULTISEL YES' IC2 'Components by refdes' 
-\w (00:09:28) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:09:28) Placing IC2 / XC7K325T-2FFG900I_BGA900C100P30X30_3100X3100X335_XC7K325T-2FFG900I / BGA900C100P30X30_3100X3100X335 on Top.
-\i (00:09:35) FORM plc_manual cancel  
-\i (00:09:35) setwindow pcb
-\i (00:09:35) generaledit 
-\i (00:09:37) zoom out 1 
-\i (00:09:37) setwindow pcb
-\i (00:09:37) zoom out 19.8744 28.7867
-   (00:09:37) Loading consmgr.cxt 
-   (00:09:37) Loading acns_formula.cxt 
-\i (00:09:37) trapsize 2431
-\i (00:09:37) zoom out 1 
-\i (00:09:37) setwindow pcb
-\i (00:09:37) zoom out 21.6873 31.4125
-\i (00:09:37) trapsize 2431
-\i (00:09:37) zoom out 1 
-\i (00:09:37) setwindow pcb
-\i (00:09:37) zoom out 21.6873 31.4125
-\i (00:09:37) trapsize 2431
-\i (00:09:37) zoom out 1 
-\i (00:09:37) setwindow pcb
-\i (00:09:37) zoom out 21.6873 31.4125
-\i (00:09:37) trapsize 2431
-\i (00:09:38) zoom out 1 
-\i (00:09:38) setwindow pcb
-\i (00:09:38) zoom out 21.6873 31.4125
-\i (00:09:38) trapsize 2431
-\i (00:09:51) pop dyn_option_select 'Application Mode@:@Placement Edit' 
-\i (00:09:51) placementedit 
-\i (00:09:51) setwindow form.mini
-\i (00:09:51) FORM mini tree  'Components by refdes' 
-\i (00:10:02) setwindow pcb
-\i (00:10:02) drag_start grid 0.5835 41.3808
-\i (00:10:04) drag_stop 54.0722 43.0827
-\i (00:10:09) pick grid 53.2456 40.4569
-\t (00:10:09) last pick:  53.2000 40.5000
-\i (00:10:10) drag_start grid 52.8079 39.2899
-\i (00:10:13) drag_stop 0.1459 42.9855
-\i (00:10:15) prepopup 2.8689 42.1102
-\i (00:10:17) pop dyn_option_select '@:@Unplace component' 
-\i (00:10:17) unplace component 
-\i (00:10:17) placementedit 
-\i (00:10:23) setwindow form.mini
-\i (00:10:23) FORM mini tree  D1 'Components by refdes' 
-\i (00:10:24) FORM mini tree  DS1 'Components by refdes' 
-\i (00:10:24) FORM mini tree 'MULTISEL YES' DS1 'Components by refdes' 
-\i (00:10:24) setwindow pcb
-\i (00:10:24) place manual 
-\w (00:10:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:10:24) Placing DS1 / SM0603GCL_LEDC1608X60N_SM0603GCL / LEDC1608X60N on Top.
-\i (00:10:30) setwindow form.mini
-\i (00:10:30) FORM mini tree 'MULTISEL NO' DS1 'Components by refdes' 
-\i (00:10:30) setwindow pcb
-\i (00:10:30) placementedit 
-\i (00:10:33) setwindow form.mini
-\i (00:10:33) FORM mini tree  IC2 'Components by refdes' 
-\i (00:10:33) FORM mini tree 'MULTISEL YES' IC2 'Components by refdes' 
-\i (00:10:33) setwindow pcb
-\i (00:10:33) place manual 
-\w (00:10:33) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:10:33) Placing IC2 / XC7K325T-2FFG900I_BGA900C100P30X30_3100X3100X335_XC7K325T-2FFG900I / BGA900C100P30X30_3100X3100X335 on Top.
-\i (00:10:41) pick grid 19.5477 27.0847
-\t (00:10:41) last pick:  19.5000 27.1000
-\i (00:10:41) placementedit 
-\i (00:10:44) zoom in 1 
-\i (00:10:44) setwindow pcb
-\i (00:10:44) zoom in 19.9367 27.5224
-\i (00:10:44) trapsize 1216
-\i (00:10:44) zoom in 1 
-\i (00:10:44) setwindow pcb
-\i (00:10:44) zoom in 19.9367 27.5224
-\i (00:10:44) trapsize 608
-\i (00:10:44) zoom in 1 
-\i (00:10:44) setwindow pcb
-\i (00:10:44) zoom in 19.9368 27.5224
-\i (00:10:44) trapsize 304
-\i (00:10:46) zoom in 1 
-\i (00:10:46) setwindow pcb
-\i (00:10:46) zoom in 19.4505 27.2671
-\i (00:10:46) trapsize 152
-\i (00:10:46) zoom in 1 
-\i (00:10:46) setwindow pcb
-\i (00:10:46) zoom in 19.4504 27.2672
-\i (00:10:46) trapsize 76
-\i (00:10:49) zoom out 1 
-\i (00:10:49) setwindow pcb
-\i (00:10:49) zoom out 19.5979 27.1532
-\i (00:10:49) trapsize 152
-\i (00:10:49) zoom out 1 
-\i (00:10:49) setwindow pcb
-\i (00:10:49) zoom out 19.5979 27.1532
-\i (00:10:49) trapsize 304
-\i (00:10:49) zoom out 1 
-\i (00:10:49) setwindow pcb
-\i (00:10:49) zoom out 19.5978 27.1532
-\i (00:10:49) trapsize 608
-\i (00:10:51) zoom out 1 
-\i (00:10:51) setwindow pcb
-\i (00:10:51) zoom out 20.1449 27.8949
-\i (00:10:51) trapsize 1216
-\i (00:10:51) zoom out 1 
-\i (00:10:51) setwindow pcb
-\i (00:10:51) zoom out 20.1449 27.8949
-\i (00:10:51) trapsize 2431
-\i (00:12:24) drag_start grid 14.9768 31.7528
-\i (00:12:24) drag_stop 21.2496 22.3680
-\i (00:12:26) pick grid 20.7147 27.0847
-\t (00:12:26) last pick:  20.7000 27.1000
-\i (00:12:26) move 
-\t (00:12:26) last pick:  19.5000 27.1000
-\t (00:12:26) Moving IC2 / XC7K325T-2FFG900I_BGA900C100P30X30_3100X3100X335_XC7K325T-2FFG900I / BGA900C100P30X30_3100X3100X335.
-\t (00:12:26) Pick new location for the element(s).
-\i (00:12:28) pick grid 19.7422 27.4737
-\t (00:12:28) last pick:  19.7000 27.5000
-\i (00:12:28) placementedit 
-\i (00:12:29) prepopup 20.1798 28.3490
-\i (00:12:33) pop dyn_option_select '@:@Unplace component' 
-\i (00:12:33) unplace component 
-\i (00:12:33) placementedit 
-\i (00:12:37) design sync eco 
-\t (00:12:37) > Generating Physical Netlist
-\t (00:12:37) Starting genfeedformat...
-\t (00:12:38) > Generating Physical Netlist successful
-\t (00:12:38) > Generating Differences
-\t (00:12:38) > Generating Differences successful
-\t (00:12:38) > Displaying differences output
-\t (00:12:39) > Displaying differences output successful
-\t (00:12:39) > Generating Physical Netlist
-\t (00:12:39) Starting genfeedformat...
-\t (00:12:39) > Generating Physical Netlist successful
-\t (00:12:39) > Generating Differences
-\t (00:12:40) > Generating Differences successful
-\t (00:12:40) > Displaying differences output
-\i (00:12:40) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged
-\i (00:12:40) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
-\i (00:12:40) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged
-\i (00:12:40) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
-\t (00:12:40) > Displaying differences output successful
-\i (00:12:44) QtSignal DesignSyncDialog sync_button clicked
-\t (00:12:44) Starting Cadence Logic Import...
-\w (00:12:45) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
-\t (00:12:45) Opening existing design...
-\i (00:12:46) setwindow form.mini
-\i (00:12:46) FORM mini tree  'Components by refdes' 
-\i (00:12:46) setwindow pcb
-\i (00:12:46) trapsize 2431
-\i (00:12:46) placementedit 
-\i (00:12:48) setwindow text
-\i (00:12:48) close
-\i (00:12:58) setwindow form.mini
-\i (00:12:58) FORM mini tree  IC2 'Components by refdes' 
-\i (00:13:00) FORM mini tree 'MULTISEL YES' IC2 'Components by refdes' 
-\i (00:13:00) setwindow pcb
-\i (00:13:00) place manual 
-\w (00:13:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:13:00) Placing IC2 / XC7K325T-2FFG900I_BGA900C100P30X30_3100X3100X335_XC7K325T-2FFG900I / BGA900C100P30X30_3100X3100X335 on Top.
-\i (00:13:02) pick grid 20.0826 25.0424
-\t (00:13:02) last pick:  20.1000 25.0000
-\i (00:13:03) placementedit 
-\i (00:13:05) setwindow form.mini
-\i (00:13:05) FORM mini tree  IC10 'Components by refdes' 
-\i (00:13:07) FORM mini tree 'MULTISEL YES' IC10 'Components by refdes' 
-\i (00:13:07) setwindow pcb
-\i (00:13:07) place manual 
-\t (00:13:07) Placing IC10 / XC7K325T-2FFG900I_BGA900C100P30X30_3100X3100X335_XC7K325T-2FFG900I / BGA900C100P30X30_3100X3100X335 on Top.
-\i (00:13:12) pick grid 30.2454 25.0911
-\t (00:13:12) last pick:  30.2000 25.1000
-\i (00:13:12) placementedit 
-\i (00:13:14) zoom in 1 
-\i (00:13:14) setwindow pcb
-\i (00:13:14) zoom in 31.0721 26.2581
-\i (00:13:14) trapsize 1216
-\i (00:13:15) zoom in 1 
-\i (00:13:15) setwindow pcb
-\i (00:13:15) zoom in 31.0721 26.2581
-\i (00:13:15) trapsize 608
-\i (00:13:15) zoom in 1 
-\i (00:13:15) setwindow pcb
-\i (00:13:15) zoom in 31.0721 26.2581
-\i (00:13:15) trapsize 304
-\i (00:13:18) zoom out 1 
-\i (00:13:18) setwindow pcb
-\i (00:13:18) zoom out 28.6894 25.5713
-\i (00:13:18) trapsize 608
-\i (00:13:22) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Utilities  (0/8)"
-\i (00:13:22) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Utilities  (0/8)"
-\i (00:13:24) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Utilities  (0/8)" +
-\i (00:13:24) QtSignal "Rats On"
-\i (00:13:24) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Utilities  (0/8)" "Rats On"
-\i (00:13:24) rats all 
-\i (00:13:25) placementedit 
-\i (00:13:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Utilities  (0/8)" +
-\i (00:13:26) QtSignal "Rat Off"
-\i (00:13:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Utilities  (0/8)" "Rat Off"
-\i (00:13:26) unrats all 
-\i (00:13:26) placementedit 
-\i (00:13:28) prepopup 29.1150 28.3187
-\i (00:13:29) drag_start grid 27.7291 28.2823
-\i (00:13:30) drag_stop 26.3068 27.6866
-\i (00:13:30) roam x -96 
-\i (00:13:30) roam x -96
-\i (00:13:30) roam x -96 
-\i (00:13:30) roam x -96
-\i (00:13:30) roam x -96 
-\i (00:13:30) roam x -96
-\i (00:13:31) roam x -96 
-\i (00:13:31) roam x -96
-\i (00:13:31) roam x -96 
-\i (00:13:31) roam x -96
-\i (00:13:31) roam x -96 
-\i (00:13:31) roam x -96
-\i (00:13:33) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Utilities  (0/8)" +
-\i (00:13:33) QtSignal "Rats On"
-\i (00:13:33) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Utilities  (0/8)" "Rats On"
-\i (00:13:33) rats all 
-\i (00:13:33) placementedit 
-\i (00:13:37) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Utilities  (0/8)" +
-\i (00:13:37) QtSignal "Rat Off"
-\i (00:13:37) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Utilities  (0/8)" "Rat Off"
-\i (00:13:37) unrats all 
-\i (00:13:37) placementedit 
-\i (00:13:40) exit 
-\e (00:13:40) Do you want to save the changes you made to D:/Projects/HardwareDesign/PCB_Ultima/allegro/ultima_new.brd?
-\i (00:13:42) fillin yes 
-\t (00:13:43)     Journal end - Fri Aug 23 00:30:59 2024
+\i (00:00:08) trapsize 608
+\i (00:00:12) placementedit 
+\i (00:00:21) design sync eco 
+\t (00:00:21) > Generating Physical Netlist
+\t (00:00:21) Starting genfeedformat...
+\t (00:00:22) > Generating Physical Netlist successful
+\t (00:00:23) > Generating Differences
+\t (00:00:23) > Generating Differences successful
+\t (00:00:23) > Displaying differences output
+\t (00:00:23) > Displaying differences output successful
+\t (00:00:23) > Generating Physical Netlist
+\t (00:00:23) Starting genfeedformat...
+\t (00:00:24) > Generating Physical Netlist successful
+\t (00:00:24) > Generating Differences
+\t (00:00:25) > Generating Differences successful
+\t (00:00:25) > Displaying differences output
+\i (00:00:25) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged
+\i (00:00:25) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
+\i (00:00:25) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged
+\i (00:00:25) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
+\t (00:00:25) > Displaying differences output successful
+\i (00:00:25) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:00:25) QtSignal DesignSyncDialog sync_button clicked
+\t (00:00:25) Starting Cadence Logic Import...
+\w (00:00:27) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:00:27) Opening existing design...
+\i (00:00:30) setwindow form.mini
+\i (00:00:30) FORM mini tree  'Components by refdes' 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) trapsize 608
+\i (00:00:30) placementedit 
+\i (00:00:32) setwindow text
+\i (00:00:32) close
+\i (00:00:43) setwindow pcb
+\i (00:00:43) layer priority 
+\i (00:00:47) setwindow form.layerdlg
+\i (00:00:47) FORM layerdlg cancel  
+\i (00:00:55) setwindow pcb
+\i (00:00:55) cmgr 
+\i (00:00:57) placementedit 
+\i (00:01:00) xsection 
+\i (00:01:00) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:01:00) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:01:30) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(TOP,NAME)"
+\i (00:01:33) QtFillin "Edit mask layer order..."
+\i (00:01:45) QtSignal SPBMainWindow CCMQtXSectionDlg closed
+\i (00:01:45) QtSignal m_vSplitter m_stackupsTab currentChanged
+\i (00:01:45) QtSignal m_vSplitter m_stackupsTab currentChanged
+\i (00:01:45) QtSignal CCMQtXSectionDlg AddLayerDlg closed
+\i (00:01:45) placementedit 
+\i (00:01:47) prmed 
+\i (00:01:47) FORM prmedit design 
+\i (00:01:47) setwindow form.prmedit
+\i (00:01:47) FORM prmedit design  
+\i (00:01:47) setwindow pcb
+\i (00:01:47) trapsize 608
+\i (00:01:50) setwindow form.prmedit
+\i (00:01:50) FORM prmedit units Millimeter 
+\i (00:01:52) FORM prmedit apply  
+   (00:01:52) Loading consmgr.cxt 
+   (00:01:52) Loading acns_formula.cxt 
+\i (00:01:52) setwindow pcb
+\i (00:01:52) trapsize 608
+\t (00:01:52) Performing DRC...
+\t (00:01:52) Multithreaded DRC update (12 threads).
+\t (00:01:53) No DRC errors detected.
+\i (00:01:56) setwindow form.prmedit
+\i (00:01:56) FORM prmedit done  
+\i (00:01:56) setwindow pcb
+\i (00:01:56) placementedit 
+\i (00:02:01) shadow toggle 
+\i (00:02:03) shadow toggle 
+\i (00:02:04) shadow toggle 
+\i (00:02:04) shadow toggle 
+\i (00:02:05) shadow toggle 
+\i (00:02:06) shadow toggle 
+\i (00:02:07) shadow toggle 
+\i (00:02:07) shadow toggle 
+\i (00:02:08) xsection 
+\i (00:02:09) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:02:09) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:02:31) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:02:33) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:02:35) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:02:37) QtSignal inCell combo CurrentIndexChanged "  Dielectric Prepreg"
+\i (00:02:44) QtSignal inCell text editingFinished "0.12"
+\i (00:02:44) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:02:48) QtSignal inCell combo CurrentIndexChanged "3m Adhesive 5506"
+\i (00:02:48) QtSignal inCell combo CurrentIndexChanged "Fr-4"
+\i (00:03:49) QtSignal inCell combo CurrentIndexChanged "1mm Copper"
+\i (00:03:49) QtSignal inCell combo CurrentIndexChanged Copper
+\i (00:03:53) QtSignal inCell combo CurrentIndexChanged "(Clear)"
+\i (00:03:53) QtSignal inCell combo CurrentIndexChanged
+\i (00:04:05) QtSignal inCell combo CurrentIndexChanged "Not embedded"
+\i (00:04:11) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__2_,NAME)"
+\i (00:04:14) QtFillin "Add Layer Pair Below"
+\i (00:04:17) QtSignal inCell combo CurrentIndexChanged "  Conductor"
+\i (00:04:22) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:04:28) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777249 67108864 false +
+\i (00:04:28) QtSignal 1
+\i (00:04:34) QtSignal inCell text editingFinished "0.12"
+\i (00:04:34) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:04:40) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:04:42) QtSignal inCell combo CurrentIndexChanged "  Dielectric Prepreg"
+\i (00:04:47) QtSignal inCell combo CurrentIndexChanged "  Conductor"
+\i (00:04:59) QtSignal inCell text editingFinished 02
+\i (00:05:02) QtFillin OK
+\i (00:05:06) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(TOP,NAME)"
+\i (00:05:07) QtFillin ""
+\i (00:05:16) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__4_,NAME)"
+\i (00:05:18) QtFillin "Add Layer Pair Above"
+\i (00:05:27) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:05:41) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(02,NAME)"
+\i (00:05:41) QtFillin ""
+\i (00:05:44) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(02,_)"
+\i (00:05:47) QtFillin "Remove Layer"
+\i (00:05:49) QtFillin Yes
+\i (00:05:51) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(LAYER_1,_)"
+\i (00:05:52) QtFillin ""
+\i (00:05:52) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(LAYER_1,_)"
+\i (00:05:54) QtFillin "Remove Layer"
+\i (00:05:55) QtFillin Yes
+\i (00:06:00) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(TOP,_)"
+\i (00:06:05) QtFillin "Add Layers..."
+\i (00:06:08) QtSignal AddLayerDlg m_layersCountSpinBox valueChanged 2
+\i (00:06:08) QtSignal AddLayerDlg m_layersCountSpinBox valueChanged 3
+\i (00:06:08) QtSignal AddLayerDlg m_layersCountSpinBox valueChanged 4
+\i (00:06:09) QtSignal AddLayerDlg m_layersCountSpinBox valueChanged 5
+\i (00:06:09) QtSignal AddLayerDlg m_layersCountSpinBox valueChanged 6
+\i (00:06:09) QtSignal AddLayerDlg m_layersCountSpinBox valueChanged 7
+\i (00:06:09) QtSignal AddLayerDlg m_layersCountSpinBox valueChanged 8
+\i (00:06:09) QtSignal AddLayerDlg m_layersCountSpinBox valueChanged 9
+\i (00:06:09) QtSignal AddLayerDlg m_layersCountSpinBox valueChanged 10
+\i (00:06:15) QtSignal m_layersPosGroupBox m_belowSelectedRadio toggled on
+\i (00:06:15) QtSignal m_layersPosGroupBox m_belowSelectedRadio clicked on
+\i (00:06:26) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(TOP,NAME)"
+\i (00:06:31) QtFillin "Add Layer Pair Below"
+\i (00:06:35) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(LAYER_1,NAME)"
+\i (00:06:37) QtFillin "Remove Layer"
+\i (00:06:38) QtFillin Yes
+\i (00:06:46) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(TOP,NAME)"
+\i (00:06:49) QtFillin "Add Layer Above"
+\i (00:06:51) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:06:54) QtSignal inCell combo CurrentIndexChanged "  Surface"
+\i (00:06:56) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:07:04) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(TOP,NAME)"
+\i (00:07:05) QtFillin ""
+\i (00:07:06) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(TOP,NAME)"
+\i (00:07:07) QtFillin "Edit mask layer order..."
+\i (00:07:32) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__4_,NAME)"
+\i (00:07:34) QtFillin "Remove Layer"
+\i (00:07:35) QtFillin Yes
+\i (00:07:37) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__3_,NAME)"
+\i (00:07:40) QtFillin "Remove Layer"
+\i (00:07:41) QtFillin Yes
+\i (00:10:33) QtSignal inCell combo CurrentIndexChanged "3m Adhesive 5506"
+\i (00:10:33) QtSignal inCell combo CurrentIndexChanged "Fr-4"
+\i (00:11:25) QtSignal inCell combo CurrentIndexChanged "1mm Copper"
+\i (00:11:25) QtSignal inCell combo CurrentIndexChanged Copper
+\i (00:11:40) QtSignal inCell combo CurrentIndexChanged "Copper Foil Ha"
+\i (00:11:47) QtSignal inCell text editingFinished "0.2"
+\i (00:11:47) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:11:50) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777219 0 false 1 ""
+\i (00:11:50) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777219 0 false 1 ""
+\i (00:12:01) QtSignal inCell text editingFinished "0.18"
+\i (00:12:01) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:12:15) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:12:17) QtSignal inCell combo CurrentIndexChanged "  Dielectric Prepreg"
+\i (00:12:23) QtSignal inCell text editingFinished "0.12"
+\i (00:12:23) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:12:27) QtSignal inCell combo CurrentIndexChanged "3m Adhesive 5506"
+\i (00:12:27) QtSignal inCell combo CurrentIndexChanged "Fr-4"
+\i (00:12:42) QtSignal m_stackupsTab m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__3_,LAYER)"
+\i (00:12:44) QtFillin Copy
+\i (00:12:46) QtSignal m_stackupsTab m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__3_,LAYER)"
+\i (00:12:47) QtFillin Paste
+\i (00:12:49) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__3_,NAME)"
+\i (00:12:53) QtFillin "Add Layer Below"
+\i (00:12:54) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:12:57) QtSignal inCell combo CurrentIndexChanged "  Dielectric Prepreg"
+\i (00:13:01) QtSignal inCell text editingFinished "0.12"
+\i (00:13:01) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:13:04) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:13:09) QtSignal m_stackupsTab m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__4_,LAYER)"
+\i (00:13:10) QtFillin ""
+\i (00:13:12) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__4_,NAME)"
+\i (00:13:14) QtFillin "Add Layer Below"
+\i (00:13:17) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:13:21) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:13:25) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:13:28) QtSignal inCell combo CurrentIndexChanged "  Conductor"
+\i (00:13:31) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:13:34) QtSignal inCell combo CurrentIndexChanged "  Conductor"
+\i (00:13:35) QtSignal m_stackupsTab m_stackupsTabXSectionView ContextMenu "(TOP,LAYER)"
+\i (00:13:36) QtFillin Copy
+\i (00:13:37) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:13:40) QtSignal m_stackupsTab m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__5_,LAYER)"
+\i (00:13:41) QtFillin Paste
+\i (00:13:47) QtFillin OK
+\i (00:13:49) QtFillin OK
+\i (00:13:52) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__5_,NAME)"
+\i (00:13:55) QtFillin "Remove Layer"
+\i (00:13:56) QtFillin Yes
+\i (00:14:03) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__1_,NAME)"
+\i (00:14:04) QtFillin "Remove Layer"
+\i (00:14:06) QtFillin Yes
+\i (00:14:11) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__3_,NAME)"
+\i (00:14:13) QtFillin "Add Layer Pair Below"
+\i (00:14:22) QtSignal inCell text editingFinished 02
+\i (00:15:18) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777219 0 false 1 ""
+\i (00:15:25) QtSignal inCell text editingFinished "0.035"
+\i (00:15:25) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:15:31) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:15:32) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:15:37) QtSignal inCell combo CurrentIndexChanged "  Dielectric Core"
+\i (00:15:38) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777219 0 false 1 ""
+\i (00:15:44) QtSignal inCell text editingFinished "0.23"
+\i (00:15:44) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:15:48) QtSignal inCell combo CurrentIndexChanged "3m Adhesive 5506"
+\i (00:15:48) QtSignal inCell combo CurrentIndexChanged "Fr-4"
+\i (00:16:04) QtSignal m_stackupsTab m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__5_,LAYER)"
+\i (00:16:05) QtFillin ""
+\i (00:16:05) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(02,NAME)"
+\i (00:16:08) QtFillin "Add Layer Below"
+\i (00:16:10) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777249 67108864 false +
+\i (00:16:10) QtSignal 1
+\i (00:16:10) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 90 67108864 false 1 ""
+\i (00:16:12) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__6_,NAME)"
+\i (00:16:14) QtFillin "Remove Layer"
+\i (00:16:15) QtFillin Yes
+\i (00:16:16) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(02,NAME)"
+\i (00:16:18) QtFillin "Add Layer Pair Below"
+\i (00:16:22) QtSignal inCell text editingFinished 03
+\i (00:16:38) QtSignal inCell text editingFinished "0.23"
+\i (00:16:38) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:16:47) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777219 0 false 1 ""
+\i (00:16:48) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777219 0 false 1 ""
+\i (00:16:51) QtSignal inCell text editingFinished "0.035"
+\i (00:16:51) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:16:54) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:16:59) QtSignal inCell combo CurrentIndexChanged "  Dielectric Prepreg"
+\i (00:17:08) QtSignal inCell text editingFinished "0.21"
+\i (00:17:08) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:17:13) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(03,NAME)"
+\i (00:17:15) QtFillin "Add Layer Below"
+\i (00:17:18) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__8_,NAME)"
+\i (00:17:22) QtFillin ""
+\i (00:17:25) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__8_,NAME)"
+\i (00:17:27) QtFillin "Remove Layer"
+\i (00:17:28) QtFillin Yes
+\i (00:17:32) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777236 0 false 1
+\i (00:17:34) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:17:35) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:18:01) QtSignal inCell text editingFinished "0.21"
+\i (00:18:01) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:18:03) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:18:04) QtSignal inCell combo CurrentIndexChanged "  Dielectric Prepreg"
+\i (00:18:08) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(03,NAME)"
+\i (00:18:10) QtFillin "Add Layer Pair Below"
+\i (00:18:19) QtSignal inCell text editingFinished "0.21"
+\i (00:18:19) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:18:20) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:18:22) QtSignal inCell combo CurrentIndexChanged "  Dielectric Prepreg"
+\i (00:18:25) QtSignal inCell text editingFinished 04
+\i (00:18:46) QtSignal inCell text editingFinished "0.035"
+\i (00:18:46) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:19:56) QtSignal inCell text editingFinished "0.23"
+\i (00:19:56) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:19:58) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:19:58) QtSignal inCell combo CurrentIndexChanged "  Dielectric Prepreg"
+\i (00:20:08) QtSignal inCell combo CurrentIndexChanged "  Dielectric Core"
+\i (00:20:23) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:20:24) QtSignal inCell combo CurrentIndexChanged "  Dielectric Core"
+\i (00:20:51) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,NAME)"
+\i (00:20:54) QtFillin "Add Layer Pair Above"
+\i (00:21:00) QtSignal inCell text editingFinished 05
+\i (00:21:21) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777248 33554432 false +
+\i (00:21:21) QtSignal 1
+\i (00:21:21) QtSignal inCell text editingFinished "0.035"
+\i (00:21:21) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:21:27) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:21:29) QtSignal inCell combo CurrentIndexChanged "  Dielectric Prepreg"
+\i (00:21:31) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777219 0 false 1 ""
+\i (00:21:34) QtSignal inCell text editingFinished "0.21"
+\i (00:21:34) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:21:38) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,NAME)"
+\i (00:21:40) QtFillin "Add Layer Pair Above"
+\i (00:21:42) QtSignal inCell text editingFinished 06
+\i (00:21:55) QtSignal inCell text editingFinished "0.035"
+\i (00:21:55) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:22:06) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:22:07) QtSignal inCell combo CurrentIndexChanged "  Dielectric Core"
+\i (00:22:12) QtSignal inCell text editingFinished "0.23"
+\i (00:22:12) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:22:36) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,NAME)"
+\i (00:22:38) QtFillin "Add Layer Pair Above"
+\i (00:22:41) QtSignal inCell text editingFinished 07
+\i (00:22:48) QtSignal inCell text editingFinished "0.035"
+\i (00:22:48) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:22:55) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:22:57) QtSignal inCell combo CurrentIndexChanged "  Dielectric Prepreg"
+\i (00:23:03) QtSignal inCell text editingFinished "0.21"
+\i (00:23:03) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:23:05) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,NAME)"
+\i (00:23:06) QtFillin "Add Layer Pair Above"
+\i (00:23:09) QtSignal inCell text editingFinished 08
+\i (00:23:21) QtSignal inCell text editingFinished "0.035"
+\i (00:23:21) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:23:27) QtSignal inCell text editingFinished "0.23"
+\i (00:23:28) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:23:29) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:23:30) QtSignal inCell combo CurrentIndexChanged "  Dielectric Core"
+\i (00:23:32) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,NAME)"
+\i (00:23:34) QtFillin "Add Layer Pair Above"
+\i (00:23:36) QtSignal inCell text editingFinished 09
+\i (00:23:45) QtSignal inCell text editingFinished "0.035"
+\i (00:23:45) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:23:47) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:23:49) QtSignal inCell combo CurrentIndexChanged "  Dielectric Prepreg"
+\i (00:23:56) QtSignal inCell text editingFinished "0.21"
+\i (00:23:56) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:24:02) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,NAME)"
+\i (00:24:04) QtFillin "Add Layer Pair Above"
+\i (00:24:07) QtSignal inCell text editingFinished 10
+\i (00:24:16) QtSignal inCell text editingFinished "0.035"
+\i (00:24:16) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:24:18) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:24:20) QtSignal inCell combo CurrentIndexChanged "  Dielectric Core"
+\i (00:24:27) QtSignal inCell text editingFinished "0.23"
+\i (00:24:27) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:25:19) QtSignal inCell combo CurrentIndexChanged "(Clear)"
+\i (00:25:19) QtSignal inCell combo CurrentIndexChanged
+\i (00:26:01) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,NAME)"
+\i (00:26:03) QtFillin "Add Layer Pair Above"
+\i (00:26:05) QtSignal inCell text editingFinished 11
+\i (00:26:11) QtSignal inCell text editingFinished "0.035"
+\i (00:26:11) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:26:21) QtSignal inCell text editingFinished "0.21"
+\i (00:26:21) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:26:23) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:26:24) QtSignal inCell combo CurrentIndexChanged "  Dielectric Prepreg"
+\i (00:26:38) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,NAME)"
+\i (00:26:39) QtFillin "Add Layer Pair Above"
+\i (00:26:41) QtSignal inCell text editingFinished 12
+\i (00:26:51) QtSignal inCell text editingFinished "0.035"
+\i (00:26:51) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:26:53) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:26:55) QtSignal inCell combo CurrentIndexChanged "  Dielectric Core"
+\i (00:27:00) QtSignal inCell text editingFinished "0.23"
+\i (00:27:00) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:28:00) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,NAME)"
+\i (00:28:01) QtFillin "Add Layer Pair Above"
+\i (00:28:04) QtSignal inCell text editingFinished 13
+\i (00:28:12) QtSignal inCell text editingFinished "0.035"
+\i (00:28:12) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:28:14) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:28:16) QtSignal inCell combo CurrentIndexChanged "  Dielectric Prepreg"
+\i (00:28:24) QtSignal inCell text editingFinished "0.21"
+\i (00:28:24) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:28:30) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,NAME)"
+\i (00:28:32) QtFillin "Add Layer Pair Above"
+\i (00:28:34) QtSignal inCell text editingFinished 14
+\i (00:28:46) QtSignal inCell text editingFinished "0.035"
+\i (00:28:46) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:28:48) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:28:50) QtSignal inCell combo CurrentIndexChanged "  Dielectric Core"
+\i (00:28:53) QtSignal inCell text editingFinished "0.23"
+\i (00:28:53) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:29:01) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,NAME)"
+\i (00:29:03) QtFillin "Add Layer Pair Above"
+\i (00:29:05) QtSignal inCell text editingFinished 15
+\i (00:29:09) QtSignal inCell text editingFinished "0.035"
+\i (00:29:10) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:29:11) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:29:14) QtSignal inCell combo CurrentIndexChanged "  Dielectric Prepreg"
+\i (00:29:16) QtSignal inCell text editingFinished "0.21"
+\i (00:29:16) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:29:25) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,NAME)"
+\i (00:29:26) QtFillin "Add Layer Pair Above"
+\i (00:29:29) QtSignal inCell text editingFinished 16
+\i (00:29:40) QtSignal inCell text editingFinished "0.035"
+\i (00:29:40) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:29:42) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:29:43) QtSignal inCell combo CurrentIndexChanged "  Dielectric Core"
+\i (00:29:50) QtSignal inCell text editingFinished "0.23"
+\i (00:29:50) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:29:58) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,NAME)"
+\i (00:30:00) QtFillin "Add Layer Pair Above"
+\i (00:30:02) QtSignal inCell text editingFinished 17
+\i (00:30:12) QtSignal inCell text editingFinished "0.035"
+\i (00:30:12) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:30:14) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:30:15) QtSignal inCell combo CurrentIndexChanged "  Dielectric Prepreg"
+\i (00:30:21) QtSignal inCell text editingFinished "0.21"
+\i (00:30:21) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:30:34) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,NAME)"
+\i (00:30:35) QtFillin "Add Layer Pair Above"
+\i (00:30:37) QtSignal inCell text editingFinished 18
+\i (00:30:42) QtSignal inCell text editingFinished "0.035"
+\i (00:30:42) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:30:44) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:30:53) QtSignal inCell combo CurrentIndexChanged "  Dielectric Core"
+\i (00:30:58) QtSignal inCell text editingFinished "0.203"
+\i (00:30:58) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:31:00) QtSignal inCell text editingFinished "0.23"
+\i (00:31:00) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:31:09) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,_)"
+\i (00:31:12) QtFillin "Add Layer Pair Above"
+\i (00:31:22) QtSignal inCell text editingFinished 19
+\i (00:31:32) QtSignal inCell text editingFinished "0.035"
+\i (00:31:32) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:31:37) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:31:39) QtSignal inCell combo CurrentIndexChanged "  Dielectric Prepreg"
+\i (00:31:43) QtSignal inCell text editingFinished "0.12"
+\i (00:31:43) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:31:53) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,NAME)"
+\i (00:31:54) QtFillin "Add Layer Above"
+\i (00:31:56) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:31:58) QtSignal inCell combo CurrentIndexChanged "  Dielectric Prepreg"
+\i (00:32:02) QtSignal inCell text editingFinished "0.12"
+\i (00:32:02) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:32:18) QtSignal inCell combo CurrentIndexChanged "1mm Copper"
+\i (00:32:18) QtSignal inCell combo CurrentIndexChanged "Copper Foil Ha"
+\i (00:32:21) QtSignal inCell combo CurrentIndexChanged Copper
+\i (00:32:33) QtSignal inCell text editingFinished "0.018"
+\i (00:32:33) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:32:47) QtSignal inCell text editingFinished "0.018"
+\i (00:32:47) QtSignal m_stackupsTab XSectionWidget_PRIMARY keyPressEvent 16777220 0 false 1 ""
+\i (00:33:10) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,NAME)"
+\i (00:33:13) QtFillin "Edit mask layer order..."
+\i (00:34:20) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(TOP,NAME)"
+\i (00:34:23) QtFillin "Add Layer Above"
+\i (00:34:25) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:34:27) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:34:31) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:34:33) QtSignal inCell combo CurrentIndexChanged "  Surface"
+\i (00:34:35) QtSignal inCell combo CurrentIndexChanged "  Dielectric"
+\i (00:34:55) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(DIELECTRIC__1_,NAME)"
+\i (00:34:58) QtFillin "Remove Layer"
+\i (00:35:00) QtFillin Yes
+\i (00:35:01) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(TOP,NAME)"
+\i (00:35:03) QtFillin "Add Layers..."
+\i (00:36:03) QtSignal AddLayerDlg m_layerTypeTreeWidget itemSelectionChanged Mask "Design-defined Mask Layers" +
+\i (00:36:03) QtSignal Top "Carbon Top"
+\i (00:36:06) QtSignal AddLayerDlg m_layerFunctionListWidget currentRowChanged 10
+\i (00:36:06) QtSignal AddLayerDlg m_layerFunctionListWidget itemSelectionChanged Resistive
+\i (00:36:29) QtSignal AddLayerDlg m_layerMaterialTreeWidget itemSelectionChanged Dielectric "Carbon Ink 2mil"
+\i (00:36:32) QtSignal AddLayerDlg AddButtonLayer clicked
+\i (00:36:39) QtSignal m_layersPosGroupBox m_belowSelectedRadio toggled off
+\i (00:36:39) QtSignal m_layersPosGroupBox m_aboveSelectedRadio toggled on
+\i (00:36:39) QtSignal m_layersPosGroupBox m_aboveSelectedRadio clicked on
+\i (00:36:59) QtSignal AddLayerDlg m_layerTypeTreeWidget itemSelectionChanged Mask "Design-defined Mask Layers" +
+\i (00:36:59) QtSignal Top "Silkscreen Top"
+\i (00:37:26) QtSignal AddLayerDlg m_layerMaterialTreeWidget itemSelectionChanged Dielectric "Epoxy Ink Uv Cure"
+\i (00:37:28) QtSignal AddLayerDlg AddButtonLayer clicked
+\i (00:37:40) QtSignal AddLayerDlg m_layerTypeTreeWidget itemSelectionChanged Mask "Design-defined Mask Layers" +
+\i (00:37:40) QtSignal Top "Soldermask Top"
+\i (00:37:40) QtSignal AddLayerDlg m_layerTypeTreeWidget itemSelectionChanged Mask "Design-defined Mask Layers" +
+\i (00:37:40) QtSignal Top "Silver Ink Top"
+\i (00:37:43) QtSignal AddLayerDlg m_layerTypeTreeWidget itemSelectionChanged Mask "Design-defined Mask Layers" +
+\i (00:37:43) QtSignal Top "Soldermask Top"
+\i (00:37:48) QtSignal CCMQtXSectionDlg AddLayerDlg closed
+\i (00:37:50) QtSignal AddLayerDlg m_layerFunctionListWidget itemSelectionChanged
+\i (00:37:50) QtSignal AddLayerDlg m_layerFunctionListWidget currentRowChanged "-1"
+\i (00:37:50) QtSignal AddLayerDlg m_layerFunctionListWidget itemSelectionChanged "Solder Mask"
+\i (00:37:50) QtSignal AddLayerDlg m_layerFunctionListWidget currentRowChanged 9
+\i (00:37:52) QtSignal AddLayerDlg m_layerFunctionListWidget itemSelectionChanged
+\i (00:37:52) QtSignal AddLayerDlg m_layerFunctionListWidget currentRowChanged "-1"
+\i (00:37:52) QtSignal AddLayerDlg m_layerFunctionListWidget itemSelectionChanged "Solder Mask"
+\i (00:37:52) QtSignal AddLayerDlg m_layerFunctionListWidget currentRowChanged 9
+\i (00:37:52) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(CARBON_TOP,NAME)"
+\i (00:37:54) QtFillin "Remove Layer"
+\i (00:37:54) QtSignal AddLayerDlg m_layerFunctionListWidget itemSelectionChanged
+\i (00:37:54) QtSignal AddLayerDlg m_layerFunctionListWidget currentRowChanged "-1"
+\i (00:37:54) QtSignal AddLayerDlg m_layerFunctionListWidget itemSelectionChanged "Solder Mask"
+\i (00:37:54) QtSignal AddLayerDlg m_layerFunctionListWidget currentRowChanged 9
+\i (00:37:56) QtFillin Yes
+\i (00:38:25) QtSignal inCell combo CurrentIndexChanged "1mm Copper"
+\i (00:38:25) QtSignal inCell combo CurrentIndexChanged "Epoxy Ink Uv Cure"
+\i (00:38:43) QtSignal m_stackupsTabXSectionView Frozen_m_stackupsTabXSectionView ContextMenu "(BOTTOM,NAME)"
+\i (00:38:44) QtFillin "Add Layers..."
+\i (00:38:44) QtSignal AddLayerDlg m_layerFunctionListWidget itemSelectionChanged
+\i (00:38:44) QtSignal AddLayerDlg m_layerFunctionListWidget currentRowChanged "-1"
+\i (00:38:44) QtSignal AddLayerDlg m_layerFunctionListWidget itemSelectionChanged "Solder Mask"
+\i (00:38:44) QtSignal AddLayerDlg m_layerFunctionListWidget currentRowChanged 9
+\i (00:38:46) QtSignal m_layersPosGroupBox m_aboveSelectedRadio toggled off
+\i (00:38:46) QtSignal m_layersPosGroupBox m_belowSelectedRadio toggled on
+\i (00:38:46) QtSignal m_layersPosGroupBox m_belowSelectedRadio clicked on
+\i (00:38:48) QtSignal AddLayerDlg m_layerFunctionListWidget currentRowChanged 11
+\i (00:38:48) QtSignal AddLayerDlg m_layerFunctionListWidget itemSelectionChanged Silkscreen
+\i (00:38:57) QtSignal AddLayerDlg m_layerMaterialTreeWidget itemSelectionChanged Dielectric "Epoxy Ink Uv Cure"
+\i (00:39:02) QtSignal AddLayerDlg AddButtonLayer clicked
+\i (00:39:04) QtSignal AddLayerDlg ExitButtonLayer clicked
+\i (00:39:26) QtSignal CCMQtXSectionDlg 59580 triggered
+\i (00:40:33) QtSignal File AQFileDialog finished 1
+\i (00:40:33) QtFillin "D:/Projects/HardwareDesign/PCB_Ultima/allegro/CrossSectionLayers.png"
+\i (00:40:43) QtSignal CCMQtXSectionDlg 59583 triggered
+\i (00:40:52) QtSignal CCMQtXSectionDlg DrillChartWidget closed
+\i (00:41:05) QtFillin No
+\i (00:41:07) QtSignal CCMQtXSectionDlg m_ApplyBtn clicked
+\i (00:41:07) QtSignal CCMQtXSectionDlg AddLayerDlg closed
+\i (00:41:07) QtSignal AddLayerDlg m_layerFunctionListWidget itemSelectionChanged
+\i (00:41:07) QtSignal AddLayerDlg m_layerFunctionListWidget currentRowChanged "-1"
+\i (00:41:07) QtSignal AddLayerDlg m_layerMaterialTreeWidget itemSelectionChanged
+\i (00:41:10) QtSignal DrillChartWidget m_Hide clicked
+\i (00:41:12) QtSignal CCMQtXSectionDlg m_OkBtn clicked
+\i (00:41:12) QtSignal CCMQtXSectionDlg AddLayerDlg closed
+\i (00:41:12) updateport CVPane
+\i (00:41:16) placementedit 
+\i (00:41:27) color192 
+\i (00:41:28) placementedit 
+\i (00:41:31) QtSignal CVDTabs CVDLayerContainer keyPressEvent 16777248 33554432 false 1
+\i (00:41:42) QtSignal CVDLayerContainer CVDFilterLayerEntry editingFinished Sil
+\i (00:41:42) QtSignal CVDColorTable CVDColorButton0:0 clicked
+\i (00:41:44) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Top" BrdGeo
+\i (00:41:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:41:45) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:41:47) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Top" PkgGeo
+\i (00:41:47) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 1
+\i (00:41:47) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:41:48) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Top" CmpVal
+\i (00:41:48) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 2
+\i (00:41:48) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:41:49) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Top" DevType
+\i (00:41:49) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 3
+\i (00:41:49) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:41:50) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Top" Tol
+\i (00:41:50) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 5
+\i (00:41:50) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:41:51) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Top" UserPart
+\i (00:41:51) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 6
+\i (00:41:52) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:41:54) QtSignal CVDColorTable CVDColorButton3:0 clicked
+\i (00:41:55) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Bottom" BrdGeo
+\i (00:41:55) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:41:56) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:41:57) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Bottom" PkgGeo
+\i (00:41:57) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 1
+\i (00:41:57) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:41:58) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Bottom" CmpVal
+\i (00:41:58) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 2
+\i (00:41:58) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:41:59) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Bottom" DevType
+\i (00:41:59) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 3
+\i (00:41:59) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:42:01) QtSignal CVDColorTable CVDColorButton0:24 clicked
+\i (00:42:03) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Bottom" BrdGeo
+\i (00:42:03) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:42:03) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:42:04) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Bottom" PkgGeo
+\i (00:42:04) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 1
+\i (00:42:04) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:42:05) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Bottom" CmpVal
+\i (00:42:05) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 2
+\i (00:42:05) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:42:06) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Bottom" DevType
+\i (00:42:06) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 3
+\i (00:42:06) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:42:08) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Bottom" Tol
+\i (00:42:08) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 5
+\i (00:42:08) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:42:09) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Bottom" UserPart
+\i (00:42:09) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 6
+\i (00:42:09) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:42:12) QtSignal CVDLayerTable VertHeader clickedCheckBox "Immersion_Silver_Bottom" 0
+\i (00:42:12) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (00:42:13) QtSignal CVDLayerTable VertHeader clickedCheckBox "Immersion_Silver_Bottom" 1
+\i (00:42:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (00:42:20) QtSignal CVDLayerTable VertHeader clickedCheckBox "Immersion_Silver_Bottom" 0
+\i (00:42:20) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (00:42:21) QtSignal CVDLayerTable VertHeader clickedCheckBox "Immersion_Silver_Top" 0
+\i (00:42:21) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
+\i (00:42:22) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silver_Ink_Bottom" 0
+\i (00:42:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 6 0
+\i (00:42:23) QtSignal CVDLayerTable VertHeader clickedCheckBox "Silver_Ink_Top" 0
+\i (00:42:23) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:42:31) QtSignal CVDColorTable CVDColorButton0:9 clicked
+\i (00:42:32) QtSignal CVDColorTable CVDColorButton0:24 clicked
+\i (00:42:34) QtSignal CVDLayerTable VertHeader clickedButton "Autosilk_Bottom"
+\i (00:42:34) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (00:42:39) QtSignal CVDColorTable CVDColorButton0:0 clicked
+\i (00:42:41) QtSignal CVDLayerTable VertHeader clickedButton "Autosilk_Top"
+\i (00:42:41) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
+\i (00:42:48) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Surface finishes (4)"
+\i (00:42:52) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Bond wire profiles"
+\i (00:42:54) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Analysis
+\i (00:42:55) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Rigid flex"
+\i (00:42:57) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
+\i (00:42:58) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Manufacturing (2)"
+\i (00:43:00) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Components (10)"
+\i (00:43:02) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Components (10)" "Comp value (2)"
+\i (00:43:03) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Components (10)" "Dev type (2)"
+\i (00:43:04) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Components (10)" "Ref des (2)"
+\i (00:43:12) QtSignal CVDColorTable CVDColorButton3:0 clicked
+\i (00:43:15) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedButton RefDes
+\i (00:43:15) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:43:17) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Components (10)" "Dev type (2)"
+\i (00:43:18) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Components (10)" "Comp value (2)"
+\i (00:43:22) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Geometry (4)" "Board geometry (2)"
+\i (00:43:26) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Geometry (4)" "Package geometry (2)"
+\i (00:43:27) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Geometry (4)" "Embedded geometry"
+\i (00:43:31) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas "Constraints region"
+\i (00:43:32) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas "Route keepout"
+\i (00:43:33) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas "Via keepout"
+\i (00:43:34) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas "Package keepout"
+\i (00:43:35) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas "Package keepin"
+\i (00:43:36) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas "Route keepin"
+\i (00:43:41) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" "Non-Conductor" +
+\i (00:43:41) QtSignal Pin
+\i (00:43:42) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" "Non-Conductor" +
+\i (00:43:42) QtSignal Via
+\i (00:43:43) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" "Non-Conductor" +
+\i (00:43:43) QtSignal Drc
+\i (00:43:43) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" "Non-Conductor" +
+\i (00:43:43) QtSignal "Anti etch"
+\i (00:43:45) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" "Non-Conductor" +
+\i (00:43:45) QtSignal Boundary
+\i (00:43:47) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" "Flow plan"
+\i (00:43:49) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" Conductor +
+\i (00:43:49) QtSignal Pin
+\i (00:43:59) QtSignal CVDLayerContainer CVDFilterLayerEntry editingFinished
+\i (00:43:59) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:44:04) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "No_Gloss_All" Mfg 0
+\i (00:44:04) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (00:44:04) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:05) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "No_Gloss_Bottom" Mfg 0
+\i (00:44:05) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
+\i (00:44:05) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:07) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:08) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "No_Gloss_Internal" Mfg 0
+\i (00:44:08) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 6 0
+\i (00:44:09) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "No_Gloss_Top" Mfg 0
+\i (00:44:09) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:44:09) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:10) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "No_Probe_Bottom" Mfg 0
+\i (00:44:10) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:44:10) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:13) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Xsection_Chart" Mfg 0
+\i (00:44:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:44:13) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:14) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Probe_Top" Mfg 0
+\i (00:44:14) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 12 0
+\i (00:44:14) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:15) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Probe_Bottom" Mfg 0
+\i (00:44:15) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 11 0
+\i (00:44:15) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:16) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Photoplot_Outline" Mfg 0
+\i (00:44:16) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 10 0
+\i (00:44:16) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:17) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "No_Probe_Top" Mfg 0
+\i (00:44:17) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 9 0
+\i (00:44:18) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:19) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Surface finishes"
+\i (00:44:21) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Carbon_Bottom" SurFin 0
+\i (00:44:21) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:44:21) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:22) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Carbon_Top" SurFin 0
+\i (00:44:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:44:22) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:23) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Enepig_Bottom" SurFin 0
+\i (00:44:23) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (00:44:23) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:24) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Enepig_Top" SurFin 0
+\i (00:44:24) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
+\i (00:44:25) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Enig_Bottom" SurFin 0
+\i (00:44:25) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (00:44:25) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:26) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Enig_Top" SurFin 0
+\i (00:44:26) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
+\i (00:44:26) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:27) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Gold_Hard_Bottom" SurFin +
+\i (00:44:27) QtSignal 0
+\i (00:44:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 6 0
+\i (00:44:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:30) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Tin_Plate_Top" SurFin 0
+\i (00:44:30) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 19 0
+\i (00:44:31) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Tin_Plate_Bottom" SurFin +
+\i (00:44:31) QtSignal 0
+\i (00:44:31) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 18 0
+\i (00:44:33) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Osp_Top" SurFin 0
+\i (00:44:33) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 15 0
+\i (00:44:33) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:34) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Osp_Bottom" SurFin 0
+\i (00:44:34) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 14 0
+\i (00:44:35) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Immersion_Tin_Top" SurFin +
+\i (00:44:35) QtSignal 0
+\i (00:44:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:44:35) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:37) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Immersion_Tin_Bottom" SurFin +
+\i (00:44:37) QtSignal 0
+\i (00:44:37) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 12 0
+\i (00:44:37) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:38) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Gold_Soft_Top" SurFin 0
+\i (00:44:38) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 9 0
+\i (00:44:38) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:39) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Gold_Soft_Bottom" SurFin +
+\i (00:44:39) QtSignal 0
+\i (00:44:39) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:44:39) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:40) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Gold_Hard_Top" SurFin 0
+\i (00:44:40) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:44:40) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:44:42) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Bond wire profiles"
+\i (00:44:43) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox Profile 0
+\i (00:44:43) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:44:45) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Analysis
+\i (00:44:48) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox Analysis 0
+\i (00:44:48) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:44:49) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Rigid flex"
+\i (00:44:52) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox RgdFlex 0
+\i (00:44:52) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:44:53) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
+\i (00:44:58) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Drawing_Origin" Drawing 0
+\i (00:44:58) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:44:58) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:45:02) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:45:08) QtSignal CVDColorTable CVDColorButton0:13 clicked
+\i (00:45:10) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Ncdrill_Figure" Mfg
+\i (00:45:10) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (00:45:10) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:45:11) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Ncdrill_Legend" Mfg
+\i (00:45:11) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
+\i (00:45:11) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:45:14) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:45:16) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "Comp value"
+\i (00:45:19) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "User part"
+\i (00:45:22) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components Tolerance
+\i (00:45:23) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "Ref des"
+\i (00:45:28) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components Tolerance
+\i (00:45:32) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "User part"
+\i (00:45:35) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:45:42) QtSignal CVDColorTable CVDColorButton0:31 clicked
+\i (00:45:44) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Top" RefDes
+\i (00:45:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 2
+\i (00:45:44) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:45:49) QtSignal CVDColorTable CVDColorButton0:27 clicked
+\i (00:45:50) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Top" RefDes
+\i (00:45:50) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 2
+\i (00:45:50) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:45:55) QtSignal CVDColorTable CVDColorButton5:0 clicked
+\i (00:45:57) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Bottom" RefDes
+\i (00:45:57) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 2
+\i (00:45:57) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:46:02) QtSignal CVDColorTable CVDColorButton0:27 clicked
+\i (00:46:04) QtSignal CVDColorTable CVDColorButton0:20 clicked
+\i (00:46:05) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Display_Top" RefDes
+\i (00:46:05) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 2
+\i (00:46:06) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:46:08) QtSignal CVDColorTable CVDColorButton0:18 clicked
+\i (00:46:12) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Display_Bottom" RefDes
+\i (00:46:12) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 2
+\i (00:46:12) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:46:13) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Display_Bottom" DevType
+\i (00:46:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 1
+\i (00:46:13) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:46:14) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Display_Bottom" CmpVal
+\i (00:46:14) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (00:46:15) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:46:16) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Display_Bottom" Tol
+\i (00:46:16) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 3
+\i (00:46:16) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:46:17) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Display_Bottom" UserPart
+\i (00:46:17) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 4
+\i (00:46:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:46:29) QtSignal CVDColorTable CVDColorButton0:24 clicked
+\i (00:46:31) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Bottom" RefDes
+\i (00:46:31) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 2
+\i (00:46:31) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:46:33) QtSignal CVDColorTable CVDColorButton0:0 clicked
+\i (00:46:35) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Silkscreen_Top" RefDes
+\i (00:46:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 2
+\i (00:46:35) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:46:38) QtSignal CVDColorTable CVDColorButton0:20 clicked
+\i (00:46:40) QtSignal CVDLayerTable VertHeader clickedButton "Display_Top"
+\i (00:46:40) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
+\i (00:46:51) QtSignal CVDColorTable CVDColorButton0:30 clicked
+\i (00:46:53) QtSignal CVDLayerTable VertHeader clickedButton "Assembly_Top"
+\i (00:46:53) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:46:59) QtSignal CVDColorTable CVDColorButton2:4 clicked
+\i (00:47:01) QtSignal CVDLayerTable VertHeader clickedButton "Assembly_Bottom"
+\i (00:47:01) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:47:04) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "Comp value"
+\i (00:47:05) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "Dev type"
+\i (00:47:07) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:47:10) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (00:47:12) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Assembly_Detail" BrdGeo 0
+\i (00:47:12) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:47:12) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:13) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Assembly_Notes" BrdGeo 0
+\i (00:47:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:47:13) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:14) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Both_Rooms" BrdGeo 0
+\i (00:47:14) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (00:47:14) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:15) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Bottom_Room" BrdGeo 0
+\i (00:47:15) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
+\i (00:47:15) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:19) QtSignal CVDColorTable CVDColorButton0:1 clicked
+\i (00:47:20) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Design_Outline" BrdGeo
+\i (00:47:20) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
+\i (00:47:21) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:22) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor Outline BrdGeo
+\i (00:47:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 9 0
+\i (00:47:22) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:26) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dimension BrdGeo 0
+\i (00:47:26) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 6 0
+\i (00:47:26) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:28) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Off_Grid_Area" BrdGeo 0
+\i (00:47:28) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:47:28) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:31) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor Cutout BrdGeo
+\i (00:47:31) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (00:47:31) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:34) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Place_Grid_Bottom" BrdGeo +
+\i (00:47:34) QtSignal 0
+\i (00:47:34) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 10 0
+\i (00:47:34) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:35) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Place_Grid_Top" BrdGeo 0
+\i (00:47:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 11 0
+\i (00:47:35) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:36) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Plating_Bar" BrdGeo 0
+\i (00:47:36) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 12 0
+\i (00:47:36) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:38) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Soldermask_Bottom" BrdGeo +
+\i (00:47:38) QtSignal 0
+\i (00:47:38) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 15 0
+\i (00:47:38) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:39) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Soldermask_Bottom" BrdGeo +
+\i (00:47:39) QtSignal 1
+\i (00:47:39) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 15 0
+\i (00:47:39) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:41) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:42) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Switch_Area_Bottom" BrdGeo +
+\i (00:47:42) QtSignal 0
+\i (00:47:42) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
+\i (00:47:42) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:43) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Switch_Area_Top" BrdGeo 0
+\i (00:47:43) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 18 0
+\i (00:47:44) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Tooling_Corners" BrdGeo 0
+\i (00:47:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 19 0
+\i (00:47:44) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:45) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Top_Room" BrdGeo 0
+\i (00:47:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 20 0
+\i (00:47:45) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:46) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Wb_Guide_Line" BrdGeo 0
+\i (00:47:46) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 21 0
+\i (00:47:46) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:47:52) QtSignal CVDColorTable CVDColorButton0:24 clicked
+\i (00:47:56) QtSignal CVDColorTable CVDColorButton0:23 clicked
+\i (00:47:58) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Soldermask_Bottom" BrdGeo
+\i (00:47:58) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 15 0
+\i (00:47:58) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:02) QtSignal CVDColorTable CVDColorButton0:15 clicked
+\i (00:48:03) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Soldermask_Top" BrdGeo
+\i (00:48:03) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 16 0
+\i (00:48:03) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:07) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (00:48:09) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Body_Center" PkgGeo 0
+\i (00:48:09) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (00:48:10) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:11) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Dfa_Bound_Bottom" PkgGeo +
+\i (00:48:11) QtSignal 0
+\i (00:48:11) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
+\i (00:48:11) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:11) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Dfa_Bound_Top" PkgGeo 0
+\i (00:48:11) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (00:48:12) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:15) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Display_Bottom" PkgGeo 0
+\i (00:48:15) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
+\i (00:48:15) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:16) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Display_Top" PkgGeo 0
+\i (00:48:16) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 6 0
+\i (00:48:16) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:17) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Model_Outline" PkgGeo 0
+\i (00:48:17) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:48:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:18) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Modules PkgGeo 0
+\i (00:48:18) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:48:18) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:19) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Pad_Stack_Name" PkgGeo 0
+\i (00:48:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 9 0
+\i (00:48:19) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:20) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Pastemask_Bottom" PkgGeo +
+\i (00:48:20) QtSignal 0
+\i (00:48:20) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 10 0
+\i (00:48:21) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:22) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Pastemask_Top" PkgGeo 0
+\i (00:48:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 11 0
+\i (00:48:22) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:24) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Place_Bound_Bottom" PkgGeo +
+\i (00:48:24) QtSignal 0
+\i (00:48:24) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:48:24) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:25) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Place_Bound_Top" PkgGeo 0
+\i (00:48:25) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 14 0
+\i (00:48:25) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:26) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Soldermask_Bottom" PkgGeo +
+\i (00:48:26) QtSignal 0
+\i (00:48:26) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
+\i (00:48:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:30) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Soldermask_Bottom" PkgGeo +
+\i (00:48:30) QtSignal 1
+\i (00:48:30) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
+\i (00:48:30) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:35) QtSignal CVDColorTable CVDColorButton0:24 clicked
+\i (00:48:36) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Soldermask_Bottom" PkgGeo
+\i (00:48:36) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
+\i (00:48:36) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:39) QtSignal CVDColorTable CVDColorButton0:0 clicked
+\i (00:48:41) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor "Soldermask_Top" PkgGeo
+\i (00:48:41) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 18 0
+\i (00:48:41) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:48:43) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (00:48:44) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:48:50) QtSignal CVDLayerTable VertHeader clickedCheckBox "Assembly_Bottom" 0
+\i (00:48:50) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:48:51) QtSignal CVDLayerTable VertHeader clickedCheckBox "Assembly_Bottom" 1
+\i (00:48:51) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:49:02) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:49:15) QtSignal CVDColorTable CVDColorButton0:16 clicked
+\i (00:49:16) QtSignal CVDLayerTable VertHeader clickedButton "Inner_Plane_Layers"
+\i (00:49:16) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 20 0
+\i (00:49:21) QtSignal CVDColorTable CVDColorButton0:14 clicked
+\i (00:49:22) QtSignal CVDLayerTable VertHeader clickedButton "Inner_Signal_Layers"
+\i (00:49:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 21 0
+\i (00:49:24) QtSignal CVDColorTable CVDColorButton1:12 clicked
+\i (00:49:25) QtSignal CVDLayerTable VertHeader clickedButton "Outer_Layers"
+\i (00:49:25) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 22 0
+\i (00:49:39) QtSignal CVDColorTable CVDColorButton1:14 clicked
+\i (00:49:41) QtSignal CVDColorTable CVDColorButton1:15 clicked
+\i (00:49:49) QtSignal CVDColorTable CVDColorButton0:31 clicked
+\i (00:49:51) QtSignal CVDLayerTable VertHeader clickedButton Top
+\i (00:49:51) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:50:03) QtSignal CVDColorTable CVDColorButton2:0 clicked
+\i (00:50:05) QtSignal CVDLayerTable VertHeader clickedButton Top
+\i (00:50:05) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:50:09) QtSignal CVDColorTable CVDColorButton0:0 clicked
+\i (00:50:11) QtSignal CVDLayerTable VertHeader clickedButton Bottom
+\i (00:50:11) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 19 0
+\i (00:50:13) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:50:15) QtSignal CVDColorTable CVDColorButton0:15 clicked
+\i (00:50:16) QtSignal CVDLayerTable VertHeader clickedButton "Inner_Plane_Layers"
+\i (00:50:16) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 20 0
+\i (00:50:21) QtSignal CVDColorTable CVDColorButton0:31 clicked
+\i (00:50:23) QtSignal CVDLayerTable VertHeader clickedButton 19
+\i (00:50:23) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 18 0
+\i (00:50:24) QtSignal CVDColorTable CVDColorButton0:30 clicked
+\i (00:50:26) QtSignal CVDLayerTable VertHeader clickedButton 18
+\i (00:50:26) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
+\i (00:50:28) QtSignal CVDColorTable CVDColorButton0:27 clicked
+\i (00:50:30) QtSignal CVDLayerTable VertHeader clickedButton 17
+\i (00:50:30) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 16 0
+\i (00:50:32) QtSignal CVDColorTable CVDColorButton0:25 clicked
+\i (00:50:32) QtSignal CVDColorTable CVDColorButton0:26 clicked
+\i (00:50:34) QtSignal CVDLayerTable VertHeader clickedButton 16
+\i (00:50:34) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 15 0
+\i (00:50:35) QtSignal CVDColorTable CVDColorButton0:25 clicked
+\i (00:50:37) QtSignal CVDLayerTable VertHeader clickedButton 15
+\i (00:50:37) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 14 0
+\i (00:50:38) QtSignal CVDColorTable CVDColorButton0:24 clicked
+\i (00:50:40) QtSignal CVDLayerTable VertHeader clickedButton 14
+\i (00:50:40) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:50:43) QtSignal CVDColorTable CVDColorButton0:22 clicked
+\i (00:50:44) QtSignal CVDLayerTable VertHeader clickedButton 14
+\i (00:50:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:50:46) QtSignal CVDColorTable CVDColorButton0:21 clicked
+\i (00:50:48) QtSignal CVDLayerTable VertHeader clickedButton 13
+\i (00:50:48) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 12 0
+\i (00:50:50) QtSignal CVDColorTable CVDColorButton0:20 clicked
+\i (00:50:51) QtSignal CVDLayerTable VertHeader clickedButton 12
+\i (00:50:51) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 11 0
+\i (00:50:52) QtSignal CVDColorTable CVDColorButton0:19 clicked
+\i (00:50:54) QtSignal CVDColorTable CVDColorButton0:18 clicked
+\i (00:50:55) QtSignal CVDLayerTable VertHeader clickedButton 11
+\i (00:50:55) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 10 0
+\i (00:50:58) QtSignal CVDColorTable CVDColorButton0:16 clicked
+\i (00:51:00) QtSignal CVDLayerTable VertHeader clickedButton 10
+\i (00:51:00) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 9 0
+\i (00:51:02) QtSignal CVDColorTable CVDColorButton0:15 clicked
+\i (00:51:09) QtSignal CVDColorTable CVDColorButton0:8 clicked
+\i (00:51:10) QtSignal CVDLayerTable VertHeader clickedButton 09
+\i (00:51:10) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:51:13) QtSignal CVDColorTable CVDColorButton3:0 clicked
+\i (00:51:15) QtSignal CVDLayerTable VertHeader clickedButton 08
+\i (00:51:15) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:51:19) QtSignal CVDColorTable CVDColorButton3:19 clicked
+\i (00:51:21) QtSignal CVDLayerTable VertHeader clickedButton 07
+\i (00:51:21) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 6 0
+\i (00:51:25) QtSignal CVDColorTable CVDColorButton3:14 clicked
+\i (00:51:27) QtSignal CVDLayerTable VertHeader clickedButton 06
+\i (00:51:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
+\i (00:51:29) QtSignal CVDColorTable CVDColorButton2:4 clicked
+\i (00:51:31) QtSignal CVDLayerTable VertHeader clickedButton 04
+\i (00:51:31) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
+\i (00:51:35) QtSignal CVDColorTable CVDColorButton0:5 clicked
+\i (00:51:36) QtSignal CVDColorTable CVDColorButton0:4 clicked
+\i (00:51:37) QtSignal CVDLayerTable VertHeader clickedButton 05
+\i (00:51:37) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (00:51:40) QtSignal CVDColorTable CVDColorButton0:9 clicked
+\i (00:51:42) QtSignal CVDLayerTable VertHeader clickedButton 03
+\i (00:51:42) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (00:51:46) QtSignal CVDColorTable CVDColorButton0:14 clicked
+\i (00:51:49) QtSignal CVDLayerTable VertHeader clickedButton 02
+\i (00:51:49) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:51:51) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas "Constraints region"
+\i (00:51:52) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas "Route keepout"
+\i (00:51:54) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas "Via keepout"
+\i (00:51:55) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas "Package keepout"
+\i (00:51:56) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas "Package keepin"
+\i (00:51:57) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas "Route keepin"
+\i (00:52:03) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" "Non-Conductor" +
+\i (00:52:03) QtSignal Pin
+\i (00:52:04) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" "Non-Conductor"
+\i (00:52:10) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" Conductor
+\i (00:52:22) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:52:24) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" Conductor +
+\i (00:52:24) QtSignal Pin
+\i (00:52:26) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" Conductor
+\i (00:52:33) QtSignal CVDColorTable CVDColorButton2:0 clicked
+\i (00:52:35) QtSignal CVDLayerTable VertHeader clickedButton Top
+\i (00:52:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:52:37) QtSignal CVDColorTable CVDColorButton0:0 clicked
+\i (00:52:39) QtSignal CVDLayerTable VertHeader clickedButton Bottom
+\i (00:52:39) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 19 0
+\i (00:52:43) QtSignal CVDColorTable CVDColorButton0:31 clicked
+\i (00:52:45) QtSignal CVDLayerTable VertHeader clickedButton 02
+\i (00:52:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:52:47) QtSignal CVDColorTable CVDColorButton0:30 clicked
+\i (00:52:47) QtSignal CVDColorTable CVDColorButton0:30 clicked
+\i (00:52:49) QtSignal CVDLayerTable VertHeader clickedButton 19
+\i (00:52:49) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 18 0
+\i (00:52:51) QtSignal CVDColorTable CVDColorButton0:29 clicked
+\i (00:52:53) QtSignal CVDLayerTable VertHeader clickedButton 03
+\i (00:52:53) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (00:52:55) QtSignal CVDColorTable CVDColorButton0:28 clicked
+\i (00:52:57) QtSignal CVDLayerTable VertHeader clickedButton 18
+\i (00:52:57) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
+\i (00:52:59) QtSignal CVDColorTable CVDColorButton0:27 clicked
+\i (00:53:00) QtSignal CVDLayerTable VertHeader clickedButton 04
+\i (00:53:00) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
+\i (00:53:02) QtSignal CVDColorTable CVDColorButton0:26 clicked
+\i (00:53:04) QtSignal CVDLayerTable VertHeader clickedButton 17
+\i (00:53:04) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 16 0
+\i (00:53:05) QtSignal CVDColorTable CVDColorButton0:25 clicked
+\i (00:53:07) QtSignal CVDLayerTable VertHeader clickedButton 05
+\i (00:53:07) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (00:53:09) QtSignal CVDColorTable CVDColorButton0:24 clicked
+\i (00:53:11) QtSignal CVDLayerTable VertHeader clickedButton 16
+\i (00:53:11) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 15 0
+\i (00:53:12) QtSignal CVDColorTable CVDColorButton0:23 clicked
+\i (00:53:14) QtSignal CVDLayerTable VertHeader clickedButton 06
+\i (00:53:14) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
+\i (00:53:17) QtSignal CVDColorTable CVDColorButton0:22 clicked
+\i (00:53:19) QtSignal CVDLayerTable VertHeader clickedButton 06
+\i (00:53:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
+\i (00:53:21) QtSignal CVDColorTable CVDColorButton0:21 clicked
+\i (00:53:23) QtSignal CVDLayerTable VertHeader clickedButton 15
+\i (00:53:23) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 14 0
+\i (00:53:25) QtSignal CVDColorTable CVDColorButton0:20 clicked
+\i (00:53:27) QtSignal CVDLayerTable VertHeader clickedButton 07
+\i (00:53:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 6 0
+\i (00:53:29) QtSignal CVDColorTable CVDColorButton0:19 clicked
+\i (00:53:31) QtSignal CVDLayerTable VertHeader clickedButton 14
+\i (00:53:31) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:53:33) QtSignal CVDColorTable CVDColorButton0:18 clicked
+\i (00:53:35) QtSignal CVDLayerTable VertHeader clickedButton 08
+\i (00:53:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:53:37) QtSignal CVDColorTable CVDColorButton0:17 clicked
+\i (00:53:39) QtSignal CVDLayerTable VertHeader clickedButton 13
+\i (00:53:39) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 12 0
+\i (00:53:40) QtSignal CVDColorTable CVDColorButton0:16 clicked
+\i (00:53:42) QtSignal CVDLayerTable VertHeader clickedButton 09
+\i (00:53:42) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:53:44) QtSignal CVDColorTable CVDColorButton0:15 clicked
+\i (00:53:45) QtSignal CVDLayerTable VertHeader clickedButton 12
+\i (00:53:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 11 0
+\i (00:53:47) QtSignal CVDColorTable CVDColorButton0:14 clicked
+\i (00:53:50) QtSignal CVDColorTable CVDColorButton0:13 clicked
+\i (00:53:51) QtSignal CVDLayerTable VertHeader clickedButton 11
+\i (00:53:51) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 10 0
+\i (00:53:53) QtSignal CVDColorTable CVDColorButton0:9 clicked
+\i (00:53:55) QtSignal CVDLayerTable VertHeader clickedButton 10
+\i (00:53:55) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 9 0
+\i (00:53:57) QtSignal CVDColorTable CVDColorButton0:0 clicked
+\i (00:53:59) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedButton Drc
+\i (00:53:59) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 3
+\i (00:54:04) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:54:06) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:54:12) QtSignal CVPLayerGrid CVPMasksPlan clicked false
+\i (00:54:13) QtSignal CVPLayerGrid CVPMasksEtch clicked false
+\i (00:54:17) zoom out 1 
+\i (00:54:17) setwindow pcb
+\i (00:54:17) zoom out 271.943 221.142
+   (00:54:17) Loading signal.cxt 
+\i (00:54:17) trapsize 1216
+\i (00:54:19) zoom in 1 
+\i (00:54:19) setwindow pcb
+\i (00:54:19) zoom in 197.787 257.854
+\i (00:54:19) trapsize 608
+\i (00:54:21) zoom in 1 
+\i (00:54:21) setwindow pcb
+\i (00:54:21) zoom in 198.638 250.439
+\i (00:54:21) trapsize 304
+\i (00:54:24) zoom in 1 
+\i (00:54:24) setwindow pcb
+\i (00:54:24) zoom in 202.772 251.290
+\i (00:54:24) trapsize 152
+\i (00:54:24) zoom in 1 
+\i (00:54:24) setwindow pcb
+\i (00:54:24) zoom in 202.772 251.291
+\i (00:54:24) trapsize 76
+\i (00:54:25) zoom in 1 
+\i (00:54:25) setwindow pcb
+\i (00:54:25) zoom in 202.772 251.291
+\i (00:54:25) trapsize 38
+\i (00:54:29) pop dyn_option_select 'Application Mode@:@General Edit' 
+\i (00:54:29) generaledit 
+\i (00:54:32) pick grid 202.826 250.167
+\t (00:54:32) last pick:  203.000 250.000
+\i (00:54:33) zoom out 1 
+\i (00:54:33) setwindow pcb
+\i (00:54:33) zoom out 203.213 249.901
+\i (00:54:33) trapsize 76
+\i (00:54:34) zoom out 1 
+\i (00:54:34) setwindow pcb
+\i (00:54:34) zoom out 203.214 249.900
+\i (00:54:34) trapsize 152
+\i (00:54:35) zoom out 1 
+\i (00:54:35) setwindow pcb
+\i (00:54:35) zoom out 203.214 249.901
+\i (00:54:35) trapsize 304
+\i (00:54:38) prepopup 203.031 249.901
+\i (00:54:40) pop dyn_option_select @:@Move 
+\i (00:54:40) move 
+\t (00:54:40) last pick:  203.000 250.000
+\t (00:54:40) last pick:  201.000 250.000
+\t (00:54:40) Moving IC2 / XC7K325T-2FFG900I_BGA900C100P30X30_3100X3100X335_XC7K325T-2FFG900I / BGA900C100P30X30_3100X3100X335.
+\t (00:54:40) Pick new location for the element(s).
+\i (00:54:42) pick grid 200.478 249.111
+\t (00:54:42) last pick:  200.000 249.000
+\i (00:54:42) generaledit 
+\i (00:54:45) prepopup 200.903 249.172
+\i (00:54:48) pop dyn_option_select @:@Move 
+\i (00:54:48) move 
+\t (00:54:48) last pick:  201.000 249.000
+\t (00:54:48) last pick:  200.000 249.000
+\t (00:54:48) Moving IC2 / XC7K325T-2FFG900I_BGA900C100P30X30_3100X3100X335_XC7K325T-2FFG900I / BGA900C100P30X30_3100X3100X335.
+\t (00:54:48) Pick new location for the element(s).
+\i (00:54:50) pick grid 200.721 248.503
+\t (00:54:50) last pick:  201.000 249.000
+\i (00:54:50) generaledit 
+\i (00:54:52) pick grid 224.001 240.176
+\t (00:54:52) last pick:  224.000 240.000
+\i (00:54:54) drag_start grid 201.025 250.205
+\i (00:54:54) move 
+\t (00:54:54) last pick:  201.000 249.000
+\t (00:54:54) Moving IC2 / XC7K325T-2FFG900I_BGA900C100P30X30_3100X3100X335_XC7K325T-2FFG900I / BGA900C100P30X30_3100X3100X335.
+\t (00:54:54) Pick new location for the element(s).
+\i (00:54:54) drag_stop grid 203.942 248.017
+\i (00:54:54) generaledit 
+\i (00:54:56) drag_start grid 203.942 248.017
+\i (00:54:56) move 
+\t (00:54:56) last pick:  204.000 248.000
+\t (00:54:56) Moving IC2 / XC7K325T-2FFG900I_BGA900C100P30X30_3100X3100X335_XC7K325T-2FFG900I / BGA900C100P30X30_3100X3100X335.
+\t (00:54:56) Pick new location for the element(s).
+\i (00:54:56) drag_stop grid 199.384 250.205
+\i (00:54:56) generaledit 
+\i (00:54:57) pick grid 226.615 240.844
+\t (00:54:57) last pick:  227.000 241.000
+\i (00:55:01) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:55:05) QtSignal ColorVisibilityPane CVPGlobalVisRestore clicked
+\i (00:55:13) drc update 
+\t (00:55:13) Performing DRC...
+\t (00:55:13) Multithreaded DRC update (12 threads).
+\t (00:55:13) No DRC errors detected.
+\i (00:55:13) generaledit 
+\i (00:55:16) status 
+\i (00:55:16) generaledit 
+\i (00:55:27) setwindow form.status
+\i (00:55:27) FORM status done  
+\i (00:55:28) setwindow pcb
+\i (00:55:28) drag_start grid 179.993 269.048
+\i (00:55:29) drag_stop 218.227 233.793
+\i (00:55:32) prepopup 199.688 250.084
+\i (00:55:34) prepopup 199.688 250.084
+\i (00:55:35) prepopup 199.688 250.084
+\i (00:55:37) prepopup 202.180 252.029
+\i (00:55:41) pop dyn_option_select @:@Delete 
+\i (00:55:41) delete 
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ak1 (Ddr3_D46)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Aj1 (Ddr3_D47)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ah1 (Ddr3_Dqs5_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ag1 (Vcc1v5_Fpga)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Af1 (Ddr3_D48)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ae1 (Ddr3_D54)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ad1 (Ddr3_Dqs7_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ac1 (Ddr3_D56)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ab1 (Fpga_M2)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Aa1 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Y1 (Pcie_Tx7_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.W1 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.V1 (Pcie_Tx6_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.U1 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.T1 (Pcie_Tx4_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.R1 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.P1 (Pcie_Tx3_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.N1 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.M1 (Pcie_Tx1_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.L1 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.K1 (Sma_Mgt_Tx_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.J1 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.H1 (Sfp_Tx_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.G1 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.F1 (Fmc_Lpc_Dp0_C2m_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.E1 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.D1 (Fmc_Hpc_Dp0_C2m_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.C1 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.B1 (Fmc_Hpc_Dp2_C2m_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.A1 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ak2 (Vcc1v5_Fpga)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Aj2 (Ddr3_D42)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ah2 (Ddr3_D43)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ag2 (Ddr3_Dqs5_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Af2 (Ddr3_D49)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ae2 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ad2 (Ddr3_Dqs7_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ac2 (Ddr3_D62)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ab2 (Fpga_M1)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Aa2 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Y2 (Pcie_Tx7_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.W2 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.V2 (Pcie_Tx6_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.U2 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.T2 (Pcie_Tx4_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.R2 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.P2 (Pcie_Tx3_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.N2 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.M2 (Pcie_Tx1_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.L2 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.K2 (Sma_Mgt_Tx_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.J2 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.H2 (Sfp_Tx_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.G2 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.F2 (Fmc_Lpc_Dp0_C2m_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.E2 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.D2 (Fmc_Hpc_Dp0_C2m_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.C2 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.B2 (Fmc_Hpc_Dp2_C2m_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.A2 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ak4 (Ddr3_D37)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ak3 (Ddr3_Reset_B)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Aj4 (Ddr3_D45)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Aj3 (Ddr3_Dm5)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ah4 (Ddr3_D44)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ah3 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ag4 (Ddr3_Dqs6_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ag3 (Ddr3_Dqs6_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Af4 (Vcc1v5_Fpga)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Af3 (Ddr3_D52)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ae4 (Ddr3_D50)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ae3 (Ddr3_D51)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ad4 (Ddr3_D63)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ad3 (Ddr3_D57)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ac4 (Ddr3_D58)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ac3 (Vcc1v5_Fpga)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ab4 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Ab3 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Aa4 (Pcie_Rx7_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Aa3 (Pcie_Rx7_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Y4 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.Y3 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.W4 (Pcie_Rx5_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.W3 (Pcie_Rx5_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.V4 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.V3 (Mgtavtt)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.U4 (Pcie_Tx5_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.U3 (Pcie_Tx5_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.T4 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.T3 (Mgtavtt)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.R4 (Pcie_Rx2_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.R3 (Pcie_Rx2_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.P4 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.P3 (Mgtavtt)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.N4 (Pcie_Tx2_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.N3 (Pcie_Tx2_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.M4 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.M3 (Mgtavtt)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.L4 (Pcie_Tx0_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.L3 (Pcie_Tx0_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.K4 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.K3 (Mgtavtt)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.J4 (Sgmii_Tx_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.J3 (Sgmii_Tx_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.H4 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.H3 (Mgtavtt)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.G4 (Sfp_Rx_P)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.G3 (Sfp_Rx_N)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.F4 (Gnd)"
+\t (00:55:41) Selected item not valid for current operation, ignored: Pin "Ic2.F3 (Mgtavtt)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.E4 (Fmc_Hpc_Dp0_M2c_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.E3 (Fmc_Hpc_Dp0_M2c_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.D4 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.D3 (Mgtavtt)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.C4 (Fmc_Hpc_Dp1_C2m_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.C3 (Fmc_Hpc_Dp1_C2m_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.B4 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.B3 (Mgtavtt)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.A4 (Fmc_Hpc_Dp3_C2m_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.A3 (Fmc_Hpc_Dp3_C2m_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ak5 (Ddr3_Dm4)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aj5 (Vcc1v5_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ah5 (Ddr3_D40)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ag5 (Gpio_Sw_E)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Af5 (Ddr3_D53)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ae5 (Ddr3_D55)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ad5 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ac5 (Ddr3_D59)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ab5 (Fpga_M0)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aa5 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Y5 (Pcie_Rx6_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.W5 (Mgtavtt)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.V5 (Pcie_Rx4_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.U5 (Mgtavtt)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.T5 (Pcie_Rx3_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.R5 (Mgtavtt)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.P5 (Pcie_Rx1_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.N5 (Mgtavtt)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.M5 (Pcie_Rx0_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.L5 (Mgtavtt)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.K5 (Sma_Mgt_Rx_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.J5 (Mgtavtt)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.H5 (Sgmii_Rx_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.G5 (Mgtavtt)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.F5 (Fmc_Lpc_Dp0_M2m_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.E5 (Mgtavtt)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.D5 (Fmc_Hpc_Dp1_M2c_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.C5 (Mgtavtt)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.B5 (Fmc_Hpc_Dp2_M2c_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.A5 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ak7 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ak6 (Ddr3_D33)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aj7 (Ddr3_Dqs4_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aj6 (Ddr3_D39)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ah7 (Ddr3_Dqs4_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ah6 (Ddr3_D41)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ag7 (Ddr3_D34)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ag6 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Af7 (Ddr3_D35)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Af6 (Ddr3_Dm6)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ae7 (Vcc1v5_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ae6 (Ddr3_D60)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ad7 (Vttvref)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ad6 (Ddr3_D61)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ac7 (Ddr3_Dm7)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ac6 (Gpio_Sw_W)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ab7 (Cpu_Reset)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ab6 (Vcc2v5_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aa7 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aa6 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Y7 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Y6 (Pcie_Rx6_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.W7 (Mgtavtt)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.W6 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.V7 (Mgtvccaux)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.V6 (Pcie_Rx4_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.U7 (Pcie_Clk_Qo_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.U6 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.T7 (Mgtvccaux)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.T6 (Pcie_Rx3_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.R7 (Dummy Net)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.R6 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.P7 (Mgtavcc)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.P6 (Pcie_Rx1_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.N7 (Fmc_Lpc_Gbtclk0_M2c_C_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.N6 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.M7 (Mgtavcc)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.M6 (Pcie_Rx0_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.L7 (Si5326_Out_C_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.L6 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.K7 (Mgtavcc)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.K6 (Sma_Mgt_Rx_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.J7 (Sma_Mgt_Refclk_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.J6 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.H7 (Mgtavcc)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.H6 (Sgmii_Rx_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.G7 (Sgmiiclk_Q0_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.G6 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.F7 (Mgtavcc)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.F6 (Fmc_Lpc_Dp0_M2m_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.E7 (Fmc_Hpc_Gbtclk1_M2c_C_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.E6 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.D7 (Mgtavcc)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.D6 (Fmc_Hpc_Dp1_M2c_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.C7 (Fmc_Hpc_Gbtclk0_M2c_C_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.C6 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.B7 (Mgtavcc)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.B6 (Fmc_Hpc_Dp2_M2c_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.A7 (Fmc_Hpc_Dp3_M2c_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.A6 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ak8 (Ddr3_D32)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aj8 (Ddr3_D38)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ah8 (Vcc1v5_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ag8 (Vttvref)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Af8 (Ddr3_D36)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ae8 (Ddr3_S1_B)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ad8 (Ddr3_Odt0)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ac8 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ab8 (Gpio_Led_0_Ls)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aa8 (Gpio_Led_1_Ls)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Y8 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.W8 (N1252713)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.V8 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.U8 (Pcie_Clk_Qo_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.T8 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.R8 (Dummy Net)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.P8 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.N8 (Fmc_Lpc_Gbtclk0_M2c_C_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.M8 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.L8 (Si5326_Out_C_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.K8 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.J8 (Sma_Mgt_Refclk_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.H8 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.G8 (Sgmiiclk_Q0_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.F8 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.E8 (Fmc_Hpc_Gbtclk1_M2c_C_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.D8 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.C8 (Fmc_Hpc_Gbtclk0_M2c_C_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.B8 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.A8 (Fmc_Hpc_Dp3_M2c_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ak10 (Ddr3_A14)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ak9 (Ddr3_Ba2)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aj10 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aj9 (Ddr3_Temp_Event)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ah10 (Ddr3_Clk0_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ah9 (Ddr3_Ba0)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ag10 (Ddr3_Clk0_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ag9 (Ddr3_Ba1)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Af10 (Ddr3_Cke0)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Af9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ae10 (Ddr3_Cke1)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ae9 (Ddr3_We_B)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ad10 (Vcc1v5_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ad9 (Ddr3_Ras_B)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ac10 (Ddr3_Odt1)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ac9 (Gpio_Led_2_Ls)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ab10 (Lcd_E_Ls)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ab9 (Gpio_Led_3_Ls)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aa10 (Lcd_Db5_Ls)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aa9 (Vcc1v5_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Y10 (Lcd_Db7_Ls)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Y9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.W10 (Vccaux_Io)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.W9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.V10 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.V9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.U10 (Vccint_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.U9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.T10 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.T9 (Vcc2v5_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.R10 (Vccint_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.R9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.P10 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.P9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.N10 (Vccint_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.N9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.M10 (Fpga_Done)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.M9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.L10 (Vcc2v5_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.L9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.K10 (Fpga_Prog_B)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.K9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.J10 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.J9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.H10 (Fpga_Tdi_Buf)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.H9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.G10 (Jtag_Tdo)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.G9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.F10 (Fpga_Tms_Buf)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.F9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.E10 (Fpga_Tck_Buf)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.E9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.D10 (Vadj_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.D9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.C10 (Fpga_Vbatt)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.C9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.B10 (Fpga_Cclk)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.B9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.A10 (Fpga_Init_B)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.A9 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ak11 (Ddr3_A15)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aj11 (Ddr3_A12)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ah11 (Ddr3_A13)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ag11 (Vcc1v5_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Af11 (Ddr3_Clk1_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ae11 (Ddr3_Clk1_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ad11 (Sysclk_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ac11 (Ddr3_Cas_B)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ab11 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aa11 (Lcd_Db6_Ls)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Y11 (Lcd_Rs_Ls)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.W11 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.V11 (Vccaux_Io)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.U11 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.T11 (Vccint_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.R11 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.P11 (Vccint_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.N11 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.M11 (Vccint_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.L11 (Fmc_Hpc_Ha22_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.K11 (Fmc_Hpc_Ha22_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.J11 (Fmc_Hpc_Ha21_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.H11 (Fmc_Hpc_Ha19_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.G11 (Vadj_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.F11 (Fmc_Hpc_Ha04_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.E11 (Fmc_Hpc_Ha04_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.D11 (Fmc_Hpc_Ha02_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.C11 (Fmc_Hpc_Ha02_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.B11 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.A11 (Fmc_Hpc_Ha10_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ak13 (Ddr3_A8)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ak12 (Vcc1v5_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aj13 (Ddr3_A5)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aj12 (Ddr3_A4)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ah13 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ah12 (Ddr3_A0)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ag13 (Ddr3_A1)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ag12 (Ddr3_A2)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Af13 (Ddr3_A10)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Af12 (Ddr3_A3)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ae13 (Ddr3_A11)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ae12 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ad13 (Vrp_33)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ad12 (Sysclk_P)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ac13 (Vcc1v5_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ac12 (Ddr3_S0_B)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ab13 (Lcd_Rw_Ls)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Ab12 (Gpio_Sw_S)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aa13 (Lcd_Db4_Ls)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Aa12 (Gpio_Sw_N)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Y13 (Vrn_33)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.Y12 (Vcc1v5_Fpga)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.W13 (Gnd)"
+\t (00:55:42) Selected item not valid for current operation, ignored: Pin "Ic2.W12 (Vccaux_Io)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.V13 (Vccaux)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.V12 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.U13 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.U12 (Vccint_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.T13 (Vccaux)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.T12 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.R13 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.R12 (Vccint_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.P13 (Vccaux)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.P12 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.N13 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.N12 (Vccint_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.M13 (Vccint_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.M12 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.L13 (Fmc_Hpc_Ha23_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.L12 (Fmc_Hpc_Ha23_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.K13 (Fmc_Hpc_Ha20_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.K12 (Vadj_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.J13 (Fmc_Hpc_Ha20_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.J12 (Fmc_Hpc_Ha21_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.H13 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.H12 (Fmc_Hpc_Ha19_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.G13 (Fmc_Hpc_Ha17_Cc_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.G12 (Gpio_Sw_C)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.F13 (Fmc_Hpc_Ha17_Cc_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.F12 (Fmc_Hpc_Ha09_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.E13 (Fmc_Hpc_Ha09_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.E12 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.D13 (Fmc_Hpc_Ha00_Cc_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.D12 (Fmc_Hpc_Ha00_Cc_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.C13 (Vadj_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.C12 (Fmc_Hpc_Ha03_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.B13 (Fmc_Hpc_Ha11_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.B12 (Fmc_Hpc_Ha03_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.A13 (Fmc_Hpc_Ha11_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.A12 (Fmc_Hpc_Ha10_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ak14 (Ddr3_A9)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Aj14 (Ddr3_A6)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ah14 (Ddr3_A7)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ag14 (Ddr3_D29)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Af14 (Vcc1v5_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ae14 (Vttvref)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ad14 (Ddr3_D3)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ac14 (Ddr3_D2)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ab14 (Pmbus_Alert_Ls)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Aa14 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Y14 (Pmbus_Data_Ls)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.W14 (Vccaux)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.V14 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.U14 (Xadc_Dxn)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.T14 (Xadc_Vn_R)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.R14 (Xadc_Agnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.P14 (Xadc_Agnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.N14 (Vccint_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.M14 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.L14 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.K14 (Fmc_Hpc_Ha18_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.J14 (Fmc_Hpc_Ha18_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.H14 (Fmc_Hpc_Ha01_Cc_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.G14 (Fmc_Hpc_Ha01_Cc_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.F14 (Vadj_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.E14 (Fmc_Hpc_Ha08_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.D14 (Fmc_Hpc_Ha06_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.C14 (Fmc_Hpc_Ha06_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.B14 (Fmc_Hpc_Ha07_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.A14 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ak16 (Ddr3_D24)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ak15 (Ddr3_D31)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Aj16 (Ddr3_Dqs3_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Aj15 (Vcc1v5_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ah16 (Ddr3_Dqs3_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ah15 (Ddr3_D30)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ag16 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ag15 (Ddr3_D26)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Af16 (Vttvref)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Af15 (Ddr3_D27)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ae16 (Ddr3_Dm3)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ae15 (Ddr3_D6)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ad16 (Ddr3_D9)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ad15 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ac16 (Ddr3_Dqs0_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ac15 (Ddr3_Dqs0_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ab16 (Vcc1v5_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ab15 (Ddr3_D5)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Aa16 (Ddr3_D1)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Aa15 (Ddr3_D0)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Y16 (Ddr3_Dm0)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Y15 (Ddr3_D7)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.W16 (Vccbram)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.W15 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.V16 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.V15 (Vccaux)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.U16 (Vccbram)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.U15 (Xadc_Dxp)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.T16 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.T15 (Xadc_Vrefp)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.R16 (Vccbram)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.R15 (Xadc_Vp_R)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.P16 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.P15 (Xadc_Vcc)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.N16 (Vccbram)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.N15 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.M16 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.M15 (Vccint_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.L16 (Fmc_Hpc_Ha13_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.L15 (Fmc_Hpc_Ha16_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.K16 (Fmc_Hpc_Ha13_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.K15 (Fmc_Hpc_Ha16_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.J16 (Fmc_Hpc_Ha14_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.J15 (Vadj_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.H16 (Fmc_Hpc_Ha14_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.H15 (Fmc_Hpc_Ha15_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.G16 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.G15 (Fmc_Hpc_Ha15_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.F16 (Gpio_Led_7_Ls)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.F15 (Fmc_Hpc_Ha05_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.E16 (Fmc_Hpc_Ha05_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.E15 (Fmc_Hpc_Ha08_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.D16 (Fmc_Hpc_La28_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.D15 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.C16 (Fmc_Hpc_La28_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.C15 (Fmc_Hpc_Ha12_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.B16 (Vadj_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.B15 (Fmc_Hpc_Ha12_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.A16 (Fmc_Hpc_La24_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.A15 (Fmc_Hpc_Ha07_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ak17 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Aj17 (Ddr3_D25)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ah17 (Ddr3_D28)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ag17 (Pmbus_Clk_Ls)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Af17 (Ddr3_Dm2)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ae17 (Vcc1v5_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ad17 (Ddr3_D11)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ac17 (Dummy Net)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ab17 (Ddr3_Dm1)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Aa17 (Ddr3_D4)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Y17 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.W17 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.V17 (Vccint_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.U17 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.T17 (Vccint_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.R17 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.P17 (Vccint_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.N17 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.M17 (Vccint_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.L17 (Hdmi_R_D14)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.K17 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.J17 (Hdmi_R_Spdif)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.H17 (Hdmi_R_De)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.G17 (Fmc_Hpc_La25_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.F17 (Fmc_Hpc_La25_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.E17 (Vadj_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.D17 (Fmc_Hpc_Clk1_M2c_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.C17 (Fmc_Hpc_La29_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.B17 (Fmc_Hpc_La29_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.A17 (Fmc_Hpc_La24_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ak19 (Ddr3_D17)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ak18 (Ddr3_Dqs2_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Aj19 (Ddr3_D21)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Aj18 (Ddr3_Dqs2_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ah19 (Ddr3_D20)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ah18 (Vcc1v5_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ag19 (Ddr3_D16)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ag18 (Ddr3_D18)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Af19 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Af18 (Ddr3_D19)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ae19 (Ddr3_D22)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ae18 (Ddr3_D14)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ad19 (Ddr3_D23)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ad18 (Ddr3_D15)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ac19 (Ddr3_D10)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ac18 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ab19 (Ddr3_D8)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ab18 (Ddr3_D13)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Aa19 (Vcc1v5_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Aa18 (Ddr3_D12)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Y19 (Ddr3_Dqs1_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Y18 (Ddr3_Dqs1_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.W19 (Phy_Col)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.W18 (Vccint_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.V19 (Flash_A10)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.V18 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.U19 (Fpga_Fcs)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.U18 (Vccint_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.T19 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.T18 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.R19 (Phy_Rxd4)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.R18 (Vccint_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.P19 (Sfp_Los_Ls)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.P18 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.N19 (Flash_A22)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.N18 (Vccint_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.M19 (Usb_Tx)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.M18 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.L19 (Vadj_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.L18 (Hdmi_R_D15)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.K19 (Hdmi_R_D16)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.K18 (Hdmi_R_Clk)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.J19 (Hdmi_R_D12)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.J18 (Hdmi_R_Hsync)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.H19 (Hdmi_R_D13)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.H18 (Vadj_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.G19 (Gpio_Led_5_Ls)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.G18 (Fmc_Hpc_La19_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.F19 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.F18 (Fmc_Hpc_La19_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.E19 (Fmc_Hpc_La20_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.E18 (Gpio_Led_6_Ls)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.D19 (Fmc_Hpc_La20_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.D18 (Fmc_Hpc_Clk1_M2c_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.C19 (Fmc_Hpc_La27_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.C18 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.B19 (Fmc_Hpc_La27_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.B18 (Fmc_Hpc_La26_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.A19 (Vadj_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.A18 (Fmc_Hpc_La26_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ak20 (Fmc_Lpc_La06_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Aj20 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ah20 (Fmc_Lpc_La03_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ag20 (Fmc_Lpc_La03_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Af20 (Fmc_Lpc_La02_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ae20 (Si5326_Rst_Ls)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ad20 (Vadj_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ac20 (Sdio_Dat0_Ls)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ab20 (Fmc_Lpc_La12_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Aa20 (Fmc_Lpc_La12_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Y20 (Sfp_Tx_Disable)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.W20 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.V20 (Flash_A9)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.U20 (Flash_D8)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.T20 (Flash_D4)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.R20 (Flash_D2)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.P20 (Vcc2v5_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.N20 (Flash_A21)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.M20 (Fmc_Hpc_Prsnt_M2c_B_Ls)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.L20 (Phy_Reset)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.K20 (Hdmi_R_D17)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.J20 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.H20 (Hdmi_R_Vsync)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.G20 (Hdmi_Spdif_Out_Ls)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.F20 (Fmc_Hpc_La17_Cc_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.E20 (Fmc_Hpc_La17_Cc_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.D20 (Vadj_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.C20 (Fmc_Hpc_La22_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.B20 (Fmc_Hpc_La22_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.A20 (Fmc_Hpc_La21_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ak22 (Vadj_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ak21 (Fmc_Lpc_La06_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Aj22 (Fmc_Lpc_La08_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Aj21 (Fmc_Lpc_La04_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ah22 (Fmc_Lpc_La05_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ah21 (Fmc_Lpc_La04_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ag22 (Fmc_Lpc_La05_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ag21 (Vadj_Fpga)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Af22 (Fmc_Lpc_Clk0_M2c_P)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Af21 (Fmc_Lpc_La02_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ae22 (Gnd)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ae21 (Fmc_Lpc_La14_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ad22 (Fmc_Lpc_La16_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ad21 (Fmc_Lpc_La14_N)"
+\t (00:55:43) Selected item not valid for current operation, ignored: Pin "Ic2.Ac22 (Fmc_Lpc_La16_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ac21 (Sdio_Cd_Dat3_Ls)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ab22 (Sdio_Cmd_Ls)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ab21 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Aa22 (Sdio_Dat2_Ls)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Aa21 (Sdio_Sddet)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Y22 (Vadj_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Y21 (Sdio_Sdwp)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.W22 (Flash_A0)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.W21 (Flash_A1)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.V22 (Flash_A4)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.V21 (Flash_A5)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.U22 (Sm_Fan_Tach)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.U21 (Vcc2v5_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.T22 (Flash_D6)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.T21 (Flash_D5)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.R22 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.R21 (Flash_D3)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.P22 (Flash_A16)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.P21 (Flash_A17)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.N22 (Flash_A19)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.N21 (Flash_A20)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.M22 (Flash_A25)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.M21 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.L22 (Xadc_Vaux8p_R)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.L21 (Iic_Sda_Main)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.K22 (Vcc2v5_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.K21 (Iic_Scl_Main)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.J22 (Fmc_Lpc_Prsnt_M2c_B_Ls)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.J21 (Phy_Mdio)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.H22 (Fmc_Hpc_La33_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.H21 (Fmc_Hpc_La33_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.G22 (Fmc_Hpc_La31_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.G21 (Vadj_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.F22 (Fmc_Hpc_La31_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.F21 (Fmc_Hpc_La18_Cc_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.E22 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.E21 (Fmc_Hpc_La18_Cc_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.D22 (Fmc_Hpc_La30_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.D21 (Fmc_Hpc_La32_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.C22 (Fmc_Hpc_La30_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.C21 (Fmc_Hpc_La32_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.B22 (Fmc_Hpc_La23_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.B21 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.A22 (Fmc_Hpc_La23_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.A21 (Fmc_Hpc_La21_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ak23 (Fmc_Lpc_La09_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Aj23 (Fmc_Lpc_La08_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ah23 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ag23 (Fmc_Lpc_Clk0_M2c_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Af23 (Fmc_Lpc_La01_Cc_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ae23 (Fmc_Lpc_La01_Cc_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ad23 (Fmc_Lpc_La00_Cc_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ac23 (Vadj_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ab23 (Sdio_Clk_Ls)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Aa23 (Sdio_Dat1_Ls)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Y23 (User_Sma_Gpio_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.W23 (Flash_A8)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.V23 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.U23 (Flash_A6)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.T23 (Flash_D7)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.R23 (Phy_Mdc)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.P23 (Iic_Mux_Reset_B)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.N23 (Vcc2v5_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.M23 (Flash_A24)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.L23 (Xadc_Vaux8n_R)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.K23 (Usb_Rts)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.J23 (Xadc_Vaux0p_R)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.H23 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.G23 (Hdmi_R_D10)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.F23 (Pcie_Wake_B_Ls)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.E23 (Hdmi_R_D2)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.D23 (Hdmi_R_D3)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.C23 (Vadj_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.B23 (Hdmi_R_D0)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.A23 (Hdmi_R_D1)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ak25 (Fmc_Lpc_La10_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ak24 (Fmc_Lpc_La09_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Aj25 (Vadj_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Aj24 (Fmc_Lpc_La10_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ah25 (Fmc_Lpc_La07_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ah24 (Hdmi_Int)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ag25 (Fmc_Lpc_La07_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ag24 (Si5326_Int_Alm_Ls)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Af25 (Fmc_Lpc_La11_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Af24 (Vadj_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ae25 (Fmc_Lpc_La11_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ae24 (Fmc_Lpc_La00_Cc_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ad25 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ad24 (Fmc_Lpc_La15_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ac25 (Fmc_Lpc_La13_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ac24 (Fmc_Lpc_La15_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ab25 (Xadc_Gpio_0)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ab24 (Fmc_Lpc_La13_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Aa25 (Xadc_Gpio_1)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Aa24 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Y25 (Rotary_Incb)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Y24 (User_Sma_Gpio_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.W25 (Vcc2v5_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.W24 (Flash_A7)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.V25 (Flash_A12)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.V24 (Flash_A2)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.U25 (Phy_Rxd1)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.U24 (Flash_A3)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.T25 (Phy_Rxd2)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.T24 (Vcc2v5_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.R25 (Flash_D1)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.R24 (Fpga_Emcclk)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.P25 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.P24 (Flash_D0)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.N25 (Phy_Txd1)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.N24 (Flash_A18)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.M25 (Flash_Fwe_B)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.M24 (Flash_Oe_B)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.L25 (User_Sma_Clock_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.L24 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.K25 (User_Sma_Clock_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.K24 (Usb_Rx)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.J25 (Vcc2v5_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.J24 (Xadc_Vaux0n_R)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.H25 (Fmc_Hpc_La02_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.H24 (Fmc_Hpc_La02_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.G25 (Pcie_Perst_Ls)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.G24 (Hdmi_R_D11)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.F25 (Hdmi_R_D4)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.F24 (Vadj_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.E25 (Hdmi_R_D5)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.E24 (Hdmi_R_D6)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.D25 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.D24 (Hdmi_R_D7)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.C25 (Fmc_Hpc_La00_Cc_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.C24 (Fmc_Hpc_La15_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.B25 (Fmc_Hpc_La00_Cc_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.B24 (Fmc_Hpc_La15_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.A25 (Fmc_Hpc_La13_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.A24 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ak26 (Fmc_Lpc_La19_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Aj26 (Fmc_Lpc_La19_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ah26 (Fmc_Lpc_La23_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ag26 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Af26 (Fmc_Lpc_La20_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ae26 (Gpio_Led_4_Ls)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ad26 (Fmc_Lpc_La25_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ac26 (Fmc_Lpc_La25_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ab26 (Vadj_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Aa26 (Rotary_Push)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Y26 (Rotary_Inca)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.W26 (Flash_A11)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.V26 (Phy_Rxer)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.U26 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.T26 (Phy_Rxd6)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.R26 (Flash_D15)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.P26 (Flash_D14)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.N26 (Flash_A23)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.M26 (Vcc2v5_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.L26 (Sm_Fan_Pwm)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.K26 (Phy_Txd5)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.J26 (Phy_Txd4)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.H26 (Fmc_Hpc_La03_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.G26 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.F26 (Hdmi_R_D8)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.E26 (Hdmi_R_D9)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.D26 (Fmc_Hpc_La01_Cc_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.C26 (Fmc_Hpc_La01_Cc_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.B26 (Vadj_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.A26 (Fmc_Hpc_La13_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ak28 (Fmc_Lpc_La22_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ak27 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Aj28 (Fmc_Lpc_La27_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Aj27 (Fmc_Lpc_La22_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ah28 (Vadj_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ah27 (Fmc_Lpc_La23_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ag28 (Fmc_Lpc_La21_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ag27 (Fmc_Lpc_La21_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Af28 (Fmc_Lpc_La29_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Af27 (Fmc_Lpc_La20_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ae28 (Fmc_Lpc_La29_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ae27 (Vadj_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ad28 (Fmc_Lpc_La18_Cc_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ad27 (Fmc_Lpc_La18_Cc_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ac28 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ac27 (Fmc_Lpc_La17_Cc_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ab28 (Xadc_Gpio_2)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ab27 (Fmc_Lpc_La17_Cc_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Aa28 (Gpio_Dip_Sw2)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Aa27 (Xadc_Gpio_3)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Y28 (Gpio_Dip_Sw3)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Y27 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.W28 (Rec_Clock_C_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.W27 (Rec_Clock_C_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.V28 (Vcc2v5_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.V27 (Flash_A15)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.U28 (Phy_Rxd3)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.U27 (Phy_Rxclk)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.T28 (Phy_Rxd7)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.T27 (Phy_Rxd5)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.R28 (Phy_Rxclt_Rxdv)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.R27 (Vcc2v5_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.P28 (Flash_D12)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.P27 (Flash_D11)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.N28 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.N27 (Phy_Txd0)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.M28 (Phy_Txclk)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.M27 (Phy_Txctl_Txen)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.L28 (Phy_Txd3)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.L27 (Usb_Cts)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.K28 (User_Clock_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.K27 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.J28 (Phy_Txd7)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.J27 (Fmc_Vadj_On_B_Ls)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.H28 (Vadj_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.H27 (Fmc_Hpc_La03_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.G28 (Fmc_Hpc_La04_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.G27 (Fmc_Hpc_La11_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.F28 (Fmc_Hpc_La04_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.F27 (Fmc_Hpc_La11_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.E28 (Fmc_Hpc_La07_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.E27 (Vadj_Fpga)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.D28 (Fmc_Hpc_La07_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.D27 (Fmc_Hpc_Clk0_M2c_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.C28 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.C27 (Fmc_Hpc_Clk0_M2c_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.B28 (Fmc_Hpc_La14_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.B27 (Fmc_Hpc_La16_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.A28 (Fmc_Hpc_La14_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.A27 (Fmc_Hpc_La16_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ak29 (Fmc_Lpc_La26_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Aj29 (Fmc_Lpc_La27_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ah29 (Fmc_Lpc_Clk1_M2c_N)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ag29 (Fmc_Lpc_Clk1_M2c_P)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Af29 (Gnd)"
+\t (00:55:44) Selected item not valid for current operation, ignored: Pin "Ic2.Ae29 (Fmc_Lpc_La31_N)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.Ad29 (Fmc_Lpc_La31_P)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.Ac29 (Fmc_Lpc_La33_P)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.Ab29 (Fmc_Lpc_La30_P)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.Aa29 (Vadj_Fpga)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.Y29 (Gpio_Dip_Sw0)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.W29 (Gpio_Dip_Sw1)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.V29 (Flash_A14)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.U29 (Flash_Wait)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.T29 (Gnd)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.R29 (Flash_D10)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.P29 (Flash_D9)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.N29 (Phy_Txer)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.M29 (Phy_Txd2)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.L29 (Vcc2v5_Fpga)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.K29 (User_Clock_N)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.J29 (Fmc_Hpc_Pg_M2c_Ls)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.H29 (Fmc_C2m_Pg_Ls)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.G29 (Fmc_Hpc_La05_P)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.F29 (Gnd)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.E29 (Fmc_Hpc_La08_P)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.D29 (Fmc_Hpc_La10_P)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.C29 (Fmc_Hpc_La12_P)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.B29 (Fmc_Hpc_La12_N)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.A29 (Vadj_Fpga)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.Ak30 (Fmc_Lpc_La26_N)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.Aj30 (Gnd)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.Ah30 (Fmc_Lpc_La24_N)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.Ag30 (Fmc_Lpc_La24_P)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.Af30 (Fmc_Lpc_La28_N)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.Ae30 (Fmc_Lpc_La28_P)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.Ad30 (Vadj_Fpga)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.Ac30 (Fmc_Lpc_La33_N)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.Ab30 (Fmc_Lpc_La30_N)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.Aa30 (Fmc_Lpc_La32_N)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.Y30 (Fmc_Lpc_La32_P)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.W30 (Gnd)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.V30 (Flash_A13)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.U30 (Phy_Rxd0)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.T30 (Flash_D13)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.R30 (Phy_Crs)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.P30 (Vcc2v5_Fpga)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.N30 (Phy_Int)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.M30 (Flash_Adv_B)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.L30 (Phy_Txd6)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.K30 (Phy_Txc_Gtxclk)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.J30 (Gnd)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.H30 (Fmc_Hpc_La06_P)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.G30 (Fmc_Hpc_La06_N)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.F30 (Fmc_Hpc_La05_N)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.E30 (Fmc_Hpc_La08_N)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.D30 (Vadj_Fpga)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.C30 (Fmc_Hpc_La10_N)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.B30 (Fmc_Hpc_La09_P)"
+\t (00:55:45) Selected item not valid for current operation, ignored: Pin "Ic2.A30 (Fmc_Hpc_La09_N)"
+\i (00:55:45) generaledit 
+\i (00:55:47) pop dyn_option_select 'Application Mode@:@Placement Edit' 
+\i (00:55:47) placementedit 
+\i (00:55:47) setwindow form.mini
+\i (00:55:47) FORM mini tree  'Components by refdes' 
+\i (00:55:49) setwindow pcb
+\i (00:55:49) pick grid 229.047 236.164
+\t (00:55:49) last pick:  229.000 236.000
+\i (00:55:50) undo 
+\i (00:55:50) trapsize 304
+\i (00:55:50) placementedit 
+\i (00:55:51) pick grid 225.521 261.025
+\t (00:55:51) last pick:  226.000 261.000
+\i (00:55:52) drag_start grid 223.515 271.054
+\i (00:55:53) drag_stop 182.303 234.158
+\i (00:55:54) prepopup 202.970 260.295
+\i (00:55:55) pop dyn_option_select '@:@Unplace component' 
+\i (00:55:55) unplace component 
+\i (00:55:56) placementedit 
+\i (00:55:58) pick grid 200.599 257.803
+\t (00:55:58) last pick:  201.000 258.000
+\i (00:55:58) zoom out 1 
+\i (00:55:58) setwindow pcb
+\i (00:55:58) zoom out 200.599 257.803
+\i (00:55:58) trapsize 608
+\i (00:55:58) zoom out 1 
+\i (00:55:58) setwindow pcb
+\i (00:55:58) zoom out 200.600 257.804
+\i (00:55:58) trapsize 1216
+\i (00:55:58) zoom out 1 
+\i (00:55:58) setwindow pcb
+\i (00:55:58) zoom out 200.600 257.805
+\i (00:55:58) trapsize 2431
+\i (00:55:58) zoom out 1 
+\i (00:55:58) setwindow pcb
+\i (00:55:58) zoom out 236.323 270.361
+\i (00:55:58) trapsize 2431
+\i (00:56:00) save 
+\i (00:56:01) fillin yes 
+\i (00:56:02) placementedit 
+\i (00:56:03) zoom in 1 
+\i (00:56:03) setwindow pcb
+\i (00:56:03) zoom in 6.808 405.542
+\i (00:56:03) trapsize 1216
+\i (00:56:03) zoom in 1 
+\i (00:56:03) setwindow pcb
+\i (00:56:03) zoom in 6.808 405.542
+\i (00:56:03) trapsize 608
+\i (00:56:04) zoom in 1 
+\i (00:56:04) setwindow pcb
+\i (00:56:04) zoom in 6.808 405.543
+\i (00:56:04) trapsize 304
+\i (00:56:10) 3dx 
+\i (00:56:18) QtSignal Allegro3DWindow Allegro3DWindow activate
+\i (00:56:18) QtSignal Allegro3DWindow Allegro3DWindow deactivate
+\i (00:56:18) QtSignal Allegro3DWindow Allegro3DWindow activate
+\i (00:56:18) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (00:56:18) placementedit 
+\i (00:56:22) QtSignal Allegro3DWindow Allegro3DWindow activate
+\i (00:56:24) updateport SearchPane
+\i (00:56:24) updateport PropPane
+\i (00:56:25) updateport SearchPane
+\i (00:56:25) updateport PropPane
+\i (00:56:29) QtSignal VisibilityLayersLayersWidget Planes clicked
+\i (00:56:30) QtSignal VisibilityLayersLayersWidget Planes clicked on
+\i (00:56:31) QtSignal VisibilityLayersLayersWidget Dielectrics clicked on
+\i (00:56:32) QtSignal VisibilityLayersLayersWidget Dielectrics clicked
+\i (00:56:33) QtSignal VisibilityLayersLayersWidget Dielectrics clicked on
+\i (00:56:39) QtSignal VisibilityLayersLayersWidget Dielectrics clicked
+\i (00:56:41) QtSignal VisibilityLayersLayersWidget Signals clicked
+\i (00:56:42) QtSignal VisibilityLayersLayersWidget Signals clicked on
+\i (00:56:43) QtSignal VisibilityLayersLayersWidget Signals clicked
+\i (00:56:43) QtSignal VisibilityLayersLayersWidget Signals clicked on
+\i (00:56:47) updateport SearchPane
+\i (00:56:47) updateport PropPane
+\i (00:56:48) updateport SearchPane
+\i (00:56:48) updateport PropPane
+\i (00:56:48) updateport SearchPane
+\i (00:56:48) updateport PropPane
+\i (00:56:49) updateport SearchPane
+\i (00:56:49) updateport PropPane
+\i (00:56:51) updateport SearchPane
+\i (00:56:51) updateport PropPane
+\i (00:56:52) updateport SearchPane
+\i (00:56:52) updateport PropPane
+\i (00:56:55) QtSignal VisibilityLayersViewsWidget All_On clicked
+\i (00:56:55) updateport SearchPane
+\i (00:56:55) updateport PropPane
+\i (00:56:55) updateport VisibilityPane
+\i (00:56:55) updateport CVPane
+\i (00:56:59) QtSignal VisibilityNetsWidget VisNetsGroupsAccordion headerClicked 0
+\i (00:57:03) QtSignal VisibilityNetsWidget VisNetsXNetsAccordion headerClicked 0
+\i (00:57:08) QtSignal VisibilityNetsWidget VisNetsXNetsAccordion headerClicked 1
+\i (00:57:14) QtSignal Allegro3DWindow Allegro3DWindow close
+\i (00:57:14) QtSignal Allegro3DWindow Allegro3DWindow deactivate
+\i (00:57:16) pick grid 40.360 397.155
+\t (00:57:16) last pick:  40.000 397.000
+\i (00:57:17) zoom out 1 
+\i (00:57:17) setwindow pcb
+\i (00:57:17) zoom out 44.311 403.172
+\i (00:57:17) trapsize 608
+\i (00:57:17) zoom out 1 
+\i (00:57:17) setwindow pcb
+\i (00:57:17) zoom out 76.708 403.173
+\i (00:57:17) trapsize 1216
+\i (00:57:22) 3d 
+\i (00:57:31) QtSignal 3DUniFilterDialog UniFilterOkButton clicked
+\i (00:57:34) placementedit 
+\i (00:57:44) QtSignal Collision_Detection collisionTolerance editingFinished 0
+\i (00:57:44) QtSignal ViewerPanePanel ViewerPaneButton1:2ColorButton clicked
+\i (00:57:45) QtSignal ViewerPanePanel ViewerPaneButton1:2ColorButton clicked
+\i (00:57:55) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:57:56) exit 
+\e (00:57:56) Do you want to save the changes you made to D:/Projects/HardwareDesign/PCB_Ultima/allegro/ultima_new.brd?
+\i (00:57:58) fillin yes 
+\t (00:57:58)     Journal end - Fri Aug 23 01:44:10 2024
