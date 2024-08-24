@@ -1,6 +1,6 @@
 (ExpressProject "ultima"
   (ProjectVersion "19981106")
-  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[08/23/24]")
+  (SoftwareVersion "23.1 S005 (4202337)  [6/12/2024]-[08/24/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -98,7 +98,7 @@
     (width_pages "100")
     (width_start "80")
     (width_End "80")
-    (Board_sim_option "Verilog_Flow"))
+    (Board_sim_option "VHDL_flow"))
   (Folder "Layout"
     (File ".\allegro\ultima.brd"
       (Type "Board File")
@@ -112,7 +112,16 @@
       (ActiveBoard "1")))
   (Folder "Outputs"
     (File "..\pcb_st-link v3_1\report.drc"
-      (Type "Report")))
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
@@ -133,6 +142,31 @@
       (Type "Log File")
       (LogFile "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\eco.txt")))
   (PartMRUSelector
+    (W25Q128JVFIQ
+      (FullPartName "W25Q128JVFIQ.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. FLASH NOR\(SOIC-16) W25Q128JVFIQ\W25Q128JVFIQ.OLB")
+      (DeviceIndex "0"))
+    (TLW-110-05-G-S
+      (FullPartName "TLW-110-05-G-S.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. PIN HEADERS\(1X10, 2.54MM, OPEN, HEADER MALE) TLW-110-05-G-S\TLW-110-05-G-S.OLB")
+      (DeviceIndex "0"))
+    (67996-100HLF
+      (FullPartName "67996-100HLF.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. PIN HEADERS\(2X1, 2.54MM, OPEN, HEAADER MALE) 67996-100HLF\67996-100HLF.OLB")
+      (DeviceIndex "0"))
+    (PC28F128P33BF60A
+      (FullPartName "PC28F128P33BF60A.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. FLASH NOR\(BGA-64) PC28F128P33BF60A\PC28F128P33BF60A.OLB")
+      (DeviceIndex "0"))
+    (88E1545-A1-LKJ2C000
+      (FullPartName "88E1545-A1-LKJ2C000.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. ETHERNET\(LQFP-128) 88E1545-A1-LKJ2C000\88E1545-A1-LKJ2C000.OLB")
+      (DeviceIndex "0"))
     (SI5324C-C-GM
       (FullPartName "SI5324C-C-GM.Normal")
       (LibraryName
@@ -232,58 +266,31 @@
       (FullPartName "08-0625-70.Normal")
       (LibraryName
          "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. PIN HEADERS\(1X8, 2.54MM, OPEN, HEADER MALE) 08-0625-70\08-0625-70.OLB")
-      (DeviceIndex "0"))
-    (87832-1420
-      (FullPartName "87832-1420.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. JTAG\(SMD, 2MM) 87832-1420\87832-1420.OLB")
-      (DeviceIndex "0"))
-    (C1206C223F8HACAUTO
-      (FullPartName "C1206C223F8HACAUTO.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CAPACITORS. CERAMIC\(1206, 0.022UF, 10V) C1206C223F8HACAUTO\C1206C223F8HACAUTO.OLB")
-      (DeviceIndex "0"))
-    (JMK325BJ107MM-T
-      (FullPartName "JMK325BJ107MM-T.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CAPACITORS. CERAMIC\(1210, 100UF, 6.3V) JMK325BJ107MM-T\JMK325BJ107MM-T.OLB")
-      (DeviceIndex "0"))
-    (JMK105BBJ475MV8F
-      (FullPartName "JMK105BBJ475MV8F.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CAPACITORS. CERAMIC\(0402, 4.7UF, 6.3V) JMK105BBJ475MV8F\JMK105BBJ475MV8F.OLB")
-      (DeviceIndex "0"))
-    (TR3E337K010C0060
-      (FullPartName "TR3E337K010C0060.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CAPACITORS. TANTALUM\(SMD, 330UF, 10V) TR3E337K010C0060\TR3E337K010C0060.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn")
-      (Path "Design Resources"
-         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn" "SCH001")
-      (Select "Design Resources"
-         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn" "SCH001" "DEV1"))
+      (Path "Design Resources" ".\ultima.dsn")
+      (Path "Design Resources" ".\ultima.dsn" "SCH001")
+      (Path "Outputs")
+      (Select "Outputs" "..\pcb_st-link v3_1\report.drc"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 535"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 251 0 522"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 959 24 553")
-        (Scroll "1067 119")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -1 -1 5 936 24 540")
+        (Scroll "5 0")
+        (Zoom "32")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ULTIMA.DSN")
       (Schematic "SCH001")
       (Page "DEV1")))
   (MPSSessionName "Prometheus")
   (LastUsedLibraryBrowseDirectory
-     "D:\Projects\CadenceAllegro\Old-library\Integral Circuit. Clock generator\(QFN-36) SI5324C-C-GM")
+     "D:\Projects\CadenceAllegro\Old-library\Integral Circuit. Flash NOR\(SOIC-16) W25Q128JVFIQ")
   (ISPCBBASICLICENSE "false"))
