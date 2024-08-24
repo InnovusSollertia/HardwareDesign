@@ -1,5 +1,6 @@
-{ Using PSTWRITER 23.1.0 d001Aug-24-2024 at 18:14:33 }
+{ Using PSTWRITER 23.1.0 d001Aug-24-2024 at 20:53:18 }
 
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "IC11.12" ignored for IC11: SCH001, DEV1 (360.68, 528.32). Connecting pin to net "B8".
 INFO(ORCAP-36080): Scanning netlist files ...
 
 Loading... D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\pstchip.dat

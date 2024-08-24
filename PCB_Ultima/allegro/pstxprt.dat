@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 23.1.0 d001Aug-24-2024 at 18:14:34 }
+{ Using PSTWRITER 23.1.0 d001Aug-24-2024 at 20:53:19 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='ULTIMA';
@@ -602,6 +602,39 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ C157 'JMK325BJ107MM-T_CAPC3225X270N_0.1U':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1609630@JMK325BJ107MM-T.JMK325BJ107MM-T.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1609630@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1609630@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1330,1000)',
+ SECTION='';
+
+PART_NAME
+ C158 'JMK325BJ107MM-T_CAPC3225X270N_0.1U':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1634761@JMK325BJ107MM-T.JMK325BJ107MM-T.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1634761@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1634761@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1730,950)',
+ SECTION='';
+
+PART_NAME
+ C159 'JMK325BJ107MM-T_CAPC3225X270N_0.1U':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1703230@JMK325BJ107MM-T.JMK325BJ107MM-T.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1703230@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1703230@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1090,1400)',
+ SECTION='';
+
+PART_NAME
  C16 'JMK105BBJ475MV8F_CAPC1005X55N_4.7U':;
 
 SECTION_NUMBER 1
@@ -610,6 +643,105 @@ SECTION_NUMBER 1
  P_PATH='@ultima.sch001(sch_1):page1_ins231909@jmk105bbj475mv8f.\jmk105bbj475mv8f.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(770,490)',
+ SECTION='';
+
+PART_NAME
+ C160 'JMK325BJ107MM-T_CAPC3225X270N_0.1U':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1724615@JMK325BJ107MM-T.JMK325BJ107MM-T.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1724615@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1724615@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1470,1530)',
+ SECTION='';
+
+PART_NAME
+ C161 'JMK325BJ107MM-T_CAPC3225X270N_0.1U':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1716369@JMK325BJ107MM-T.JMK325BJ107MM-T.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1716369@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1716369@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1590,1540)',
+ SECTION='';
+
+PART_NAME
+ C162 'JMK325BJ107MM-T_CAPC3225X270N_0.1U':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1716331@JMK325BJ107MM-T.JMK325BJ107MM-T.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1716331@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1716331@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1630,1540)',
+ SECTION='';
+
+PART_NAME
+ C163 'JMK325BJ107MM-T_CAPC3225X270N_0.1U':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1714683@JMK325BJ107MM-T.JMK325BJ107MM-T.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1714683@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1714683@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1670,1540)',
+ SECTION='';
+
+PART_NAME
+ C164 'JMK325BJ107MM-T_CAPC3225X270N_0.1U':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1719602@JMK325BJ107MM-T.JMK325BJ107MM-T.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1719602@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1719602@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1630,1640)',
+ SECTION='';
+
+PART_NAME
+ C165 'JMK325BJ107MM-T_CAPC3225X270N_0.1U':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1719564@JMK325BJ107MM-T.JMK325BJ107MM-T.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1719564@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1719564@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1670,1640)',
+ SECTION='';
+
+PART_NAME
+ C166 'JMK325BJ107MM-T_CAPC3225X270N_0.1U':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1761342@JMK325BJ107MM-T.JMK325BJ107MM-T.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1761342@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1761342@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1160,1800)',
+ SECTION='';
+
+PART_NAME
+ C167 'JMK325BJ107MM-T_CAPC3225X270N_0.1U':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1783714@JMK325BJ107MM-T.JMK325BJ107MM-T.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1783714@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1783714@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1370,2040)',
+ SECTION='';
+
+PART_NAME
+ C168 'JMK325BJ107MM-T_CAPC3225X270N_0.1U':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1783738@JMK325BJ107MM-T.JMK325BJ107MM-T.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1783738@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1783738@\jmk325bj107mm-t\.\jmk325bj107mm-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1520,2040)',
  SECTION='';
 
 PART_NAME
@@ -1724,6 +1856,17 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ D2 'SP0503BAHTG_SP0503BAHTG_SP0503BAHTG':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1696535@SP0503BAHTG.SP0503BAHTG.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1696535@sp0503bahtg.\sp0503bahtg.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1696535@sp0503bahtg.\sp0503bahtg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1360,1340)',
+ SECTION='';
+
+PART_NAME
  DS1 'SM0603GCL_LEDC1608X60N_SM0603GCL':;
 
 SECTION_NUMBER 1
@@ -1776,6 +1919,28 @@ SECTION_NUMBER 1
  P_PATH='@ultima.sch001(sch_1):page1_ins219602@sn74avc1t45dbvr.\sn74avc1t45dbvr.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(320,90)',
+ SECTION='';
+
+PART_NAME
+ IC10 'CP2103-GM_QFN50P500X500X100-29N-D_CP2103-GM':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1693218@CP2103-GM.CP2103-GM.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1693218@\cp2103-gm\.\cp2103-gm.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1693218@\cp2103-gm\.\cp2103-gm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1720,1400)',
+ SECTION='';
+
+PART_NAME
+ IC11 'TXB0108PWR_SOP65P640X120-20N_TXB0108PWR':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1783770@TXB0108PWR.TXB0108PWR.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1783770@txb0108pwr.\txb0108pwr.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1783770@txb0108pwr.\txb0108pwr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1420,2080)',
  SECTION='';
 
 PART_NAME
@@ -1842,6 +2007,28 @@ SECTION_NUMBER 1
  P_PATH='@ultima.sch001(sch_1):page1_ins1584663@w25q128jvfiq.\w25q128jvfiq.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1410,700)',
+ SECTION='';
+
+PART_NAME
+ IC8 'SN74LVC1G18DBVR_SOT95P280X145-6N_SN74LVC1G18DBVR':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1609564@SN74LVC1G18DBVR.SN74LVC1G18DBVR.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1609564@sn74lvc1g18dbvr.\sn74lvc1g18dbvr.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1609564@sn74lvc1g18dbvr.\sn74lvc1g18dbvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1240,940)',
+ SECTION='';
+
+PART_NAME
+ IC9 'M24C08-WDW6TP_SOP65P640X120-8N_M24C08-WDW6TP':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1634705@M24C08-WDW6TP.M24C08-WDW6TP.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1634705@\m24c08-wdw6tp\.\m24c08-wdw6tp.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1634705@\m24c08-wdw6tp\.\m24c08-wdw6tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1520,930)',
  SECTION='';
 
 PART_NAME
@@ -2065,6 +2252,28 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ J28 '10102166A812A_10102166A812A_10102166A812A':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1761378@10102166A812A.10102166A812A.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1761378@\10102166a812a\.\10102166a812a.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1761378@\10102166a812a\.\10102166a812a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1200,1850)',
+ SECTION='A';
+
+PART_NAME
+ J29 '219320-0001_0_2193200001_219320-0001':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1707025@ULTIMA.219320-0001_0.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1707025@ultima.\219320-0001_0.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1707025@ultima.\219320-0001_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1160,1410)',
+ SECTION='';
+
+PART_NAME
  J3 '2-2013310-2_220133102_DDR3_SODIMM':;
 
 SECTION_NUMBER 1
@@ -2161,6 +2370,28 @@ SECTION_NUMBER 1
  P_PATH='@ultima.sch001(sch_1):page1_ins1066229@\nlcv32t-4r7m-efr\.\nlcv32t-4r7m-efr.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(950,4275)',
+ SECTION='';
+
+PART_NAME
+ L3 'MLZ1608N100LTD25_INDC1608X95N_MLZ1608N100LTD25':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1712285@MLZ1608N100LTD25.MLZ1608N100LTD25.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1712285@mlz1608n100ltd25.\mlz1608n100ltd25.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1712285@mlz1608n100ltd25.\mlz1608n100ltd25.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1330,1415)',
+ SECTION='';
+
+PART_NAME
+ L4 'MLZ1608N100LTD25_INDC1608X95N_MLZ1608N100LTD25':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1724518@MLZ1608N100LTD25.MLZ1608N100LTD25.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1724518@mlz1608n100ltd25.\mlz1608n100ltd25.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1724518@mlz1608n100ltd25.\mlz1608n100ltd25.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1470,1605)',
  SECTION='';
 
 PART_NAME
@@ -2901,6 +3132,39 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R67 'PCF0603R-1K0BT1_RESC1608X55N_4.7K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1609530@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1609530@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1609530@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1155,890)',
+ SECTION='';
+
+PART_NAME
+ R68 'PCF0603R-1K0BT1_RESC1608X55N_0':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1634659@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1634659@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1634659@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1445,880)',
+ SECTION='';
+
+PART_NAME
+ R69 'PCF0603R-1K0BT1_RESC1608X55N_220':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1649298@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1649298@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1649298@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1485,1120)',
+ SECTION='';
+
+PART_NAME
  R7 'ERA-6ARB472V_ERA6AEB1020V_15':;
 
 SECTION_NUMBER 1
@@ -2909,6 +3173,116 @@ SECTION_NUMBER 1
  P_PATH='@ultima.sch001(sch_1):page1_ins263836@\era-6arb472v\.\era-6arb472v.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(180,905)',
+ SECTION='';
+
+PART_NAME
+ R70 'PCF0603R-1K0BT1_RESC1608X55N_220':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1649322@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1649322@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1649322@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1525,1120)',
+ SECTION='';
+
+PART_NAME
+ R71 'PCF0603R-1K0BT1_RESC1608X55N_1.21K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1649484@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1649484@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1649484@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1145,1250)',
+ SECTION='';
+
+PART_NAME
+ R72 'PCF0603R-1K0BT1_RESC1608X55N_1.21K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1649508@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1649508@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1649508@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1185,1250)',
+ SECTION='';
+
+PART_NAME
+ R73 'PCF0603R-1K0BT1_RESC1608X55N_1.21K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1649532@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1649532@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1649532@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1225,1250)',
+ SECTION='';
+
+PART_NAME
+ R74 'PCF0603R-1K0BT1_RESC1608X55N_1.21K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1649556@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1649556@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1649556@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1265,1250)',
+ SECTION='';
+
+PART_NAME
+ R75 'PCF0603R-1K0BT1_RESC1608X55N_1.21K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1649580@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1649580@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1649580@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1305,1250)',
+ SECTION='';
+
+PART_NAME
+ R76 'PCF0603R-1K0BT1_RESC1608X55N_4.7K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1718356@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1718356@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1718356@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1555,1540)',
+ SECTION='';
+
+PART_NAME
+ R77 'PCF0603R-1K0BT1_RESC1608X55N_4.7K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1761294@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1761294@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1761294@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1385,1780)',
+ SECTION='';
+
+PART_NAME
+ R78 'PCF0603R-1K0BT1_RESC1608X55N_4.7K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1761318@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1761318@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1761318@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1425,1780)',
+ SECTION='';
+
+PART_NAME
+ R79 'PCF0603R-1K0BT1_RESC1608X55N_51.1K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1783426@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1783426@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1783426@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1135,2030)',
  SECTION='';
 
 PART_NAME
@@ -2923,6 +3297,116 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R80 'PCF0603R-1K0BT1_RESC1608X55N_51.1K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1783450@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1783450@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1783450@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1175,2030)',
+ SECTION='';
+
+PART_NAME
+ R81 'PCF0603R-1K0BT1_RESC1608X55N_51.1K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1783474@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1783474@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1783474@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1215,2030)',
+ SECTION='';
+
+PART_NAME
+ R82 'PCF0603R-1K0BT1_RESC1608X55N_51.1K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1783498@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1783498@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1783498@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1255,2030)',
+ SECTION='';
+
+PART_NAME
+ R83 'PCF0603R-1K0BT1_RESC1608X55N_51.1K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1783522@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1783522@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1783522@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1295,2030)',
+ SECTION='';
+
+PART_NAME
+ R84 'PCF0603R-1K0BT1_RESC1608X55N_51.1K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1783546@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1783546@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1783546@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1335,2030)',
+ SECTION='';
+
+PART_NAME
+ R85 'PCF0603R-1K0BT1_RESC1608X55N_51.1K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1783570@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1783570@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1783570@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1595,2030)',
+ SECTION='';
+
+PART_NAME
+ R86 'PCF0603R-1K0BT1_RESC1608X55N_51.1K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1783594@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1783594@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1783594@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1635,2030)',
+ SECTION='';
+
+PART_NAME
+ R87 'PCF0603R-1K0BT1_RESC1608X55N_51.1K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1783618@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1783618@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1783618@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1675,2030)',
+ SECTION='';
+
+PART_NAME
+ R88 'PCF0603R-1K0BT1_RESC1608X55N_51.1K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1783642@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1783642@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1783642@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1715,2030)',
+ SECTION='';
+
+PART_NAME
+ R89 'PCF0603R-1K0BT1_RESC1608X55N_51.1K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1783666@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1783666@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1783666@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1755,2030)',
+ SECTION='';
+
+PART_NAME
  R9 'ERA-6ARB472V_ERA6AEB1020V_24.9':;
 
 SECTION_NUMBER 1
@@ -2932,6 +3416,28 @@ SECTION_NUMBER 1
  PRIM_FILE='.\pstchip.dat',
  XY='(510,1045)',
  SECTION='';
+
+PART_NAME
+ R90 'PCF0603R-1K0BT1_RESC1608X55N_51.1K':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1783690@PCF0603R-1K0BT1.PCF0603R-1K0BT1.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1783690@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1783690@\pcf0603r-1k0bt1\.\pcf0603r-1k0bt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1795,2030)',
+ SECTION='';
+
+PART_NAME
+ S1 'SDA05H1SBD_SDA05H1SBD_SDA05H1SBD':;
+
+SECTION_NUMBER 1
+ '@ULTIMA.SCH001(SCH_1):INS1649346@SDA05H1SBD.SDA05H1SBD.NORMAL(CHIPS)':
+ C_PATH='@ultima.sch001(sch_1):ins1649346@sda05h1sbd.\sda05h1sbd.normal\(chips)',
+ P_PATH='@ultima.sch001(sch_1):page1_ins1649346@sda05h1sbd.\sda05h1sbd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1340,1170)',
+ SECTION='A';
 
 PART_NAME
  U1 '08-0625-70_HDRV8W51P0X254_1X8_2032X254X816P_DIGILENT_USB_JTAG':;

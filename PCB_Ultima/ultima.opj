@@ -142,6 +142,56 @@
       (Type "Log File")
       (LogFile "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\eco.txt")))
   (PartMRUSelector
+    (TXB0108PWR
+      (FullPartName "TXB0108PWR.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. VOLTAGE LEVELS\(TSSOP-20) TXB0108PWR\TXB0108PWR.OLB")
+      (DeviceIndex "0"))
+    (10102166A812A
+      (FullPartName "10102166A812A.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. SD-CARD\(18P) 10102166A812A\10102166A812A.OLB")
+      (DeviceIndex "0"))
+    (MLZ1608N100LTD25
+      (FullPartName "MLZ1608N100LTD25.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INDUCTORS. POWER\(0603, 300 MA) MLZ1608N100LTD25\MLZ1608N100LTD25.OLB")
+      (DeviceIndex "0"))
+    (219320-0001
+      (FullPartName "219320-0001.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. USB TYPE-C\(16P, 8.8MM, VERTICAL) 219320-0001\219320-0001.OLB")
+      (DeviceIndex "0"))
+    (UJC-HP-L-G-5-MSMT-TR
+      (FullPartName "UJC-HP-L-G-5-MSMT-TR.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. USB TYPE-C\(24P, 8.0MM, HORIZONTAL) UJC-HP-L-G-5-MSMT-TR\UJC-HP-L-G-5-MSMT-TR.OLB")
+      (DeviceIndex "0"))
+    (SP0503BAHTG
+      (FullPartName "SP0503BAHTG.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\SEMICONDUCTORS. ESD PROTECTION DIODES\(SOT-143-4) SP0503BAHTG\SP0503BAHTG.OLB")
+      (DeviceIndex "0"))
+    (CP2103-GM
+      (FullPartName "CP2103-GM.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. IO AND INTERFACE EXPANDER\(MLP-28) CP2103-GM\CP2103-GM.OLB")
+      (DeviceIndex "0"))
+    (SDA05H1SBD
+      (FullPartName "SDA05H1SBD.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\SWITCHES. DIP\(DIP) SDA05H1SBD\SDA05H1SBD.OLB")
+      (DeviceIndex "0"))
+    (M24C08-WDW6TP
+      (FullPartName "M24C08-WDW6TP.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. EEPROM\(TSSOP-8) M24C08-WDW6TP\M24C08-WDW6TP.OLB")
+      (DeviceIndex "0"))
+    (SN74LVC1G18DBVR
+      (FullPartName "SN74LVC1G18DBVR.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. LOGIC BUFFERS\(SOT-23-6) SN74LVC1G18DBVR\SN74LVC1G18DBVR.OLB")
+      (DeviceIndex "0"))
     (W25Q128JVFIQ
       (FullPartName "W25Q128JVFIQ.Normal")
       (LibraryName
@@ -216,81 +266,33 @@
       (FullPartName "SI52112-B5-GT.Normal")
       (LibraryName
          "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. CLOCK GENERATOR\(TSSOP-8) SI52112-B5-GT\SI52112-B5-GT.OLB")
-      (DeviceIndex "0"))
-    (ASP-134486-01
-      (FullPartName "ASP-134486-01.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. FPC & FMC\(400P) ASP-134486-01\ASP-134486-01.OLB")
-      (DeviceIndex "0"))
-    (ASP-134603-01
-      (FullPartName "ASP-134603-01.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. FPC & FMC\(400P) ASP-134603-01\ASP-134603-01.OLB")
-      (DeviceIndex "0"))
-    (SN74LVC1G66DBVR
-      (FullPartName "SN74LVC1G66DBVR.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. ANALOG SWITCHES\(SOT-23-5) SN74LVC1G66DBVR\SN74LVC1G66DBVR.OLB")
-      (DeviceIndex "0"))
-    (W2A4YC104KAT2A
-      (FullPartName "W2A4YC104KAT2A.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CAPACITORS. ARRAYS\(SMD, 0.1U, 16V) W2A4YC104KAT2A\W2A4YC104KAT2A.OLB")
-      (DeviceIndex "0"))
-    (2-2013310-2
-      (FullPartName "2-2013310-2.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. MEMORY\(204P) 2-2013310-2\2-2013310-2.OLB")
-      (DeviceIndex "0"))
-    (SN74LV541APWR
-      (FullPartName "SN74LV541APWR.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. LOGIC BUFFERS\() SN74LV541APWR\SN74LV541APWR.OLB")
-      (DeviceIndex "0"))
-    (SN74AVC2T245RSWR
-      (FullPartName "SN74AVC2T245RSWR.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. LOGIC BUFFERS\() SN74AVC2T245RSWR\SN74AVC2T245RSWR.OLB")
-      (DeviceIndex "0"))
-    (SN74AVC1T45DBVR
-      (FullPartName "SN74AVC1T45DBVR.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. LOGIC BUFFERS\() SN74AVC1T45DBVR\SN74AVC1T45DBVR.OLB")
-      (DeviceIndex "0"))
-    (ASFLMB-66.000MHZ-XY-T
-      (FullPartName "ASFLMB-66.000MHZ-XY-T.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CRYSTALS AND OSCILLATORS\(66 MHZ, 4P, SMD) ASFLMB-66.000MHZ-XY-T\ASFLMB-66.000MHZ-XY-T.OLB")
-      (DeviceIndex "0"))
-    (08-0625-70
-      (FullPartName "08-0625-70.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. PIN HEADERS\(1X8, 2.54MM, OPEN, HEADER MALE) 08-0625-70\08-0625-70.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\ultima.dsn")
-      (Path "Design Resources" ".\ultima.dsn" "SCH001")
+      (Path "Design Resources"
+         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn")
+      (Path "Design Resources"
+         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn" "SCH001")
       (Path "Outputs")
-      (Select "Outputs" "..\pcb_st-link v3_1\report.drc"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 251 0 522"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 522"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 936 24 540")
-        (Scroll "5 0")
-        (Zoom "32")
+        (Placement "44 0 1 -1 -1 5 24 5 987 24 540")
+        (Scroll "423 1083")
+        (Zoom "64")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ULTIMA.DSN")
       (Schematic "SCH001")
       (Page "DEV1")))
   (MPSSessionName "Prometheus")
   (LastUsedLibraryBrowseDirectory
-     "D:\Projects\CadenceAllegro\Old-library\Integral Circuit. Flash NOR\(SOIC-16) W25Q128JVFIQ")
+     "D:\Projects\CadenceAllegro\Old-library\Integral Circuit. Voltage Levels\(TSSOP-20) TXB0108PWR")
   (ISPCBBASICLICENSE "false"))

@@ -3,12 +3,12 @@
 (    GenFeed                                                          )
 (                                                                     )
 (    Software Version : 23.1S005                                      )
-(    Date/Time        : Fri Aug 23 00:46:34 2024                      )
+(    Date/Time        : Sat Aug 24 20:53:48 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Extract file used: D:/Projects/HardwareDesign/PCB_Ultima/allegro/pxlBA.txt
+Extract file used: c:/cadence/spb_23.1/share/pcb/text/views/pxlBA-rfpcb.txt
 
   Wrote feedbackview.cdsz file to D:/Projects/HardwareDesign/PCB_Ultima/allegro directory
 
