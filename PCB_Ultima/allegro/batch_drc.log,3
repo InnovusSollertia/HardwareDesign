@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ultima_new.brd                                )
 (    Software Version : 23.1S005                                      )
-(    Date/Time        : Fri Aug 23 00:48:04 2024                      )
+(    Date/Time        : Sun Aug 25 21:57:13 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  0
+ ..... Total number of DRC errors  40
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************
