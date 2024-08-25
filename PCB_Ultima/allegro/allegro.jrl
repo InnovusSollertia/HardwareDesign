@@ -1,17 +1,17 @@
-\t (00:00:02) allegro 23.1 S005 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Sun Aug 25 22:13:19 2024
-\t (00:00:02)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=20168 CPUs=12
+\t (00:00:02) allegro 23.1 S006 (4217799) Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sun Aug 25 23:50:05 2024
+\t (00:00:02)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=12548 CPUs=12
 \t (00:00:02) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
 \t (00:00:02) 
    (00:00:02) Loading axlcore.cxt 
 \t (00:00:05) Opening existing design...
 \i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ultima_new"
 \d (00:00:05) Design opened: D:/Projects/HardwareDesign/PCB_Ultima/allegro/ultima_new.brd
-\i (00:00:05) trapsize 3192
-\i (00:00:05) trapsize 3420
-\i (00:00:05) trapsize 3491
-\i (00:00:05) trapsize 5477
-\i (00:00:06) trapsize 5477
+\i (00:00:05) trapsize 5080
+\i (00:00:06) trapsize 5443
+\i (00:00:06) trapsize 5556
+\i (00:00:06) trapsize 8716
+\i (00:00:06) trapsize 8716
 \t (00:00:06) Loading NV GPU Plugin
 \i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
 \i (00:00:06) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
@@ -33,606 +33,2048 @@
 \i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
 \i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 1 "|" +
 \i (00:00:06) QtSignal "Color Dialog"
-\i (00:00:06) trapsize 1557
-\i (00:00:06) generaledit 
-\i (00:01:02) add connect 
-\w (00:01:03) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:01:03) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:01:03) Pick first element.
-\i (00:01:04) roam start
-\i (00:01:04) roam x -16
-\i (00:01:04) roam y -16
-\i (00:01:04) roam y -16
-\i (00:01:04) roam y -32
-\i (00:01:04) roam x -16
-\i (00:01:04) roam y -16
-\i (00:01:04) roam y -32
-\i (00:01:04) roam y -16
-\i (00:01:04) roam y -16
-\i (00:01:04) roam y -16
-\i (00:01:04) roam y -16
-\i (00:01:04) roam y -16
-\i (00:01:04) roam y -16
-\i (00:01:04) roam y -16
-\i (00:01:04) roam y -16
-\i (00:01:04) roam end
-\i (00:01:08) roam start
-\i (00:01:08) roam y -16
-\i (00:01:08) roam y -16
-\i (00:01:08) roam y -16
-\i (00:01:08) roam y -16
-\i (00:01:08) roam x 16
-\i (00:01:08) roam y -16
-\i (00:01:08) roam y -16
-\i (00:01:08) roam y -16
-\i (00:01:08) roam y -16
-\i (00:01:08) roam y -16
-\i (00:01:08) roam y -16
-\i (00:01:08) roam y -16
-\i (00:01:08) roam x 16
-\i (00:01:08) roam y -32
-\i (00:01:08) roam y -16
-\i (00:01:08) roam y -16
-\i (00:01:08) roam y -16
-\i (00:01:08) roam x 16
-\i (00:01:08) roam x -16
-\i (00:01:08) roam x -16
-\i (00:01:08) roam x -16
-\i (00:01:08) roam y 16
-\i (00:01:09) roam x -16
-\i (00:01:09) roam y 16
-\i (00:01:09) roam y 16
-\i (00:01:09) roam x -16
-\i (00:01:09) roam y 16
-\i (00:01:09) roam y 16
-\i (00:01:09) roam y 16
-\i (00:01:09) roam y 16
-\i (00:01:09) roam y 16
-\i (00:01:09) roam y 16
-\i (00:01:09) roam end
-\i (00:01:10) setwindow form.mini
-\i (00:01:10) FORM mini blankrats YES 
-\i (00:01:10) FORM mini optimize_in_channel YES 
-\i (00:01:11) FORM mini clearance_view_on YES 
-\i (00:01:13) FORM mini optimize_in_channel_options  
-\i (00:01:16) setwindow form.eopt
-\i (00:01:16) FORM eopt ok  
-\i (00:01:57) setwindow pcb
-\i (00:01:57) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Utilities  (1/8)"
-\i (00:01:57) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Utilities  (1/8)"
-\i (00:01:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Utilities  (1/8)" +
-\i (00:01:58) QtSignal "Rats On"
-\i (00:01:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Utilities  (1/8)" "Rats On"
-\i (00:01:58) rats all 
-\i (00:01:58) generaledit 
-\i (00:02:00) add connect 
-\t (00:02:00) Pick first element.
-\i (00:02:03) setwindow form.mini
-\i (00:02:03) FORM mini routeoffset_on YES 
-\i (00:02:05) FORM mini routeoffset_on NO 
-\i (00:02:08) FORM mini shove_vias Full 
-\i (00:02:10) FORM mini smooth_level Super 
-\i (00:02:13) FORM mini alt_or_working WL 
-\i (00:02:15) setwindow form.acon_working_layers
-\i (00:02:15) FORM acon_working_layers close  
-\i (00:02:18) setwindow form.mini
-\i (00:02:18) FORM mini alt_or_working Alt 
-\i (00:02:21) setwindow pcb
-\i (00:02:21) zoom in 1 
-\i (00:02:21) setwindow pcb
-\i (00:02:21) zoom in 125.533 296.233
-\i (00:02:21) trapsize 779
-\i (00:02:22) roam start
-\i (00:02:22) roam x -16
-\i (00:02:22) roam x -16
-\i (00:02:22) roam x -16
-\i (00:02:22) roam y 16
-\i (00:02:22) roam x -32
-\i (00:02:22) roam y 16
-\i (00:02:22) roam x -16
-\i (00:02:22) roam x -16
-\i (00:02:22) roam y 16
-\i (00:02:22) roam x -16
-\i (00:02:22) roam x -16
-\i (00:02:22) roam y 16
-\i (00:02:22) roam x -32
-\i (00:02:22) roam y 16
-\i (00:02:22) roam x -16
-\i (00:02:22) roam x -16
-\i (00:02:22) roam y 16
-\i (00:02:22) roam x -16
-\i (00:02:22) roam y 16
-\i (00:02:22) roam x -16
-\i (00:02:22) roam y 16
-\i (00:02:22) roam x -16
-\i (00:02:22) roam end
-\i (00:02:22) zoom in 1 
-\i (00:02:22) setwindow pcb
-\i (00:02:22) zoom in 108.245 251.377
-\i (00:02:22) trapsize 389
-\i (00:02:23) zoom in 1 
-\i (00:02:23) setwindow pcb
-\i (00:02:23) zoom in 128.882 243.512
-\i (00:02:23) trapsize 195
-\i (00:02:24) roam start
-\i (00:02:24) roam y -16
-\i (00:02:24) roam y -16
-\i (00:02:24) roam y -16
-\i (00:02:24) roam y -32
-\i (00:02:24) roam y -16
-\i (00:02:24) roam x 16
-\i (00:02:24) roam y -16
-\i (00:02:24) roam x 16
-\i (00:02:24) roam y -16
-\i (00:02:24) roam y -16
-\i (00:02:24) roam x 16
-\i (00:02:24) roam y -16
-\i (00:02:24) roam x 32
-\i (00:02:24) roam y -32
-\i (00:02:24) roam x 32
-\i (00:02:24) roam y -32
-\i (00:02:24) roam x 16
-\i (00:02:24) roam x 16
-\i (00:02:24) roam y -16
-\i (00:02:24) roam x 16
-\i (00:02:24) roam y -16
-\i (00:02:24) roam x 32
-\i (00:02:24) roam y -16
-\i (00:02:24) roam x 16
-\i (00:02:24) roam y -16
-\i (00:02:24) roam x 32
-\i (00:02:24) roam y -16
-\i (00:02:24) roam x 16
-\i (00:02:24) roam x 16
-\i (00:02:24) roam y -16
-\i (00:02:24) roam x 32
-\i (00:02:24) roam y -16
-\i (00:02:24) roam x 16
-\i (00:02:24) roam x 16
-\i (00:02:24) roam y -16
-\i (00:02:24) roam x 16
-\i (00:02:24) roam y -16
-\i (00:02:24) roam x 16
-\i (00:02:24) roam x 16
-\i (00:02:24) roam y -16
-\i (00:02:24) roam x 16
-\i (00:02:24) roam y -16
-\i (00:02:24) roam x 16
-\i (00:02:24) roam y -16
-\i (00:02:24) roam end
-\i (00:02:25) zoom out 1 
-\i (00:02:25) setwindow pcb
-\i (00:02:25) zoom out 141.458 259.592
-\i (00:02:25) trapsize 389
-\i (00:02:25) zoom out 1 
-\i (00:02:25) setwindow pcb
-\i (00:02:25) zoom out 141.458 259.592
-\i (00:02:25) trapsize 779
-\i (00:02:25) roam start
-\i (00:02:25) roam y -16
-\i (00:02:25) roam x 16
-\i (00:02:25) roam y -16
-\i (00:02:25) roam x 16
-\i (00:02:25) roam y -32
-\i (00:02:25) roam x 16
-\i (00:02:25) roam y -16
-\i (00:02:25) roam x 16
-\i (00:02:25) roam y -16
-\i (00:02:25) roam y -16
-\i (00:02:25) roam x 16
-\i (00:02:25) roam y -16
-\i (00:02:25) roam x 16
-\i (00:02:25) roam y -16
-\i (00:02:25) roam x 16
-\i (00:02:25) roam y -16
-\i (00:02:25) roam x 16
-\i (00:02:25) roam y -16
-\i (00:02:25) roam x 16
-\i (00:02:25) roam y -16
-\i (00:02:25) roam end
-\i (00:02:25) zoom in 1 
-\i (00:02:25) setwindow pcb
-\i (00:02:25) zoom in 160.887 287.978
-\i (00:02:25) trapsize 389
-\i (00:02:26) roam start
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x 16
-\i (00:02:26) roam y -32
-\i (00:02:26) roam x 16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x 16
-\i (00:02:26) roam y -32
-\i (00:02:26) roam x 16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x 16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x 16
-\i (00:02:26) roam y -32
-\i (00:02:26) roam x 16
-\i (00:02:26) roam x 16
-\i (00:02:26) roam y -32
-\i (00:02:26) roam x 32
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x 16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x 16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x 16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x 16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x 16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x 16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam y -32
-\i (00:02:26) roam x 16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam y -32
-\i (00:02:26) roam y -16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam y -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam x -32
-\i (00:02:26) roam x -32
-\i (00:02:26) roam x -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam y 16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam y 16
-\i (00:02:26) roam x -16
-\i (00:02:26) roam y 16
-\i (00:02:26) roam x -16
-\i (00:02:27) roam y 16
-\i (00:02:27) roam x -16
-\i (00:02:27) roam y 16
-\i (00:02:27) roam x -16
-\i (00:02:27) roam y 16
-\i (00:02:27) roam x -16
-\i (00:02:27) roam y 16
-\i (00:02:27) roam y 16
-\i (00:02:27) roam end
-\i (00:02:27) zoom in 1 
-\i (00:02:27) setwindow pcb
-\i (00:02:27) zoom in 123.585 332.209
-\i (00:02:27) trapsize 195
-\i (00:02:28) roam start
-\i (00:02:28) roam x 16
-\i (00:02:28) roam x 16
-\i (00:02:28) roam x 16
-\i (00:02:28) roam y -16
-\i (00:02:28) roam x 16
-\i (00:02:28) roam x 32
-\i (00:02:28) roam y -16
-\i (00:02:28) roam x 16
-\i (00:02:28) roam x 16
-\i (00:02:28) roam y -16
-\i (00:02:28) roam x 16
-\i (00:02:28) roam x 16
-\i (00:02:28) roam y -16
-\i (00:02:28) roam x 16
-\i (00:02:28) roam x 16
-\i (00:02:28) roam x 16
-\i (00:02:28) roam y -16
-\i (00:02:28) roam x 16
-\i (00:02:28) roam x 16
-\i (00:02:28) roam x 16
-\i (00:02:28) roam x 16
-\i (00:02:28) roam y -16
-\i (00:02:28) roam x 16
-\i (00:02:28) roam x 16
-\i (00:02:28) roam x 16
-\i (00:02:28) roam y -16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam y 16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam y 16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam y 16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam y 16
-\i (00:02:28) roam x -16
-\i (00:02:28) roam y 16
-\i (00:02:28) roam y 16
-\i (00:02:29) roam y 16
-\i (00:02:29) roam end
-\i (00:02:32) pick grid 128.413 344.591
-\t (00:02:32) last pick:  128.397 344.551
-\t (00:02:32) last pick:  128.500 344.500
-\t (00:02:32) Target Symbol Pin is defined from TOP to BOTTOM.
-\t (00:02:32) last pick:  128.500 344.500
-\i (00:02:32) zoom in 1 
-\i (00:02:32) setwindow pcb
-\i (00:02:32) zoom in 127.596 342.255
-\i (00:02:32) trapsize 97
-\i (00:02:33) zoom in 1 
-\i (00:02:33) setwindow pcb
-\i (00:02:33) zoom in 127.693 342.294
-\i (00:02:33) trapsize 49
-\i (00:02:34) zoom out 1 
-\i (00:02:34) setwindow pcb
-\i (00:02:34) zoom out 128.228 341.963
-\i (00:02:34) trapsize 97
-\i (00:02:35) roam start
-\i (00:02:35) roam x -16
-\i (00:02:35) roam x -16
-\i (00:02:35) roam y -16
-\i (00:02:35) roam y -16
-\i (00:02:35) roam x -16
-\i (00:02:35) roam y -16
-\i (00:02:35) roam y -16
-\i (00:02:35) roam x -16
-\i (00:02:35) roam y -16
-\i (00:02:35) roam y -16
-\i (00:02:35) roam y -16
-\i (00:02:35) roam y -16
-\i (00:02:35) roam y -16
-\i (00:02:35) roam y -16
-\i (00:02:35) roam y -16
-\i (00:02:35) roam y -16
-\i (00:02:35) roam y -16
-\i (00:02:35) roam y -16
-\i (00:02:35) roam y 16
-\i (00:02:35) roam x -16
-\i (00:02:35) roam y 16
-\i (00:02:35) roam x -16
-\i (00:02:35) roam y 32
-\i (00:02:35) roam y 16
-\i (00:02:35) roam y 16
-\i (00:02:35) roam y 16
-\i (00:02:35) roam x -16
-\i (00:02:35) roam y 16
-\i (00:02:35) roam y 16
-\i (00:02:35) roam x -16
-\i (00:02:35) roam y 16
-\i (00:02:35) roam y 16
-\i (00:02:35) roam x -16
-\i (00:02:35) roam y 16
-\i (00:02:35) roam y 16
-\i (00:02:35) roam y 16
-\i (00:02:35) roam y 16
-\i (00:02:36) roam y 16
-\i (00:02:36) roam y 16
-\i (00:02:36) roam y 16
-\i (00:02:36) roam y 16
-\i (00:02:36) roam y 16
-\i (00:02:36) roam y 16
-\i (00:02:36) roam y 16
-\i (00:02:36) roam x -16
-\i (00:02:36) roam y 16
-\i (00:02:36) roam y 16
-\i (00:02:36) roam y 16
-\i (00:02:36) roam y 16
-\i (00:02:36) roam y 16
-\i (00:02:36) roam y 16
-\i (00:02:36) roam x -16
-\i (00:02:36) roam y 16
-\i (00:02:36) roam y 16
-\i (00:02:36) roam x -16
-\i (00:02:36) roam end
-\i (00:02:48) pick grid 127.693 330.009
-\t (00:02:48) last pick:  127.635 329.946
-\t (00:02:48) No DRC errors detected.
-\i (00:02:49) mouse_pos 124.130 329.912
-\i (00:02:50) pick grid 123.118 329.892
-\t (00:02:50) last pick:  123.063 329.946
-\t (00:02:50) No DRC errors detected.
-\t (00:02:50) Pick first element.
-\i (00:02:51) prepopup 123.060 329.892
-\i (00:02:52) done 
-\i (00:02:52) generaledit 
-\i (00:02:52) zoom in 1 
-\i (00:02:52) setwindow pcb
-\i (00:02:52) zoom in 125.357 326.777
-\i (00:02:52) trapsize 49
-\i (00:02:53) drag_start grid 124.842 329.912
-\i (00:02:53) slide 
-\t (00:02:54) last pick:  124.841 329.946
-\t (00:02:54) Waiting for the destination pick.
-\i (00:02:55) drag_stop grid 125.134 329.882
-\t (00:02:55) No DRC errors detected.
-\i (00:02:55) generaledit 
-\i (00:02:56) drag_start grid 128.132 330.379
-\i (00:02:56) slide 
-\t (00:02:56) last pick:  128.143 330.454
-\t (00:02:56) Waiting for the destination pick.
-\i (00:02:57) drag_stop grid 128.258 330.223
-\t (00:02:57) No DRC errors detected.
-\i (00:02:57) generaledit 
-\i (00:02:57) roam start
-\i (00:02:57) roam y -16
-\i (00:02:57) roam x 16
-\i (00:02:57) roam y -16
-\i (00:02:57) roam x 16
-\i (00:02:57) roam y -32
-\i (00:02:57) roam x 16
-\i (00:02:57) roam y -16
-\i (00:02:57) roam x 16
-\i (00:02:57) roam y -16
-\i (00:02:58) roam x 16
-\i (00:02:58) roam y -16
-\i (00:02:58) roam x 16
-\i (00:02:58) roam y -32
-\i (00:02:58) roam x 16
-\i (00:02:58) roam y -16
-\i (00:02:58) roam x 16
-\i (00:02:58) roam y -16
-\i (00:02:58) roam x 16
-\i (00:02:58) roam y -16
-\i (00:02:58) roam x 16
-\i (00:02:58) roam y -16
-\i (00:02:58) roam x 16
-\i (00:02:58) roam y -16
-\i (00:02:58) roam y -16
-\i (00:02:58) roam x 16
-\i (00:02:58) roam y -16
-\i (00:02:58) roam x 16
-\i (00:02:58) roam y -32
-\i (00:02:58) roam x 16
-\i (00:02:58) roam y -16
-\i (00:02:58) roam x 16
-\i (00:02:58) roam y -16
-\i (00:02:58) roam x 16
-\i (00:02:58) roam y -16
-\i (00:02:58) roam y -16
-\i (00:02:58) roam y -16
-\i (00:02:58) roam x 16
-\i (00:02:58) roam y -16
-\i (00:02:58) roam y -16
-\i (00:02:58) roam end
-\i (00:02:58) zoom out 1 
-\i (00:02:58) setwindow pcb
-\i (00:02:58) zoom out 130.399 333.543
-\i (00:02:58) trapsize 97
-\i (00:02:58) zoom out 1 
-\i (00:02:58) setwindow pcb
-\i (00:02:58) zoom out 130.399 333.543
-\i (00:02:58) trapsize 195
-\i (00:02:59) roam start
-\i (00:02:59) roam x 16
-\i (00:02:59) roam x 16
-\i (00:02:59) roam x 32
-\i (00:02:59) roam x 16
-\i (00:02:59) roam x 16
-\i (00:02:59) roam x 32
-\i (00:03:00) roam x 16
-\i (00:03:00) roam x 16
-\i (00:03:00) roam x 16
-\i (00:03:00) roam x 16
-\i (00:03:00) roam y -16
-\i (00:03:00) roam x 16
-\i (00:03:00) roam x 16
-\i (00:03:00) roam x 32
-\i (00:03:00) roam y -16
-\i (00:03:00) roam x 16
-\i (00:03:00) roam x 32
-\i (00:03:00) roam x 16
-\i (00:03:00) roam y -16
-\i (00:03:00) roam x 16
-\i (00:03:00) roam x 16
-\i (00:03:00) roam x 16
-\i (00:03:01) roam y 16
-\i (00:03:01) roam x -16
-\i (00:03:01) roam y 16
-\i (00:03:01) roam y 16
-\i (00:03:02) roam y 16
-\i (00:03:02) roam end
-\i (00:03:03) roam start
-\i (00:03:03) roam y -16
-\i (00:03:03) roam y -16
-\i (00:03:03) roam y -32
-\i (00:03:03) roam y -16
-\i (00:03:03) roam y -16
-\i (00:03:03) roam y -16
-\i (00:03:03) roam y -16
-\i (00:03:03) roam y -16
-\i (00:03:03) roam y -32
-\i (00:03:03) roam y -16
-\i (00:03:03) roam y -16
-\i (00:03:03) roam y -16
-\i (00:03:04) roam x -16
-\i (00:03:04) roam y -16
-\i (00:03:04) roam x -16
-\i (00:03:04) roam x -16
-\i (00:03:04) roam end
-\i (00:03:05) undo 
-\i (00:03:05) trapsize 49
-\i (00:03:05) generaledit 
-\i (00:03:05) undo 
-\i (00:03:05) trapsize 49
-\i (00:03:05) generaledit 
-\i (00:03:05) undo 
-\i (00:03:05) trapsize 1557
-\i (00:03:05) generaledit 
-\i (00:03:07) zoom in 1 
-\i (00:03:07) setwindow pcb
-\i (00:03:07) zoom in 129.271 356.975
-\i (00:03:07) trapsize 779
-\i (00:03:07) zoom in 1 
-\i (00:03:07) setwindow pcb
-\i (00:03:07) zoom in 126.001 355.262
-\i (00:03:07) trapsize 389
-\i (00:03:07) zoom in 1 
-\i (00:03:07) setwindow pcb
-\i (00:03:07) zoom in 125.845 355.184
-\i (00:03:07) trapsize 195
-\i (00:03:14) file_property 
-\i (00:03:14) generaledit 
-\i (00:03:15) setwindow form.fileprop
-\i (00:03:15) FORM fileprop tiering  
-\i (00:03:16) FORM fileprop locking  
-\i (00:03:18) FORM fileprop cancel  
-\i (00:03:21) setwindow pcb
-\i (00:03:21) phase_tune 
-\t (00:03:21) Pick a Diff Pair Segment for Phase Tune.
-\i (00:03:28) create structure 
-\i (00:03:29) setwindow form.struct_main
-\i (00:03:29) FORM struct_main structure_type 'L Comp' 
-\i (00:03:30) FORM struct_main structure_type 'Standard Via Structure' 
-\i (00:03:31) FORM struct_main structure_type 'L Comp' 
-\i (00:03:31) FORM struct_main structure_type 'HighSpeed Via Structure' 
-\i (00:03:33) FORM struct_main done  
-\i (00:03:34) setwindow pcb
-\i (00:03:34) generaledit 
-\i (00:03:36) pick grid 131.608 354.367
-\t (00:03:36) last pick:  131.572 354.330
-\i (00:03:58) about 
-\i (00:04:04) QtSignal HelpAboutDialog HelpAboutDialog closed
-\i (00:04:29) zoom out 1 
-\i (00:04:29) setwindow pcb
-\i (00:04:29) zoom out 129.389 345.918
-\i (00:04:29) trapsize 389
-\i (00:04:29) zoom out 1 
-\i (00:04:29) setwindow pcb
-\i (00:04:29) zoom out 131.647 342.413
-\i (00:04:29) trapsize 779
-\i (00:04:31) save 
-\i (00:04:32) fillin yes 
-\i (00:04:32) generaledit 
-\i (00:04:33) exit 
-\t (00:04:33)     Journal end - Sun Aug 25 22:17:50 2024
+\i (00:00:06) trapsize 2479
+\i (00:00:10) generaledit 
+\i (00:00:17) step out 
+\i (00:00:19) setwindow form.step_out
+\i (00:00:19) FORM step_out via_drill YES 
+\i (00:00:19) FORM step_out pin_drill YES 
+\i (00:00:20) FORM step_out external_copper YES 
+\i (00:00:21) FORM step_out inner_copper YES 
+\i (00:00:26) FORM step_out ignore_stepdef YES 
+\i (00:00:30) FORM step_out protocol AP-242 
+\i (00:00:33) FORM step_out done  
+\t (00:00:33) Starting Exporting STEP File...
+\t (00:00:36) SpawnProcessExit background process completed status = 0
+
+\t (00:00:37) STEP output completed.
+\i (00:06:27) FORM step_out mapped_pkg NO 
+\i (00:06:28) FORM step_out mapped_pkg YES 
+\i (00:06:29) FORM step_out ignore_stepdef NO 
+\i (00:06:34) FORM step_out external_copper NO 
+\i (00:06:34) FORM step_out inner_copper NO 
+\i (00:06:36) FORM step_out bare_board YES 
+\i (00:06:37) FORM step_out inner_copper YES 
+\i (00:06:37) FORM step_out external_copper YES 
+\i (00:06:38) FORM step_out external_copper NO 
+\i (00:06:38) FORM step_out inner_copper NO 
+\i (00:06:39) FORM step_out cancel  
+\i (00:06:39) setwindow pcb
+\i (00:06:39) generaledit 
+\i (00:06:40) roam start
+\i (00:06:40) roam end
+\i (00:06:40) zoom in 1 
+\i (00:06:40) setwindow pcb
+\i (00:06:40) zoom in 188.375 276.142
+\i (00:06:40) trapsize 1239
+\i (00:06:41) zoom in 1 
+\i (00:06:41) setwindow pcb
+\i (00:06:41) zoom in 188.376 276.142
+\i (00:06:41) trapsize 620
+\i (00:06:41) roam start
+\i (00:06:41) roam x 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam y 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam y 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam y 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam y 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam x 32
+\i (00:06:41) roam y 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam y 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam y 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam y 16
+\i (00:06:41) roam x 32
+\i (00:06:41) roam x 16
+\i (00:06:41) roam y 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam y 16
+\i (00:06:41) roam x 32
+\i (00:06:41) roam y 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam y 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam x 16
+\i (00:06:41) roam y 16
+\i (00:06:41) roam x 32
+\i (00:06:41) roam y 16
+\i (00:06:42) roam x 16
+\i (00:06:42) roam y 16
+\i (00:06:42) roam y 16
+\i (00:06:42) roam y 16
+\i (00:06:42) roam y 16
+\i (00:06:42) roam y 16
+\i (00:06:42) roam y 16
+\i (00:06:42) roam y 16
+\i (00:06:42) roam y 16
+\i (00:06:42) roam y 16
+\i (00:06:42) roam x -16
+\i (00:06:42) roam y 16
+\i (00:06:42) roam x -32
+\i (00:06:42) roam y 16
+\i (00:06:42) roam x -32
+\i (00:06:42) roam y 32
+\i (00:06:42) roam x -64
+\i (00:06:42) roam y 16
+\i (00:06:42) roam x -16
+\i (00:06:42) roam y 16
+\i (00:06:42) roam x -48
+\i (00:06:42) roam y 16
+\i (00:06:42) roam x -16
+\i (00:06:42) roam y 16
+\i (00:06:42) roam x -32
+\i (00:06:42) roam y 16
+\i (00:06:42) roam x -32
+\i (00:06:42) roam x -16
+\i (00:06:42) roam x -32
+\i (00:06:42) roam y 16
+\i (00:06:42) roam x -32
+\i (00:06:42) roam y 16
+\i (00:06:42) roam x -16
+\i (00:06:42) roam y 16
+\i (00:06:42) roam x -16
+\i (00:06:42) roam end
+\i (00:06:42) zoom out 1 
+\i (00:06:42) setwindow pcb
+\i (00:06:42) zoom out 191.969 193.829
+\i (00:06:42) trapsize 1239
+\i (00:06:43) zoom out 1 
+\i (00:06:43) setwindow pcb
+\i (00:06:43) zoom out 193.209 191.102
+\i (00:06:43) trapsize 2479
+\i (00:06:44) roam start
+\i (00:06:44) roam end
+\i (00:06:45) zoom in 1 
+\i (00:06:45) setwindow pcb
+\i (00:06:45) zoom in 175.487 290.022
+\i (00:06:45) trapsize 1239
+\i (00:06:45) roam start
+\i (00:06:45) roam y 16
+\i (00:06:45) roam y 16
+\i (00:06:45) roam x 16
+\i (00:06:45) roam y 16
+\i (00:06:45) roam y 16
+\i (00:06:45) roam x 16
+\i (00:06:45) roam y 16
+\i (00:06:45) roam y 16
+\i (00:06:45) roam y 32
+\i (00:06:45) roam x 16
+\i (00:06:45) roam y 16
+\i (00:06:45) roam x 16
+\i (00:06:45) roam y 16
+\i (00:06:45) roam x 16
+\i (00:06:45) roam y 16
+\i (00:06:45) roam x 16
+\i (00:06:45) roam y 16
+\i (00:06:45) roam x 16
+\i (00:06:45) roam x 16
+\i (00:06:45) roam y 16
+\i (00:06:46) roam x 16
+\i (00:06:46) roam x 16
+\i (00:06:46) roam y 16
+\i (00:06:46) roam x 16
+\i (00:06:46) roam x 16
+\i (00:06:46) roam y 16
+\i (00:06:46) roam x 16
+\i (00:06:46) roam x 16
+\i (00:06:46) roam y 16
+\i (00:06:46) roam x 16
+\i (00:06:46) roam x 16
+\i (00:06:46) roam x 16
+\i (00:06:46) roam y -16
+\i (00:06:46) roam x 16
+\i (00:06:46) roam y -16
+\i (00:06:46) roam y -16
+\i (00:06:46) roam x 16
+\i (00:06:46) roam y -16
+\i (00:06:46) roam x 16
+\i (00:06:46) roam y -16
+\i (00:06:46) roam x 16
+\i (00:06:46) roam y -16
+\i (00:06:46) roam end
+\i (00:06:47) zoom in 1 
+\i (00:06:47) setwindow pcb
+\i (00:06:47) zoom in 307.845 280.085
+\i (00:06:47) trapsize 620
+\i (00:06:47) roam start
+\i (00:06:47) roam y -16
+\i (00:06:47) roam y -16
+\i (00:06:47) roam x 16
+\i (00:06:47) roam y -32
+\i (00:06:47) roam x 16
+\i (00:06:47) roam x 16
+\i (00:06:47) roam y -16
+\i (00:06:47) roam x 16
+\i (00:06:47) roam y -16
+\i (00:06:47) roam x 16
+\i (00:06:47) roam y -16
+\i (00:06:48) roam y -16
+\i (00:06:48) roam x 16
+\i (00:06:48) roam x 16
+\i (00:06:48) roam y -16
+\i (00:06:48) roam x 16
+\i (00:06:48) roam y -16
+\i (00:06:48) roam end
+\i (00:06:48) zoom in 1 
+\i (00:06:48) setwindow pcb
+\i (00:06:48) zoom in 308.464 280.580
+\i (00:06:48) trapsize 310
+\i (00:06:48) roam start
+\i (00:06:48) roam y 16
+\i (00:06:48) roam x 16
+\i (00:06:48) roam y 32
+\i (00:06:48) roam y 16
+\i (00:06:48) roam x 16
+\i (00:06:48) roam y 16
+\i (00:06:48) roam y 16
+\i (00:06:48) roam x 16
+\i (00:06:48) roam y 16
+\i (00:06:48) roam x 16
+\i (00:06:48) roam y 16
+\i (00:06:48) roam y 16
+\i (00:06:48) roam x 16
+\i (00:06:48) roam y 16
+\i (00:06:48) roam x 16
+\i (00:06:48) roam y 16
+\i (00:06:48) roam x 16
+\i (00:06:48) roam y 16
+\i (00:06:48) roam y 16
+\i (00:06:48) roam x 32
+\i (00:06:48) roam y 16
+\i (00:06:48) roam x 16
+\i (00:06:48) roam x 16
+\i (00:06:48) roam y 16
+\i (00:06:48) roam x 16
+\i (00:06:48) roam y 16
+\i (00:06:48) roam x 32
+\i (00:06:48) roam y 16
+\i (00:06:48) roam x 16
+\i (00:06:48) roam x 16
+\i (00:06:48) roam x 16
+\i (00:06:48) roam y 16
+\i (00:06:49) roam x 16
+\i (00:06:49) roam x 16
+\i (00:06:49) roam y 16
+\i (00:06:49) roam x 16
+\i (00:06:49) roam x 16
+\i (00:06:49) roam x 16
+\i (00:06:49) roam y 16
+\i (00:06:49) roam x 16
+\i (00:06:49) roam x 16
+\i (00:06:49) roam end
+\i (00:06:49) zoom in 1 
+\i (00:06:49) setwindow pcb
+\i (00:06:49) zoom in 330.090 271.967
+\i (00:06:49) trapsize 155
+\i (00:06:50) zoom in 1 
+\i (00:06:50) setwindow pcb
+\i (00:06:50) zoom in 328.448 267.412
+\i (00:06:50) trapsize 77
+\i (00:06:50) roam start
+\i (00:06:50) roam x 16
+\i (00:06:50) roam x 32
+\i (00:06:50) roam y 16
+\i (00:06:50) roam x 16
+\i (00:06:50) roam x 16
+\i (00:06:50) roam x 16
+\i (00:06:50) roam x 32
+\i (00:06:50) roam y 16
+\i (00:06:50) roam x 16
+\i (00:06:50) roam x 16
+\i (00:06:50) roam y 16
+\i (00:06:50) roam x 32
+\i (00:06:50) roam x 16
+\i (00:06:50) roam y 16
+\i (00:06:50) roam x 16
+\i (00:06:50) roam x 48
+\i (00:06:50) roam y 16
+\i (00:06:50) roam x 16
+\i (00:06:50) roam y 16
+\i (00:06:50) roam x 32
+\i (00:06:50) roam x 16
+\i (00:06:50) roam y 16
+\i (00:06:50) roam x 32
+\i (00:06:50) roam y 16
+\i (00:06:50) roam x 32
+\i (00:06:50) roam x 32
+\i (00:06:50) roam y 16
+\i (00:06:50) roam x 32
+\i (00:06:50) roam x 32
+\i (00:06:50) roam y 16
+\i (00:06:50) roam x 32
+\i (00:06:50) roam x 16
+\i (00:06:50) roam x 16
+\i (00:06:50) roam x 16
+\i (00:06:50) roam y 16
+\i (00:06:50) roam x 32
+\i (00:06:51) roam x 16
+\i (00:06:51) roam y 16
+\i (00:06:51) roam x 16
+\i (00:06:51) roam x 16
+\i (00:06:51) roam y 16
+\i (00:06:51) roam x 16
+\i (00:06:51) roam y 16
+\i (00:06:51) roam x 16
+\i (00:06:51) roam y 16
+\i (00:06:51) roam x 16
+\i (00:06:51) roam y 16
+\i (00:06:51) roam x 16
+\i (00:06:51) roam y 16
+\i (00:06:51) roam y 16
+\i (00:06:51) roam x 16
+\i (00:06:51) roam y 16
+\i (00:06:51) roam x 16
+\i (00:06:51) roam y 16
+\i (00:06:51) roam x 16
+\i (00:06:51) roam y 16
+\i (00:06:51) roam x 16
+\i (00:06:51) roam x 16
+\i (00:06:51) roam y 16
+\i (00:06:51) roam x 16
+\i (00:06:51) roam x 16
+\i (00:06:51) roam y 16
+\i (00:06:53) roam y 16
+\i (00:06:53) roam y 16
+\i (00:06:53) roam y 16
+\i (00:06:53) roam y 16
+\i (00:06:53) roam y 16
+\i (00:06:54) roam y 16
+\i (00:06:54) roam y 16
+\i (00:06:54) roam y 16
+\i (00:06:54) roam y 16
+\i (00:06:54) roam y 16
+\i (00:06:54) roam y 16
+\i (00:06:54) roam y 16
+\i (00:06:54) roam end
+\i (00:06:55) roam start
+\i (00:06:55) roam y 16
+\i (00:06:55) roam y 16
+\i (00:06:55) roam y 32
+\i (00:06:55) roam y 16
+\i (00:06:55) roam x 16
+\i (00:06:55) roam y 32
+\i (00:06:55) roam y 16
+\i (00:06:55) roam x 16
+\i (00:06:55) roam y 16
+\i (00:06:55) roam x 16
+\i (00:06:55) roam y 32
+\i (00:06:55) roam y 16
+\i (00:06:55) roam y 32
+\i (00:06:55) roam y 16
+\i (00:06:55) roam x 16
+\i (00:06:55) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 32
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 32
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 32
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 32
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 32
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 32
+\i (00:06:56) roam y 16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 32
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 32
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y 16
+\i (00:06:56) roam x -32
+\i (00:06:56) roam y 32
+\i (00:06:57) roam x -16
+\i (00:06:57) roam x -80
+\i (00:06:57) roam y 32
+\i (00:06:57) roam y 16
+\i (00:06:57) roam x -64
+\i (00:06:57) roam y 16
+\i (00:06:57) roam y 16
+\i (00:06:57) roam x -48
+\i (00:06:57) roam y 32
+\i (00:06:57) roam x -16
+\i (00:06:57) roam x -32
+\i (00:06:57) roam y 16
+\i (00:06:57) roam x -48
+\i (00:06:57) roam y 32
+\i (00:06:57) roam x -16
+\i (00:06:57) roam y 16
+\i (00:06:57) roam x -32
+\i (00:06:57) roam y 16
+\i (00:06:57) roam x -32
+\i (00:06:57) roam y 32
+\i (00:06:57) roam x -16
+\i (00:06:57) roam y 16
+\i (00:06:57) roam x -16
+\i (00:06:57) roam y 16
+\i (00:06:57) roam x -16
+\i (00:06:57) roam y 16
+\i (00:06:57) roam end
+\i (00:06:57) zoom out 1 
+\i (00:06:57) setwindow pcb
+\i (00:06:57) zoom out 330.107 235.939
+\i (00:06:57) trapsize 155
+\i (00:06:57) zoom out 1 
+\i (00:06:57) setwindow pcb
+\i (00:06:57) zoom out 330.015 235.815
+\i (00:06:57) trapsize 310
+\i (00:06:58) roam start
+\i (00:06:58) roam y 32
+\i (00:06:58) roam y 16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam x -16
+\i (00:06:58) roam y 32
+\i (00:06:58) roam y 16
+\i (00:06:58) roam y 32
+\i (00:06:58) roam y 16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam x -16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam x -16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam x -16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam x -16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam x -16
+\i (00:06:58) roam x -16
+\i (00:06:58) roam y 16
+\i (00:06:58) roam end
+\i (00:06:59) zoom in 1 
+\i (00:06:59) setwindow pcb
+\i (00:06:59) zoom in 339.009 203.802
+\i (00:06:59) trapsize 155
+\i (00:06:59) zoom in 1 
+\i (00:06:59) setwindow pcb
+\i (00:06:59) zoom in 338.204 203.462
+\i (00:06:59) trapsize 77
+\i (00:07:00) roam start
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -32
+\i (00:07:00) roam y -16
+\i (00:07:00) roam x 16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam x 16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam x 32
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam x 16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam x 16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam x 16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam x 32
+\i (00:07:00) roam y -16
+\i (00:07:00) roam x 16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam x 16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam x 16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam x 16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam x 16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam x 16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam x 16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam x 16
+\i (00:07:00) roam y -32
+\i (00:07:00) roam y -16
+\i (00:07:00) roam x 16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -16
+\i (00:07:00) roam y -16
+\i (00:07:01) roam y -16
+\i (00:07:01) roam y -16
+\i (00:07:01) roam y -16
+\i (00:07:01) roam end
+\i (00:07:06) pop dyn_option_select 'Application Mode@:@Etch Edit' 
+\i (00:07:06) etchedit 
+\i (00:07:07) pick grid 341.044 213.308
+\t (00:07:07) last pick:  340.995 213.360
+\i (00:07:07) move 
+\t (00:07:07) last pick:  341.000 214.500
+\t (00:07:08) Moving J5 / ASP-134603-01_ASP13460301_ASP-134603-01 / ASP13460301.
+\t (00:07:08) Pick new location for the element(s).
+\i (00:07:09) pick grid 340.889 212.781
+\t (00:07:09) last pick:  340.868 212.725
+\i (00:07:09) etchedit 
+\i (00:07:09) zoom out 1 
+\i (00:07:09) setwindow pcb
+\i (00:07:09) zoom out 340.811 211.588
+\i (00:07:09) trapsize 155
+\i (00:07:09) zoom out 1 
+\i (00:07:09) setwindow pcb
+\i (00:07:09) zoom out 340.657 211.310
+\i (00:07:09) trapsize 310
+\i (00:07:10) zoom out 1 
+\i (00:07:10) setwindow pcb
+\i (00:07:10) zoom out 340.533 211.123
+\i (00:07:10) trapsize 620
+\i (00:07:10) zoom out 1 
+\i (00:07:10) setwindow pcb
+\i (00:07:10) zoom out 340.162 210.876
+\i (00:07:10) trapsize 1239
+\i (00:07:11) undo 
+\i (00:07:12) trapsize 77
+\i (00:07:12) etchedit 
+\i (00:07:13) roam start
+\i (00:07:13) roam x 16
+\i (00:07:13) roam x 32
+\i (00:07:13) roam x 16
+\i (00:07:13) roam y 16
+\i (00:07:13) roam x 32
+\i (00:07:13) roam x 32
+\i (00:07:13) roam x 32
+\i (00:07:13) roam x 16
+\i (00:07:13) roam y 16
+\i (00:07:13) roam x 32
+\i (00:07:13) roam x 32
+\i (00:07:13) roam x 16
+\i (00:07:13) roam x 16
+\i (00:07:13) roam x 16
+\i (00:07:13) roam x 16
+\i (00:07:13) roam x 16
+\i (00:07:13) roam x 32
+\i (00:07:13) roam end
+\i (00:07:13) pick grid 346.713 207.653
+\t (00:07:13) last pick:  346.710 207.645
+\i (00:07:14) zoom out 1 
+\i (00:07:14) setwindow pcb
+\i (00:07:14) zoom out 347.921 208.257
+\i (00:07:14) trapsize 155
+\i (00:07:14) zoom out 1 
+\i (00:07:14) setwindow pcb
+\i (00:07:14) zoom out 347.921 208.258
+\i (00:07:14) trapsize 310
+\i (00:07:14) zoom out 1 
+\i (00:07:14) setwindow pcb
+\i (00:07:14) zoom out 347.921 208.257
+\i (00:07:14) trapsize 620
+\i (00:07:14) zoom out 1 
+\i (00:07:14) setwindow pcb
+\i (00:07:14) zoom out 347.922 208.258
+\i (00:07:14) trapsize 1239
+\i (00:07:14) roam start
+\i (00:07:14) roam x -16
+\i (00:07:14) roam x -32
+\i (00:07:14) roam x -32
+\i (00:07:14) roam y -16
+\i (00:07:14) roam x -32
+\i (00:07:14) roam y -16
+\i (00:07:14) roam x -16
+\i (00:07:14) roam x -32
+\i (00:07:14) roam y -16
+\i (00:07:14) roam x -16
+\i (00:07:14) roam y -16
+\i (00:07:14) roam x -32
+\i (00:07:14) roam y -16
+\i (00:07:14) roam x -16
+\i (00:07:14) roam x -16
+\i (00:07:14) roam y -16
+\i (00:07:14) roam x -16
+\i (00:07:14) roam y -16
+\i (00:07:14) roam x -16
+\i (00:07:14) roam x -16
+\i (00:07:14) roam y -16
+\i (00:07:14) roam y -16
+\i (00:07:14) roam x -16
+\i (00:07:14) roam y -16
+\i (00:07:14) roam y -16
+\i (00:07:14) roam x -16
+\i (00:07:14) roam y -16
+\i (00:07:14) roam x -16
+\i (00:07:14) roam x -16
+\i (00:07:14) roam x -16
+\i (00:07:14) roam x -16
+\i (00:07:14) roam x -16
+\i (00:07:14) roam y 16
+\i (00:07:15) roam x -32
+\i (00:07:15) roam x -16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam x -32
+\i (00:07:15) roam y 32
+\i (00:07:15) roam x -16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam x -16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam x -16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam x -16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam x -16
+\i (00:07:15) roam x -16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam x -16
+\i (00:07:15) roam y 32
+\i (00:07:15) roam x -16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam x -16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam x -16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam x -16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam y 32
+\i (00:07:15) roam x 16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam x 16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam x 16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam x 16
+\i (00:07:15) roam y 16
+\i (00:07:15) roam end
+\i (00:07:16) roam start
+\i (00:07:16) roam x 16
+\i (00:07:16) roam x 16
+\i (00:07:16) roam y -16
+\i (00:07:16) roam x 16
+\i (00:07:16) roam x 32
+\i (00:07:16) roam y -16
+\i (00:07:16) roam x 16
+\i (00:07:16) roam x 16
+\i (00:07:16) roam y -16
+\i (00:07:16) roam x 16
+\i (00:07:16) roam x 32
+\i (00:07:16) roam y -16
+\i (00:07:16) roam x 16
+\i (00:07:16) roam y -16
+\i (00:07:16) roam x 16
+\i (00:07:16) roam y -16
+\i (00:07:16) roam y -16
+\i (00:07:16) roam y -16
+\i (00:07:16) roam x 16
+\i (00:07:16) roam y -16
+\i (00:07:16) roam y -16
+\i (00:07:16) roam y -16
+\i (00:07:16) roam y -16
+\i (00:07:16) roam y -16
+\i (00:07:16) roam y -16
+\i (00:07:16) roam y -16
+\i (00:07:16) roam y -16
+\i (00:07:16) roam y -16
+\i (00:07:16) roam y -16
+\i (00:07:16) roam x -16
+\i (00:07:16) roam y -16
+\i (00:07:16) roam x -16
+\i (00:07:17) roam end
+\i (00:07:17) zoom in 1 
+\i (00:07:17) setwindow pcb
+\i (00:07:17) zoom in 202.006 270.416
+\i (00:07:17) trapsize 620
+\i (00:07:17) zoom in 1 
+\i (00:07:17) setwindow pcb
+\i (00:07:17) zoom in 209.442 280.330
+\i (00:07:17) trapsize 310
+\i (00:07:17) roam start
+\i (00:07:17) roam x 16
+\i (00:07:17) roam x 16
+\i (00:07:17) roam x 16
+\i (00:07:17) roam x 16
+\i (00:07:17) roam y -16
+\i (00:07:17) roam x 16
+\i (00:07:17) roam x 16
+\i (00:07:17) roam x 16
+\i (00:07:17) roam x 16
+\i (00:07:17) roam x 16
+\i (00:07:17) roam y -16
+\i (00:07:17) roam x 32
+\i (00:07:18) roam x 16
+\i (00:07:18) roam y -16
+\i (00:07:18) roam x 16
+\i (00:07:18) roam x 32
+\i (00:07:18) roam x 16
+\i (00:07:18) roam y -16
+\i (00:07:18) roam x 16
+\i (00:07:18) roam x 32
+\i (00:07:18) roam x 16
+\i (00:07:18) roam y -16
+\i (00:07:18) roam x 16
+\i (00:07:18) roam x 16
+\i (00:07:18) roam x 16
+\i (00:07:18) roam x 16
+\i (00:07:18) roam x 16
+\i (00:07:18) roam y 16
+\i (00:07:18) roam y 16
+\i (00:07:18) roam y 16
+\i (00:07:18) roam x 16
+\i (00:07:18) roam y 32
+\i (00:07:18) roam y 16
+\i (00:07:18) roam y 48
+\i (00:07:18) roam x 16
+\i (00:07:18) roam y 16
+\i (00:07:18) roam y 48
+\i (00:07:18) roam y 16
+\i (00:07:18) roam x 16
+\i (00:07:18) roam y 64
+\i (00:07:18) roam y 32
+\i (00:07:18) roam y 16
+\i (00:07:18) roam y 32
+\i (00:07:18) roam y 16
+\i (00:07:18) roam y 16
+\i (00:07:18) roam x -16
+\i (00:07:18) roam x -32
+\i (00:07:18) roam x -16
+\i (00:07:18) roam y -16
+\i (00:07:18) roam x -16
+\i (00:07:18) roam x -16
+\i (00:07:18) roam y -16
+\i (00:07:18) roam x -16
+\i (00:07:18) roam y -16
+\i (00:07:19) roam x -16
+\i (00:07:19) roam y -16
+\i (00:07:19) roam y -16
+\i (00:07:19) roam y -16
+\i (00:07:19) roam x -16
+\i (00:07:19) roam y -16
+\i (00:07:19) roam y -32
+\i (00:07:19) roam y -32
+\i (00:07:19) roam y -16
+\i (00:07:19) roam y -16
+\i (00:07:19) roam x 16
+\i (00:07:19) roam y -16
+\i (00:07:19) roam x 16
+\i (00:07:19) roam y -16
+\i (00:07:19) roam end
+\i (00:07:19) zoom in 1 
+\i (00:07:19) setwindow pcb
+\i (00:07:19) zoom in 231.747 279.957
+\i (00:07:19) trapsize 155
+\i (00:07:19) roam start
+\i (00:07:19) roam y 32
+\i (00:07:19) roam x 16
+\i (00:07:19) roam y 32
+\i (00:07:20) roam y 16
+\i (00:07:20) roam y 16
+\i (00:07:20) roam x 16
+\i (00:07:20) roam y 16
+\i (00:07:20) roam y 32
+\i (00:07:20) roam y 16
+\i (00:07:20) roam x 16
+\i (00:07:20) roam y 64
+\i (00:07:20) roam x 16
+\i (00:07:20) roam y 16
+\i (00:07:20) roam y 80
+\i (00:07:20) roam x 16
+\i (00:07:20) roam y 96
+\i (00:07:20) roam x 16
+\i (00:07:20) roam y 16
+\i (00:07:20) roam y 64
+\i (00:07:20) roam y 64
+\i (00:07:20) roam y 80
+\i (00:07:20) roam y 80
+\i (00:07:20) roam y 48
+\i (00:07:20) roam y 16
+\i (00:07:20) roam y 48
+\i (00:07:20) roam y 48
+\i (00:07:20) roam y 32
+\i (00:07:20) roam y 32
+\i (00:07:20) roam y 16
+\i (00:07:20) roam y 16
+\i (00:07:20) roam y 32
+\i (00:07:20) roam y 16
+\i (00:07:20) roam y 16
+\i (00:07:20) roam y 16
+\i (00:07:20) roam y 16
+\i (00:07:20) roam y 16
+\i (00:07:20) roam y 16
+\i (00:07:20) roam y 16
+\i (00:07:20) roam x 16
+\i (00:07:20) roam x 16
+\i (00:07:20) roam x 16
+\i (00:07:20) roam x 32
+\i (00:07:20) roam y 16
+\i (00:07:20) roam x 32
+\i (00:07:20) roam y 16
+\i (00:07:20) roam x 48
+\i (00:07:20) roam y 16
+\i (00:07:20) roam x 32
+\i (00:07:20) roam x 16
+\i (00:07:20) roam x 16
+\i (00:07:20) roam y 16
+\i (00:07:20) roam x 16
+\i (00:07:20) roam x 16
+\i (00:07:20) roam x 16
+\i (00:07:20) roam x 16
+\i (00:07:21) roam end
+\i (00:07:21) zoom in 1 
+\i (00:07:21) setwindow pcb
+\i (00:07:21) zoom in 244.512 243.738
+\i (00:07:21) trapsize 77
+\i (00:07:21) zoom in 1 
+\i (00:07:21) setwindow pcb
+\i (00:07:21) zoom in 244.512 243.738
+\i (00:07:21) trapsize 39
+\i (00:07:22) zoom out 1 
+\i (00:07:22) setwindow pcb
+\i (00:07:22) zoom out 248.122 243.274
+\i (00:07:22) trapsize 77
+\i (00:07:22) zoom out 1 
+\i (00:07:22) setwindow pcb
+\i (00:07:22) zoom out 248.091 243.274
+\i (00:07:22) trapsize 155
+\i (00:07:22) zoom out 1 
+\i (00:07:22) setwindow pcb
+\i (00:07:22) zoom out 248.060 243.274
+\i (00:07:22) trapsize 310
+\i (00:07:22) zoom out 1 
+\i (00:07:22) setwindow pcb
+\i (00:07:22) zoom out 248.060 243.273
+\i (00:07:22) trapsize 620
+\i (00:07:23) roam start
+\i (00:07:23) roam x 16
+\i (00:07:23) roam x 32
+\i (00:07:23) roam x 16
+\i (00:07:23) roam y 16
+\i (00:07:23) roam x 32
+\i (00:07:23) roam x 32
+\i (00:07:23) roam y 16
+\i (00:07:23) roam x 32
+\i (00:07:23) roam end
+\i (00:07:24) save 
+\i (00:07:25) fillin yes 
+\i (00:07:26) etchedit 
+\i (00:07:27) zoom out 1 
+\i (00:07:27) setwindow pcb
+\i (00:07:27) zoom out 236.583 251.950
+\i (00:07:27) trapsize 1239
+\i (00:07:27) zoom out 1 
+\i (00:07:27) setwindow pcb
+\i (00:07:27) zoom out 235.343 250.463
+\i (00:07:27) trapsize 2479
+\i (00:07:27) zoom out 1 
+\i (00:07:27) setwindow pcb
+\i (00:07:27) zoom out 345.025 267.219
+\i (00:07:27) trapsize 2479
+\i (00:07:31) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:07:33) QtSignal CVPLayerGrid CVPAllConductors clicked false
+\i (00:07:35) drag_start grid 348.990 331.663
+\i (00:07:35) drag_stop 318.751 176.501
+\i (00:07:38) pop dyn_option_select 'Application Mode@:@Placement Edit' 
+\i (00:07:38) placementedit 
+\i (00:07:38) setwindow form.mini
+\i (00:07:38) FORM mini tree  'Components by refdes' 
+\i (00:07:44) FORM mini tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:07:44) setwindow pcb
+\i (00:07:44) place manual 
+\w (00:07:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:07:44) Placing C1 / 06034C104KAT2A_CAPC1608X90N_0.1U / CAPC1608X90N on Top.
+\i (00:07:45) prepopup 317.264 183.442
+\i (00:07:46) oops 
+\i (00:07:46) placementedit 
+\i (00:07:52) setwindow form.mini
+\i (00:07:52) FORM mini tree  IC3 'Components by refdes' 
+\i (00:07:52) FORM mini tree 'MULTISEL YES' IC3 'Components by refdes' 
+\i (00:07:52) setwindow pcb
+\i (00:07:52) place manual 
+\w (00:07:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:07:52) Placing IC3 / SI52112-B5-GT_SOP65P640X120-8N_SI52112-B5-GT / SOP65P640X120-8N on Top.
+\i (00:07:54) zoom in 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 347.999 197.818
+\i (00:07:54) trapsize 1239
+\i (00:07:54) zoom in 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 341.059 190.878
+\i (00:07:54) trapsize 620
+\i (00:07:54) zoom in 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 338.953 189.639
+\i (00:07:54) trapsize 310
+\i (00:07:54) zoom in 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 338.644 189.515
+\i (00:07:54) trapsize 155
+\i (00:07:54) zoom in 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 338.582 189.453
+\i (00:07:54) trapsize 77
+\i (00:07:55) pick grid 335.747 189.299
+\t (00:07:55) last pick:  335.500 189.500
+\i (00:07:55) placementedit 
+\i (00:07:56) zoom out 1 
+\i (00:07:56) setwindow pcb
+\i (00:07:56) zoom out 335.530 188.478
+\i (00:07:56) trapsize 155
+\i (00:07:56) zoom in 1 
+\i (00:07:56) setwindow pcb
+\i (00:07:56) zoom in 335.562 188.292
+\i (00:07:56) trapsize 77
+\i (00:07:56) zoom in 1 
+\i (00:07:56) setwindow pcb
+\i (00:07:56) zoom in 335.562 188.292
+\i (00:07:56) trapsize 39
+\i (00:07:57) zoom out 1 
+\i (00:07:57) setwindow pcb
+\i (00:07:57) zoom out 335.338 187.975
+\i (00:07:57) trapsize 77
+\i (00:07:57) drag_start grid 330.427 192.405
+\i (00:07:58) drag_stop 337.801 186.906
+\i (00:07:58) prepopup 336.066 189.152
+\i (00:07:59) pop dyn_option_select '@:@Unplace component' 
+\i (00:07:59) unplace component 
+\i (00:07:59) placementedit 
+\i (00:08:00) roam start
+\i (00:08:00) roam x -16
+\i (00:08:00) roam x -32
+\i (00:08:00) roam y -16
+\i (00:08:00) roam x -32
+\i (00:08:00) roam x -32
+\i (00:08:00) roam y -16
+\i (00:08:00) roam x -32
+\i (00:08:00) roam x -16
+\i (00:08:00) roam y -16
+\i (00:08:00) roam x -32
+\i (00:08:00) roam y -16
+\i (00:08:00) roam x -80
+\i (00:08:00) roam y -16
+\i (00:08:00) roam x -48
+\i (00:08:00) roam y -32
+\i (00:08:00) roam end
+\i (00:08:00) zoom out 1 
+\i (00:08:00) setwindow pcb
+\i (00:08:00) zoom out 332.477 188.817
+\i (00:08:00) trapsize 155
+\i (00:08:00) zoom out 1 
+\i (00:08:00) setwindow pcb
+\i (00:08:00) zoom out 332.509 188.847
+\i (00:08:00) trapsize 310
+\i (00:08:00) zoom out 1 
+\i (00:08:00) setwindow pcb
+\i (00:08:00) zoom out 332.695 188.972
+\i (00:08:00) trapsize 620
+\i (00:08:00) zoom out 1 
+\i (00:08:00) setwindow pcb
+\i (00:08:00) zoom out 333.315 189.467
+\i (00:08:00) trapsize 1239
+\i (00:08:01) drag_start grid 339.264 272.253
+\i (00:08:01) drag_stop 347.196 195.912
+\i (00:08:02) prepopup 349.179 235.074
+\i (00:08:03) pop dyn_option_select '@:@Unplace component' 
+\i (00:08:03) unplace component 
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C1:J3.3"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_Dp0_C2m_P, Ic2.F2:J5.C2"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_Dp0_C2m_N, J5.C3:Ic2.F1"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_Clk1_M2c_P, Ic2.Ag29:J5.G2"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Pwrctl1_Vcc4a_Pg, J5.D1:J4.D1"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_Clk1_M2c_N, J5.G3:Ic2.Ah29"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_Clk0_M2c_P, J5.H4:Ic2.Af22"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_Clk0_M2c_N, Ic2.Ag23:J5.H5"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La00_Cc_P, Ic2.Ad23:J5.G6"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La00_Cc_N, J5.G7:Ic2.Ae24"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La02_P, J5.H7:Ic2.Af20"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La01_Cc_P, Ic2.Ae23:J5.D8"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La02_N, J5.H8:Ic2.Af21"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La06_P, Ic2.Ak20:J5.C10"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La01_Cc_N, J5.D9:Ic2.Af23"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La03_P, Ic2.Ag20:J5.G9"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La06_N, Ic2.Ak21:J5.C11"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La05_P, J5.D11:Ic2.Ag22"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La03_N, J5.G10:Ic2.Ah20"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La04_P, J5.H10:Ic2.Ah21"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La04_N, J5.H11:Ic2.Aj21"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La05_N, J5.D12:Ic2.Ah22"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La08_P, Ic2.Aj22:J5.G12"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La08_N, Ic2.Aj23:J5.G13"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La07_P, Ic2.Ag25:J5.H13"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La10_P, Ic2.Aj24:J5.C14"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La09_P, Ic2.Ak23:J5.D14"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La07_N, J5.H14:Ic2.Ah25"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La10_N, Ic2.Ak25:J5.C15"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La09_N, J5.D15:Ic2.Ak24"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La12_P, J5.G15:Ic2.Aa20"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La12_N, J5.G16:Ic2.Ab20"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La11_P, Ic2.Ae25:J5.H16"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La11_N, Ic2.Af25:J5.H17"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La13_P, Ic2.Ab24:J5.D17"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La16_P, J5.G18:Ic2.Ac22"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La14_N, Ic2.Ad21:J5.C19"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La13_N, J5.D18:Ic2.Ac25"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La16_N, J5.G19:Ic2.Ad22"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La15_P, J5.H19:Ic2.Ac24"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La17_Cc_P, Ic2.Ab27:J5.D20"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La15_N, J5.H20:Ic2.Ad24"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La17_Cc_N, J5.D21:Ic2.Ac27"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La20_P, J5.G21:Ic2.Af26"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La19_P, Ic2.Aj26:J5.H22"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La18_Cc_P, Ic2.Ad27:J5.C22"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La20_N, Ic2.Af27:J5.G22"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La19_N, J5.H23:Ic2.Ak26"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La18_Cc_N, Ic2.Ad28:J5.C23"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La23_P, J5.D23:Ic2.Ah26"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La22_P, Ic2.Aj27:J5.G24"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La23_N, J5.D24:Ic2.Ah27"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La22_N, J5.G25:Ic2.Ak28"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La21_P, Ic2.Ag27:J5.H25"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La27_P, J5.C26:Ic2.Aj28"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La26_P, Ic2.Ak29:J5.D26"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La21_N, J5.H26:Ic2.Ag28"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La27_N, Ic2.Aj29:J5.C27"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La26_N, J5.D27:Ic2.Ak30"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La25_P, Ic2.Ac26:J5.G27"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La24_P, J5.H28:Ic2.Ag30"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La25_N, J5.G28:Ic2.Ad26"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La24_N, Ic2.Ah30:J5.H29"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La29_P, Ic2.Ae28:J5.G30"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La29_N, Ic2.Af28:J5.G31"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La28_P, Ic2.Ae30:J5.H31"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La28_N, J5.H32:Ic2.Af30"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Tdo_Lpc_Tdi, J5.D30:J4.D31"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La31_P, Ic2.Ad29:J5.G33"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La31_N, J5.G34:Ic2.Ae29"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La30_P, Ic2.Ab29:J5.H34"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La30_N, Ic2.Ab30:J5.H35"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La33_P, J5.G36:Ic2.Ac29"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La33_N, Ic2.Ac30:J5.G37"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La32_P, Ic2.Y30:J5.H37"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Lpc_La32_N, Ic2.Aa30:J5.H38"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Vcc12_P, J4.C35:J5.C37"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.D2:J5.C1"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C5:J5.C4"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C4:J5.D3"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.D6:J5.C5"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C9:J5.C8"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C8:J5.D7"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C9:J5.D10"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C12:J5.C9"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C13:J5.C12"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C13:J5.D13"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C16:J5.C13"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C16:J5.D16"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C17:J5.C16"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C20:J5.C17"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C21:J5.C20"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C20:J5.D19"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.D22:J5.C21"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C25:J5.C24"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C24:J5.D22"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C25:J5.D25"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C28:J5.C25"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C28:J5.D28"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C29:J5.C28"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C32:J5.C29"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C32:J5.D32"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C33:J5.C32"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C34:J5.C33"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.D35:J5.C34"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Vcc12_P, J5.C37:J5.C35"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.D36:J5.C36"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.D38:J5.C38"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C38:J5.C39"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.C39:J5.C40"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.D3:J5.D2"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.D7:J5.D6"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.D32:J5.G32"
+\t (00:08:03) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.D36:J5.D35"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.D37:J5.D36"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.D37:J5.D38"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.D38:J5.D39"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.D38:J5.G38"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.D39:J5.D40"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G4:J5.G1"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G5:J5.G4"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G4:J5.H3"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G5:J5.H6"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G8:J5.G5"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G8:J5.H9"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G11:J5.G8"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G11:J5.H12"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G14:J5.G11"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G14:J5.H15"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G17:J5.G14"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G17:J5.H18"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G20:J5.G17"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G20:J5.H21"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G23:J5.G20"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G23:J5.H24"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G26:J5.G23"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G26:J5.H27"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G29:J5.G26"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.H30:J5.G29"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G32:J5.H30"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G32:J5.H33"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.H36:J5.G35"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G38:J5.H36"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G38:J5.G39"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G39:J5.G40"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.G39:J5.H39"
+\t (00:08:04) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J5.H39:J5.H40"
+\i (00:08:04) placementedit 
+\i (00:08:05) roam start
+\i (00:08:05) roam y 16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y 16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y 16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y 16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y 16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y 16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y 16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y 16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y 16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y 16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y 16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y 16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y 16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y 16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam x -16
+\i (00:08:05) roam y -16
+\i (00:08:05) roam x -16
+\i (00:08:06) roam x -16
+\i (00:08:06) roam y -16
+\i (00:08:06) roam y -16
+\i (00:08:06) roam y -16
+\i (00:08:06) roam y -16
+\i (00:08:06) roam x 16
+\i (00:08:06) roam y -16
+\i (00:08:06) roam y -16
+\i (00:08:06) roam y -16
+\i (00:08:06) roam y -16
+\i (00:08:06) roam y -16
+\i (00:08:06) roam x 16
+\i (00:08:06) roam y -16
+\i (00:08:06) roam y -16
+\i (00:08:06) roam y -16
+\i (00:08:06) roam x 16
+\i (00:08:06) roam y -16
+\i (00:08:06) roam y -16
+\i (00:08:06) roam x 16
+\i (00:08:06) roam y -16
+\i (00:08:06) roam y -16
+\i (00:08:06) roam x 16
+\i (00:08:06) roam y -16
+\i (00:08:07) roam end
+\i (00:08:07) drag_start grid 281.570 320.979
+\i (00:08:08) drag_stop 121.204 351.466
+\i (00:08:08) prepopup 123.435 352.458
+\i (00:08:09) pop dyn_option_select '@:@Unplace component' 
+\i (00:08:09) unplace component 
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Rfgnd, J9.2:J25.2"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Rfgnd, J9.2:J11.2"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Sfp_Tx_Fault, J10.2:J9.1"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Rfgnd, J11.2:J12.2"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "N1065787, J10.6:J11.1"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Sfp_Tx_N, Ic2.H1:J10.19"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Sfp_Tx_P, Ic2.H2:J10.18"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "N1065779, J10.8:J12.1"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J10.14:J4.A40"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Sfp_Rx_N, Ic2.G3:J10.12"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Sfp_Rx_P, J10.13:Ic2.G4"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.A40:J4.C40"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C40:J4.C39"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C40:J4.D40"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D40:J4.E40"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D40:J4.D39"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C39:J4.B39"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C39:J4.C38"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D39:J4.E39"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.A36:J4.A37"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C38:J4.B38"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Vcc12_P, J4.C37:J4.C35"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C38:J4.D38"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D38:J4.E38"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D38:J4.D37"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D37:J4.D36"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La32_N, Ic2.C21:J4.H38"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C36:J4.A36"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La33_N, Ic2.H22:J4.G37"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D36:J4.C36"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La32_P, Ic2.D21:J4.H37"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D36:J4.F36"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D36:J4.D35"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B34:J4.B35"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La33_P, Ic2.H21:J4.G36"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D35:J4.C34"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D35:J4.E35"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C34:J4.B34"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La30_N, Ic2.C22:J4.H35"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C34:J4.C33"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.A33:J4.A32"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C33:J4.A33"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La31_N, Ic2.F22:J4.G34"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La30_P, J4.H34:Ic2.D22"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C33:J4.C32"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La31_P, J4.G33:Ic2.G22"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C32:J4.B31"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C32:J4.D32"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D32:J4.E32"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La28_N, Ic2.C16:J4.H32"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Dp3_C2m_N, Ic2.A3:J4.A31"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B31:J4.B30"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La29_N, Ic2.B17:J4.G31"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La28_P, Ic2.D16:J4.H31"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Dp3_C2m_P, Ic2.A4:J4.A30"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B30:J4.A29"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La29_P, J4.G30:Ic2.C17"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B30:J4.C29"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Dp2_C2m_N, J4.A27:Ic2.B1"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.A29:J4.A28"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La24_N, Ic2.A17:J4.H29"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C29:J4.E29"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C29:J4.C28"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C28:J4.B27"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C28:J4.D28"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Dp2_C2m_P, J4.A26:Ic2.B2"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La24_P, J4.H28:Ic2.A16"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La25_N, J4.G28:Ic2.F17"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B27:J4.B26"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La27_N, Ic2.B19:J4.C27"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La26_N, Ic2.A18:J4.D27"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La25_P, Ic2.G17:J4.G27"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La27_P, Ic2.C19:J4.C26"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B26:J4.C25"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La26_P, Ic2.B18:J4.D26"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D25:J4.E26"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Dp1_C2m_N, Ic2.C3:J4.A23"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La21_N, J4.H26:Ic2.A21"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.A24:J4.A25"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C25:J4.C24"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C25:J4.D25"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La22_N, J4.G25:Ic2.B20"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La21_P, J4.H25:Ic2.A20"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.A24:Ic2.A9"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Dp1_C2m_P, Ic2.C4:J4.A22"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La23_N, J4.D24:Ic2.A22"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C24:J4.A24"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C24:J4.B23"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La22_P, Ic2.C20:J4.G24"
+\t (00:08:09) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha23_N, J4.K23:Ic2.L13"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La18_Cc_N, Ic2.E21:J4.C23"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La23_P, J4.D23:Ic2.B22"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La19_N, J4.H23:Ic2.F18"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B23:J4.B22"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D22:J4.E23"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha22_N, Ic2.K11:J4.J22"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha22_P, J4.J21:Ic2.L11"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha23_P, J4.K22:Ic2.L12"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La19_P, Ic2.G18:J4.H22"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La18_Cc_P, J4.C22:Ic2.F21"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La20_N, Ic2.D19:J4.G22"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B22:J4.C21"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B22:J4.D22"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha19_P, Ic2.H11:J4.F19"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha19_N, Ic2.H12:J4.F20"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha21_N, Ic2.J12:J4.K20"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha21_P, J4.K19:Ic2.J11"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La17_Cc_N, J4.D21:Ic2.E20"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La20_P, J4.G21:Ic2.E19"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.A20:J4.A21"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C21:J4.C20"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha18_N, Ic2.J14:J4.J19"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha20_N, J4.E19:Ic2.J13"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La17_Cc_P, Ic2.F20:J4.D20"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La15_N, J4.H20:Ic2.B24"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C20:J4.A20"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C20:J4.B19"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C20:J4.E20"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C20:J4.D19"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha17_Cc_N, J4.K17:Ic2.F13"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha18_P, Ic2.K14:J4.J18"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha20_P, J4.E18:Ic2.K13"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La14_N, J4.C19:Ic2.A28"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La15_P, Ic2.C24:J4.H19"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La16_N, J4.G19:Ic2.A27"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B19:J4.B18"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B18:J4.C17"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La14_P, Ic2.B28:J4.C18"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La13_N, Ic2.A26:J4.D18"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha10_N, J4.K14:Ic2.A12"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha17_Cc_P, J4.K16:Ic2.G13"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha14_N, J4.J16:Ic2.H16"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha15_N, J4.F17:Ic2.G15"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha15_P, Ic2.H15:J4.F16"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha16_N, J4.E16:Ic2.K15"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La16_P, J4.G18:Ic2.B27"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La13_P, J4.D17:Ic2.A25"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C17:J4.E17"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C17:J4.C16"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha12_N, J4.F14:Ic2.B15"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha11_N, J4.J13:Ic2.A13"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha10_P, J4.K13:Ic2.A11"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha14_P, Ic2.J16:J4.J15"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha16_P, J4.E15:Ic2.L15"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La11_N, J4.H17:Ic2.F27"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C16:J4.B15"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C16:J4.D16"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La11_P, Ic2.G27:J4.H16"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La12_N, Ic2.B29:J4.G16"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha12_P, Ic2.C15:J4.F13"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha11_P, J4.J12:Ic2.B13"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha13_N, J4.E13:Ic2.K16"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Dp3_M2c_N, J4.A11:Ic2.A7"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La09_N, Ic2.A30:J4.D15"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La10_N, J4.C15:Ic2.C30"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La12_P, Ic2.C29:J4.G15"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B15:J4.B14"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha07_N, Ic2.A15:J4.J10"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha06_N, Ic2.C14:J4.K11"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha06_P, Ic2.D14:J4.K10"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha08_N, Ic2.E15:J4.F11"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha02_N, Ic2.C11:J4.K8"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha09_N, Ic2.E13:J4.E10"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Dp0_M2c_N, J4.C7:Ic2.E3"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha13_P, J4.E12:Ic2.L16"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Dp3_M2c_P, Ic2.A8:J4.A10"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La10_P, Ic2.D29:J4.C14"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La09_P, Ic2.B30:J4.D14"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La07_N, J4.H14:Ic2.D28"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B14:J4.C13"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D13:J4.E14"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha07_P, J4.J9:Ic2.B14"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha08_P, J4.F10:Ic2.E14"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha02_P, Ic2.D11:J4.K7"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha04_N, J4.F8:Ic2.E11"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha03_N, J4.J7:Ic2.B12"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha09_P, Ic2.F12:J4.E9"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Dp0_M2c_P, Ic2.E4:J4.C6"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Dp2_M2c_N, Ic2.B5:J4.A7"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La07_P, Ic2.E28:J4.H13"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La08_N, Ic2.E30:J4.G13"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.A12:J4.A13"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C13:J4.C12"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C13:J4.D13"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha04_P, Ic2.F11:J4.F7"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha03_P, Ic2.C12:J4.J6"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Dp0_C2m_N, J4.C3:Ic2.D1"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Dp2_M2c_P, Ic2.B6:J4.A6"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La08_P, Ic2.E29:J4.G12"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La05_N, J4.D12:Ic2.F30"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C12:J4.A12"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C12:J4.B11"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha05_N, J4.E7:Ic2.E16"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha05_P, J4.E6:Ic2.F15"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha00_Cc_N, Ic2.D13:J4.F5"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La05_P, J4.D11:Ic2.G29"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La04_N, J4.H11:Ic2.F28"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Dp0_C2m_P, J4.C2:Ic2.D2"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Dp1_M2c_N, J4.A3:Ic2.D5"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La06_N, Ic2.G30:J4.C11"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B11:J4.B10"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D10:J4.E11"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha00_Cc_P, Ic2.D12:J4.F4"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La06_P, Ic2.H30:J4.C10"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La03_N, J4.G10:Ic2.H27"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La03_P, J4.G9:Ic2.H26"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La04_P, Ic2.G28:J4.H10"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La02_N, J4.H8:Ic2.H25"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Dp1_M2c_P, J4.A2:Ic2.D6"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La01_Cc_N, Ic2.C26:J4.D9"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.A8:J4.A9"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B10:J4.C9"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B10:J4.D10"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C9:J4.C8"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha01_Cc_N, Ic2.G14:J4.E3"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La02_P, J4.H7:Ic2.H24"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La00_Cc_N, J4.G7:Ic2.B25"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La00_Cc_P, J4.G6:Ic2.C25"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_La01_Cc_P, Ic2.D26:J4.D8"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Clk1_M2c_N, J4.G3:Ic2.D18"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C8:J4.A8"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C8:J4.E8"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C8:J4.B7"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C8:J4.D7"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Ha01_Cc_P, J4.E2:Ic2.H14"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Clk0_M2c_N, J4.H5:Ic2.C27"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Clk1_M2c_P, Ic2.D17:J4.G2"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B7:J4.B6"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D7:J4.D6"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Fmc_Hpc_Clk0_M2c_P, Ic2.D27:J4.H4"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D6:J4.C5"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D6:J4.F6"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.A4:J4.A5"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C5:J4.C4"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C4:J4.A4"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C4:J4.E4"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C4:J4.D3"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.B2:J4.B3"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D3:J4.D2"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D2:J4.B2"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D2:J4.C1"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D2:J4.F2"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.D2:J4.E1"
+\t (00:08:10) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J4.C1:J4.A1"
+\i (00:08:10) placementedit 
+\i (00:08:11) roam start
+\i (00:08:11) roam x 16
+\i (00:08:11) roam y 16
+\i (00:08:11) roam x 16
+\i (00:08:11) roam y 16
+\i (00:08:11) roam x 16
+\i (00:08:11) roam y 16
+\i (00:08:11) roam x 16
+\i (00:08:11) roam x 16
+\i (00:08:11) roam y 16
+\i (00:08:11) roam x 16
+\i (00:08:11) roam y 16
+\i (00:08:11) roam x 16
+\i (00:08:11) roam x 16
+\i (00:08:11) roam y 16
+\i (00:08:11) roam y 16
+\i (00:08:11) roam x 16
+\i (00:08:11) roam y 16
+\i (00:08:11) roam x 16
+\i (00:08:11) roam y 16
+\i (00:08:11) roam x 16
+\i (00:08:11) roam y 16
+\i (00:08:11) roam x 16
+\i (00:08:11) roam y 16
+\i (00:08:11) roam end
+\i (00:08:12) roam start
+\i (00:08:12) roam x -16
+\i (00:08:12) roam x -16
+\i (00:08:12) roam x -16
+\i (00:08:12) roam y 16
+\i (00:08:12) roam x -16
+\i (00:08:12) roam x -16
+\i (00:08:12) roam y 16
+\i (00:08:12) roam x -32
+\i (00:08:12) roam y 16
+\i (00:08:12) roam x -16
+\i (00:08:12) roam x -16
+\i (00:08:12) roam x -16
+\i (00:08:12) roam y 16
+\i (00:08:12) roam x -32
+\i (00:08:12) roam y 16
+\i (00:08:12) roam x -16
+\i (00:08:12) roam x -16
+\i (00:08:12) roam y 16
+\i (00:08:12) roam end
+\i (00:08:13) drag_start grid 114.015 313.048
+\i (00:08:14) drag_stop 175.237 127.896
+\i (00:08:15) prepopup 175.237 127.896
+\i (00:08:16) pop dyn_option_select '@:@Unplace component' 
+\i (00:08:16) unplace component 
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Pcie_Rx7_N, J7.B46:Ic2.Aa3"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Pcie_Rx7_P, J7.B45:Ic2.Aa4"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Pcie_Rx6_N, Ic2.Y5:J7.B42"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Pcie_Rx6_P, Ic2.Y6:J7.B41"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Pcie_Rx5_N, J7.B38:Ic2.W3"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Pcie_Rx5_P, Ic2.W4:J7.B37"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Pcie_Rx4_N, Ic2.V5:J7.B34"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Pcie_Rx4_P, Ic2.V6:J7.B33"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Pcie_Rx3_P, J7.B27:Ic2.T6"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Pcie_Rx3_N, Ic2.T5:J7.B28"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Pcie_Rx2_N, Ic2.R3:J7.B24"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Pcie_Rx2_P, J7.B23:Ic2.R4"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Pcie_Rx1_N, Ic2.P5:J7.B20"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Pcie_Rx1_P, J7.B19:Ic2.P6"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Pcie_Rx0_P, J7.B14:Ic2.M6"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Pcie_Rx0_N, Ic2.M5:J7.B15"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J28.15:J28.16"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "N1696698, J29.B12:J29.Mh3"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "N1696698, J29.B12:J29.Mh6"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "N1696698, J29.Mh4:J29.Mh5"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J28.14:J28.15"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J28.13:J28.14"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J28.14:J28.6"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J7.A49:J3.201"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J28.17:J28.13"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J28.6:J28.3"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Sdio_Sdwp, J28.11:Ic2.Y21"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J7.A4:J28.17"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Sdio_Sddet, J28.10:Ic2.Aa21"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Rfgnd, J21.2:J20.2"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Rfgnd, J20.2:J17.2"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Sma_Mgt_Tx_P, Ic2.K2:J20.1"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Rfgnd, J24.2:J21.2"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Sma_Mgt_Tx_N, Ic2.K1:J21.1"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "N1143048, J22.2:J23.2"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "User_Sma_Clock_P, J22.1:Ic2.L25"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "User_Sma_Clock_N, Ic2.K25:J23.1"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Rfgnd, J24.2:J25.2"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "User_Sma_Gpio_P, J24.1:Ic2.Y23"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "User_Sma_Gpio_N, Ic2.Y24:J25.1"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Rfgnd, J17.2:J16.2"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Rfgnd, J16.2:J18.2"
+\t (00:08:16) Selected item not valid for current operation, ignored: Ratsnest "Rfgnd, J18.2:J19.2"
+\i (00:08:17) placementedit 
+\i (00:08:17) drag_start grid 170.528 193.579
+\i (00:08:18) drag_stop 297.432 133.349
+\i (00:08:18) prepopup 239.433 191.596
+\i (00:08:19) pop dyn_option_select '@:@Unplace component' 
+\i (00:08:19) unplace component 
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.196:J3.Mp2"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Vttddr, J3.203:J3.204"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.190:J3.196"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D63, J3.194:Ic2.Ad4"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.184:J3.190"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Dqs7_P, Ic2.Ad2:J3.188"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D62, Ic2.Ac2:J3.192"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.178:J3.184"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Dqs7_N, J3.186:Ic2.Ad1"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.172:J3.178"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D60, Ic2.Ae6:J3.180"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D61, Ic2.Ad6:J3.182"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D55, Ic2.Ae5:J3.176"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D54, Ic2.Ae1:J3.174"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.168:J3.172"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Dm6, J3.170:Ic2.Af6"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.168:J3.162"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.167:J3.168"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D53, J3.166:Ic2.Af5"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D52, J3.164:Ic2.Af3"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.162:J3.156"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D47, Ic2.Aj1:J3.160"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.156:J3.150"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D46, Ic2.Ak1:J3.158"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.150:J3.144"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Dqs5_N, J3.152:Ic2.Ah1"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Dqs5_P, Ic2.Ag2:J3.154"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D45, Ic2.Aj4:J3.148"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D44, J3.146:Ic2.Ah4"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.144:J3.138"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D38, J3.140:Ic2.Aj8"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D39, J3.142:Ic2.Aj6"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.138:J3.134"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Dm4, Ic2.Ak5:J3.136"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.134:J3.128"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D37, Ic2.Ak4:J3.132"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.128:J3.72"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Vttvref, J3.126:Ic2.Ag8"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Vttvref, J3.1:J3.126"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D36, J3.130:Ic2.Af8"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Vcc1v5_Fpga, J3.118:J3.124"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Vcc1v5_Fpga, J3.118:J3.112"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Vcc1v5_Fpga, J3.117:J3.118"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Odt1, Ic2.Ac10:J3.120"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Vcc1v5_Fpga, J3.112:J3.106"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_S0_B, Ic2.Ac12:J3.114"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Odt0, J3.116:Ic2.Ad8"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Ba1, Ic2.Ag9:J3.108"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Ras_B, Ic2.Ad9:J3.110"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Vcc1v5_Fpga, J3.106:J3.100"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Clk1_N, Ic2.Af11:J3.104"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Clk1_P, Ic2.Ae11:J3.102"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Vcc1v5_Fpga, J3.100:J3.94"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_A0, Ic2.Ah12:J3.98"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Vcc1v5_Fpga, J3.94:J3.88"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_A2, Ic2.Ag12:J3.96"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_A4, Ic2.Aj12:J3.92"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Vcc1v5_Fpga, J3.88:J3.82"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_A6, J3.90:Ic2.Aj14"
+\t (00:08:19) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_A7, Ic2.Ah14:J3.86"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_A11, J3.84:Ic2.Ae13"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Vcc1v5_Fpga, J3.82:J3.76"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_A14, Ic2.Ak10:J3.80"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_A15, J3.78:Ic2.Ak11"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Cke1, Ic2.Ae10:J3.74"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D31, Ic2.Ak15:J3.70"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.72:J3.66"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D30, Ic2.Ah15:J3.68"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.66:J3.60"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Dqs3_P, Ic2.Ah16:J3.64"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Dqs3_N, J3.62:Ic2.Aj16"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.60:J3.54"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D29, Ic2.Ag14:J3.58"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D28, J3.56:Ic2.Ah17"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.54:J3.48"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D23, Ic2.Ad19:J3.52"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D22, J3.50:Ic2.Ae19"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Dm2, J3.46:Ic2.Af17"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.48:J3.44"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.48:J3.49"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.44:J3.38"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D21, Ic2.Aj19:J3.42"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D20, Ic2.Ah19:J3.40"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D15, Ic2.Ad18:J3.36"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.38:J3.32"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D14, J3.34:Ic2.Ae18"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.32:J3.26"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Dm1, Ic2.Ab17:J3.28"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.26:J3.20"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D13, J3.24:Ic2.Ab18"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D12, J3.22:Ic2.Aa18"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D7, J3.18:Ic2.Y15"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D6, J3.16:Ic2.Ae15"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.20:J3.14"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Dqs0_N, J3.10:Ic2.Ac15"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_Dqs0_P, Ic2.Ac16:J3.12"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.14:J3.8"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D5, J3.6:Ic2.Ab15"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.8:J3.2"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Ddr3_D4, J3.4:Ic2.Aa17"
+\t (00:08:20) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J3.2:J3.Mp1"
+\i (00:08:20) placementedit 
+\i (00:08:20) drag_start grid 182.921 208.451
+\i (00:08:21) drag_stop 202.750 177.220
+\i (00:08:23) pop dyn_option_select 'Application Mode@:@General Edit' 
+\i (00:08:23) generaledit 
+\i (00:08:23) drag_start grid 181.434 207.459
+\i (00:08:24) drag_stop 212.416 169.785
+\i (00:08:24) zoom in 1 
+\i (00:08:24) setwindow pcb
+\i (00:08:24) zoom in 192.092 196.058
+\i (00:08:24) trapsize 620
+\i (00:08:24) zoom in 1 
+\i (00:08:24) setwindow pcb
+\i (00:08:24) zoom in 192.092 196.058
+\i (00:08:24) trapsize 310
+\i (00:08:24) zoom in 1 
+\i (00:08:24) setwindow pcb
+\i (00:08:24) zoom in 192.092 196.059
+\i (00:08:24) trapsize 155
+\i (00:08:25) drag_start grid 186.825 204.827
+\i (00:08:25) drag_stop 190.914 196.771
+\i (00:08:27) pop dyn_option_select 'Application Mode@:@Etch Edit' 
+\i (00:08:27) etchedit 
+\i (00:08:30) setwindow form.mini
+\i (00:08:30) FORM mini class ANALYSIS 
+\i (00:08:32) FORM mini class 'ANTI ETCH' 
+\i (00:08:33) FORM mini class 'BOARD GEOMETRY' 
+\i (00:08:36) FORM mini class CAVITY 
+\i (00:08:38) FORM mini class BOUNDARY 
+\i (00:08:40) FORM mini class 'COMPONENT VALUE' 
+\i (00:08:48) FORM mini class 'DEVICE TYPE' 
+\i (00:08:51) FORM mini class MANUFACTURING 
+\i (00:08:54) FORM mini class 'PACKAGE GEOMETRY' 
+\i (00:08:56) setwindow pcb
+\i (00:08:56) drag_start grid 185.369 203.928
+\i (00:08:56) drag_stop 194.849 196.988
+\i (00:08:58) pop dyn_option_select 'Application Mode@:@General Edit' 
+\i (00:08:58) generaledit 
+\i (00:08:59) drag_start grid 189.118 204.579
+\i (00:08:59) drag_stop 193.238 196.833
+\i (00:08:59) prepopup 190.698 198.940
+\i (00:09:00) delete 
+\i (00:09:01) pick grid 191.689 201.729
+\t (00:09:01) last pick:  191.500 201.500
+\t (00:09:01) Shape "Package Geometry/Assembly_Top"
+\i (00:09:02) pick grid 191.658 201.821
+\t (00:09:02) last pick:  191.500 202.000
+\i (00:09:02) zoom out 1 
+\i (00:09:02) setwindow pcb
+\i (00:09:02) zoom out 190.481 198.785
+\i (00:09:02) trapsize 310
+\i (00:09:02) zoom out 1 
+\i (00:09:02) setwindow pcb
+\i (00:09:02) zoom out 190.480 198.785
+\i (00:09:02) trapsize 620
+\i (00:09:02) zoom out 1 
+\i (00:09:02) setwindow pcb
+\i (00:09:02) zoom out 190.481 198.786
+\i (00:09:02) trapsize 1239
+\i (00:09:03) roam start
+\i (00:09:03) roam x 32
+\i (00:09:03) roam x 32
+\i (00:09:03) roam x 16
+\i (00:09:03) roam x 16
+\i (00:09:03) roam x 16
+\i (00:09:03) roam x 32
+\i (00:09:03) roam x 16
+\i (00:09:03) roam x 32
+\i (00:09:03) roam x 16
+\i (00:09:03) roam y 16
+\i (00:09:03) roam x 16
+\i (00:09:03) roam x 32
+\i (00:09:03) roam x -16
+\i (00:09:03) roam x -16
+\i (00:09:03) roam y -16
+\i (00:09:03) roam x -16
+\i (00:09:04) roam y -16
+\i (00:09:04) roam x -16
+\i (00:09:04) roam y -16
+\i (00:09:04) roam y -16
+\i (00:09:04) roam x -16
+\i (00:09:04) roam y -16
+\i (00:09:04) roam y -16
+\i (00:09:04) roam y -16
+\i (00:09:04) roam y -16
+\i (00:09:04) roam y -16
+\i (00:09:04) roam y -16
+\i (00:09:04) roam y -16
+\i (00:09:04) roam end
+\i (00:09:05) roam start
+\i (00:09:05) roam x -16
+\i (00:09:05) roam y -16
+\i (00:09:05) roam y -16
+\i (00:09:05) roam x -16
+\i (00:09:05) roam y -16
+\i (00:09:05) roam x -16
+\i (00:09:05) roam y -16
+\i (00:09:05) roam x -16
+\i (00:09:05) roam y -16
+\i (00:09:05) roam y -16
+\i (00:09:05) roam x -16
+\i (00:09:05) roam x -16
+\i (00:09:05) roam y -16
+\i (00:09:05) roam x -32
+\i (00:09:05) roam y -16
+\i (00:09:05) roam y -16
+\i (00:09:05) roam x -16
+\i (00:09:05) roam y -16
+\i (00:09:05) roam x -16
+\i (00:09:05) roam y -16
+\i (00:09:05) roam x -16
+\i (00:09:05) roam y -32
+\i (00:09:05) roam x -16
+\i (00:09:05) roam x -16
+\i (00:09:05) roam y -16
+\i (00:09:05) roam y -16
+\i (00:09:05) roam x -16
+\i (00:09:05) roam y -16
+\i (00:09:05) roam y -32
+\i (00:09:05) roam y -16
+\i (00:09:05) roam x -16
+\i (00:09:05) roam y -16
+\i (00:09:05) roam x -16
+\i (00:09:05) roam end
+\i (00:09:05) zoom in 1 
+\i (00:09:05) setwindow pcb
+\i (00:09:05) zoom in 96.665 354.441
+\i (00:09:05) trapsize 620
+\i (00:09:06) zoom in 1 
+\i (00:09:06) setwindow pcb
+\i (00:09:06) zoom in 110.050 356.920
+\i (00:09:06) trapsize 310
+\i (00:09:06) zoom in 1 
+\i (00:09:06) setwindow pcb
+\i (00:09:06) zoom in 116.990 355.246
+\i (00:09:06) trapsize 155
+\i (00:09:06) roam start
+\i (00:09:06) roam x 32
+\i (00:09:06) roam x 16
+\i (00:09:06) roam y 16
+\i (00:09:06) roam x 32
+\i (00:09:06) roam x 16
+\i (00:09:06) roam x 16
+\i (00:09:06) roam y 16
+\i (00:09:06) roam x 32
+\i (00:09:06) roam x 16
+\i (00:09:06) roam y 16
+\i (00:09:06) roam x 16
+\i (00:09:06) roam x 32
+\i (00:09:06) roam y 16
+\i (00:09:06) roam x 16
+\i (00:09:06) roam y 16
+\i (00:09:06) roam x 32
+\i (00:09:06) roam y 16
+\i (00:09:06) roam x 16
+\i (00:09:06) roam y 16
+\i (00:09:06) roam x 16
+\i (00:09:06) roam x 16
+\i (00:09:06) roam y 16
+\i (00:09:06) roam x 32
+\i (00:09:06) roam y 16
+\i (00:09:06) roam end
+\i (00:09:07) drag_start grid 116.029 351.123
+\i (00:09:07) drag_stop 129.816 339.845
+\i (00:09:08) prepopup 126.934 349.016
+\i (00:09:09) done 
+\i (00:09:10) generaledit 
+\i (00:09:10) prepopup 126.625 349.233
+\i (00:09:11) pick grid 124.797 345.112
+\t (00:09:11) last pick:  125.000 345.000
+\i (00:09:11) roam start
+\i (00:09:11) roam x 16
+\i (00:09:11) roam x 16
+\i (00:09:11) roam x 16
+\i (00:09:11) roam x 32
+\i (00:09:11) roam y -16
+\i (00:09:11) roam x 16
+\i (00:09:11) roam x 16
+\i (00:09:11) roam x 32
+\i (00:09:11) roam x 16
+\i (00:09:11) roam x 16
+\i (00:09:11) roam x 16
+\i (00:09:11) roam x 32
+\i (00:09:11) roam x 16
+\i (00:09:11) roam x 16
+\i (00:09:11) roam x 16
+\i (00:09:11) roam x 16
+\i (00:09:11) roam x 16
+\i (00:09:11) roam x 16
+\i (00:09:11) roam x 16
+\i (00:09:11) roam end
+\i (00:09:12) drag_start grid 129.413 351.433
+\i (00:09:12) drag_stop 151.534 336.561
+\i (00:09:13) prepopup 149.706 342.045
+\i (00:09:14) pop dyn_option_select @:@Delete 
+\i (00:09:14) delete 
+\i (00:09:14) generaledit 
+\i (00:09:14) zoom out 1 
+\i (00:09:14) setwindow pcb
+\i (00:09:14) zoom out 141.620 336.468
+\i (00:09:14) trapsize 310
+\i (00:09:14) zoom out 1 
+\i (00:09:14) setwindow pcb
+\i (00:09:14) zoom out 141.620 336.468
+\i (00:09:14) trapsize 620
+\i (00:09:15) zoom out 1 
+\i (00:09:15) setwindow pcb
+\i (00:09:15) zoom out 138.150 345.916
+\i (00:09:15) trapsize 1239
+\i (00:09:15) zoom out 1 
+\i (00:09:15) setwindow pcb
+\i (00:09:15) zoom out 138.150 260.033
+\i (00:09:15) trapsize 2479
+\i (00:09:15) roam start
+\i (00:09:15) roam end
+\i (00:09:16) save 
+\i (00:09:17) fillin yes 
+\i (00:09:17) generaledit 
+\i (00:09:18) drag_start grid 100.136 381.732
+\i (00:09:18) drag_stop 178.957 323.732
+\i (00:09:21) pop dyn_option_select 'Application Mode@:@General Edit' 
+\i (00:09:21) generaledit 
+\i (00:09:30) zoom in 1 
+\i (00:09:30) setwindow pcb
+\i (00:09:30) zoom in 183.914 250.364
+\i (00:09:30) trapsize 1239
+\i (00:09:32) zoom out 1 
+\i (00:09:32) setwindow pcb
+\i (00:09:32) zoom out 179.452 248.133
+\i (00:09:32) trapsize 2479
+\i (00:09:36) save 
+\i (00:09:36) fillin yes 
+\i (00:09:37) generaledit 
+\i (00:09:38) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:09:40) zoom in 1 
+\i (00:09:40) setwindow pcb
+\i (00:09:40) zoom in 349.486 371.321
+\i (00:09:40) trapsize 1239
+\i (00:09:40) zoom in 1 
+\i (00:09:40) setwindow pcb
+\i (00:09:40) zoom in 349.486 371.322
+\i (00:09:40) trapsize 620
+\i (00:09:40) zoom in 1 
+\i (00:09:40) setwindow pcb
+\i (00:09:40) zoom in 349.487 371.198
+\i (00:09:40) trapsize 310
+\i (00:09:40) zoom in 1 
+\i (00:09:40) setwindow pcb
+\i (00:09:40) zoom in 349.301 366.118
+\i (00:09:40) trapsize 155
+\i (00:09:41) zoom in 1 
+\i (00:09:41) setwindow pcb
+\i (00:09:41) zoom in 344.963 350.410
+\i (00:09:41) trapsize 77
+\i (00:09:41) roam start
+\i (00:09:42) roam x 16
+\i (00:09:42) roam x 16
+\i (00:09:42) roam x 16
+\i (00:09:42) roam y -16
+\i (00:09:42) roam x 16
+\i (00:09:42) roam x 16
+\i (00:09:42) roam x 16
+\i (00:09:42) roam y -16
+\i (00:09:42) roam x 16
+\i (00:09:42) roam x 32
+\i (00:09:42) roam x 16
+\i (00:09:42) roam y -16
+\i (00:09:42) roam x 16
+\i (00:09:42) roam x 16
+\i (00:09:42) roam y -16
+\i (00:09:42) roam x 16
+\i (00:09:42) roam x 16
+\i (00:09:42) roam end
+\i (00:09:44) pop dyn_option_select 'Application Mode@:@General Edit' 
+\i (00:09:44) generaledit 
+\i (00:09:45) prepopup 352.197 351.686
+\i (00:09:46) delete 
+\i (00:09:46) delete 
+\i (00:09:46) pick grid 352.476 351.918
+\t (00:09:46) last pick:  352.500 352.000
+\t (00:09:46) Dynamic Shape "Gnd, Boundary/02_Gnd"
+\i (00:09:47) prepopup 352.445 351.887
+\i (00:09:48) done 
+\i (00:09:48) generaledit 
+\i (00:09:48) prepopup 350.447 350.818
+\i (00:09:49) delete 
+\i (00:09:49) pick grid 350.199 351.515
+\t (00:09:49) last pick:  350.000 351.500
+\t (00:09:49) Dynamic Shape "Gnd, Boundary/04_Gnd"
+\i (00:09:50) pick grid 348.944 351.515
+\t (00:09:50) last pick:  349.000 351.500
+\t (00:09:50) Dynamic Shape "Gnd, Boundary/04_Gnd"
+\i (00:09:50) pick grid 346.249 351.515
+\t (00:09:50) last pick:  346.000 351.500
+\t (00:09:50) Dynamic Shape "Gnd, Boundary/06_Gnd"
+\i (00:09:51) pick grid 346.744 352.460
+\t (00:09:51) last pick:  346.500 352.500
+\t (00:09:51) Dynamic Shape "Gnd, Boundary/07_Rfgnd"
+\i (00:09:51) pick grid 345.830 351.841
+\t (00:09:51) last pick:  346.000 352.000
+\t (00:09:51) Dynamic Shape "Gnd, Boundary/08_Gnd"
+\i (00:09:51) pick grid dbl 345.830 351.841
+\t (00:09:51) last pick:  346.000 352.000
+\t (00:09:51) Dynamic Shape "Gnd, Boundary/10_Gnd"
+\i (00:09:52) pick grid 345.830 351.841
+\t (00:09:52) last pick:  346.000 352.000
+\t (00:09:52) Dynamic Shape "Gnd, Boundary/17_Gnd"
+\i (00:09:52) pick grid dbl 345.830 351.841
+\t (00:09:52) last pick:  346.000 352.000
+\t (00:09:52) Dynamic Shape "Gnd, Boundary/19_Gnd"
+\i (00:09:53) pick grid 345.830 351.841
+\t (00:09:53) last pick:  346.000 352.000
+\i (00:09:53) prepopup 345.830 351.841
+\i (00:09:54) done 
+\i (00:09:54) generaledit 
+\i (00:09:54) zoom out 1 
+\i (00:09:54) setwindow pcb
+\i (00:09:54) zoom out 343.507 350.028
+\i (00:09:54) trapsize 155
+\i (00:09:54) zoom out 1 
+\i (00:09:54) setwindow pcb
+\i (00:09:54) zoom out 343.507 350.028
+\i (00:09:54) trapsize 310
+\i (00:09:54) zoom out 1 
+\i (00:09:54) setwindow pcb
+\i (00:09:54) zoom out 343.506 350.029
+\i (00:09:54) trapsize 620
+\i (00:09:55) zoom out 1 
+\i (00:09:55) setwindow pcb
+\i (00:09:55) zoom out 343.507 332.656
+\i (00:09:55) trapsize 1239
+\i (00:09:55) zoom out 1 
+\i (00:09:55) setwindow pcb
+\i (00:09:55) zoom out 328.171 234.007
+\i (00:09:55) trapsize 2479
+\i (00:09:55) roam start
+\i (00:09:55) roam end
+\i (00:09:56) save 
+\i (00:09:57) fillin yes 
+\i (00:09:57) generaledit 
+\i (00:09:57) save 
+\i (00:09:58) fillin yes 
+\i (00:09:58) generaledit 
+\i (00:10:00) exit 
+\t (00:10:00)     Journal end - Mon Aug 26 00:00:03 2024
