@@ -1,0 +1,51 @@
+\t (00:00:01) allegro 23.1 S006 (4217799) Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Sep  6 17:30:36 2024
+\t (00:00:01)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=18556 CPUs=12
+\t (00:00:01) CmdLine= c:\cadence\spb_23.1\tools\bin\allegro.exe D:\Xilinx KC705\allegro\kc705.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged kc705
+\d (00:00:04) Design opened: D:/Xilinx KC705/allegro/kc705.brd
+\i (00:00:04) trapsize 2299
+\i (00:00:04) trapsize 2611
+\i (00:00:04) trapsize 2716
+\i (00:00:05) trapsize 5141
+\i (00:00:05) trapsize 5141
+\t (00:00:05) Loading NV GPU Plugin
+\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:00:05) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
+\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:00:05) QtSignal 0 "|" "Board Outline  (1/6)"
+\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
+\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
+\i (00:00:05) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
+\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
+\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
+\i (00:00:05) QtSignal 1 "|" "Gloss (Window Area)"
+\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
+\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 1 "|" +
+\i (00:00:05) QtSignal QuickPlace
+\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
+\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 1 "|" +
+\i (00:00:05) QtSignal "Color Dialog"
+\i (00:00:05) trapsize 594
+\i (00:00:05) generaledit 
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 205.633 106.527
+\i (00:00:07) trapsize 1189
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 206.109 136.488
+\i (00:00:07) trapsize 2378
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 256.797 272.966
+\i (00:00:07) trapsize 2378
+\i (00:00:08) exit 
+\t (00:00:08)     Journal end - Fri Sep  6 17:30:42 2024

@@ -1,0 +1,76 @@
+\t (00:00:02) allegro 23.1 S006 (4217799) Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Sep  3 11:53:40 2024
+\t (00:00:02)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=10624 CPUs=12
+\t (00:00:02) CmdLine= c:\cadence\spb_23.1\tools\bin\allegro.exe D:\Projects\HardwareDesign\PCB_ST-LINK V3_1\allegro\ST-LINKV3_open.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\w (00:00:05) WARNING(SPMHDB-213): DRC set to "out of date". The current product selection supports a different DRC capability than what is saved in the design.
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ST-LINKV3_open"
+\d (00:00:05) Design opened: D:/Projects/HardwareDesign/PCB_ST-LINK V3_1/allegro/ST-LINKV3_open.brd
+\i (00:00:05) trapsize 14680
+\i (00:00:05) trapsize 16671
+\i (00:00:05) trapsize 17344
+\i (00:00:05) trapsize 32834
+\i (00:00:05) trapsize 32834
+\t (00:00:06) > Sending response DoneOpenBoard
+\t (00:00:06) Loading NV GPU Plugin
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
+\i (00:00:06) QtSignal Modes
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:00:06) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:00:06) QtSignal 0 "|" "Board Outline  (1/6)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
+\i (00:00:06) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
+\i (00:00:06) QtSignal "|" "Shapes  (1/4)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
+\i (00:00:06) QtSignal 0 "|" Polygon
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
+\i (00:00:06) QtSignal 0 "|" "IPC-2581"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
+\i (00:00:06) QtSignal 0 "|" Testprep
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
+\i (00:00:06) QtSignal Manual
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
+\i (00:00:06) QtSignal "Display Status"
+\i (00:00:06) trapsize 3796
+\i (00:00:06) generaledit 
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 148.9951 176.3621
+\i (00:00:37) trapsize 7593
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 151.4248 174.3880
+\i (00:00:37) trapsize 15185
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 158.4100 176.4521
+\i (00:00:38) trapsize 23778
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 129.8253 272.4905
+\i (00:00:38) trapsize 23778
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 153.1273 257.7485
+\i (00:00:38) trapsize 11889
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 162.8761 258.2241
+\i (00:00:38) trapsize 5944
+\i (00:00:55) exit 
+\t (00:00:55)     Journal end - Tue Sep  3 11:54:33 2024

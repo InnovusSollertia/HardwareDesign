@@ -1,7 +1,0 @@
-
-D:\Projects\OwnProjects\PultonPCBTest\allegro>cd /D D:/Projects/OwnProjects/PultonPCBTest/allegro 
-
-D:\Projects\OwnProjects\PultonPCBTest\allegro>"c:/cadence/spb_23.1/tools/bin/cdsZip.exe"  -r  "D:/Projects/OwnProjects/PultonPCBTest/allegro/output.zip"   "./mfg" 
-  adding: mfg/ (260 bytes security) (stored 0%)
-  adding: mfg/BOTTOM.gbr (172 bytes security) (deflated 57%)
-  adding: mfg/TOP.gbr (172 bytes security) (deflated 65%)
