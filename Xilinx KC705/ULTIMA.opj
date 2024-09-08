@@ -1,6 +1,6 @@
 (ExpressProject "ultima"
   (ProjectVersion "19981106")
-  (SoftwareVersion "23.1 S006 (4221051)  [7/26/2024]-[09/08/24]")
+  (SoftwareVersion "23.1 S006 (4221051)  [7/26/2024]-[09/06/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -8,9 +8,8 @@
     (DOCKED "TRUE")
     (DOCKING_POSITION "59420")
     (NoModify)
-    (File ".\kc705.dsn"
-      (Type "Schematic Design")
-      (DisplayName ".\kc705.DSN"))
+    (File ".\ultima.dsn"
+      (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
     (Netlist_TAB "0")
@@ -18,8 +17,7 @@
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
-    ("Allegro Netlist Output Board File"
-       "..\projects\hardwaredesign\xilinx kc705\allegro\ultima_new.brd")
+    ("Allegro Netlist Output Board File" ".\allegro\ultima_new.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -111,11 +109,10 @@
       (Type "Board File")
       (OutputBoard ".\allegro\ultima_new.brd")
       (NetListPath ".\allegro")
-      (ActiveBoard "0")))
+      (ActiveBoard "1")))
   (Folder "Outputs"
-    (File ".\movedfiles\report.drc"
-      (Type "Report")
-      (DisplayName ".\MovedFiles\report.drc"))
+    (File "..\pcb_st-link v3_1\report.drc"
+      (Type "Report"))
     (File ".\allegro\pstxnet.dat"
       (Type "Report")
       (DisplayName "pstxnet.dat"))
@@ -143,18 +140,27 @@
       (LogFile "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\netrev.lst"))
     (File ".\allegro\eco.txt"
       (Type "Log File")
-      (LogFile "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\eco.txt"))
-    (File "..\projects\hardwaredesign\xilinx kc705\allegro\netlist.log"
-      (Type "Log File")
-      (LogFile "d:\projects\hardwaredesign\xilinx kc705\allegro\netlist.log"))
-    (File "..\projects\hardwaredesign\xilinx kc705\allegro\genfeed.log"
-      (Type "Log File")
-      (LogFile "d:\projects\hardwaredesign\xilinx kc705\allegro\genfeed.log")))
+      (LogFile "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\eco.txt")))
   (PartMRUSelector
-    (TXS0108EPWRG4
-      (FullPartName "TXS0108EPWRG4.Normal")
+    (TPB11CGPC004
+      (FullPartName "TPB11CGPC004.Normal")
       (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\INTEGRAL CIRCUIT. BUFFERS AND LINE DRIVERS\(TSSOP-20) TXS0108EPWRG4\TXS0108EPWRG4.OLB")
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\SWITCHES. PUSHBUTTON\TPB11CGPC004.OLB")
+      (DeviceIndex "0"))
+    (SDA05H1SBD
+      (FullPartName "SDA05H1SBD.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\SWITCHES. DIP\(DIP) SDA05H1SBD\SDA05H1SBD.OLB")
+      (DeviceIndex "0"))
+    (SM0603GCL
+      (FullPartName "SM0603GCL.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\SEMICONDUCTORS. LED\(0603, GREEN) SM0603GCL\SM0603GCL.OLB")
+      (DeviceIndex "0"))
+    (08-0625-70
+      (FullPartName "08-0625-70.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. PIN HEADERS\(1X8, 2.54MM, OPEN, HEADER MALE) 08-0625-70\08-0625-70.OLB")
       (DeviceIndex "0"))
     (TXB0108PWR
       (FullPartName "TXB0108PWR.Normal")
@@ -190,11 +196,6 @@
       (FullPartName "CP2103-GM.Normal")
       (LibraryName
          "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. IO AND INTERFACE EXPANDER\(MLP-28) CP2103-GM\CP2103-GM.OLB")
-      (DeviceIndex "0"))
-    (SDA05H1SBD
-      (FullPartName "SDA05H1SBD.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\SWITCHES. DIP\(DIP) SDA05H1SBD\SDA05H1SBD.OLB")
       (DeviceIndex "0"))
     (M24C08-WDW6TP
       (FullPartName "M24C08-WDW6TP.Normal")
@@ -265,41 +266,21 @@
       (FullPartName "AX3HAF1-114.0000T.Normal")
       (LibraryName
          "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. CLOCK GENERATOR\(SMD-6) AX3HAF1-114.0000T\AX3HAF1-114.0000T.OLB")
-      (DeviceIndex "0"))
-    (XLH53V010.000000I
-      (FullPartName "XLH53V010.000000I.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. CLOCK GENERATOR\(TSSOP-6) XLH53V010.000000I\XLH53V010.000000I.OLB")
-      (DeviceIndex "0"))
-    (SIT9102AI-243N25E200.00000X
-      (FullPartName "SIT9102AI-243N25E200.00000X.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. CLOCK GENERATOR\(TSSOP-8) SIT9102AI-243N25E200.00000X\SIT9102AI-243N25E200.00000X.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\kc705.dsn")
-      (Path "Design Resources" ".\kc705.dsn" "SCH001")
+      (Path "Design Resources" ".\ultima.dsn")
+      (Path "Design Resources" ".\ultima.dsn" "SCH001")
       (Path "Outputs")
-      (Path "Logs"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 0 200 0 499"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 960 24 540")
-        (Scroll "1066 2755")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "D:\PROJECTS\HARDWAREDESIGN\XILINX KC705\KC705.DSN")
-      (Schematic "SCH001")
-      (Page "DEV1")))
+      (Tab 0)))
   (MPSSessionName "Prometheus")
   (LastUsedLibraryBrowseDirectory
-     "D:\Projects\CadenceAllegro\CIS\olbpath\Integral Circuit. Buffers and Line Drivers\(TSSOP-20) TXS0108EPWRG4")
+     "D:\Projects\CadenceAllegro\Old-library\Switches. Pushbutton")
   (ISPCBBASICLICENSE "false"))
