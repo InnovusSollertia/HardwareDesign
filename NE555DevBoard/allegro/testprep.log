@@ -1,0 +1,78 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Testprep Automatic Log File                                      )
+(                                                                     )
+(    Drawing          : ne555devboard.brd                             )
+(    Software Version : 23.1S006                                      )
+(    Date/Time        : Sun Sep  8 12:07:14 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ Probes accessing bottom of the board.
+ Pad type restricted to 'THRU'.
+ Pin type restricted to 'ANY POINT'.
+ Minimum pad dimension is : 0.0000
+ Test pad grid: X: 0.0000 Y: 0.0000
+ Minimum test point spacing is : 0.0000
+ No test points allowed under components.
+ Component representation is ASSEMBLY data.
+ Bare board switch off, no test points allowed on
+   component pins on tested side.
+ Tested one pin per net.
+ No unused pins tested.
+ Testing allowed directly on pin.
+ No direct trace testing allowed.
+ Automatic test point insertion disabled.
+ Test pad displacement: Min: 0.0000, Max: 0.0000
+ Via replacement NOT allowed.
+ Cline bubbling  allowed.
+ Test SMT/blind pad: 
+ Test thru via     : 
+ Executed in OVERWRITE mode.
+ Probe text angle: 0 degrees.
+ Probe text offset: X: 0.0000 Y: 0.0000
+
+
+  NET        PIN                                        PROBE TEXT
+==================================================================
+
+Processing net VCC (1 out of 10),(c=0, f=0, i=0).
+  VCC        J1.6            @(   167.2590,   291.4650) VCC         
+
+Processing net 0 (2 out of 10),(c=1, f=0, i=0).
+  0          J3.3            @(   162.8140,   291.4650) 0           
+
+Processing net N00159 (3 out of 10),(c=2, f=0, i=0).
+  N00159     J2.4            @(   152.7810,   296.5450) N00159      
+
+Processing net N00155 (4 out of 10),(c=3, f=0, i=0).
+  N00155     J2.3            @(   152.7810,   299.0850) N00155      
+
+Processing net N00151 (5 out of 10),(c=4, f=0, i=0).
+  N00151     J2.2            @(   152.7810,   301.6250) N00151      
+
+Processing net N00147 (6 out of 10),(c=5, f=0, i=0).
+  N00147     J2.1            @(   152.7810,   304.1650) N00147      
+
+Processing net N00143 (7 out of 10),(c=6, f=0, i=0).
+  N00143     J1.4            @(   167.2590,   296.5450) N00143      
+
+Processing net N00139 (8 out of 10),(c=7, f=0, i=0).
+  N00139     J1.3            @(   167.2590,   299.0850) N00139      
+
+Processing net N00135 (9 out of 10),(c=8, f=0, i=0).
+  N00135     J1.2            @(   167.2590,   301.6250) N00135      
+
+Processing net N00131 (10 out of 10),(c=9, f=0, i=0).
+  N00131     J1.1            @(   167.2590,   304.1650) N00131      
+
+  Total nets processed:	10
+
+  Total nets failed:	0
+  Total nets ignored: 0
+  Total warnings: 0
+
+  Total test points on bottom:	10
+
+  Test Point Total:	10

@@ -1,0 +1,25 @@
+\t (00:00:01) allegro 23.1 S006 (4217799) Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sun Sep  8 11:48:57 2024
+\t (00:00:01)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=7688 CPUs=12
+\t (00:00:01) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe -mpssession Prometheus -proj D:\Projects\HardwareDesign\NE555DevBoard\NE555DevBoard.opj D:\Projects\HardwareDesign\NE555DevBoard\allegro\ne555devboard.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ne555devboard
+\d (00:00:04) Design opened: D:/Projects/HardwareDesign/NE555DevBoard/allegro/ne555devboard.brd
+\i (00:00:04) trapsize 37014
+\i (00:00:04) trapsize 42036
+\i (00:00:04) trapsize 43731
+\i (00:00:04) trapsize 80153
+\i (00:00:04) setwindow form.mini
+\i (00:00:04) FORM mini tree  'Components by refdes' 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) trapsize 80153
+\t (00:00:04) > Sending response DoneOpenBoard
+\t (00:00:04) Loading NV GPU Plugin
+\i (00:00:04) trapsize 9572
+\i (00:00:05) placementedit 
+\i (00:00:09) exit 
+\e (00:00:09) Do you want to save the changes you made to ne555devboard.brd?
+\i (00:00:10) fillin yes 
+\t (00:00:11)     Journal end - Sun Sep  8 11:49:07 2024

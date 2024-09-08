@@ -1,0 +1,103 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : ne555devboard.brd                             )
+(    Software Version : 23.1S006                                      )
+(    Date/Time        : Sun Sep  8 11:49:23 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'D:\Projects\HardwareDesign\NE555DevBoard\allegro'
+Design Directory:            'D:/Projects/HardwareDesign/NE555DevBoard/allegro'
+Old design name:             'D:/Projects/HardwareDesign/NE555DevBoard/allegro/ne555devboard.brd'
+New design name:             'D:/Projects/HardwareDesign/NE555DevBoard/allegro/ne555devboard.brd'
+
+CmdLine: netrev -v -y 1 -i D:\Projects\HardwareDesign\NE555DevBoard\allegro -q netrev_constraint_report.xml D:/Projects/HardwareDesign/NE555DevBoard/allegro/#Taaaaak11448.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read D:/Projects/HardwareDesign/NE555DevBoard/allegro/pstchip.dat 
+   Finished reading D:/Projects/HardwareDesign/NE555DevBoard/allegro/pstchip.dat (00:00:00.39)
+Starting to read D:/Projects/HardwareDesign/NE555DevBoard/allegro/pstxprt.dat 
+   Finished reading D:/Projects/HardwareDesign/NE555DevBoard/allegro/pstxprt.dat (00:00:00.00)
+Starting to read D:/Projects/HardwareDesign/NE555DevBoard/allegro/pstxnet.dat 
+   Finished reading D:/Projects/HardwareDesign/NE555DevBoard/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+
+
+===========================================================
+Start Constraint Override Import
+	Constraint File:    D:/Projects/HardwareDesign/NE555DevBoard/allegro/pstcmdb.dat
+	Start time: Sun Sep  8 11:49:23 2024
+===========================================================
+===========================================================
+Finished Constraint Update	Time: Sun Sep  8 11:49:23 2024
+===========================================================
+
+------ Library Paths ------
+MODULEPATH =  . 
+           c:/cadence/spb_23.1/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_23.1/share/local/pcb/symbols 
+           c:/cadence/spb_23.1/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_23.1/share/pcb/allegrolib/symbols 
+           D:/Projects/CadenceAllegro/CIS/psmpath 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_23.1/share/local/pcb/padstacks 
+           c:/cadence/spb_23.1/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_23.1/share/pcb/allegrolib/symbols 
+           D:/Projects/CadenceAllegro/CIS/padpath 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Sep 8 11:49:23 2024
+   DESIGN NAME : 'NE555DEVBOARD'
+   PACKAGING ON Jul 18 2024 23:20:50
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:01:17
+elapsed time  0:00:00
+

@@ -1,0 +1,104 @@
+(ExpressProject "NE555DevBoard"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "23.1 S006 (4221051)  [7/26/2024]-[09/08/24]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\ne555devboard.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\ne555devboard.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Layout"
+    (File ".\allegro\ne555devboard.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\ne555devboard.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile "D:\Projects\HardwareDesign\NE555DevBoard\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile "D:\Projects\HardwareDesign\NE555DevBoard\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile "D:\Projects\HardwareDesign\NE555DevBoard\allegro\eco.txt")))
+  (PartMRUSelector
+    (VCC_ARROW
+      (LibraryName "C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (69167-103
+      (FullPartName "69167-103.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CONNECTORS. PIN HEADERS\(3X1, 2.54MM, CLOSED, HEADER MALE) 69167-103\69167-103.OLB")
+      (DeviceIndex "0"))
+    (280372-1
+      (FullPartName "280372-1.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CONNECTORS. PIN HEADERS\(1X6, 2.54MM, CLOSED, HEADER MALE) 280372-1\280372-1.OLB")
+      (DeviceIndex "0"))
+    (74LVC1G123DC,125
+      (FullPartName "74LVC1G123DC,125.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\INTEGRAL CIRCUIT. MULTI-VIBRATOR\(VSSOP-8) 74LVC1G123DC,125\74LVC1G123DC_125.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "D:\Projects\CadenceAllegro\CIS\olbpath\Connectors. Pin Headers\(3x1, 2.54mm, Closed, Header Male) 69167-103")
+  (MPSSessionName "Prometheus")
+  (ISPCBBASICLICENSE "false")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 522"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 960 24 540")
+        (Scroll "-124 198")
+        (Zoom "116")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\HARDWAREDESIGN\NE555DEVBOARD\NE555DEVBOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

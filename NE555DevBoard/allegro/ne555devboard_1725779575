@@ -1,0 +1,854 @@
+{
+    "SingleExportsConfig": {
+        "ArtFilm": [
+            {
+                "ArtLayer": [
+                    {
+                        "class": "ETCH",
+                        "subclass": "External Conductor"
+                    },
+                    {
+                        "class": "PIN",
+                        "subclass": "External Conductor"
+                    },
+                    {
+                        "class": "VIA CLASS",
+                        "subclass": "External Conductor"
+                    }
+                ],
+                "category": "External Conductor",
+                "name": "External Conductor"
+            },
+            {
+                "ArtLayer": [
+                    {
+                        "class": "ETCH",
+                        "subclass": "Internal Conductor"
+                    },
+                    {
+                        "class": "PIN",
+                        "subclass": "Internal Conductor"
+                    },
+                    {
+                        "class": "VIA CLASS",
+                        "subclass": "Internal Conductor"
+                    }
+                ],
+                "category": "Internal Conductor",
+                "name": "Internal Conductor"
+            },
+            {
+                "ArtLayer": [
+                    {
+                        "class": "ETCH",
+                        "subclass": "Internal Plane"
+                    },
+                    {
+                        "class": "PIN",
+                        "subclass": "Internal Plane"
+                    },
+                    {
+                        "class": "VIA CLASS",
+                        "subclass": "Internal Plane"
+                    }
+                ],
+                "category": "Internal Plane",
+                "name": "Internal Plane"
+            },
+            {
+                "ArtLayer": [
+                    {
+                        "class": "ETCH",
+                        "subclass": "Internal Negative Plane"
+                    },
+                    {
+                        "class": "PIN",
+                        "subclass": "Internal Negative Plane"
+                    },
+                    {
+                        "class": "VIA CLASS",
+                        "subclass": "Internal Negative Plane"
+                    }
+                ],
+                "category": "Internal Negative Plane",
+                "name": "Internal Negative Plane"
+            },
+            {
+                "ArtLayer": [
+                    {
+                        "class": "BOARD GEOMETRY",
+                        "subclass": "DIMENSION"
+                    },
+                    {
+                        "class": "BOARD GEOMETRY",
+                        "subclass": "DESIGN_OUTLINE"
+                    },
+                    {
+                        "class": "BOARD GEOMETRY",
+                        "subclass": "CUTOUT"
+                    },
+                    {
+                        "class": "MANUFACTURING",
+                        "subclass": "NCLegend-<start>-<end>"
+                    }
+                ],
+                "category": "Fabrication Drill Views",
+                "name": "NCLegend"
+            },
+            {
+                "ArtLayer": [
+                    {
+                        "class": "BOARD GEOMETRY",
+                        "subclass": "SILKSCREEN_TOP"
+                    },
+                    {
+                        "class": "PACKAGE GEOMETRY",
+                        "subclass": "SILKSCREEN_TOP"
+                    },
+                    {
+                        "class": "REF DES",
+                        "subclass": "SILKSCREEN_TOP"
+                    }
+                ],
+                "category": "Silkscreen",
+                "name": "SSTP"
+            },
+            {
+                "ArtLayer": [
+                    {
+                        "class": "BOARD GEOMETRY",
+                        "subclass": "SILKSCREEN_BOTTOM"
+                    },
+                    {
+                        "class": "PACKAGE GEOMETRY",
+                        "subclass": "SILKSCREEN_BOTTOM"
+                    },
+                    {
+                        "class": "REF DES",
+                        "subclass": "SILKSCREEN_BOTTOM"
+                    }
+                ],
+                "category": "Silkscreen",
+                "name": "SSBT"
+            },
+            {
+                "ArtLayer": [
+                    {
+                        "class": "PIN",
+                        "subclass": "SOLDERMASK_TOP"
+                    },
+                    {
+                        "class": "VIA CLASS",
+                        "subclass": "SOLDERMASK_TOP"
+                    },
+                    {
+                        "class": "BOARD GEOMETRY",
+                        "subclass": "SOLDERMASK_TOP"
+                    },
+                    {
+                        "class": "PACKAGE GEOMETRY",
+                        "subclass": "SOLDERMASK_TOP"
+                    }
+                ],
+                "category": "Soldermask",
+                "name": "SMTP"
+            },
+            {
+                "ArtLayer": [
+                    {
+                        "class": "PIN",
+                        "subclass": "SOLDERMASK_BOTTOM"
+                    },
+                    {
+                        "class": "VIA CLASS",
+                        "subclass": "SOLDERMASK_BOTTOM"
+                    },
+                    {
+                        "class": "BOARD GEOMETRY",
+                        "subclass": "SOLDERMASK_BOTTOM"
+                    },
+                    {
+                        "class": "PACKAGE GEOMETRY",
+                        "subclass": "SOLDERMASK_BOTTOM"
+                    }
+                ],
+                "category": "Soldermask",
+                "name": "SMBT"
+            },
+            {
+                "ArtLayer": [
+                    {
+                        "class": "PIN",
+                        "subclass": "PASTEMASK_TOP"
+                    },
+                    {
+                        "class": "VIA CLASS",
+                        "subclass": "PASTEMASK_TOP"
+                    },
+                    {
+                        "class": "PACKAGE GEOMETRY",
+                        "subclass": "PASTEMASK_TOP"
+                    }
+                ],
+                "category": "Solderpaste",
+                "name": "SPTP"
+            },
+            {
+                "ArtLayer": [
+                    {
+                        "class": "PIN",
+                        "subclass": "PASTEMASK_BOTTOM"
+                    },
+                    {
+                        "class": "VIA CLASS",
+                        "subclass": "PASTEMASK_BOTTOM"
+                    },
+                    {
+                        "class": "PACKAGE GEOMETRY",
+                        "subclass": "PASTEMASK_BOTTOM"
+                    }
+                ],
+                "category": "Solderpaste",
+                "name": "SPBT"
+            },
+            {
+                "ArtLayer": [
+                    {
+                        "class": "BOARD GEOMETRY",
+                        "subclass": "DESIGN_OUTLINE"
+                    },
+                    {
+                        "class": "BOARD GEOMETRY",
+                        "subclass": "CUTOUT"
+                    },
+                    {
+                        "class": "PACKAGE GEOMETRY",
+                        "subclass": "ASSEMBLY_TOP"
+                    },
+                    {
+                        "class": "REF DES",
+                        "subclass": "ASSEMBLY_TOP"
+                    }
+                ],
+                "category": "Assembly Drawing Views",
+                "name": "ASSYTP"
+            },
+            {
+                "ArtLayer": [
+                    {
+                        "class": "BOARD GEOMETRY",
+                        "subclass": "DESIGN_OUTLINE"
+                    },
+                    {
+                        "class": "BOARD GEOMETRY",
+                        "subclass": "CUTOUT"
+                    },
+                    {
+                        "class": "PACKAGE GEOMETRY",
+                        "subclass": "ASSEMBLY_BOTTOM"
+                    },
+                    {
+                        "class": "REF DES",
+                        "subclass": "ASSEMBLY_BOTTOM"
+                    }
+                ],
+                "category": "Assembly Drawing Views",
+                "name": "ASSYBT"
+            }
+        ],
+        "ArtFilmCategory": [
+            {
+                "CategorySettings": {
+                    "DrawHolesOnly": "False",
+                    "DrawMissingPadApertures": "False",
+                    "FilmDomain": [
+                        "Artwork",
+                        "IPC2581",
+                        "PDF",
+                        "Visibility"
+                    ],
+                    "FullContact": "False",
+                    "IPC2581LayerType": "Documentation",
+                    "Mirrored": "False",
+                    "Rotation": "0",
+                    "ShapeBoundingBox": "100.0000",
+                    "SuppressShapeFill": "False",
+                    "SuppressUnconnectPads": "False",
+                    "UndefineLineWidth": "6.0000",
+                    "UseApertureRotation": "False",
+                    "VectorBasedPad": "True",
+                    "XOffset": "0.00",
+                    "YOffset": "0.00"
+                },
+                "name": "Default Settings"
+            },
+            {
+                "CategorySettings": {
+                    "DrawHolesOnly": "False",
+                    "DrawMissingPadApertures": "False",
+                    "FilmDomain": [
+                        "Artwork",
+                        "IPC2581",
+                        "PDF",
+                        "Visibility"
+                    ],
+                    "FullContact": "False",
+                    "IPC2581LayerType": "Outer",
+                    "Mirrored": "False",
+                    "Rotation": "0",
+                    "ShapeBoundingBox": "100.0000",
+                    "SuppressShapeFill": "False",
+                    "SuppressUnconnectPads": "False",
+                    "UndefineLineWidth": "6.0000",
+                    "UseApertureRotation": "False",
+                    "VectorBasedPad": "True",
+                    "XOffset": "0.00",
+                    "YOffset": "0.00"
+                },
+                "name": "External Conductor"
+            },
+            {
+                "CategorySettings": {
+                    "DrawHolesOnly": "False",
+                    "DrawMissingPadApertures": "False",
+                    "FilmDomain": [
+                        "Artwork",
+                        "IPC2581",
+                        "PDF",
+                        "Visibility"
+                    ],
+                    "FullContact": "False",
+                    "IPC2581LayerType": "Inner",
+                    "Mirrored": "False",
+                    "Rotation": "0",
+                    "ShapeBoundingBox": "100.0000",
+                    "SuppressShapeFill": "False",
+                    "SuppressUnconnectPads": "False",
+                    "UndefineLineWidth": "6.0000",
+                    "UseApertureRotation": "False",
+                    "VectorBasedPad": "True",
+                    "XOffset": "0.00",
+                    "YOffset": "0.00"
+                },
+                "name": "Internal Conductor"
+            },
+            {
+                "CategorySettings": {
+                    "DrawHolesOnly": "False",
+                    "DrawMissingPadApertures": "False",
+                    "FilmDomain": [
+                        "Artwork",
+                        "IPC2581",
+                        "PDF",
+                        "Visibility"
+                    ],
+                    "FullContact": "False",
+                    "IPC2581LayerType": "Inner",
+                    "Mirrored": "False",
+                    "Rotation": "0",
+                    "ShapeBoundingBox": "100.0000",
+                    "SuppressShapeFill": "False",
+                    "SuppressUnconnectPads": "False",
+                    "UndefineLineWidth": "6.0000",
+                    "UseApertureRotation": "False",
+                    "VectorBasedPad": "True",
+                    "XOffset": "0.00",
+                    "YOffset": "0.00"
+                },
+                "name": "Internal Plane"
+            },
+            {
+                "CategorySettings": {
+                    "DrawHolesOnly": "False",
+                    "DrawMissingPadApertures": "False",
+                    "FilmDomain": [
+                        "Artwork",
+                        "IPC2581",
+                        "PDF",
+                        "Visibility"
+                    ],
+                    "FullContact": "False",
+                    "IPC2581LayerType": "Inner",
+                    "Mirrored": "False",
+                    "Rotation": "0",
+                    "ShapeBoundingBox": "100.0000",
+                    "SuppressShapeFill": "False",
+                    "SuppressUnconnectPads": "False",
+                    "UndefineLineWidth": "6.0000",
+                    "UseApertureRotation": "False",
+                    "VectorBasedPad": "True",
+                    "XOffset": "0.00",
+                    "YOffset": "0.00"
+                },
+                "name": "Internal Negative Plane"
+            },
+            {
+                "CategorySettings": {
+                    "DrawHolesOnly": "False",
+                    "DrawMissingPadApertures": "False",
+                    "FilmDomain": [
+                        "Artwork",
+                        "IPC2581",
+                        "PDF",
+                        "Visibility"
+                    ],
+                    "FullContact": "False",
+                    "IPC2581LayerType": "Silkscreen",
+                    "Mirrored": "False",
+                    "Rotation": "0",
+                    "ShapeBoundingBox": "100.0000",
+                    "SuppressShapeFill": "False",
+                    "SuppressUnconnectPads": "False",
+                    "UndefineLineWidth": "6.0000",
+                    "UseApertureRotation": "False",
+                    "VectorBasedPad": "True",
+                    "XOffset": "0.00",
+                    "YOffset": "0.00"
+                },
+                "name": "Silkscreen"
+            },
+            {
+                "CategorySettings": {
+                    "DrawHolesOnly": "False",
+                    "DrawMissingPadApertures": "False",
+                    "FilmDomain": [
+                        "Artwork",
+                        "IPC2581",
+                        "PDF",
+                        "Visibility"
+                    ],
+                    "FullContact": "False",
+                    "IPC2581LayerType": "Soldermask",
+                    "Mirrored": "False",
+                    "Rotation": "0",
+                    "ShapeBoundingBox": "100.0000",
+                    "SuppressShapeFill": "False",
+                    "SuppressUnconnectPads": "False",
+                    "UndefineLineWidth": "6.0000",
+                    "UseApertureRotation": "False",
+                    "VectorBasedPad": "True",
+                    "XOffset": "0.00",
+                    "YOffset": "0.00"
+                },
+                "name": "Soldermask"
+            },
+            {
+                "CategorySettings": {
+                    "DrawHolesOnly": "False",
+                    "DrawMissingPadApertures": "False",
+                    "FilmDomain": [
+                        "Artwork",
+                        "IPC2581",
+                        "PDF",
+                        "Visibility"
+                    ],
+                    "FullContact": "False",
+                    "IPC2581LayerType": "Solderpaste",
+                    "Mirrored": "False",
+                    "Rotation": "0",
+                    "ShapeBoundingBox": "100.0000",
+                    "SuppressShapeFill": "False",
+                    "SuppressUnconnectPads": "False",
+                    "UndefineLineWidth": "6.0000",
+                    "UseApertureRotation": "False",
+                    "VectorBasedPad": "True",
+                    "XOffset": "0.00",
+                    "YOffset": "0.00"
+                },
+                "name": "Solderpaste"
+            },
+            {
+                "CategorySettings": {
+                    "DrawHolesOnly": "False",
+                    "DrawMissingPadApertures": "False",
+                    "FilmDomain": [
+                        "IPC2581",
+                        "PDF",
+                        "Visibility"
+                    ],
+                    "FullContact": "False",
+                    "IPC2581LayerType": "Documentation",
+                    "Mirrored": "False",
+                    "Rotation": "0",
+                    "ShapeBoundingBox": "100.0000",
+                    "SuppressShapeFill": "False",
+                    "SuppressUnconnectPads": "False",
+                    "UndefineLineWidth": "6.0000",
+                    "UseApertureRotation": "False",
+                    "VectorBasedPad": "True",
+                    "XOffset": "0.00",
+                    "YOffset": "0.00"
+                },
+                "name": "Fabrication Drill Views"
+            },
+            {
+                "CategorySettings": {
+                    "DrawHolesOnly": "False",
+                    "DrawMissingPadApertures": "False",
+                    "FilmDomain": [
+                        "IPC2581",
+                        "PDF",
+                        "Visibility"
+                    ],
+                    "FullContact": "False",
+                    "IPC2581LayerType": "Documentation",
+                    "Mirrored": "False",
+                    "Rotation": "0",
+                    "ShapeBoundingBox": "100.0000",
+                    "SuppressShapeFill": "False",
+                    "SuppressUnconnectPads": "False",
+                    "UndefineLineWidth": "6.0000",
+                    "UseApertureRotation": "False",
+                    "VectorBasedPad": "True",
+                    "XOffset": "0.00",
+                    "YOffset": "0.00"
+                },
+                "name": "Assembly Drawing Views"
+            }
+        ],
+        "ConfigVersion": 1,
+        "CreateArchive": "True",
+        "ExportGroup": [
+            {
+                "ExportItem": [
+                    {
+                        "ExportSettings": {
+                            "CreateArchive": "False",
+                            "FunctionLevel": "3",
+                            "FunctionalMode": "FABRICATION",
+                            "PinOrientation": "OTHER",
+                            "Units": "Millimeter",
+                            "VectorizedText": "True",
+                            "Version": "IPC2581-B"
+                        },
+                        "name": "IPC2581 Database (Fabrication)"
+                    },
+                    {
+                        "ExportSettings": {
+                            "BlackAndWhite": "False",
+                            "DocumentOpenPassword": "",
+                            "FilledPads": "False",
+                            "FilledShapes": "False",
+                            "FilterDrawingOrigin": "False",
+                            "FilterHeader": "False",
+                            "FilterHoles": "False",
+                            "FilterTraces": "False",
+                            "MetaCline": "False",
+                            "MetaCompTree": "True",
+                            "MetaNetTree": "True",
+                            "MetaPin": "False",
+                            "MetaShape": "False",
+                            "MetaTestpointTree": "True",
+                            "MetaVia": "False",
+                            "OutlineExport": "True",
+                            "PermissionsPassword": "",
+                            "Security": "False",
+                            "SeparatePDF": "False"
+                        },
+                        "name": "Fabrication Drill View PDFs"
+                    }
+                ],
+                "exportStatus": "False",
+                "name": "Fabrication_IPC2581"
+            },
+            {
+                "ExportItem": [
+                    {
+                        "ExportSettings": {
+                            "ContinueUndefAperture": "False",
+                            "DecimalPlaces": 5,
+                            "ExportedFilm": [
+                                "External Conductor",
+                                "Internal Conductor",
+                                "Internal Plane",
+                                "Internal Negative Plane",
+                                "Silkscreen",
+                                "Soldermask",
+                                "Solderpaste",
+                                "Fabrication Drill Views",
+                                "Assembly Drawing Views"
+                            ],
+                            "FilmPrefix": "",
+                            "FilmSuffix": "",
+                            "IntegerPlaces": 3,
+                            "OutputFormat": "Gerber RS274X",
+                            "Scale": "1",
+                            "SizeLimitX": "24.00000",
+                            "SizeLimitY": "16.00000",
+                            "SuppressEqualCoords": "True",
+                            "SuppressLeadingZeroes": "True",
+                            "SuppressTrailingZeroes": "False",
+                            "Units": "MM"
+                        },
+                        "name": "Artwork"
+                    },
+                    {
+                        "ExportSettings": {
+                            "Coordinates": "Absolute",
+                            "DrillingBy": "LayerPair",
+                            "EnhancedExcellonFormat": "True",
+                            "IncludeBackdrill": "True",
+                            "IncludeCounterdrill": "True",
+                            "OptimizeDrillHeadTravel": "True",
+                            "OutputUnits": "English",
+                            "RepeatCodes": "True",
+                            "RouteFeedrate": "",
+                            "SeparatePlatedNonplated": "False",
+                            "SuppressEqualCoords": "True",
+                            "SuppressLeadingZeroes": "True",
+                            "SuppressTrailingZeroes": "False",
+                            "ToolSequence": "Increasing",
+                            "XOffset": "0.00",
+                            "YOffset": "0.00"
+                        },
+                        "name": "NC Drill - NC Route"
+                    },
+                    {
+                        "ExportSettings": {
+                            "BoardTitle": "",
+                            "HeaderFile": "",
+                            "IDNumber": "",
+                            "IgnoreBackdrill": "True",
+                            "IgnoreDieLayers": "False",
+                            "Revision": "",
+                            "Version": "IPC-D-356"
+                        },
+                        "name": "IPC-D-356 Netlist"
+                    },
+                    {
+                        "ExportSettings": {
+                        },
+                        "name": "Backdrill Report"
+                    },
+                    {
+                        "ExportSettings": {
+                            "BlackAndWhite": "False",
+                            "DocumentOpenPassword": "",
+                            "FilledPads": "False",
+                            "FilledShapes": "False",
+                            "FilledTraces": "False",
+                            "FilterDrawingOrigin": "False",
+                            "FilterHeader": "False",
+                            "FilterHoles": "False",
+                            "MetaCline": "False",
+                            "MetaCompTree": "True",
+                            "MetaNetTree": "True",
+                            "MetaPin": "False",
+                            "MetaShape": "False",
+                            "MetaTestpointTree": "True",
+                            "MetaVia": "False",
+                            "OutlineExport": "True",
+                            "PermissionsPassword": "",
+                            "Security": "False",
+                            "SeparatePDF": "False"
+                        },
+                        "name": "Fabrication Drill View PDFs"
+                    },
+                    {
+                        "ExportSettings": {
+                            "BlackAndWhite": "False",
+                            "DocumentOpenPassword": "",
+                            "FilledPads": "False",
+                            "FilledShapes": "False",
+                            "FilledTraces": "False",
+                            "FilterDrawingOrigin": "False",
+                            "FilterHeader": "False",
+                            "FilterHoles": "False",
+                            "MetaCline": "False",
+                            "MetaCompTree": "True",
+                            "MetaNetTree": "True",
+                            "MetaPin": "False",
+                            "MetaShape": "False",
+                            "MetaTestpointTree": "True",
+                            "MetaVia": "False",
+                            "OutlineExport": "True",
+                            "PermissionsPassword": "",
+                            "Security": "False",
+                            "SeparatePDF": "False"
+                        },
+                        "name": "Artwork Film Record PDFs"
+                    }
+                ],
+                "exportStatus": "True",
+                "name": "Fabrication_Gerber"
+            },
+            {
+                "ExportItem": [
+                    {
+                        "ExportSettings": {
+                            "CreateArchive": "True",
+                            "DeleteExtractedFiles": "True",
+                            "KeepNetNames": "True",
+                            "MatrixFile": "",
+                            "ModelName": "odbJob",
+                            "ODBVersion": "ODB++ Version 8",
+                            "ReadDRC": "False",
+                            "ReadNONEData": "False",
+                            "ReadSQAData": "False",
+                            "RemoveEDA": "False",
+                            "SilkFillEnvVar": "False",
+                            "ThermalErrorEnvVar": "False",
+                            "ThermalModelFile": "",
+                            "ThermalModelName": "",
+                            "UseThermalModel": "False"
+                        },
+                        "name": "ODB++ Inside (odb_out)"
+                    },
+                    {
+                        "ExportSettings": {
+                            "BlackAndWhite": "False",
+                            "DocumentOpenPassword": "",
+                            "FilledPads": "False",
+                            "FilledShapes": "False",
+                            "FilledTraces": "False",
+                            "FilterDrawingOrigin": "False",
+                            "FilterHeader": "False",
+                            "FilterHoles": "False",
+                            "MetaCline": "False",
+                            "MetaCompTree": "True",
+                            "MetaNetTree": "True",
+                            "MetaPin": "False",
+                            "MetaShape": "False",
+                            "MetaTestpointTree": "True",
+                            "MetaVia": "False",
+                            "OutlineExport": "True",
+                            "PermissionsPassword": "",
+                            "Security": "False",
+                            "SeparatePDF": "False"
+                        },
+                        "name": "Fabrication Drill View PDFs"
+                    }
+                ],
+                "exportStatus": "False",
+                "name": "Fabrication_ODB++"
+            },
+            {
+                "ExportItem": [
+                    {
+                        "ExportSettings": {
+                            "CreateArchive": "False",
+                            "FunctionalLevel": "3",
+                            "FunctionalMode": "ASSEMBLY",
+                            "PinOrientation": "OTHER",
+                            "Units": "Millimeter",
+                            "VectorizedText": "True",
+                            "Version": "IPC2581-B"
+                        },
+                        "name": "IPC2581 Database (Assembly)"
+                    },
+                    {
+                        "ExportSettings": {
+                            "DecimalPlaces": 5,
+                            "ExportedFilm": [
+                                "Solderpaste"
+                            ],
+                            "FilmPrefix": "",
+                            "FilmSuffix": "",
+                            "IntegerPlaces": 3,
+                            "OutputFormat": "Gerber RS274X",
+                            "Scale": "1",
+                            "SizeLimitX": "24.00000",
+                            "SizeLimitY": "16.00000",
+                            "SuppressEqualCoords": "True",
+                            "SuppressLeadingZeroes": "True",
+                            "SuppressTrailingZeroes": "False",
+                            "Units": "MM"
+                        },
+                        "name": "Artwork"
+                    },
+                    {
+                        "ExportSettings": {
+                            "BlackAndWhite": "False",
+                            "FilledPads": "False",
+                            "FilledShapes": "False",
+                            "FilledTraces": "False",
+                            "FilterDrawingOrigin": "False",
+                            "FilterHeader": "False",
+                            "FilterHoles": "False",
+                            "MetaCline": "False",
+                            "MetaCompTree": "True",
+                            "MetaNetTree": "True",
+                            "MetaPin": "False",
+                            "MetaShape": "False",
+                            "MetaTestpointTree": "True",
+                            "MetaVia": "False",
+                            "OutlineExport": "True",
+                            "SeparatePDF": "False"
+                        },
+                        "name": "Assembly Drawing View PDFs"
+                    },
+                    {
+                        "ExportSettings": {
+                        },
+                        "name": "Fabmaster Extract File"
+                    },
+                    {
+                        "ExportSettings": {
+                        },
+                        "name": "BOM Report"
+                    },
+                    {
+                        "ExportSettings": {
+                        },
+                        "name": "Component Placement Report"
+                    },
+                    {
+                        "ExportSettings": {
+                        },
+                        "name": "Testpoint Report"
+                    },
+                    {
+                        "ExportSettings": {
+                        },
+                        "name": "Testpoint NC Data File"
+                    }
+                ],
+                "exportStatus": "False",
+                "name": "Assembly"
+            },
+            {
+                "ExportItem": [
+                    {
+                        "ExportSettings": {
+                        },
+                        "name": "Summary Report"
+                    },
+                    {
+                        "ExportSettings": {
+                        },
+                        "name": "Unconnected Pins Report"
+                    },
+                    {
+                        "ExportSettings": {
+                        },
+                        "name": "DRC Report"
+                    },
+                    {
+                        "ExportSettings": {
+                        },
+                        "name": "Etch Length Report"
+                    },
+                    {
+                        "ExportSettings": {
+                        },
+                        "name": "Database Diary Export"
+                    }
+                ],
+                "exportStatus": "False",
+                "name": "PCB Design Report"
+            },
+            {
+                "ExportItem": [
+                    {
+                        "ExportSettings": {
+                        },
+                        "name": "Livedoc Fabrication and Assembly PDF"
+                    }
+                ],
+                "exportStatus": "False",
+                "name": "Livedoc Fabrication and Assembly Documentation"
+            }
+        ],
+        "SoftwareVersion": 17.4
+    }
+}

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet type="text/xsl" href="file:///c:/cadence/spb_23.1/share/pcb/consmgr/VDD/report/treeview.xsl"?>
+<ConstraintDifferenceReport Path="file:///c:/cadence/spb_23.1/share/pcb/consmgr/VDD/report/rc" Type="Constraint Difference Report">
+
+  <RptSummary Col1="Layout" Col2="Schematic">
+    <Entry Name="Report time">Sun Sep  8 11:49:23 2024
+</Entry>
+    <Entry Name="Software version">23.1 (S006)</Entry>
+    <Entry Name="Layout">D:\Projects\HardwareDesign\NE555DevBoard\allegro\ne555devboard.brd</Entry>
+    <Entry Name="Schematic">D:\Projects\HardwareDesign\NE555DevBoard\allegro\pstcmdb.dat</Entry>
+    <Entry Name="Baseline File">None</Entry>
+    <Entry Name="Destination design updated">Yes</Entry>
+    <Entry Name="Update Mode">Merge (no deletions will be done)</Entry>
+    <Entry Name="Constraint Information">Electrical, NetClasses, Properties</Entry>
+    <Entry Name="White list">c:\cadence\spb_23.1\share\local\consmgr\cds_flow_config.txt - No valid filters found.</Entry>
+    <Entry Name="Objects with conflicts">0</Entry>
+  </RptSummary>
+
+  <Tree>
+    <Item Filter="0x5" Name="Summary" Ref="main-summary">
+      <Item Filter="0x0" Name="Designs [1]" Ref="4">
+        <Item Filter="0x0" Name="ne555devboard" Ref="1"/>
+      </Item>
+      <Item Filter="0x4" Name="Nets [2]" Ref="5">
+        <Item Filter="0x4" Name="0" Ref="2"/>
+        <Item Filter="0x4" Name="VCC" Ref="3"/>
+      </Item>
+    </Item>
+  </Tree>
+
+  <Summaries>
+    <MainSummary ID="main-summary">
+      <ChangedObject Filter="0x0" Name="Designs" ObjNumber="1" Ref="4"/>
+      <ChangedObject Filter="0x4" Name="Nets" ObjNumber="2" Ref="5"/>
+    </MainSummary>
+    <GroupSummary ID="4" Name="Designs">
+      <ChangedObject Attributes="0" Child="0" Filter="0x0" Membership="0" Name="ne555devboard" Notes="1" Other="0" Ref="1" Reference="0"/>
+    </GroupSummary>
+    <ObjectSummary ID="1" Kind="Design" Name="ne555devboard">
+      <Notes Filter="0x0" Type="Notes">
+        <Note Text="Schematic supports creating XNets for passive devices and for devices having XNET_PINS properties but the Layout will create XNets using DML Models. Updating the Layout to match the behaviour in the Schematic" Type="Warning"/>
+      </Notes>
+    </ObjectSummary>
+    <GroupSummary ID="5" Name="Nets">
+      <ChangedObject Attributes="1" Child="0" Filter="0x4" Membership="0" Name="0" Notes="0" Other="0" Ref="2" Reference="0"/>
+      <ChangedObject Attributes="1" Child="0" Filter="0x4" Membership="0" Name="VCC" Notes="0" Other="0" Ref="3" Reference="0"/>
+    </GroupSummary>
+    <ObjectSummary ID="2" Kind="Net" Name="0">
+      <Attributes Filter="0x4" Type="Attributes">
+        <Attribute Filter="0x4" Name="VOLTAGE" Status="Add" Taken="Src" Type="Scalar">
+          <Value>
+            <Dst></Dst>
+            <Src>0V</Src>
+            <Base></Base>
+          </Value>
+        </Attribute>
+      </Attributes>
+    </ObjectSummary>
+    <ObjectSummary ID="3" Kind="Net" Name="VCC">
+      <Attributes Filter="0x4" Type="Attributes">
+        <Attribute Filter="0x4" Name="VOLTAGE" Status="Add" Taken="Src" Type="Scalar">
+          <Value>
+            <Dst></Dst>
+            <Src>1.5V</Src>
+            <Base></Base>
+          </Value>
+        </Attribute>
+      </Attributes>
+    </ObjectSummary>
+  </Summaries>
+
+  <Notes>
+    <Note Ref="1" Text="Schematic supports creating XNets for passive devices and for devices having XNET_PINS properties but the Layout will create XNets using DML Models. Updating the Layout to match the behaviour in the Schematic (Design ne555devboard)" Type="Warning"/>
+  </Notes>
+
+  <Layers>
+    <Layer Name="TOP" Type="Conductor"/>
+    <Layer Name="BOTTOM" Type="Conductor"/>
+  </Layers>
+
+  <GenericLayers>
+    <Layer Name="Conductor"/>
+  </GenericLayers>
+
+</ConstraintDifferenceReport>

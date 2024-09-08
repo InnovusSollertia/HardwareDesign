@@ -1,0 +1,50 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : ultima_new.brd                                )
+(    Software Version : 23.1S006                                      )
+(    Date/Time        : Sun Sep  8 10:58:25 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR: in SYMBOL DEFINITION name = 1490801801
+  ERROR(SPMHDB-224): Symbol definition has no instances.
+   Error was fixed.
+
+ERROR: in SYMBOL DEFINITION name = HDRV6W64P254_2X3_762X502X838P
+  ERROR(SPMHDB-224): Symbol definition has no instances.
+   Error was fixed.
+
+ERROR: in SYMBOL DEFINITION name = 87832-1420
+  ERROR(SPMHDB-224): Symbol definition has no instances.
+   Error was fixed.
+
+ERROR: in SYMBOL DEFINITION name = SOP65P640X120-8N
+  ERROR(SPMHDB-224): Symbol definition has no instances.
+   Error was fixed.
+
+ERROR: in SYMBOL DEFINITION name = SOT95P280X145-6N
+  ERROR(SPMHDB-224): Symbol definition has no instances.
+   Error was fixed.
+
+ERROR: in SYMBOL DEFINITION name = LEDC1608X60N
+  ERROR(SPMHDB-224): Symbol definition has no instances.
+   Error was fixed.
+
+ERROR: in SYMBOL DEFINITION name = SOT95P240X110-3N
+  ERROR(SPMHDB-224): Symbol definition has no instances.
+   Error was fixed.
+
+ERROR: in SYMBOL DEFINITION name = W2A4YC104KAT2A
+  ERROR(SPMHDB-224): Symbol definition has no instances.
+   Error was fixed.
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:01
+
+0 warnings, 8 errors detected, 8 errors  fixed.

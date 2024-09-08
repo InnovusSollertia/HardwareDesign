@@ -1,0 +1,51 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    SINGLE EXPORTS                                                   )
+(                                                                     )
+(    Drawing          : ne555devboard.brd                             )
+(    Software Version : 23.1S006                                      )
+(    Date/Time        : Sun Sep  8 12:13:01 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Current film records are deleted and saved as an attachment to the design.
+
+Creating new film records in the design as per configuration file
+	TOP
+	BOTTOM
+	NCLEGEND-1-2
+	SSTP
+	SSBT
+	SMTP
+	SMBT
+	SPTP
+	SPBT
+	ASSYTP
+	ASSYBT
+
+Processing group :Fabrication_Gerber
+
+	Executing command :Artwork
+		Successfully generated outputs
+
+	Executing command :NC Drill - NC Route
+		Successfully generated outputs
+
+	Executing command :IPC-D-356 Netlist
+		Successfully generated outputs
+
+	Executing command :Backdrill Report
+		Successfully generated outputs
+
+	Executing command :Fabrication Drill View PDFs
+		Successfully generated outputs
+
+	Executing command :Artwork Film Record PDFs
+		Successfully generated outputs
+
+All outputs for export group Fabrication_Gerber are added to ne555devboard_Fabrication_Gerber.zip
+
+
+Configuration data is saved as an attachment to the design
