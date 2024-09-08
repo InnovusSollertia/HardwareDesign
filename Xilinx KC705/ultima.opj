@@ -1,6 +1,6 @@
 (ExpressProject "ultima"
   (ProjectVersion "19981106")
-  (SoftwareVersion "23.1 S006 (4221051)  [7/26/2024]-[08/25/24]")
+  (SoftwareVersion "23.1 S006 (4221051)  [7/26/2024]-[09/06/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -142,6 +142,26 @@
       (Type "Log File")
       (LogFile "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\allegro\eco.txt")))
   (PartMRUSelector
+    (TPB11CGPC004
+      (FullPartName "TPB11CGPC004.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\SWITCHES. PUSHBUTTON\TPB11CGPC004.OLB")
+      (DeviceIndex "0"))
+    (SDA05H1SBD
+      (FullPartName "SDA05H1SBD.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\SWITCHES. DIP\(DIP) SDA05H1SBD\SDA05H1SBD.OLB")
+      (DeviceIndex "0"))
+    (SM0603GCL
+      (FullPartName "SM0603GCL.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\SEMICONDUCTORS. LED\(0603, GREEN) SM0603GCL\SM0603GCL.OLB")
+      (DeviceIndex "0"))
+    (08-0625-70
+      (FullPartName "08-0625-70.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\CONNECTORS. PIN HEADERS\(1X8, 2.54MM, OPEN, HEADER MALE) 08-0625-70\08-0625-70.OLB")
+      (DeviceIndex "0"))
     (TXB0108PWR
       (FullPartName "TXB0108PWR.Normal")
       (LibraryName
@@ -176,11 +196,6 @@
       (FullPartName "CP2103-GM.Normal")
       (LibraryName
          "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. IO AND INTERFACE EXPANDER\(MLP-28) CP2103-GM\CP2103-GM.OLB")
-      (DeviceIndex "0"))
-    (SDA05H1SBD
-      (FullPartName "SDA05H1SBD.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\SWITCHES. DIP\(DIP) SDA05H1SBD\SDA05H1SBD.OLB")
       (DeviceIndex "0"))
     (M24C08-WDW6TP
       (FullPartName "M24C08-WDW6TP.Normal")
@@ -251,48 +266,34 @@
       (FullPartName "AX3HAF1-114.0000T.Normal")
       (LibraryName
          "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. CLOCK GENERATOR\(SMD-6) AX3HAF1-114.0000T\AX3HAF1-114.0000T.OLB")
-      (DeviceIndex "0"))
-    (XLH53V010.000000I
-      (FullPartName "XLH53V010.000000I.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. CLOCK GENERATOR\(TSSOP-6) XLH53V010.000000I\XLH53V010.000000I.OLB")
-      (DeviceIndex "0"))
-    (SIT9102AI-243N25E200.00000X
-      (FullPartName "SIT9102AI-243N25E200.00000X.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. CLOCK GENERATOR\(TSSOP-8) SIT9102AI-243N25E200.00000X\SIT9102AI-243N25E200.00000X.OLB")
-      (DeviceIndex "0"))
-    (SI52112-B5-GT
-      (FullPartName "SI52112-B5-GT.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\OLD-LIBRARY\INTEGRAL CIRCUIT. CLOCK GENERATOR\(TSSOP-8) SI52112-B5-GT\SI52112-B5-GT.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn")
+         "d:\projects\hardwaredesign\xilinx kc705\ultima.dsn")
       (Path "Design Resources"
-         "d:\projects\hardwaredesign\pcb_ultima\ultima.dsn" "SCH001")
+         "d:\projects\hardwaredesign\xilinx kc705\ultima.dsn" "SCH001")
       (Path "Outputs")
-      (Select "Design Resources"))
+      (Select "Design Resources"
+         "d:\projects\hardwaredesign\xilinx kc705\ultima.dsn" "SCH001" "DEV1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 499"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 211 0 738"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 987 24 540")
-        (Scroll "423 1083")
-        (Zoom "64")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1333 24 756")
+        (Scroll "2157 5604")
+        (Zoom "200")
         (Occurrence "/"))
-      (Path "D:\PROJECTS\HARDWAREDESIGN\PCB_ULTIMA\ULTIMA.DSN")
+      (Path "D:\PROJECTS\HARDWAREDESIGN\XILINX KC705\ULTIMA.DSN")
       (Schematic "SCH001")
       (Page "DEV1")))
   (MPSSessionName "Prometheus")
   (LastUsedLibraryBrowseDirectory
-     "D:\Projects\CadenceAllegro\Old-library\Integral Circuit. Voltage Levels\(TSSOP-20) TXB0108PWR")
+     "D:\Projects\CadenceAllegro\Old-library\Switches. Pushbutton")
   (ISPCBBASICLICENSE "false"))

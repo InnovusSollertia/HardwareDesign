@@ -3,9 +3,11 @@
 (    GenFeed                                                          )
 (                                                                     )
 (    Software Version : 23.1S006                                      )
-(    Date/Time        : Fri Sep  6 17:31:00 2024                      )
+(    Date/Time        : Fri Sep  6 18:10:33 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Error: Can't find Allegro design 'd:/projects/hardwaredesign/xilinx kc705/allegro/ultima_ne.brd'.
+Extract file used: c:/cadence/spb_23.1/share/pcb/text/views/pxlBA-rfpcb.txt
+
+SUMMARY: No errors or warnings detected.

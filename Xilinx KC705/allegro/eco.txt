@@ -2,10 +2,401 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  D:/Projects/HardwareDesign/PCB_Ultima/allegro/ultima_new.brd                |
-|                                                    Sat Aug 24 20:54:30 2024  |
+|  D:/Projects/HardwareDesign/Xilinx KC705/allegro/ultima_new.brd              |
+|                                                    Fri Sep  6 18:10:38 2024  |
 |------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  CPU_RESET    pins ADDED TO this existing net (pins not previously on any net)
+                                 R114.2                         
+                                 S8.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FPGA_DONE    pins ADDED TO this existing net (pins not previously on any net)
+                                 LED11.2                        
+                                 R102.1                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FPGA_PROG_B  pins ADDED TO this existing net (pins not previously on any net)
+                                 R112.2                         
+                                 S9.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 J30.2                          
+                                 J30.4                          
+                                 J30.7                          
+                                 R91.1                          
+                                 R92.1                          
+                                 R93.1                          
+                                 R94.1                          
+                                 R95.1                          
+                                 R96.1                          
+                                 R97.1                          
+                                 R98.1                          
+                                 R99.1                          
+                                 R100.1                         
+                                 R101.1                         
+                                 R103.1                         
+                                 R104.1                         
+                                 R105.1                         
+                                 R106.1                         
+                                 R107.1                         
+                                 R108.1                         
+                                 R109.1                         
+                                 R110.1                         
+                                 R111.1                         
+                                 R113.1                         
+                                 R114.1                         
+                                 S2.B1                          
+                                 S2.B2                          
+                                 S2.B3                          
+                                 S2.B4                          
+                                 S9.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_DIP_SW0 pins ADDED TO this existing net (pins not previously on any net)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/Xilinx KC705/allegro/ultima_new.brd              |
+|                                                    Fri Sep  6 18:10:38 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 S2.A4                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_DIP_SW1 pins ADDED TO this existing net (pins not previously on any net)
+                                 R107.2                         
+                                 R108.2                         
+                                 S2.A3                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_DIP_SW2 pins ADDED TO this existing net (pins not previously on any net)
+                                 R106.2                         
+                                 S2.A2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_DIP_SW3 pins ADDED TO this existing net (pins not previously on any net)
+                                 R105.2                         
+                                 S2.A1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_LED_0   pins ADDED TO this new net
+                                 LED10.2                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_LED_1   pins ADDED TO this new net
+                                 LED9.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_LED_2   pins ADDED TO this new net
+                                 LED8.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_LED_3   pins ADDED TO this new net
+                                 LED7.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_LED_4   pins ADDED TO this new net
+                                 LED6.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_LED_5   pins ADDED TO this new net
+                                 LED5.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_LED_6   pins ADDED TO this new net
+                                 LED4.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_LED_7   pins ADDED TO this new net
+                                 LED3.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_SW_C    pins ADDED TO this existing net (pins not previously on any net)
+                                 R110.2                         
+                                 S5.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_SW_E    pins ADDED TO this existing net (pins not previously on any net)
+                                 R111.2                         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/Xilinx KC705/allegro/ultima_new.brd              |
+|                                                    Fri Sep  6 18:10:38 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 S6.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_SW_N    pins ADDED TO this existing net (pins not previously on any net)
+                                 R103.2                         
+                                 S3.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_SW_S    pins ADDED TO this existing net (pins not previously on any net)
+                                 R113.2                         
+                                 S7.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_SW_W    pins ADDED TO this existing net (pins not previously on any net)
+                                 R104.2                         
+                                 S4.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N1816219     pins ADDED TO this new net
+                                 LED3.1                         
+                                 R94.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N1816223     pins ADDED TO this new net
+                                 LED4.1                         
+                                 R95.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N1816227     pins ADDED TO this new net
+                                 LED5.1                         
+                                 R96.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N1816231     pins ADDED TO this new net
+                                 LED6.1                         
+                                 R97.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N1816235     pins ADDED TO this new net
+                                 LED7.1                         
+                                 R98.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N1816239     pins ADDED TO this new net
+                                 LED8.1                         
+                                 R99.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N1816243     pins ADDED TO this new net
+                                 LED9.1                         
+                                 R100.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N1816247     pins ADDED TO this new net
+                                 LED10.1                        
+                                 R101.2                         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/Xilinx KC705/allegro/ultima_new.brd              |
+|                                                    Fri Sep  6 18:10:38 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N1858025     pins ADDED TO this new net
+                                 LED11.1                        
+                                 R109.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ROTARY_INCA  pins ADDED TO this existing net (pins not previously on any net)
+                                 J30.1                          
+                                 R91.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ROTARY_INCB  pins ADDED TO this existing net (pins not previously on any net)
+                                 J30.6                          
+                                 R93.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ROTARY_PUSH  pins ADDED TO this existing net (pins not previously on any net)
+                                 J30.3                          
+                                 J30.5                          
+                                 R92.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC1V5_FPGA  pins ADDED TO this existing net (pins not previously on any net)
+                                 S3.2                           
+                                 S4.2                           
+                                 S5.2                           
+                                 S6.2                           
+                                 S7.2                           
+                                 S8.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC2V5       pins ADDED TO this existing net (pins not previously on any net)
+                                 R102.2                         
+                                 R112.1                         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/Xilinx KC705/allegro/ultima_new.brd              |
+|                                                    Fri Sep  6 18:10:38 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 08-0625-70_HDRV8W51P0X254_1X8_2032X254X816P_08-0625-70
+ ERA-3AEB80R6V_ERA3AEB101V_4.7K
+ PCF0603R-1K0BT1_RESC1608X55N_27.4
+ PCF0603R-1K0BT1_RESC1608X55N_49.9
+ PCF0603R-1K0BT1_RESC1608X55N_330
+ TPB11CGPC004_TPB11CGPC004_TPB11CGPC004
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/Xilinx KC705/allegro/ultima_new.brd              |
+|                                                    Fri Sep  6 18:10:38 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J30                 08-0625-70_HDRV8W51P0X254_1X8_2032X254X816P_08-0625-70 
+ LED3                SM0603GCL_LEDC1608X60N_SM0603GCL 
+ LED4                SM0603GCL_LEDC1608X60N_SM0603GCL 
+ LED5                SM0603GCL_LEDC1608X60N_SM0603GCL 
+ LED6                SM0603GCL_LEDC1608X60N_SM0603GCL 
+ LED7                SM0603GCL_LEDC1608X60N_SM0603GCL 
+ LED8                SM0603GCL_LEDC1608X60N_SM0603GCL 
+ LED9                SM0603GCL_LEDC1608X60N_SM0603GCL 
+ LED10               SM0603GCL_LEDC1608X60N_SM0603GCL 
+ LED11               SM0603GCL_LEDC1608X60N_SM0603GCL 
+ R91                 PCF0603R-1K0BT1_RESC1608X55N_4.7K 
+ R92                 PCF0603R-1K0BT1_RESC1608X55N_4.7K 
+ R93                 PCF0603R-1K0BT1_RESC1608X55N_4.7K 
+ R94                 PCF0603R-1K0BT1_RESC1608X55N_49.9 
+ R95                 PCF0603R-1K0BT1_RESC1608X55N_49.9 
+ R96                 PCF0603R-1K0BT1_RESC1608X55N_49.9 
+ R97                 PCF0603R-1K0BT1_RESC1608X55N_49.9 
+ R98                 PCF0603R-1K0BT1_RESC1608X55N_49.9 
+ R99                 PCF0603R-1K0BT1_RESC1608X55N_49.9 
+ R100                PCF0603R-1K0BT1_RESC1608X55N_49.9 
+ R101                PCF0603R-1K0BT1_RESC1608X55N_49.9 
+ R102                PCF0603R-1K0BT1_RESC1608X55N_330 
+ R103                ERA-3AEB80R6V_ERA3AEB101V_4.7K 
+ R104                ERA-3AEB80R6V_ERA3AEB101V_4.7K 
+ R105                PCF0603R-1K0BT1_RESC1608X55N_4.7K 
+ R106                PCF0603R-1K0BT1_RESC1608X55N_4.7K 
+ R107                PCF0603R-1K0BT1_RESC1608X55N_4.7K 
+ R108                PCF0603R-1K0BT1_RESC1608X55N_4.7K 
+ R109                PCF0603R-1K0BT1_RESC1608X55N_27.4 
+ R110                ERA-3AEB80R6V_ERA3AEB101V_4.7K 
+ R111                ERA-3AEB80R6V_ERA3AEB101V_4.7K 
+ R112                ERA-3AEB80R6V_ERA3AEB101V_4.7K 
+ R113                ERA-3AEB80R6V_ERA3AEB101V_4.7K 
+ R114                ERA-3AEB80R6V_ERA3AEB101V_4.7K 
+ S2                  SDA05H1SBD_SDA05H1SBD_SDA05H1SBD 
+ S3                  TPB11CGPC004_TPB11CGPC004_TPB11CGPC004 
+ S4                  TPB11CGPC004_TPB11CGPC004_TPB11CGPC004 
+ S5                  TPB11CGPC004_TPB11CGPC004_TPB11CGPC004 
+ S6                  TPB11CGPC004_TPB11CGPC004_TPB11CGPC004 
+ S7                  TPB11CGPC004_TPB11CGPC004_TPB11CGPC004 
+ S8                  TPB11CGPC004_TPB11CGPC004_TPB11CGPC004 
+ S9                  TPB11CGPC004_TPB11CGPC004_TPB11CGPC004 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/Xilinx KC705/allegro/ultima_new.brd              |
+|                                                    Fri Sep  6 18:10:38 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J30.8                          PRIM_FILE      .\pstchip.dat
+ J30.8                          XY             (1100,2260)
+ LED3.1                         PRIM_FILE      .\pstchip.dat
+ LED3.1                         XY             (1510,2350)
+ LED4.1                         PRIM_FILE      .\pstchip.dat
+ LED4.1                         XY             (1550,2350)
+ LED5.1                         PRIM_FILE      .\pstchip.dat
+ LED5.1                         XY             (1590,2350)
+ LED6.1                         PRIM_FILE      .\pstchip.dat
+ LED6.1                         XY             (1630,2350)
+ LED7.1                         PRIM_FILE      .\pstchip.dat
+ LED7.1                         XY             (1670,2350)
+ LED8.1                         PRIM_FILE      .\pstchip.dat
+ LED8.1                         XY             (1710,2350)
+ LED9.1                         PRIM_FILE      .\pstchip.dat
+ LED9.1                         XY             (1750,2350)
+ LED10.1                        PRIM_FILE      .\pstchip.dat
+ LED10.1                        XY             (1790,2350)
+ LED11.1                        PRIM_FILE      .\pstchip.dat
+ LED11.1                        XY             (1150,2590)
+ R91.2                          PRIM_FILE      .\pstchip.dat
+ R91.2                          XY             (1205,2370)
+ R92.2                          PRIM_FILE      .\pstchip.dat
+ R92.2                          XY             (1255,2370)
+ R93.2                          PRIM_FILE      .\pstchip.dat
+ R93.2                          XY             (1305,2370)
+ R94.2                          PRIM_FILE      .\pstchip.dat
+ R94.2                          XY             (1525,2430)
+ R95.2                          PRIM_FILE      .\pstchip.dat
+ R95.2                          XY             (1565,2430)
+ R96.2                          PRIM_FILE      .\pstchip.dat
+ R96.2                          XY             (1605,2430)
+ R97.2                          PRIM_FILE      .\pstchip.dat
+ R97.2                          XY             (1645,2430)
+ R98.2                          PRIM_FILE      .\pstchip.dat
+ R98.2                          XY             (1685,2430)
+ R99.2                          PRIM_FILE      .\pstchip.dat
+ R99.2                          XY             (1725,2430)
+ R100.2                         PRIM_FILE      .\pstchip.dat
+ R100.2                         XY             (1765,2430)
+ R101.2                         PRIM_FILE      .\pstchip.dat
+ R101.2                         XY             (1805,2430)
+ R102.2                         PRIM_FILE      .\pstchip.dat
+ R102.2                         XY             (1165,2510)
+ R103.2                         PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/Xilinx KC705/allegro/ultima_new.brd              |
+|                                                    Fri Sep  6 18:10:38 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R103.2                         XY             (1690,2555)
+ R104.2                         PRIM_FILE      .\pstchip.dat
+ R104.2                         XY             (1690,2615)
+ R105.2                         PRIM_FILE      .\pstchip.dat
+ R105.2                         XY             (1285,2630)
+ R106.2                         PRIM_FILE      .\pstchip.dat
+ R106.2                         XY             (1325,2630)
+ R107.2                         PRIM_FILE      .\pstchip.dat
+ R107.2                         XY             (1365,2630)
+ R108.2                         PRIM_FILE      .\pstchip.dat
+ R108.2                         XY             (1405,2630)
+ R109.2                         PRIM_FILE      .\pstchip.dat
+ R109.2                         XY             (1165,2670)
+ R110.2                         PRIM_FILE      .\pstchip.dat
+ R110.2                         XY             (1690,2675)
+ R111.2                         PRIM_FILE      .\pstchip.dat
+ R111.2                         XY             (1690,2735)
+ R112.2                         PRIM_FILE      .\pstchip.dat
+ R112.2                         XY             (1490,2765)
+ R113.2                         PRIM_FILE      .\pstchip.dat
+ R113.2                         XY             (1290,2795)
+ R114.2                         PRIM_FILE      .\pstchip.dat
+ R114.2                         XY             (1690,2795)
+ S2.B5                          PRIM_FILE      .\pstchip.dat
+ S2.B5                          XY             (1450,2550)
+ S3.2                           PRIM_FILE      .\pstchip.dat
+ S3.2                           XY             (1780,2540)
+ S4.2                           PRIM_FILE      .\pstchip.dat
+ S4.2                           XY             (1780,2600)
+ S5.2                           PRIM_FILE      .\pstchip.dat
+ S5.2                           XY             (1780,2660)
+ S6.2                           PRIM_FILE      .\pstchip.dat
+ S6.2                           XY             (1780,2720)
+ S7.2                           PRIM_FILE      .\pstchip.dat
+ S7.2                           XY             (1380,2780)
+ S8.2                           PRIM_FILE      .\pstchip.dat
+ S8.2                           XY             (1780,2780)
+ S9.2                           PRIM_FILE      .\pstchip.dat
+ S9.2                           XY             (1580,2780)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/Xilinx KC705/allegro/ultima_new.brd              |
+|                                                    Fri Sep  6 18:10:38 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      95                                        |
+|       Comp definitions added:       6                                        |
+|       Components added      :      42                                        |
+|       Slot property added   :      84                                        |
 |                                                                              |
-|   Total ECO changes reported:       0                                        |
+|   Total ECO changes reported:     227                                        |
 |------------------------------------------------------------------------------|

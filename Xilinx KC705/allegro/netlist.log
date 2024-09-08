@@ -1,12 +1,14 @@
-{ Using PSTWRITER 23.1.0 d001Sep-06-2024 at 17:30:58 }
+{ Using PSTWRITER 23.1.0 d001Sep-06-2024 at 18:07:25 }
 
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "IC11.12" ignored for IC11: SCH001, DEV1 (360.68, 528.32). Connecting pin to net "B8".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "J30.7" ignored for J30: SCH001, DEV1 (279.40, 574.04). Connecting pin to net "GND".
 INFO(ORCAP-36080): Scanning netlist files ...
 
-Loading... d:\projects\hardwaredesign\xilinx kc705\allegro\pstchip.dat
+Loading... D:\PROJECTS\HARDWAREDESIGN\XILINX KC705\allegro\pstchip.dat
 
-Loading... d:\projects\hardwaredesign\xilinx kc705\allegro\pstchip.dat
+Loading... D:\PROJECTS\HARDWAREDESIGN\XILINX KC705\allegro\pstchip.dat
 
-Loading... d:\projects\hardwaredesign\xilinx kc705\allegro\pstxprt.dat
+Loading... D:\PROJECTS\HARDWAREDESIGN\XILINX KC705\allegro\pstxprt.dat
 
-Loading... d:\projects\hardwaredesign\xilinx kc705\allegro\pstxnet.dat
+Loading... D:\PROJECTS\HARDWAREDESIGN\XILINX KC705\allegro\pstxnet.dat
 packaging the design view...
