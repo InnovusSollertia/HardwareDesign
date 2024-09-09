@@ -1,25 +1,222 @@
-\t (00:00:01) allegro 23.1 S006 (4217799) Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Sun Sep  8 11:48:57 2024
-\t (00:00:01)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=7688 CPUs=12
-\t (00:00:01) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe -mpssession Prometheus -proj D:\Projects\HardwareDesign\NE555DevBoard\NE555DevBoard.opj D:\Projects\HardwareDesign\NE555DevBoard\allegro\ne555devboard.brd
-\t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ne555devboard
-\d (00:00:04) Design opened: D:/Projects/HardwareDesign/NE555DevBoard/allegro/ne555devboard.brd
-\i (00:00:04) trapsize 37014
-\i (00:00:04) trapsize 42036
-\i (00:00:04) trapsize 43731
-\i (00:00:04) trapsize 80153
-\i (00:00:04) setwindow form.mini
-\i (00:00:04) FORM mini tree  'Components by refdes' 
-\i (00:00:04) setwindow pcb
-\i (00:00:04) trapsize 80153
-\t (00:00:04) > Sending response DoneOpenBoard
-\t (00:00:04) Loading NV GPU Plugin
-\i (00:00:04) trapsize 9572
-\i (00:00:05) placementedit 
-\i (00:00:09) exit 
-\e (00:00:09) Do you want to save the changes you made to ne555devboard.brd?
-\i (00:00:10) fillin yes 
-\t (00:00:11)     Journal end - Sun Sep  8 11:49:07 2024
+\t (00:00:03) allegro 23.1 S006 (4217799) Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sun Sep  8 13:41:46 2024
+\t (00:00:03)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=9956 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ne555devboard
+\d (00:00:06) Design opened: D:/Projects/HardwareDesign/NE555DevBoard/allegro/ne555devboard.brd
+\i (00:00:07) trapsize 7108
+\i (00:00:07) trapsize 8072
+\i (00:00:07) trapsize 8398
+\i (00:00:07) trapsize 15898
+\i (00:00:07) trapsize 15898
+\t (00:00:07) > Sending response DoneOpenBoard
+\t (00:00:07) Loading NV GPU Plugin
+\i (00:00:07) trapsize 1838
+\i (00:00:08) generaledit 
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 167.8566 255.8071
+\i (00:00:10) trapsize 3676
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 167.7830 255.5865
+\i (00:00:10) trapsize 7353
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 167.7831 255.5865
+\i (00:00:10) trapsize 14705
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 199.9889 255.5865
+\i (00:00:11) trapsize 24313
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 197.9083 292.2430
+\i (00:00:14) trapsize 12157
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 197.9084 292.2430
+\i (00:00:15) trapsize 6078
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 197.9084 292.2431
+\i (00:00:15) trapsize 3039
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 191.4655 291.5137
+\i (00:00:15) trapsize 1520
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 191.4351 291.5441
+\i (00:00:15) trapsize 760
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 191.4350 291.5442
+\i (00:00:16) trapsize 380
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 191.4351 291.5443
+\i (00:00:16) trapsize 760
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 191.4350 291.5442
+\i (00:00:16) trapsize 1520
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 191.4351 291.5442
+\i (00:00:16) trapsize 3039
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 191.4350 291.5443
+\i (00:00:16) trapsize 6078
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 191.4350 291.5443
+\i (00:00:16) trapsize 12157
+\i (00:00:17) drag_start grid 134.7851 321.6927
+\i (00:00:17) drag_stop 184.6273 247.0509
+\i (00:00:19) pick grid 165.4198 245.5921
+\t (00:00:19) last pick:  165.4810 245.6180
+\i (00:00:19) drag_start grid 356.2790 311.9674
+\i (00:00:20) drag_stop 335.6127 245.5921
+\i (00:00:20) prepopup 341.9342 254.5880
+\i (00:00:22) pop dyn_option_select @:@Delete 
+\i (00:00:22) delete 
+\i (00:00:22) generaledit 
+\i (00:00:23) drag_start grid 143.2947 327.7710
+\i (00:00:24) drag_stop 354.8202 218.6044
+\i (00:00:24) prepopup 264.6180 272.5799
+\i (00:00:26) pick grid 216.2346 310.2654
+\t (00:00:26) last pick:  216.2810 310.2610
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 163.7179 308.0772
+\i (00:00:26) trapsize 6078
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 163.5964 303.4578
+\i (00:00:26) trapsize 3039
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 160.6788 301.0264
+\i (00:00:26) trapsize 1520
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 171.9541 298.5951
+\i (00:00:27) trapsize 3039
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 164.3562 299.0813
+\i (00:00:27) trapsize 6078
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 156.9407 300.2971
+\i (00:00:27) trapsize 12157
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 136.5175 304.9166
+\i (00:00:27) trapsize 6078
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 150.4976 302.1206
+\i (00:00:27) trapsize 3039
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 161.8033 295.7992
+\i (00:00:28) trapsize 1520
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 168.7934 305.0079
+\i (00:00:30) trapsize 760
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 168.1400 304.7192
+\i (00:00:30) trapsize 380
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 167.8969 304.6433
+\i (00:00:30) trapsize 190
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 167.5854 304.2520
+\i (00:00:31) trapsize 95
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 167.5664 304.1437
+\i (00:00:31) trapsize 190
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 167.5625 304.1248
+\i (00:00:31) trapsize 380
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 167.5473 304.0944
+\i (00:00:31) trapsize 760
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 167.4714 303.9729
+\i (00:00:31) trapsize 1520
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 166.9548 303.3954
+\i (00:00:32) trapsize 3039
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 166.7116 303.0916
+\i (00:00:32) trapsize 6079
+\i (00:00:32) zoom in 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 161.2410 301.6327
+\i (00:00:32) trapsize 3039
+\i (00:00:32) zoom in 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 161.2410 301.6327
+\i (00:00:32) trapsize 1520
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 161.2410 301.6024
+\i (00:00:33) trapsize 3039
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 161.2411 297.7729
+\i (00:00:33) trapsize 1520
+\i (00:00:37) pick grid 172.5168 303.4867
+\t (00:00:37) last pick:  172.4660 303.5300
+\i (00:00:38) drag_start grid 172.3040 304.3073
+\i (00:00:38) move 
+\t (00:00:38) last pick:  172.0850 305.8160
+\t (00:00:38) Pick new location for the element(s).
+\i (00:00:39) drag_stop grid 172.0001 306.7995
+\i (00:00:39) generaledit 
+\i (00:00:40) pick grid 176.3158 298.9886
+\t (00:00:40) last pick:  176.2760 298.9580
+\i (00:00:41) drag_start grid 172.3952 288.3513
+\i (00:00:42) drag_stop 171.5746 288.2297
+\i (00:00:43) drag_start grid 172.0305 288.8983
+\i (00:00:43) drag_stop 171.5746 288.6552
+\i (00:00:43) pick grid 172.0001 288.5336
+\t (00:00:43) last pick:  171.9580 288.5440
+\i (00:00:45) prepopup 172.0305 289.3846
+\i (00:00:46) move 
+\t (00:00:46) Select element(s) to move.
+\i (00:00:48) pick grid 171.8785 288.4424
+\t (00:00:48) last pick:  171.8310 288.4170
+\t (00:00:48) last pick:  171.8310 288.4170
+\t (00:00:48) Element has no origin, using pick.
+\t (00:00:48) Pick new location for the element(s).
+\i (00:00:52) pick grid 171.6354 288.2297
+\t (00:00:52) last pick:  171.5770 288.2900
+\i (00:00:53) pick grid 177.8658 296.4661
+\t (00:00:53) last pick:  177.9270 296.4180
+\i (00:01:01) odb_out 
+\i (00:01:07) fillin yes 
+   (00:01:07) Loading mfg.cxt 
+\i (00:34:11) odb_out 
+\i (00:34:14) fillin yes 
+\i (00:34:18) exit 
+\e (00:34:18) Do you want to save the changes you made to ne555devboard.brd?
+\i (00:34:19) fillin yes 
+\t (00:34:20)     Journal end - Sun Sep  8 14:16:03 2024

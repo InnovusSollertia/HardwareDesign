@@ -1,0 +1,39 @@
+H optimize N staggered N
+UNITS=MM
+$0 N00147
+$1 N00151
+$2 N00155
+$3 N00159
+$4 N00143
+$5 N00139
+$6 N00135
+$7 N00131
+$8 0
+$9 VCC
+$10 $NONE$
+#
+#Netlist points
+#
+0 0.55005 152.781 304.165 B e e staggered 0 0 0 
+0 0 158.699 300.216 T 0.8499 0.3 e e staggered 0 0 0 
+1 0.55005 152.781 301.625 B e e staggered 0 0 0 
+1 0 158.699 299.716 T 0.8499 0.3 e e staggered 0 0 0 
+2 0.55005 152.781 299.085 B e e staggered 0 0 0 
+2 0 158.699 299.216 T 0.8499 0.3 e e staggered 0 0 0 
+3 0.55005 152.781 296.545 B e e staggered 0 0 0 
+3 0 158.699 298.716 T 0.8499 0.3 e e staggered 0 0 0 
+4 0.55005 167.259 296.545 B e e staggered 0 0 0 
+4 0 161.849 298.716 T 0.8499 0.3 e e staggered 0 0 0 
+5 0.55005 167.259 299.085 B e e staggered 0 0 0 
+5 0 161.849 299.216 T 0.8499 0.3 e e staggered 0 0 0 
+6 0.55005 167.259 301.625 B e e staggered 0 0 0 
+6 0 161.849 299.716 T 0.8499 0.3 e e staggered 0 0 0 
+7 0.55005 167.259 304.165 B e e staggered 0 0 0 
+7 0 161.849 300.216 T 0.8499 0.3 e e staggered 0 0 0 
+8 0.55005 162.814 291.465 B e e staggered 0 0 0 
+8 0.55005 152.781 294.005 B e e staggered 0 0 0 
+8 0.55005 167.259 294.005 B e e staggered 0 0 0 
+9 0.55005 157.734 291.465 B e e staggered 0 0 0 
+9 0.55005 152.781 291.465 B e e staggered 0 0 0 
+9 0.55005 167.259 291.465 B e e staggered 0 0 0 
+10 0.55005 160.274 291.465 B e e staggered 0 0 0 

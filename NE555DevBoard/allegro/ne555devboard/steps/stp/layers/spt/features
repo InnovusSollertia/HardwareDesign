@@ -1,0 +1,35 @@
+UNITS=MM
+ID=29
+#
+#Num Features
+#
+F 8
+
+#
+#Feature symbol names
+#
+$0 rect849.9x300 M
+
+#
+#Feature attribute names
+#
+@0 .smd
+@1 .geometry
+@2 .pad_usage
+
+#
+#Feature attribute text strings
+#
+&0 R85_30
+
+#
+#Layer features
+#
+P 158.699 298.716 0 P 0 8 0;0,1=0,2=0;ID=621
+P 158.699 299.216 0 P 0 8 0;0,1=0,2=0;ID=627
+P 158.699 299.716 0 P 0 8 0;0,1=0,2=0;ID=639
+P 158.699 300.216 0 P 0 8 0;0,1=0,2=0;ID=651
+P 161.849 298.716 0 P 0 8 0;0,1=0,2=0;ID=661
+P 161.849 299.216 0 P 0 8 0;0,1=0,2=0;ID=664
+P 161.849 299.716 0 P 0 8 0;0,1=0,2=0;ID=679
+P 161.849 300.216 0 P 0 8 0;0,1=0,2=0;ID=689
