@@ -1,393 +1,126 @@
-\t (00:00:06) allegro 23.1 S006 (4217799) Windows SPB 64-bit Edition
-\t (00:00:06)     Journal start - Sun Sep  8 10:57:15 2024
-\t (00:00:06)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=2920 CPUs=12
-\t (00:00:06) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
-\t (00:00:06) 
-   (00:00:06) Loading axlcore.cxt 
-\t (00:00:07) Opening existing design...
-\w (00:00:07) WARNING(SPMHDB-213): DRC set to "out of date". The current product selection supports a different DRC capability than what is saved in the design.
-\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ultima_new"
-\d (00:00:07) Design opened: D:/Projects/HardwareDesign/Xilinx KC705/allegro/ultima_new.brd
-\i (00:00:08) trapsize 9195
-\i (00:00:08) trapsize 10442
-\i (00:00:08) trapsize 10863
-\i (00:00:08) trapsize 20359
-\i (00:00:08) setwindow form.mini
-\i (00:00:08) FORM mini tree  'Components by refdes' 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) trapsize 20359
-\t (00:00:08) Loading NV GPU Plugin
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
-\i (00:00:08) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
-\i (00:00:08) QtSignal 0 "|" "Board Outline  (1/6)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
-\i (00:00:08) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
-\i (00:00:08) QtSignal 1 "|" "Gloss (Window Area)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 1 "|" +
-\i (00:00:08) QtSignal QuickPlace
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
-\i (00:00:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 1 "|" +
-\i (00:00:08) QtSignal "Color Dialog"
-\i (00:00:08) trapsize 2431
-\i (00:00:09) placementedit 
-\i (00:01:03) file_property 
-\i (00:01:03) placementedit 
-\i (00:01:04) setwindow form.fileprop
-\i (00:01:04) FORM fileprop tiering  
-\i (00:01:05) FORM fileprop cancel  
-\i (00:01:14) setwindow pcb
-\i (00:01:14) dbdoctor 
-\i (00:01:16) setwindow form.dbdoctor_allegro
-\i (00:01:16) FORM dbdoctor_allegro drc YES 
-\i (00:01:16) FORM dbdoctor_allegro execute  
-\t (00:01:16) Dbdoctor in progress - wait...
-\t (00:01:16) Checking db records
-\t (00:01:16)     checking for orphans...
-\t (00:01:16)     Checked  21 percent
-\t (00:01:16)     Checked  42 percent
-\t (00:01:16)     Checked  63 percent
-\t (00:01:16)     Checked  84 percent
-\t (00:01:16)     Checked 100 percent
-\t (00:01:16) Regenerating DRC
-\t (00:01:16)   Original DRC errors: 0
-\t (00:01:17) Performing DRC...
-\t (00:01:17) Multithreaded DRC update (12 threads).
-\t (00:01:18) No DRC errors detected.
-\t (00:01:18)   Updated DRC errors:  0
-\t (00:01:18) Done dbdoctor.
-\t (00:01:18) Dbdoctor completed.
-\i (00:01:19) setwindow text
-\i (00:01:19) close
-\i (00:01:20) setwindow form.dbdoctor_allegro
-\i (00:01:20) FORM dbdoctor_allegro close  
-\i (00:01:20) setwindow pcb
-\i (00:01:20) placementedit 
-\i (00:01:49) plane generator 
-   (00:01:49) Loading signal.cxt 
-   (00:01:49) Loading apt.cxt 
-\i (00:01:59) setwindow form.dc_plane_generator2
-\i (00:01:59) FORM dc_plane_generator2 param_via YES 
-\i (00:02:00) FORM dc_plane_generator2 param_plane YES 
-   (00:02:00) Loading apt_utils.cxt 
-\i (00:02:01) FORM dc_plane_generator2 param_outline YES 
-\i (00:02:12) FORM dc_plane_generator2 cancel  
-\i (00:02:12) setwindow pcb
-\i (00:02:12) placementedit 
-\i (00:02:34) about 
-\i (00:02:41) ncdrill legend 
-   (00:02:42) Loading mfg.cxt 
-\i (00:02:44) setwindow form.nc_drilllegend
-\i (00:02:44) FORM nc_drilllegend total_drill YES 
-\i (00:02:45) FORM nc_drilllegend separate_slot YES 
-\i (00:02:45) FORM nc_drilllegend tool_size YES 
-\i (00:02:47) FORM nc_drilllegend counter_legends YES 
-\i (00:02:47) FORM nc_drilllegend cavity_legends YES 
-\i (00:02:48) FORM nc_drilllegend backdrill_legends YES 
-\i (00:02:51) FORM nc_drilllegend done  
+\t (00:00:10) allegro 23.1 S006 (4217799) Windows SPB 64-bit Edition
+\t (00:00:10)     Journal start - Mon Sep 16 16:20:50 2024
+\t (00:00:10)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=13380 CPUs=12
+\t (00:00:10) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
+\t (00:00:10) 
+   (00:00:11) Loading axlcore.cxt 
+\t (00:00:11) Opening existing design...
+\i (00:00:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ultima_new"
+\d (00:00:12) Design opened: D:/Projects/HardwareDesign/Xilinx KC705/allegro/ultima_new.brd
+\i (00:00:12) trapsize 9402
+\i (00:00:12) trapsize 10677
+\i (00:00:12) trapsize 11108
+\i (00:00:13) trapsize 20359
+\i (00:00:13) trapsize 20359
+\t (00:00:13) Loading NV GPU Plugin
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:00:13) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:00:13) QtSignal 0 "|" "Board Outline  (1/6)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
+\i (00:00:13) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
+\i (00:00:13) QtSignal 1 "|" "Gloss (Window Area)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 1 "|" +
+\i (00:00:13) QtSignal QuickPlace
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 1 "|" +
+\i (00:00:13) QtSignal "Color Dialog"
+\i (00:00:13) trapsize 2431
+\i (00:00:17) generaledit 
+\i (00:01:31) zoom in 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom in 176.513 316.070
+\i (00:01:31) trapsize 1216
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in 176.513 316.070
+\i (00:01:32) trapsize 608
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in 176.513 316.071
+\i (00:01:32) trapsize 304
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out 176.513 316.071
+\i (00:01:32) trapsize 608
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out 176.513 316.071
+\i (00:01:32) trapsize 1216
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out 176.514 316.070
+\i (00:01:32) trapsize 2431
+\i (00:02:54) zoom in 1 
 \i (00:02:54) setwindow pcb
-\i (00:02:54) pick grid 53.975 66.132
-\t (00:02:54) last pick:  54.000 66.000
-\t (00:02:54) NC Drill Legend generation successful
-\i (00:02:54) placementedit 
-\i (00:03:01) zoom in 1 
-\i (00:03:01) setwindow pcb
-\i (00:03:01) zoom in 114.271 21.882
-\i (00:03:01) trapsize 1216
-\i (00:03:01) zoom in 1 
-\i (00:03:01) setwindow pcb
-\i (00:03:01) zoom in 113.056 21.639
-\i (00:03:01) trapsize 608
-\i (00:03:01) zoom out 1 
-\i (00:03:01) setwindow pcb
-\i (00:03:01) zoom out 111.111 22.611
-\i (00:03:01) trapsize 1216
-\i (00:03:02) zoom out 1 
-\i (00:03:02) setwindow pcb
-\i (00:03:02) zoom out 100.656 20.667
-\i (00:03:02) trapsize 2431
-\i (00:03:02) zoom in 1 
-\i (00:03:02) setwindow pcb
-\i (00:03:02) zoom in 44.250 7.780
-\i (00:03:02) trapsize 1216
-\i (00:03:03) zoom in 1 
-\i (00:03:03) setwindow pcb
-\i (00:03:03) zoom in 53.246 12.400
-\i (00:03:03) trapsize 608
-\i (00:03:03) zoom out 1 
-\i (00:03:03) setwindow pcb
-\i (00:03:03) zoom out 57.258 13.737
-\i (00:03:03) trapsize 1216
-\i (00:03:04) zoom in 1 
-\i (00:03:04) setwindow pcb
-\i (00:03:04) zoom in 139.437 7.172
-\i (00:03:04) trapsize 608
-\i (00:03:04) zoom out 1 
-\i (00:03:04) setwindow pcb
-\i (00:03:04) zoom out 140.045 8.753
-\i (00:03:04) trapsize 1216
-\i (00:03:05) zoom out 1 
-\i (00:03:05) setwindow pcb
-\i (00:03:05) zoom out 140.045 8.996
-\i (00:03:05) trapsize 2431
-\i (00:03:15) file_property 
-\i (00:03:15) placementedit 
-\i (00:03:17) setwindow form.fileprop
-\i (00:03:17) FORM fileprop cancel  
-\i (00:03:28) setwindow pcb
-\i (00:03:28) ipc spec edit 
-\t (00:03:28) Adjust find filter then select an element.
-\i (00:03:31) ipc spec edit 
-\t (00:03:31) Adjust find filter then select an element.
-\i (00:03:34) pick grid 249.938 141.016
-\t (00:03:34) last pick:  250.000 141.000
-\i (00:03:35) pick grid 130.318 255.287
-\t (00:03:35) last pick:  130.500 255.500
-\i (00:03:37) setwindow text
-\i (00:03:37) close
-\i (00:03:39) setwindow form.edipcspec1
-\i (00:03:39) FORM edipcspec1 done  
-\i (00:03:42) setwindow pcb
-\i (00:03:42) net_properties 
-\i (00:03:43) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
-\i (00:03:43) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Spacing Constraint Set" +
-\i (00:03:43) QtSignal "By Layer"
-\i (00:03:43) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Properties
-\i (00:03:43) QtSignal m_domainSelector WS_Properties itemSelectionChanged Net "General Properties"
-\i (00:03:43) QtSignal Frozen_All_Layers_WorksheetView174 Frozen_All_Layers_WorksheetView174Header sectionMoved +
-\i (00:03:43) QtSignal 0 0 1
-\i (00:03:43) QtSignal Frozen_All_Layers_WorksheetView174 Frozen_All_Layers_WorksheetView174Header sectionMoved +
-\i (00:03:43) QtSignal 1 1 0
-\i (00:03:43) QtSignal All_Layers_WorksheetView174 All_Layers_WorksheetView174Header sectionMoved +
-\i (00:03:43) QtSignal 0 0 1
-\i (00:03:43) QtSignal All_Layers_WorksheetView174 All_Layers_WorksheetView174Header sectionMoved +
-\i (00:03:43) QtSignal 1 1 0
-\i (00:03:43) QtSignal Frozen_All_Layers_WorksheetView174 Frozen_All_Layers_WorksheetView174Header sectionMoved +
-\i (00:03:43) QtSignal 0 1 3
-\i (00:03:43) QtSignal Frozen_All_Layers_WorksheetView174 Frozen_All_Layers_WorksheetView174Header sectionMoved +
-\i (00:03:43) QtSignal 3 3 1
-\i (00:03:43) QtSignal All_Layers_WorksheetView174 All_Layers_WorksheetView174Header sectionMoved +
-\i (00:03:43) QtSignal 0 1 3
-\i (00:03:43) QtSignal All_Layers_WorksheetView174 All_Layers_WorksheetView174Header sectionMoved +
-\i (00:03:43) QtSignal 3 3 1
-\i (00:03:43) QtSignal CCMViewHost174 tableWidget currentChanged "ultima_new"
-\i (00:03:43) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged "Same Net Spacing"
-\i (00:03:43) QtSignal m_domainSelector WS_Same_Net_Spacing itemSelectionChanged "Same Net Spacing Constraint Set" +
-\i (00:03:43) QtSignal "All Layers"
-\i (00:03:43) QtSignal Frozen_CCMViewHost403DffTransposedCsetView Frozen_CCMViewHost403DffTransposedCsetViewHeader sectionMoved +
-\i (00:03:43) QtSignal 0 0 1
-\i (00:03:43) QtSignal Frozen_CCMViewHost403DffTransposedCsetView Frozen_CCMViewHost403DffTransposedCsetViewHeader sectionMoved +
-\i (00:03:43) QtSignal 1 1 0
-\i (00:03:43) QtSignal CCMViewHost403DffTransposedCsetView CCMViewHost403DffTransposedCsetViewHeader sectionMoved +
-\i (00:03:43) QtSignal 0 0 1
-\i (00:03:43) QtSignal CCMViewHost403DffTransposedCsetView CCMViewHost403DffTransposedCsetViewHeader sectionMoved +
-\i (00:03:43) QtSignal 1 1 0
-\i (00:03:43) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Manufacturing
-\i (00:03:43) QtSignal m_domainSelector WS_Manufacturing itemSelectionChanged "Design for Fabrication" +
-\i (00:03:43) QtSignal "DFF Constraint Set" Outline
-\i (00:03:43) QtSignal Frozen_Xtalk/SSN_WorksheetView4 Frozen_Xtalk/SSN_WorksheetView4Header sectionMoved +
-\i (00:03:43) QtSignal 0 0 1
-\i (00:03:43) QtSignal Frozen_Xtalk/SSN_WorksheetView4 Frozen_Xtalk/SSN_WorksheetView4Header sectionMoved +
-\i (00:03:43) QtSignal 1 1 0
-\i (00:03:43) QtSignal Xtalk/SSN_WorksheetView4 Xtalk/SSN_WorksheetView4Header sectionMoved 0 0 +
-\i (00:03:43) QtSignal 1
-\i (00:03:43) QtSignal Xtalk/SSN_WorksheetView4 Xtalk/SSN_WorksheetView4Header sectionMoved 1 1 +
-\i (00:03:43) QtSignal 0
-\i (00:03:43) QtSignal Frozen_Xtalk/SSN_WorksheetView4 Frozen_Xtalk/SSN_WorksheetView4Header sectionMoved +
-\i (00:03:43) QtSignal 0 1 3
-\i (00:03:43) QtSignal Frozen_Xtalk/SSN_WorksheetView4 Frozen_Xtalk/SSN_WorksheetView4Header sectionMoved +
-\i (00:03:43) QtSignal 3 3 1
-\i (00:03:43) QtSignal Xtalk/SSN_WorksheetView4 Xtalk/SSN_WorksheetView4Header sectionMoved 0 1 +
-\i (00:03:43) QtSignal 3
-\i (00:03:43) QtSignal Xtalk/SSN_WorksheetView4 Xtalk/SSN_WorksheetView4Header sectionMoved 3 3 +
-\i (00:03:43) QtSignal 1
-\i (00:03:43) QtSignal CCMViewHost4 tableWidget currentChanged "ultima_new"
-\i (00:03:43) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
-\i (00:03:43) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
-\i (00:03:43) QtSignal "Signal Integrity" "Xtalk/SSN"
-\i (00:03:43) QtSignal Frozen_All_Layers_WorksheetView167 Frozen_All_Layers_WorksheetView167Header sectionMoved +
-\i (00:03:43) QtSignal 0 0 1
-\i (00:03:43) QtSignal Frozen_All_Layers_WorksheetView167 Frozen_All_Layers_WorksheetView167Header sectionMoved +
-\i (00:03:43) QtSignal 1 1 0
-\i (00:03:43) QtSignal All_Layers_WorksheetView167 All_Layers_WorksheetView167Header sectionMoved +
-\i (00:03:43) QtSignal 0 0 1
-\i (00:03:43) QtSignal All_Layers_WorksheetView167 All_Layers_WorksheetView167Header sectionMoved +
-\i (00:03:43) QtSignal 1 1 0
-\i (00:03:43) QtSignal Frozen_All_Layers_WorksheetView167 Frozen_All_Layers_WorksheetView167Header sectionMoved +
-\i (00:03:43) QtSignal 0 1 3
-\i (00:03:43) QtSignal Frozen_All_Layers_WorksheetView167 Frozen_All_Layers_WorksheetView167Header sectionMoved +
-\i (00:03:43) QtSignal 3 3 1
-\i (00:03:43) QtSignal All_Layers_WorksheetView167 All_Layers_WorksheetView167Header sectionMoved +
-\i (00:03:43) QtSignal 0 1 3
-\i (00:03:43) QtSignal All_Layers_WorksheetView167 All_Layers_WorksheetView167Header sectionMoved +
-\i (00:03:43) QtSignal 3 3 1
-\i (00:03:43) QtSignal CCMViewHost167 tableWidget currentChanged "ultima_new"
-\i (00:03:43) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
-\i (00:03:43) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
-\i (00:03:43) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Spacing Constraint Set" +
-\i (00:03:43) QtSignal "All Layers"
-\i (00:03:43) QtSignal Frozen_By_Layer_WorksheetView635 Frozen_By_Layer_WorksheetView635Header sectionMoved +
-\i (00:03:43) QtSignal 0 0 1
-\i (00:03:43) QtSignal Frozen_By_Layer_WorksheetView635 Frozen_By_Layer_WorksheetView635Header sectionMoved +
-\i (00:03:43) QtSignal 1 1 0
-\i (00:03:43) QtSignal By_Layer_WorksheetView635 By_Layer_WorksheetView635Header sectionMoved 0 +
-\i (00:03:43) QtSignal 0 1
-\i (00:03:43) QtSignal By_Layer_WorksheetView635 By_Layer_WorksheetView635Header sectionMoved 1 +
-\i (00:03:43) QtSignal 1 0
-\i (00:03:43) QtSignal Frozen_By_Layer_WorksheetView635 Frozen_By_Layer_WorksheetView635Header sectionMoved +
-\i (00:03:43) QtSignal 0 1 3
-\i (00:03:43) QtSignal Frozen_By_Layer_WorksheetView635 Frozen_By_Layer_WorksheetView635Header sectionMoved +
-\i (00:03:43) QtSignal 3 3 1
-\i (00:03:43) QtSignal By_Layer_WorksheetView635 By_Layer_WorksheetView635Header sectionMoved 0 +
-\i (00:03:43) QtSignal 1 3
-\i (00:03:43) QtSignal By_Layer_WorksheetView635 By_Layer_WorksheetView635Header sectionMoved 3 +
-\i (00:03:43) QtSignal 3 1
-\i (00:03:43) QtSignal CCMViewHost635 tableWidget currentChanged "ultima_new"
-\i (00:03:43) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
-\i (00:03:43) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Spacing Constraint Set" +
-\i (00:03:43) QtSignal "By Layer"
-\i (00:03:43) QtSignal Frozen_General_Properties_WorksheetView37 Frozen_General_Properties_WorksheetView37Header sectionMoved +
-\i (00:03:43) QtSignal 0 0 1
-\i (00:03:43) QtSignal Frozen_General_Properties_WorksheetView37 Frozen_General_Properties_WorksheetView37Header sectionMoved +
-\i (00:03:43) QtSignal 1 1 0
-\i (00:03:43) QtSignal General_Properties_WorksheetView37 General_Properties_WorksheetView37Header sectionMoved +
-\i (00:03:43) QtSignal 0 0 1
-\i (00:03:43) QtSignal General_Properties_WorksheetView37 General_Properties_WorksheetView37Header sectionMoved +
-\i (00:03:43) QtSignal 1 1 0
-\i (00:03:43) QtSignal Frozen_General_Properties_WorksheetView37 Frozen_General_Properties_WorksheetView37Header sectionMoved +
-\i (00:03:43) QtSignal 0 1 3
-\i (00:03:43) QtSignal Frozen_General_Properties_WorksheetView37 Frozen_General_Properties_WorksheetView37Header sectionMoved +
-\i (00:03:43) QtSignal 3 3 1
-\i (00:03:43) QtSignal General_Properties_WorksheetView37 General_Properties_WorksheetView37Header sectionMoved +
-\i (00:03:43) QtSignal 0 1 3
-\i (00:03:43) QtSignal General_Properties_WorksheetView37 General_Properties_WorksheetView37Header sectionMoved +
-\i (00:03:43) QtSignal 3 3 1
-\i (00:03:43) QtSignal CCMViewHost37 tableWidget currentChanged "ultima_new"
-\i (00:03:43) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Properties
-\i (00:03:43) QtSignal m_domainSelector WS_Properties itemSelectionChanged
-\i (00:03:43) QtSignal m_domainSelector WS_Properties itemSelectionChanged Net "General Properties"
-\i (00:03:59) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged 3D
-\i (00:04:00) QtSignal m_domainSelector WS_3D itemSelectionChanged "3D Clearance" "Constraint Set"
-\i (00:04:00) QtSignal m_domainSelector WS_3D itemClicked "3D Clearance" "Constraint Set"
-\i (00:04:01) QtSignal m_domainSelector WS_3D itemSelectionChanged "3D Clearance" "Constraint Set" +
-\i (00:04:01) QtSignal "Component to Board"
-\i (00:04:01) QtSignal m_domainSelector WS_3D itemClicked "3D Clearance" "Constraint Set" "Component to Board"
-\i (00:04:02) QtSignal m_domainSelector WS_3D itemSelectionChanged "3D Clearance" "Constraint Set" +
-\i (00:04:02) QtSignal "Component to Rigid-Flex"
-\i (00:04:02) QtSignal m_domainSelector WS_3D itemClicked "3D Clearance" "Constraint Set" "Component to Rigid-Flex"
-\i (00:04:02) QtSignal m_domainSelector WS_3D itemSelectionChanged "3D Clearance" "Constraint Set" +
-\i (00:04:02) QtSignal "Component to Board Edge"
-\i (00:04:02) QtSignal m_domainSelector WS_3D itemClicked "3D Clearance" "Constraint Set" "Component to Board Edge"
-\i (00:04:03) QtSignal m_domainSelector WS_3D itemSelectionChanged "3D Clearance" Design
-\i (00:04:03) QtSignal m_domainSelector WS_3D itemClicked "3D Clearance" Design
-\i (00:04:03) QtSignal m_domainSelector WS_3D itemClicked "3D Clearance" Design "Component to Component"
-\i (00:04:03) QtSignal m_domainSelector WS_3D itemSelectionChanged "3D Clearance" Design "Component to Board"
-\i (00:04:04) QtSignal m_domainSelector WS_3D itemClicked "3D Clearance" Design "Component to Board"
-\i (00:04:04) QtSignal m_domainSelector WS_3D itemSelectionChanged "3D Clearance" Design "Component to Rigid-Flex"
-\i (00:04:04) QtSignal m_domainSelector WS_3D itemClicked "3D Clearance" Design "Component to Rigid-Flex"
-\i (00:04:04) QtSignal m_domainSelector WS_3D itemSelectionChanged "3D Clearance" Design "Component to Board Edge"
-\i (00:04:04) QtSignal m_domainSelector WS_3D itemClicked "3D Clearance" Design "Component to Board Edge"
-\i (00:04:08) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Manufacturing
-\i (00:04:08) QtSignal m_domainSelector WS_Manufacturing itemSelectionChanged
-\i (00:04:09) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
-\i (00:04:09) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
-\i (00:04:10) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
-\i (00:04:10) QtSignal "Signal Integrity"
-\i (00:04:10) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" "Signal Integrity"
-\i (00:04:19) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
-\i (00:04:19) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
-\i (00:04:19) QtSignal "Signal Integrity" "Xtalk/SSN"
-\i (00:04:20) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
-\i (00:04:20) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
-\i (00:04:20) QtSignal "Signal Integrity" "Reflection/Edge Distortions"
-\i (00:04:20) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
-\i (00:04:20) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
-\i (00:04:20) QtSignal "Signal Integrity" "Xtalk/SSN"
-\i (00:04:22) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
-\i (00:04:22) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
-\i (00:04:22) QtSignal "Signal Integrity" "Reflection/Edge Distortions"
-\i (00:04:43) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged "Same Net Spacing"
-\i (00:04:43) QtSignal m_domainSelector WS_Same_Net_Spacing itemSelectionChanged
-\i (00:04:43) QtSignal m_domainSelector WS_Same_Net_Spacing itemSelectionChanged "Same Net Spacing Constraint Set" +
-\i (00:04:43) QtSignal "All Layers"
-\i (00:05:02) QtSignal All_Layers_WorksheetView174 Frozen_All_Layers_WorksheetView174 ContextMenu +
-\i (00:05:02) QtSignal "(ULTIMA_NEW.DEFAULT.CONDUCTOR.12,NAME)"
-\i (00:05:18) QtSignal m_menuBar menuObjects Triggered "Constraint Set References..."
-\i (00:05:23) QtSignal AddToClassDlg m_ButtonCancel clicked
-\i (00:05:25) QtSignal m_menuBar menuAnalyze Triggered "Initialize..."
-\i (00:05:25) signal init 
-   (00:05:26) Loading consmgr.cxt 
-   (00:05:26) Loading acns_formula.cxt 
-   (00:05:26) Loading sigallegro.cxt 
-   (00:05:26) Loading skillExt.cxt 
-\i (00:05:29) setwindow form.siginit
-\i (00:05:29) FORM siginit ok  
-\i (00:06:21) setwindow pcb
-\i (00:06:21) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Manufacturing
-\i (00:06:21) QtSignal m_domainSelector WS_Manufacturing itemSelectionChanged "Design for Fabrication" +
-\i (00:06:21) QtSignal "DFF Constraint Set" Outline
-\i (00:06:21) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
-\i (00:06:21) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
-\i (00:06:21) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
-\i (00:06:21) QtSignal "Signal Integrity" "Reflection/Edge Distortions"
-\i (00:06:21) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
-\i (00:06:21) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
-\i (00:06:21) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Spacing Constraint Set" +
-\i (00:06:21) QtSignal "All Layers"
-\i (00:06:21) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
-\i (00:06:21) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Spacing Constraint Set" +
-\i (00:06:21) QtSignal "By Layer"
-\i (00:06:21) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Properties
-\i (00:06:21) QtSignal m_domainSelector WS_Properties itemSelectionChanged
-\i (00:06:21) QtSignal m_domainSelector WS_Properties itemSelectionChanged Net "General Properties"
-\i (00:06:21) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged 3D
-\i (00:06:21) QtSignal m_domainSelector WS_3D itemSelectionChanged
-\i (00:06:21) QtSignal m_domainSelector WS_3D itemSelectionChanged "3D Clearance" "Constraint Set" +
-\i (00:06:21) QtSignal "Component to Board Edge"
-\i (00:06:21) QtSignal m_domainSelector WS_3D itemSelectionChanged
-\i (00:06:21) QtSignal m_domainSelector WS_3D itemSelectionChanged "3D Clearance" Design "Component to Board Edge"
-\i (00:07:16) enved 
-\i (00:07:17) setwindow form.prfedit
-\i (00:07:17) FORM prfedit treelist  My_favorites 
-\i (00:07:21) FORM prfedit cancel  
-\i (00:07:23) setwindow pcb
-\i (00:07:23) save 
-\i (00:07:24) fillin yes 
-\i (00:07:24) placementedit 
-\i (00:07:30) enved 
-\i (00:07:31) placementedit 
-\i (00:07:36) setwindow form.prfedit
-\i (00:07:36) FORM prfedit treelist  Paths 
-\i (00:07:37) FORM prfedit treelist  Library Paths 
-\i (00:07:38) FORM prfedit treelist  Editor Paths 
-\i (00:07:39) FORM prfedit treelist  Config Paths 
-\i (00:07:39) FORM prfedit treelist  Editor Paths 
-\i (00:07:39) FORM prfedit treelist  Library Paths 
-\i (00:07:59) FORM prfedit padpath  
-\i (00:08:16) fillin "D:/Projects/CadenceAllegro/CIS/padpath"
-\i (00:08:27) FORM prfedit psmpath  
-\i (00:08:40) fillin "D:/Projects/CadenceAllegro/CIS/psmpath"
-\i (00:08:49) FORM prfedit steppath  
-\i (00:08:57) fillin "D:/Projects/CadenceAllegro/CIS/stppath"
-\i (00:09:13) FORM prfedit step_facet_path  
-\i (00:09:20) fillin "D:/Projects/CadenceAllegro/CIS/stppath"
-\i (00:09:24) FORM prfedit step_mapping_path  
-\i (00:09:31) fillin "D:/Projects/CadenceAllegro/CIS/stppath"
-\i (00:11:29) FORM prfedit treelist  Editor Paths 
-\i (00:11:30) FORM prfedit treelist  Library Paths 
-\i (00:11:36) FORM prfedit apply  
-\i (00:11:37) FORM prfedit done  
-\i (00:15:24) setwindow pcb
-\i (00:15:24) save 
-\i (00:15:25) fillin yes 
-\i (00:15:25) placementedit 
-\i (00:15:26) exit 
-\t (00:15:26)     Journal end - Sun Sep  8 11:12:35 2024
+\i (00:02:54) zoom in 149.768 258.205
+\i (00:02:54) trapsize 1216
+\i (00:02:54) zoom in 1 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) zoom in 149.768 258.205
+\i (00:02:54) trapsize 608
+\i (00:02:56) zoom out 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom out 149.768 258.205
+\i (00:02:56) trapsize 1216
+\i (00:02:56) zoom out 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom out 149.769 258.206
+\i (00:02:56) trapsize 2431
+\i (00:02:58) zoom in 1 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) zoom in 111.354 345.732
+\i (00:02:58) trapsize 1216
+\i (00:02:59) zoom in 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom in 111.354 345.732
+\i (00:02:59) trapsize 608
+\i (00:03:01) drag_start grid 132.021 348.650
+\i (00:03:01) move 
+\t (00:03:02) last pick:  150.500 293.000
+\t (00:03:02) Moving J3 / 2-2013310-2_220133102_DDR3_SODIMM / 220133102.
+\t (00:03:02) Pick new location for the element(s).
+\i (00:03:03) drag_stop grid 141.260 285.557
+\i (00:03:03) generaledit 
+\i (00:03:05) drag_start grid 129.225 333.819
+\i (00:03:05) move 
+\t (00:03:05) last pick:  141.500 285.500
+\t (00:03:05) Moving J3 / 2-2013310-2_220133102_DDR3_SODIMM / 220133102.
+\t (00:03:05) Pick new location for the element(s).
+\i (00:03:13) drag_stop grid 141.746 280.208
+\i (00:03:13) generaledit 
+\i (00:03:14) pick grid 110.139 290.177
+\t (00:03:14) last pick:  110.000 290.000
+\i (00:03:15) zoom out 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom out 110.139 290.177
+\i (00:03:15) trapsize 1216
+\i (00:03:16) zoom out 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom out 110.139 277.654
+\i (00:03:16) trapsize 2431
+\i (00:03:17) zoom out 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom out 106.491 123.510
+\i (00:03:17) trapsize 2431
+\i (00:03:38) save 
+\i (00:03:39) fillin yes 
+\i (00:03:40) generaledit 
+\i (00:03:42) open 
+\i (00:04:05) fillin "D:/Projects/CadenceAllegro/CIS/psmpath/ZXMN3B14FTA.dra"
+\i (00:04:05) cd "D:/Projects/CadenceAllegro/CIS/psmpath"
+\t (00:04:05) Opening existing design...
+\i (00:04:06) trapsize 24313
+\i (00:04:06) trapsize 25311
+\i (00:04:06) trapsize 26394
+\i (00:04:06) trapsize 25311
+\i (00:04:06) trapsize 25311
+\t (00:04:06)     Journal end - Mon Sep 16 16:24:45 2024
