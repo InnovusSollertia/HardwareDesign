@@ -1,0 +1,13 @@
+Reading Layer Conversion File 
+Layer conversion file: C:/Cadence/SPB_23.1/share/pcb/text/dlibx2iff.cnv
+DXF file: D:/Projects/HardwareDesign/StudicaTester/allegro/StudicaTester.dxf
+BRD file: D:/Projects/HardwareDesign/StudicaTester/allegro/STUDICATESTER.brd
+Export symbols as blocks?: YES
+Default symbol height: 0.00
+Export padstacks as blocks?: YES
+Filled pads: YES
+Filled shapes: YES
+Export drill information?: NO
+DXF units: MILLIMETERS
+DXF precision: 4
+a2dxf complete.

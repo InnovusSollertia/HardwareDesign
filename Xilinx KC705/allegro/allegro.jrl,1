@@ -1,109 +1,126 @@
-\t (00:10:27) allegro 23.1 S006 (4217799) Windows SPB 64-bit Edition
-\t (00:10:27)     Journal start - Mon Sep  9 09:45:28 2024
-\t (00:10:27)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=14700 CPUs=12
-\t (00:10:27) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
-\t (00:10:27) 
-\d (00:10:27) Design opened: D:/Projects/HardwareDesign/Xilinx KC705/allegro/ultima_new.brd
-\i (00:10:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
-\i (00:10:27) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
-\i (00:10:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
-\i (00:10:27) QtSignal 0 "|" "Board Outline  (1/6)"
-\i (00:10:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
-\i (00:10:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
-\i (00:10:27) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
-\i (00:10:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
-\i (00:10:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
-\i (00:10:27) QtSignal 1 "|" "Gloss (Window Area)"
-\i (00:10:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
-\i (00:10:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 1 "|" +
-\i (00:10:27) QtSignal QuickPlace
-\i (00:10:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
-\i (00:10:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
-\i (00:10:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
-\i (00:10:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
-\i (00:10:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
-\i (00:10:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 1 "|" +
-\i (00:10:27) QtSignal "Color Dialog"
-\i (00:10:28) generaledit 
-\i (00:10:30) color192 
-\i (00:10:31) generaledit 
-\i (00:10:37) QtSignal CVDSaveMenu CVDSaveCustomAction triggered
-\i (00:10:55) fillin "D:/Projects/HardwareDesign/CadenceColorPallete.col"
-\i (00:10:59) QtSignal CVDLayerContainer CVDFilterLayerUnused clicked true
-\i (00:11:00) QtSignal CVDLayerContainer CVDFilterLayerUnused clicked false
-\i (00:11:00) QtSignal CVDLayerContainer CVDFilterLayerUnused clicked true
-\i (00:11:02) QtSignal CVDLayerContainer CVDFilterLayerUnused clicked false
-\i (00:11:03) QtSignal CVDLayerContainer CVDFilterLayerUnused clicked true
-\i (00:11:05) QtSignal CVDLayerContainer CVDFilterLayerUnused clicked false
-\i (00:11:11) zoom in 1 
-\i (00:11:11) setwindow pcb
-\i (00:11:11) zoom in 220.276 322.391
-\i (00:11:11) trapsize 1216
-\i (00:11:11) zoom in 1 
-\i (00:11:11) setwindow pcb
-\i (00:11:11) zoom in 218.331 308.776
-\i (00:11:11) trapsize 608
-\i (00:11:11) zoom out 1 
-\i (00:11:11) setwindow pcb
-\i (00:11:11) zoom out 211.767 306.710
-\i (00:11:11) trapsize 1216
-\i (00:11:11) zoom out 1 
-\i (00:11:11) setwindow pcb
-\i (00:11:11) zoom out 211.767 306.710
-\i (00:11:11) trapsize 2431
-\i (00:11:12) zoom in 1 
-\i (00:11:12) setwindow pcb
-\i (00:11:12) zoom in 78.774 388.036
-\i (00:11:12) trapsize 1216
-\i (00:11:13) zoom out 1 
-\i (00:11:13) setwindow pcb
-\i (00:11:13) zoom out 75.857 384.876
-\i (00:11:13) trapsize 2431
-\i (00:11:14) roam start
-\i (00:11:14) roam end
-\i (00:11:15) zoom in 1 
-\i (00:11:15) setwindow pcb
-\i (00:11:15) zoom in 65.159 427.424
-\i (00:11:15) trapsize 1216
-\i (00:11:15) zoom in 1 
-\i (00:11:15) setwindow pcb
-\i (00:11:15) zoom in 59.324 425.479
-\i (00:11:15) trapsize 608
-\i (00:11:15) zoom in 1 
-\i (00:11:15) setwindow pcb
-\i (00:11:15) zoom in 57.987 424.507
-\i (00:11:15) trapsize 304
-\i (00:11:16) zoom in 1 
-\i (00:11:16) setwindow pcb
-\i (00:11:16) zoom in 80.173 411.865
-\i (00:11:16) trapsize 152
-\i (00:11:16) zoom in 1 
-\i (00:11:16) setwindow pcb
-\i (00:11:16) zoom in 80.173 411.865
-\i (00:11:16) trapsize 76
-\i (00:11:17) zoom out 1 
-\i (00:11:17) setwindow pcb
-\i (00:11:17) zoom out 80.174 411.834
-\i (00:11:17) trapsize 152
-\i (00:11:17) zoom out 1 
-\i (00:11:17) setwindow pcb
-\i (00:11:17) zoom out 80.173 411.744
-\i (00:11:17) trapsize 304
-\i (00:11:17) zoom out 1 
-\i (00:11:17) setwindow pcb
-\i (00:11:17) zoom out 80.234 411.682
-\i (00:11:17) trapsize 608
-\i (00:11:19) zoom out 1 
-\i (00:11:19) setwindow pcb
-\i (00:11:19) zoom out 80.598 409.676
-\i (00:11:19) trapsize 1216
-\i (00:11:19) zoom out 1 
-\i (00:11:19) setwindow pcb
-\i (00:11:19) zoom out 113.781 386.336
-\i (00:11:19) trapsize 2431
-\i (00:11:19) zoom out 1 
-\i (00:11:19) setwindow pcb
-\i (00:11:19) zoom out 228.057 327.254
-\i (00:11:19) trapsize 2431
-\i (00:11:20) exit 
-\t (00:11:21)     Journal end - Mon Sep  9 09:46:21 2024
+\t (00:00:10) allegro 23.1 S006 (4217799) Windows SPB 64-bit Edition
+\t (00:00:10)     Journal start - Mon Sep 16 16:20:50 2024
+\t (00:00:10)         Host=DESKTOP-OU1R4S8 User=Prometheus Pid=13380 CPUs=12
+\t (00:00:10) CmdLine= C:\Cadence\SPB_23.1\tools\bin\allegro.exe
+\t (00:00:10) 
+   (00:00:11) Loading axlcore.cxt 
+\t (00:00:11) Opening existing design...
+\i (00:00:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ultima_new"
+\d (00:00:12) Design opened: D:/Projects/HardwareDesign/Xilinx KC705/allegro/ultima_new.brd
+\i (00:00:12) trapsize 9402
+\i (00:00:12) trapsize 10677
+\i (00:00:12) trapsize 11108
+\i (00:00:13) trapsize 20359
+\i (00:00:13) trapsize 20359
+\t (00:00:13) Loading NV GPU Plugin
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:00:13) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
+\i (00:00:13) QtSignal 0 "|" "Board Outline  (1/6)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
+\i (00:00:13) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
+\i (00:00:13) QtSignal 1 "|" "Gloss (Window Area)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 1 "|" +
+\i (00:00:13) QtSignal QuickPlace
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 1 "|" +
+\i (00:00:13) QtSignal "Color Dialog"
+\i (00:00:13) trapsize 2431
+\i (00:00:17) generaledit 
+\i (00:01:31) zoom in 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom in 176.513 316.070
+\i (00:01:31) trapsize 1216
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in 176.513 316.070
+\i (00:01:32) trapsize 608
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in 176.513 316.071
+\i (00:01:32) trapsize 304
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out 176.513 316.071
+\i (00:01:32) trapsize 608
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out 176.513 316.071
+\i (00:01:32) trapsize 1216
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out 176.514 316.070
+\i (00:01:32) trapsize 2431
+\i (00:02:54) zoom in 1 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) zoom in 149.768 258.205
+\i (00:02:54) trapsize 1216
+\i (00:02:54) zoom in 1 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) zoom in 149.768 258.205
+\i (00:02:54) trapsize 608
+\i (00:02:56) zoom out 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom out 149.768 258.205
+\i (00:02:56) trapsize 1216
+\i (00:02:56) zoom out 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom out 149.769 258.206
+\i (00:02:56) trapsize 2431
+\i (00:02:58) zoom in 1 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) zoom in 111.354 345.732
+\i (00:02:58) trapsize 1216
+\i (00:02:59) zoom in 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom in 111.354 345.732
+\i (00:02:59) trapsize 608
+\i (00:03:01) drag_start grid 132.021 348.650
+\i (00:03:01) move 
+\t (00:03:02) last pick:  150.500 293.000
+\t (00:03:02) Moving J3 / 2-2013310-2_220133102_DDR3_SODIMM / 220133102.
+\t (00:03:02) Pick new location for the element(s).
+\i (00:03:03) drag_stop grid 141.260 285.557
+\i (00:03:03) generaledit 
+\i (00:03:05) drag_start grid 129.225 333.819
+\i (00:03:05) move 
+\t (00:03:05) last pick:  141.500 285.500
+\t (00:03:05) Moving J3 / 2-2013310-2_220133102_DDR3_SODIMM / 220133102.
+\t (00:03:05) Pick new location for the element(s).
+\i (00:03:13) drag_stop grid 141.746 280.208
+\i (00:03:13) generaledit 
+\i (00:03:14) pick grid 110.139 290.177
+\t (00:03:14) last pick:  110.000 290.000
+\i (00:03:15) zoom out 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom out 110.139 290.177
+\i (00:03:15) trapsize 1216
+\i (00:03:16) zoom out 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom out 110.139 277.654
+\i (00:03:16) trapsize 2431
+\i (00:03:17) zoom out 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom out 106.491 123.510
+\i (00:03:17) trapsize 2431
+\i (00:03:38) save 
+\i (00:03:39) fillin yes 
+\i (00:03:40) generaledit 
+\i (00:03:42) open 
+\i (00:04:05) fillin "D:/Projects/CadenceAllegro/CIS/psmpath/ZXMN3B14FTA.dra"
+\i (00:04:05) cd "D:/Projects/CadenceAllegro/CIS/psmpath"
+\t (00:04:05) Opening existing design...
+\i (00:04:06) trapsize 24313
+\i (00:04:06) trapsize 25311
+\i (00:04:06) trapsize 26394
+\i (00:04:06) trapsize 25311
+\i (00:04:06) trapsize 25311
+\t (00:04:06)     Journal end - Mon Sep 16 16:24:45 2024
