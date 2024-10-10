@@ -1,8 +1,0 @@
-[CAM350 Export Options]
-Canceled=0
-Type=IPC2581
-ConvertAllegroConstraintsToDFMChecks=1
-OutputPath=D:\Projects\HardwareDesign\StudicaTester\allegro
-OutputFileName=STUDICATESTER.xml
-RetainEDATransferFile=1
-ODBExportCmdLine=
