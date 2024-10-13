@@ -1,6 +1,6 @@
 (ExpressProject "ultima"
   (ProjectVersion "19981106")
-  (SoftwareVersion "23.1 S006 (4221051)  [7/26/2024]-[09/08/24]")
+  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[10/12/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -94,7 +94,7 @@
     (ANNOTATE_IncludeNonPrimitive "FALSE")
     (ANNOTATE_PreserveDesignator "FALSE")
     (ANNOTATE_PreserveUserEdits "FALSE")
-    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (ANNOTATE_Refdes_Control_Required "TRUE")
     (Update_Instace_for_External_Design "FALSE")
     (Annotate_type "Default")
     (width_pages "100")
@@ -282,19 +282,20 @@
       (Path "Design Resources" ".\kc705.dsn")
       (Path "Design Resources" ".\kc705.dsn" "SCH001")
       (Path "Outputs")
-      (Path "Logs"))
+      (Path "Logs")
+      (Select "Design Resources" ".\kc705.dsn" "SCH001" "DEV1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 499"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 209 0 539"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 960 24 540")
-        (Scroll "1066 2755")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1246 24 557")
+        (Scroll "0 1959")
+        (Zoom "50")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\XILINX KC705\KC705.DSN")
       (Schematic "SCH001")

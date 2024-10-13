@@ -270,8 +270,7 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\ultima.dsn")
-      (Path "Design Resources" ".\ultima.dsn" "SCH001")
+      (Path "Layout")
       (Path "Outputs")
       (Select "Design Resources"))
     (HierarchyView)
