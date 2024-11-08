@@ -1,0 +1,41 @@
+\t (00:00:02) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Nov  8 12:08:53 2024
+\t (00:00:02)         Host=DESKTOP-D851ENJ User=Prometheus Pid=15932 CPUs=12
+\t (00:00:02) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession Prometheus -proj D:\Projects\HardwareDesign\ST-F031\STmicroF031.opj D:/Projects/HardwareDesign/ST-F031/allegro/STMICROF031.brd
+\t (00:00:02) 
+\t (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged STMICROF031
+\d (00:00:05) Design opened: D:/Projects/HardwareDesign/ST-F031/allegro/STMICROF031.brd
+\i (00:00:05) trapsize 12883
+\i (00:00:05) trapsize 13462
+\i (00:00:06) trapsize 13636
+\i (00:00:06) trapsize 14936
+\i (00:00:06) trapsize 14936
+\t (00:00:06) > Sending response DoneOpenBoard
+\t (00:00:06) Loading NV GPU Plugin
+\i (00:00:06) trapsize 9361
+\i (00:00:06) generaledit 
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 6496.70 12413.00
+\i (00:00:16) trapsize 9361
+\i (00:00:18) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:21) save 
+\i (00:00:22) fillin yes 
+\t (00:00:22) > Sending response DoneOpenBoard
+\i (00:00:22) generaledit 
+\i (00:00:26) exit 
+\t (00:00:26) Lic Summary:
+[12:09:17.001192] cdslmd servers: DESKTOP-D851ENJ
+[12:09:17.001192] Feature usage summary:
+[12:09:17.001192] Allegro_PCB_RF  
+[12:09:17.001192] Allegro_PCB_Harmony_Option  
+[12:09:17.001192] Allegro_Venture_PCB_Designer  
+[12:09:17.001192] PCB_design_studio  
+[12:09:17.001192] Venture_PCB_Schematic  
+[12:09:17.001192] Allegro_Venture_PCB_Designer2  
+[12:09:17.016544]  Allegro_PCB_Productivity_TB  
+[12:09:17.309607]   Allegro_X_Platinum_Layout  
+
+\t (00:00:26)     Journal end - Fri Nov  8 12:09:17 2024

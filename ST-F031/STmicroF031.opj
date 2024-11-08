@@ -1,0 +1,154 @@
+(ExpressProject "STmicroF031"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[11/08/24]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\stmicrof031.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "Verilog_Flow")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\stmicrof031.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80"))
+  (Folder "Layout"
+    (File ".\allegro\stmicrof031.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\stmicrof031.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile "D:\Projects\HardwareDesign\ST-F031\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile "D:\Projects\HardwareDesign\ST-F031\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile "D:\Projects\HardwareDesign\ST-F031\allegro\eco.txt")))
+  (PartMRUSelector
+    (67996-100HLF
+      (FullPartName "67996-100HLF.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CONNECTORS. PIN HEADERS\(2X1, 2.54MM, OPEN, HEAADER MALE) 67996-100HLF\67996-100HLF.OLB")
+      (DeviceIndex "0"))
+    (PCM12SMTR
+      (FullPartName "PCM12SMTR.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\SWITCHES. SLIDE\PCM12SMTR.OLB")
+      (DeviceIndex "0"))
+    (95C06A3RAT
+      (FullPartName "95C06A3RAT.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\SWITCHES. TACTILE\95C06A3RAT.OLB")
+      (DeviceIndex "0"))
+    (ABS07-32.768KHZ-T
+      (FullPartName "ABS07-32.768KHZ-T.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CRYSTALS AND OSCILLATORS\(32 MHZ, 2P, SMD) ABS07-32.768KHZ-T\ABS07-32.768KHZ-T.OLB")
+      (DeviceIndex "0"))
+    (BLM15EG221SZ1D
+      (FullPartName "BLM15EG221SZ1D.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CIRCUIT PROTECTION. FERRITE BEADS\(0402) BLM15EG221SZ1D\BLM15EG221SZ1D.OLB")
+      (DeviceIndex "0"))
+    (06034C104KAT2A
+      (FullPartName "06034C104KAT2A.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CAPACITORS. CERAMIC\(0603, 0.1UF, 4V) 06034C104KAT2A\06034C104KAT2A.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_ARROW
+      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND_POWER
+      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PRT-22890
+      (FullPartName "PRT-22890.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CONNECTORS. JTAG\(SMD, 1.27MM) PRT-22890\PRT-22890.OLB")
+      (DeviceIndex "0"))
+    (TSW-115-05-T-S
+      (FullPartName "TSW-115-05-T-S.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CONNECTORS. PIN HEADERS\(1X15, 2.54MM, OPEN, HEADER MALE) TSW-115-05-T-S\TSW-115-05-T-S.OLB")
+      (DeviceIndex "0"))
+    (STM32F031K6U6
+      (FullPartName "STM32F031K6U6.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\INTEGRAL CIRCUIT. MCU ARM\(UFQFPN-32) STM32F031K6\STM32F031K6U6.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "D:\Projects\CadenceAllegro\CIS\olbpath\Connectors. Pin Headers\(2x1, 2.54mm, Open, Heaader Male) 67996-100HLF")
+  (MPSSessionName "Prometheus")
+  (ISPCBBASICLICENSE "false")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 504"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 974 24 522")
+        (Scroll "-118 0")
+        (Zoom "60")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\HARDWAREDESIGN\ST-F031\STMICROF031.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
