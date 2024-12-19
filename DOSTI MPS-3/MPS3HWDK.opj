@@ -11,7 +11,8 @@
     (File ".\mps3hwdk.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
-    (CompileFileAddedOrDeleted "x"))
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "Verilog_Flow"))
   (Folder "Layout")
   (Folder "Outputs")
   (Folder "Referenced Projects")
@@ -28,19 +29,20 @@
   (MPSSessionName "Prometheus")
   (GlobalState
     (FileView
-      (Path "Design Resources"))
+      (Path "Design Resources")
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 755"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 539"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1639 24 773")
-        (Scroll "-304 -7")
-        (Zoom "85")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1255 24 557")
+        (Scroll "175 0")
+        (Zoom "120")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "00_STRUCTURE")
