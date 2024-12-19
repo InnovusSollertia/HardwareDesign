@@ -28,24 +28,18 @@
   (MPSSessionName "Prometheus")
   (GlobalState
     (FileView
-      (Path "Design Resources")
-      (Path "Design Resources"
-         "D:\Projects\HardwareDesign\DOSTI MPS-3\mps3hwdk.dsn")
-      (Path "Design Resources"
-         "D:\Projects\HardwareDesign\DOSTI MPS-3\mps3hwdk.dsn" "00_STRUCTURE")
-      (Select "Design Resources"
-         "D:\Projects\HardwareDesign\DOSTI MPS-3\mps3hwdk.dsn" "00_STRUCTURE"))
+      (Path "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 217 0 755"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 755"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1622 24 773")
-        (Scroll "-295 -7")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1639 24 773")
+        (Scroll "-304 -7")
         (Zoom "85")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
