@@ -3,8 +3,8 @@
 (    Dangling Line, Via and Antenna Report                            )
 (                                                                     )
 (    Drawing          : ST-LINKV3_open.brd                            )
-(    Software Version : 24.1P001                                      )
-(    Date/Time        : Thu Dec 19 11:53:44 2024                      )
+(    Software Version : 23.1S005                                      )
+(    Date/Time        : Thu Jul 25 21:02:36 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -26,8 +26,6 @@ Report methodology:
   Net                 Layer                  Length       Location
   ------------------------------------------------------------------------------------------
   0                    TOP                   0.1271      (201.2440 237.8200) to *(201.1541 237.7301)
-  0                    TOP                   3.9740     *(195.6460 269.7480) to  (193.2940 267.8940)
-  0                    TOP                   2.2192     *(188.9240 262.0980) to  (186.9740 262.0980)
 
 
 << Antenna Vias >>
@@ -66,6 +64,6 @@ Report methodology:
   VSENS                VIA                  (181.3560 239.5220) TOP/BOTTOM 
 
 << Summary >>
-  Total dangling lines:       3
+  Total dangling lines:       1
   Total dangling vias:        0
   Total antenna vias:        31
