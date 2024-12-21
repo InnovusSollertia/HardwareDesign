@@ -1,6 +1,6 @@
 (ExpressProject "MPS3HWDK"
   (ProjectVersion "19981106")
-  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[12/19/24]")
+  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[12/21/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -30,18 +30,24 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Select "Design Resources"))
+      (Path "Design Resources"
+         "d:\projects\hardwaredesign\dosti mps-3\mps3hwdk.dsn")
+      (Path "Design Resources"
+         "d:\projects\hardwaredesign\dosti mps-3\mps3hwdk.dsn" "01_MAIN")
+      (Select "Design Resources"
+         "d:\projects\hardwaredesign\dosti mps-3\mps3hwdk.dsn" "01_MAIN"
+         "PAGE01"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 539"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 516"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1255 24 557")
-        (Scroll "175 0")
+        (Scroll "0 0")
         (Zoom "120")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
