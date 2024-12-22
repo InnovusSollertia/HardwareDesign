@@ -1,0 +1,1811 @@
+\t (00:00:01) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sun Dec 22 20:17:31 2024
+\t (00:00:01)         Host=DESKTOP-D851ENJ User=Prometheus Pid=18968 CPUs=12
+\t (00:00:01) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession Prometheus -proj d:\projects\hardwaredesign\dosti mps-3\mps3hwdk.opj d:\projects\hardwaredesign\dosti mps-3\allegro\mps3hwdk.brd
+\t (00:00:01) 
+\t (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: d:/projects/hardwaredesign/dosti mps-3/allegro/mps3hwdk.brd
+\t (00:00:04) Grids are drawn 10.1600, 10.1600 apart for enhanced viewing.
+\t (00:00:04) Grids are drawn 5.0800, 5.0800 apart for enhanced viewing.
+\i (00:00:04) trapsize 40000
+\i (00:00:04) trapsize 42857
+\i (00:00:04) trapsize 43750
+\t (00:00:04) Grids are drawn 10.1600, 10.1600 apart for enhanced viewing.
+\i (00:00:04) trapsize 65831
+\i (00:00:04) setwindow form.mini
+\i (00:00:04) FORM mini tree  'Components by refdes' 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) trapsize 65831
+\t (00:00:04) > Sending response DoneOpenBoard
+\t (00:00:04) Loading NV GPU Plugin
+\i (00:00:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:00:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:00:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:00:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:00:04) trapsize 19284
+\i (00:00:05) placementedit 
+\i (00:00:16) setwindow form.mini
+\i (00:00:16) FORM mini tree  C2 'Components by refdes' 
+\i (00:00:17) FORM mini tree 'MULTISEL YES' C2 'Components by refdes' 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) place manual 
+\e (00:00:17) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
+The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
+\e (00:00:17) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
+The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
+\e (00:00:17) Cannot load symbol 'C1206'
+\i (00:00:17) roam start
+\i (00:00:17) roam y -16
+\i (00:00:17) roam y -32
+\i (00:00:17) roam y -16
+\i (00:00:17) roam y -16
+\i (00:00:17) roam y -32
+\i (00:00:18) roam y -16
+\i (00:00:18) roam x 16
+\i (00:00:18) roam y -16
+\i (00:00:18) roam x 16
+\i (00:00:18) roam y -32
+\i (00:00:18) roam x 16
+\i (00:00:18) roam y -16
+\i (00:00:18) roam x 16
+\i (00:00:18) roam y -16
+\i (00:00:18) roam x 16
+\i (00:00:18) roam y -16
+\i (00:00:18) roam y -16
+\i (00:00:18) roam x 16
+\i (00:00:18) roam y -16
+\i (00:00:18) roam y -16
+\i (00:00:18) roam x 16
+\i (00:00:18) roam y -16
+\i (00:00:18) roam y -16
+\i (00:00:18) roam x 16
+\i (00:00:18) roam y -16
+\i (00:00:18) roam y -16
+\i (00:00:18) roam y -16
+\i (00:00:18) roam x 16
+\i (00:00:18) roam y -16
+\i (00:00:18) roam y -16
+\i (00:00:18) roam y -16
+\i (00:00:18) roam x 16
+\i (00:00:18) roam y -32
+\i (00:00:18) roam end
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 375.2625 288.4854
+\i (00:00:18) trapsize 9642
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 413.6373 279.4221
+\i (00:00:24) trapsize 4821
+\i (00:00:39) xname_flush 
+\i (00:00:41) xname_flush '!' 
+\i (00:00:41) xname_flush 
+\i (00:00:42) xname_flush 
+\i (00:00:44) xname_flush 
+\i (00:00:48) xname_flush 
+\i (00:00:48) xname_flush 
+\i (00:00:52) xname_flush 
+\i (00:00:53) xname_flush '!' 
+\i (00:00:53) xname_flush 
+\i (00:00:54) xname_flush '!' 
+\i (00:00:55) Net '!' N29232 
+\t (00:00:55) Nets are not selectable at this time.
+\i (00:00:55) xname_flush '!' 
+\i (00:00:57) Net '!' 3V3 
+\t (00:00:57) Nets are not selectable at this time.
+\i (00:00:57) xname_flush '!' 
+\i (00:00:58) xname_flush 
+\i (00:00:59) xname_flush 
+\i (00:01:00) xname_flush 
+\i (00:01:00) xname_flush '!' 
+\i (00:01:03) Net '!' 3V3 
+\t (00:01:03) Nets are not selectable at this time.
+\i (00:01:03) xname_flush '!' 
+\i (00:01:03) Net '!' N29232 
+\t (00:01:03) Nets are not selectable at this time.
+\i (00:01:03) refdes '!' R6.2 
+\t (00:01:03) Pins are not selectable at this time.
+\i (00:01:03) xname_flush '!' 
+\i (00:01:07) xname_flush 
+\i (00:01:22) design sync eco 
+\t (00:01:22) > Requesting Capture to open design
+\t (00:01:22) > Response received OpenDesign is done by remote tool
+\t (00:01:22) Design opened successfully
+\t (00:01:22) > Requesting Capture to generate logical netlist
+\t (00:01:22) > Requesting Capture to open design
+\t (00:01:23) > Response received LogicalNetlistGeneration is done by remote tool
+\t (00:01:23) Logical netlist generated successfully at d:\projects\hardwaredesign\dosti mps-3\allegro
+\t (00:01:23) > Requesting Capture to generate logical netlist
+\t (00:01:23) > Response received OpenDesign is done by remote tool
+\t (00:01:23) Design opened successfully
+\t (00:01:23) > Generating Physical Netlist
+\t (00:01:23) Starting genfeedformat...
+\t (00:01:23) > Generating Physical Netlist successful
+\t (00:01:23) > Generating Differences
+\t (00:01:24) > Generating Differences successful
+\t (00:01:24) > Displaying differences output
+\i (00:01:24) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
+\i (00:01:24) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
+\t (00:01:24) > Displaying differences output successful
+\t (00:01:24) > Response received LogicalNetlistGeneration is done by remote tool
+\t (00:01:24) Logical netlist generated successfully at d:\projects\hardwaredesign\dosti mps-3\allegro
+\i (00:01:25) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:25) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:25) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:25) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:25) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:25) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:25) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:26) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:30) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:30) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:30) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:30) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:30) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:30) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:01:30) QtSignal DesignSyncDialog sync_button clicked
+\t (00:01:30) > Sending response DoneOpenBoard
+\t (00:01:30) Starting Cadence Logic Import...
+\w (00:01:31) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:01:31) Opening existing design...
+\t (00:01:32) Grids are drawn 325.1200, 325.1200 apart for enhanced viewing.
+\i (00:01:32) setwindow form.mini
+\i (00:01:32) FORM mini tree  'Components by refdes' 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) trapsize 4821
+\e (00:01:32) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
+The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
+\e (00:01:32) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
+The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
+\e (00:01:32) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
+The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
+\e (00:01:32) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
+The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
+\e (00:01:32) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
+The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
+\e (00:01:32) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
+The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
+\e (00:01:32) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
+The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
+\e (00:01:32) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
+The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
+\e (00:01:32) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
+The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
+\e (00:01:32) ERROR(SPMHDB-181): The current version of software is unable to open design sot230p700x180-4n.
+The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
+\e (00:01:32) ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
+The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
+\w (00:01:32) WARNING(SPMHUT-127): Could not find padstack R85_30.
+\t (00:01:32) Placed 4 of 15 symbols.
+\i (00:01:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:01:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:01:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:01:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:01:32) placementedit 
+\i (00:01:35) setwindow text
+\i (00:01:35) close
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out 411.2268 304.6838
+\i (00:01:36) trapsize 9642
+\i (00:01:36) zoom out 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out 410.6483 303.7197
+\i (00:01:36) trapsize 19284
+\i (00:01:36) zoom out 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out 410.2627 303.3341
+\t (00:01:36) Grids are drawn 5.0800, 5.0800 apart for enhanced viewing.
+\i (00:01:36) trapsize 38567
+\i (00:01:37) zoom in 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom in 206.7218 516.8650
+\i (00:01:37) trapsize 19284
+\i (00:01:37) zoom in 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom in 207.1075 517.2507
+\i (00:01:37) trapsize 9642
+\i (00:01:37) zoom in 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom in 243.1681 507.6088
+\i (00:01:37) trapsize 4821
+\i (00:01:38) zoom in 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom in 272.4794 486.5896
+\i (00:01:38) trapsize 2410
+\i (00:01:39) drag_start grid 239.0703 498.5455
+\i (00:01:40) drag_stop 283.6158 487.4092
+\i (00:01:40) prepopup 280.6750 493.7246
+\i (00:01:42) move 
+\t (00:01:42) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\i (00:01:42) pick grid 281.2053 493.5317
+\t (00:01:42) last pick:  281.9400 492.7600
+\t (00:01:42) Moving C2 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N.
+\t (00:01:42) Moving C5 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N.
+\t (00:01:42) Moving C3 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N.
+\t (00:01:42) Moving C4 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N.
+\t (00:01:42) Pick new location for the element(s).
+\i (00:01:44) pick grid 285.7852 475.2604
+\t (00:01:44) last pick:  287.0200 474.9800
+\i (00:01:44) placementedit 
+\i (00:01:44) pick grid 276.0951 466.8238
+\t (00:01:44) last pick:  276.8600 467.3600
+\i (00:01:45) pick grid 281.3499 491.3141
+\t (00:01:45) last pick:  281.9400 490.2200
+\t (00:01:45) Group "_Qp" has been selected.
+\i (00:01:45) move 
+\t (00:01:45) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\t (00:01:45) Moving C2 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N.
+\t (00:01:45) Moving C5 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N.
+\t (00:01:45) Moving C3 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N.
+\t (00:01:45) Moving C4 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N.
+\t (00:01:45) Pick new location for the element(s).
+\i (00:01:45) pick grid 285.8816 487.0235
+\t (00:01:45) last pick:  287.0200 487.6800
+\i (00:01:45) placementedit 
+\i (00:01:46) pick grid 285.0621 485.8665
+\t (00:01:46) last pick:  284.4800 485.1400
+\i (00:01:47) zoom out 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out 260.3307 477.9119
+\i (00:01:47) trapsize 4821
+\i (00:01:48) zoom out 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom out 260.8127 477.7191
+\i (00:01:48) trapsize 9642
+\i (00:01:49) drag_start grid 297.0662 475.5979
+\i (00:01:49) drag_stop 250.9781 456.6998
+\i (00:01:50) pick grid 308.2508 454.0001
+\t (00:01:50) last pick:  307.3400 454.6600
+\i (00:01:51) setwindow form.mini
+\i (00:01:51) FORM mini tree  C2 'Components by refdes' 
+\i (00:01:51) FORM mini tree 'MULTISEL YES' C2 'Components by refdes' 
+\i (00:01:51) setwindow pcb
+\i (00:01:51) place manual 
+\t (00:01:51) last pick:  263.9100 461.6600
+\t (00:01:51) Placing C2 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
+\i (00:01:52) setwindow form.mini
+\i (00:01:52) FORM mini tree  C3 'Components by refdes' 
+\i (00:01:52) FORM mini tree 'MULTISEL YES' C3 'Components by refdes' 
+\i (00:01:52) FORM mini tree  C4 'Components by refdes' 
+\i (00:01:52) FORM mini tree 'MULTISEL YES' C4 'Components by refdes' 
+\i (00:01:53) FORM mini tree  C5 'Components by refdes' 
+\i (00:01:54) FORM mini tree 'MULTISEL YES' C5 'Components by refdes' 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) pick grid 300.5373 458.0497
+\t (00:01:55) last pick:  299.7200 457.2000
+\i (00:01:55) placementedit 
+\i (00:01:56) pick grid 287.2315 448.0221
+\t (00:01:56) last pick:  287.0200 447.0400
+\i (00:01:56) roam start
+\i (00:01:56) roam y 16
+\i (00:01:56) roam y 16
+\i (00:01:56) roam x 16
+\i (00:01:56) roam y 16
+\i (00:01:56) roam y 32
+\i (00:01:56) roam x 16
+\i (00:01:56) roam y 16
+\i (00:01:56) roam y 16
+\i (00:01:56) roam x 16
+\i (00:01:56) roam y 16
+\i (00:01:56) roam y 16
+\i (00:01:56) roam x 16
+\i (00:01:56) roam y 16
+\i (00:01:56) roam x 16
+\i (00:01:56) roam y 16
+\i (00:01:56) roam y 16
+\i (00:01:56) roam x 16
+\i (00:01:56) roam y 16
+\i (00:01:56) roam x 16
+\i (00:01:56) roam y 16
+\i (00:01:57) roam x 16
+\i (00:01:57) roam y 16
+\i (00:01:57) roam x 16
+\i (00:01:57) roam y 16
+\i (00:01:57) roam x 16
+\i (00:01:57) roam y 16
+\i (00:01:57) roam x 16
+\i (00:01:57) roam x 32
+\i (00:01:57) roam y 16
+\i (00:01:57) roam y 16
+\i (00:01:57) roam x 16
+\i (00:01:57) roam x 16
+\i (00:01:57) roam x 32
+\i (00:01:57) roam y 16
+\i (00:01:57) roam x 16
+\i (00:01:57) roam y 16
+\i (00:01:57) roam x 16
+\i (00:01:57) roam x 16
+\i (00:01:57) roam y 16
+\i (00:01:57) roam x 16
+\i (00:01:57) roam end
+\i (00:01:57) zoom in 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom in 388.9533 393.0029
+\i (00:01:57) trapsize 4821
+\i (00:01:59) setwindow form.mini
+\i (00:01:59) FORM mini tree  C2 'Components by refdes' 
+\i (00:02:00) FORM mini tree  C3 'Components by refdes' 
+\i (00:02:01) FORM mini tree 'MULTISEL NO' C3 'Components by refdes' 
+\i (00:02:01) FORM mini tree  C4 'Components by refdes' 
+\i (00:02:01) FORM mini tree 'MULTISEL NO' C4 'Components by refdes' 
+\i (00:02:01) FORM mini tree  C5 'Components by refdes' 
+\i (00:02:01) FORM mini tree 'MULTISEL NO' C5 'Components by refdes' 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) pick grid 366.2949 413.0580
+\t (00:02:02) last pick:  365.7600 414.0200
+\i (00:02:02) zoom out 1 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) zoom out 365.1378 412.7688
+\i (00:02:02) trapsize 9642
+\i (00:02:02) zoom out 1 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) zoom out 364.1738 412.3832
+\i (00:02:02) trapsize 19284
+\i (00:02:03) zoom in 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom in 260.8128 473.7054
+\i (00:02:03) trapsize 9642
+\i (00:02:03) zoom in 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom in 263.3197 472.7412
+\i (00:02:03) trapsize 4821
+\i (00:02:03) drag_start grid 273.2508 475.0553
+\i (00:02:04) drag_stop 302.0800 466.0883
+\i (00:02:04) prepopup 289.4492 472.9341
+\i (00:02:06) pop dyn_option_select '@:@Unplace component' 
+\i (00:02:06) unplace component 
+\t (00:02:06) Selected item not valid for current operation, ignored: Ratsnest "0, C5.1:Ic1.32"
+\t (00:02:06) Selected item not valid for current operation, ignored: Ratsnest "3V3, C5.2:J7.1"
+\t (00:02:06) Selected item not valid for current operation, ignored: Ratsnest "0, C3.1:Ic1.32"
+\t (00:02:06) Selected item not valid for current operation, ignored: Ratsnest "3V3, C3.2:J7.1"
+\i (00:02:06) placementedit 
+\i (00:02:06) drag_start grid 251.4602 467.3418
+\i (00:02:06) drag_stop 312.2040 449.1186
+\i (00:02:07) prepopup 300.0552 457.2178
+\i (00:02:08) pop dyn_option_select '@:@Unplace component' 
+\i (00:02:08) unplace component 
+\t (00:02:08) Selected item not valid for current operation, ignored: Ratsnest "N29232, C2.2:C4.2"
+\t (00:02:08) Selected item not valid for current operation, ignored: Ratsnest "0, C2.1:Ic1.32"
+\t (00:02:08) Selected item not valid for current operation, ignored: Ratsnest "N29232, C2.2:R5.1"
+\i (00:02:08) placementedit 
+\i (00:02:11) prepopup 281.5428 487.9754
+\i (00:02:13) delete 
+\i (00:02:14) pick grid 281.2536 493.5677
+\t (00:02:14) last pick:  281.9400 492.7600
+\t (00:02:14) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\i (00:02:15) roam start
+\i (00:02:15) roam x -16
+\i (00:02:15) roam x -16
+\i (00:02:15) roam y -16
+\i (00:02:15) roam x -16
+\i (00:02:15) roam y -32
+\i (00:02:15) roam x -16
+\i (00:02:15) roam y -16
+\i (00:02:15) roam x -16
+\i (00:02:15) roam y -16
+\i (00:02:15) roam y -16
+\i (00:02:15) roam x -16
+\i (00:02:15) roam y -16
+\i (00:02:15) roam x -16
+\i (00:02:15) roam y -16
+\i (00:02:15) roam x -16
+\i (00:02:15) roam y -32
+\i (00:02:15) roam x -16
+\i (00:02:15) roam y -16
+\i (00:02:15) roam x -16
+\i (00:02:15) roam y -16
+\i (00:02:15) roam x -16
+\i (00:02:15) roam y -32
+\i (00:02:15) roam y -16
+\i (00:02:15) roam x -16
+\i (00:02:15) roam y -16
+\i (00:02:15) roam x -16
+\i (00:02:15) roam y -16
+\i (00:02:15) roam x -16
+\i (00:02:15) roam y -16
+\i (00:02:16) roam y -16
+\i (00:02:16) roam x -16
+\i (00:02:16) roam y -16
+\i (00:02:16) roam x -16
+\i (00:02:16) roam y -16
+\i (00:02:16) roam y -16
+\i (00:02:16) roam x -16
+\i (00:02:16) roam y -16
+\i (00:02:16) roam x -16
+\i (00:02:16) roam y -16
+\i (00:02:16) roam y -16
+\i (00:02:16) roam x -16
+\i (00:02:16) roam end
+\i (00:02:16) zoom in 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom in 261.1984 503.9807
+\i (00:02:16) trapsize 2410
+\i (00:02:18) setwindow form.mini
+\i (00:02:18) FORM mini delete_net_shapes YES 
+\i (00:02:19) setwindow pcb
+\i (00:02:19) pick grid 274.8898 494.9173
+\t (00:02:19) last pick:  274.3200 495.3000
+\i (00:02:19) roam start
+\i (00:02:19) roam x 16
+\i (00:02:19) roam x 16
+\i (00:02:19) roam x 16
+\i (00:02:19) roam y 16
+\i (00:02:19) roam x 16
+\i (00:02:19) roam x 16
+\i (00:02:19) roam y 16
+\i (00:02:19) roam x 16
+\i (00:02:19) roam x 16
+\i (00:02:19) roam y 16
+\i (00:02:19) roam x 16
+\i (00:02:19) roam x 32
+\i (00:02:19) roam y 16
+\i (00:02:19) roam x 16
+\i (00:02:19) roam y 16
+\i (00:02:19) roam x 16
+\i (00:02:19) roam x 16
+\i (00:02:19) roam x 32
+\i (00:02:19) roam y 16
+\i (00:02:19) roam x 16
+\i (00:02:19) roam x 16
+\i (00:02:19) roam x 16
+\i (00:02:19) roam y 16
+\i (00:02:19) roam x 32
+\i (00:02:20) roam x 16
+\i (00:02:20) roam x 16
+\i (00:02:20) roam y 16
+\i (00:02:20) roam x 16
+\i (00:02:20) roam x 16
+\i (00:02:20) roam x 16
+\i (00:02:20) roam y 16
+\i (00:02:20) roam end
+\i (00:02:20) prepopup 283.5193 502.4863
+\i (00:02:21) done 
+\i (00:02:21) setwindow form.mini
+\i (00:02:21) FORM mini tree  'Components by refdes' 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) placementedit 
+\i (00:02:22) pick grid 281.3498 494.8210
+\t (00:02:22) last pick:  281.9400 495.3000
+\t (00:02:22) Group "_Qp" has been selected.
+\i (00:02:22) move 
+\t (00:02:22) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\t (00:02:22) No valid items selected for the current operation, exiting.
+\i (00:02:22) placementedit 
+\i (00:02:23) prepopup 281.2534 494.9656
+\i (00:02:24) delete 
+\e (00:02:24) ERROR(SPMHDB-243): Cannot modify element; the object or a parent has the FIXED property. [help]
+\i (00:02:24) placementedit 
+\i (00:02:28) prepopup 281.3981 492.7480
+\i (00:02:31) pop dyn_option_select @:@Fix 
+\i (00:02:31) fix 
+\i (00:02:31) placementedit 
+\i (00:02:32) prepopup 280.6749 495.1585
+\i (00:02:35) delete 
+\e (00:02:35) ERROR(SPMHDB-243): Cannot modify element; the object or a parent has the FIXED property. [help]
+\i (00:02:36) placementedit 
+\i (00:02:36) delete 
+\e (00:02:36) ERROR(SPMHDB-243): Cannot modify element; the object or a parent has the FIXED property. [help]
+\i (00:02:36) placementedit 
+\i (00:02:36) pick grid 281.1570 494.0978
+\t (00:02:36) last pick:  281.9400 495.3000
+\t (00:02:36) Group "_Qp" has been selected.
+\i (00:02:36) move 
+\t (00:02:36) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\t (00:02:36) No valid items selected for the current operation, exiting.
+\i (00:02:36) placementedit 
+\i (00:02:37) zoom out 1 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom out 282.2658 494.7728
+\i (00:02:37) trapsize 4821
+\i (00:02:37) zoom out 1 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom out 282.1694 492.4587
+\i (00:02:37) trapsize 9642
+\i (00:02:39) pick grid 274.8417 462.3761
+\t (00:02:39) last pick:  274.3200 462.2800
+\i (00:02:39) roam start
+\i (00:02:39) roam x 16
+\i (00:02:39) roam y 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam y 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam y 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam x 32
+\i (00:02:39) roam y 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam y 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam y 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam y 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam y 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam y 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam x 32
+\i (00:02:39) roam y 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam y 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam y 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam y 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam y 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam y 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam x 16
+\i (00:02:39) roam y 16
+\i (00:02:39) roam x 16
+\i (00:02:40) roam y 16
+\i (00:02:40) roam x 16
+\i (00:02:40) roam x 16
+\i (00:02:40) roam y 16
+\i (00:02:40) roam x 16
+\i (00:02:40) roam y 16
+\i (00:02:40) roam x 16
+\i (00:02:40) roam y 16
+\i (00:02:40) roam x 16
+\i (00:02:40) roam y 16
+\i (00:02:40) roam x 16
+\i (00:02:40) roam y 16
+\i (00:02:40) roam y 16
+\i (00:02:40) roam y 16
+\i (00:02:40) roam y 16
+\i (00:02:40) roam x 16
+\i (00:02:40) roam y 16
+\i (00:02:40) roam y 16
+\i (00:02:40) roam y 16
+\i (00:02:40) roam y 16
+\i (00:02:40) roam y 16
+\i (00:02:40) roam end
+\i (00:02:41) roam start
+\i (00:02:41) roam y 16
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y 48
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y 32
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y 32
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam x 32
+\i (00:02:41) roam y 32
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam x 32
+\i (00:02:41) roam y 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam x 32
+\i (00:02:41) roam y 16
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y 16
+\i (00:02:41) roam end
+\i (00:02:42) setwindow form.mini
+\i (00:02:42) FORM mini tree  C2 'Components by refdes' 
+\i (00:02:42) FORM mini tree 'MULTISEL YES' C2 'Components by refdes' 
+\i (00:02:42) setwindow pcb
+\i (00:02:42) place manual 
+\t (00:02:42) Placing C2 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
+\i (00:02:42) zoom in 1 
+\i (00:02:42) setwindow pcb
+\i (00:02:42) zoom in 446.0333 289.8349
+\i (00:02:42) trapsize 4821
+\i (00:02:43) zoom in 1 
+\i (00:02:43) setwindow pcb
+\i (00:02:43) zoom in 446.0333 289.8349
+\i (00:02:43) trapsize 2410
+\i (00:02:44) zoom in 1 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom in 440.2000 301.4534
+\i (00:02:44) trapsize 1205
+\i (00:02:44) pick grid 440.2000 301.4534
+\t (00:02:44) last pick:  439.4200 302.2600
+\i (00:02:44) placementedit 
+\i (00:02:46) setwindow form.mini
+\i (00:02:46) FORM mini tree  C3 'Components by refdes' 
+\i (00:02:47) FORM mini tree  'Components by refdes' 
+\i (00:02:47) FORM mini tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) place manual 
+\e (00:02:47) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
+The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
+\e (00:02:47) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
+The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
+\e (00:02:47) Cannot load symbol 'C1206'
+\e (00:02:47)   because WARNING(SPMHUT-127): Could not find padstack R85_30.
+   With Padstack: ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
+The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
+\i (00:02:48) pick grid 442.0561 300.1759
+\t (00:02:48) last pick:  441.9600 299.7200
+\t (00:02:48) last pick:  439.4200 302.2600
+\t (00:02:48) Placing C2 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
+\i (00:02:50) pick grid 435.6201 303.0202
+\t (00:02:50) last pick:  436.8800 302.2600
+\t (00:02:50) Placing C3 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N on Top.
+\i (00:02:52) pick grid 440.7544 302.1043
+\t (00:02:52) last pick:  441.9600 302.2600
+\t (00:02:52) Placing C4 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N on Top.
+\i (00:02:52) pick grid 441.5258 300.9231
+\t (00:02:52) last pick:  441.9600 299.7200
+\t (00:02:52) Placing C5 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
+\i (00:02:53) pick grid 441.4053 298.2475
+\t (00:02:53) last pick:  441.9600 297.1800
+\e (00:02:53) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
+The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
+\e (00:02:53) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
+The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
+\e (00:02:53) Cannot load symbol 'C1206'
+\i (00:02:54) pick grid 445.5995 296.8012
+\t (00:02:54) last pick:  444.5000 297.1800
+\e (00:02:54) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
+The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
+\e (00:02:54) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
+The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
+\e (00:02:54) Cannot load symbol 'C1206'
+\i (00:02:55) prepopup 446.1539 299.9348
+\i (00:02:56) done 
+\i (00:02:56) placementedit 
+\i (00:02:57) save 
+\i (00:02:58) fillin yes 
+\t (00:02:58) > Sending response DoneOpenBoard
+\i (00:02:58) placementedit 
+\i (00:02:58) zoom out 1 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) zoom out 438.1029 297.8618
+\i (00:02:58) trapsize 2410
+\i (00:02:58) zoom out 1 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) zoom out 438.1030 297.8619
+\i (00:02:58) trapsize 4821
+\i (00:02:59) zoom out 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom out 438.0065 297.8619
+\i (00:02:59) trapsize 9642
+\i (00:02:59) zoom out 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom out 436.4639 297.4762
+\i (00:02:59) trapsize 19284
+\i (00:03:00) zoom out 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom out 314.9761 409.3223
+\i (00:03:00) trapsize 38567
+\i (00:03:06) xrefdes C12 
+\t (00:03:06) Can not select unplaced component C12.
+\t (00:03:06) Can not select unplaced component C12.
+\i (00:03:06) xname_flush 
+\i (00:03:06) xrefdes C13 
+\t (00:03:06) Can not select unplaced component C13.
+\t (00:03:06) Can not select unplaced component C13.
+\i (00:03:06) xname_flush 
+\i (00:03:08) xrefdes C3 
+\i (00:03:08) xname_flush 
+\i (00:03:08) trapsize 268
+\i (00:03:11) xrefdes '!' C3 
+\i (00:03:11) xname_flush '!' 
+\i (00:03:12) xname_flush '!' 
+\i (00:03:14) xrefdes '!' Y1 
+\i (00:03:14) xname_flush '!' 
+\i (00:03:30) xrefdes C1 
+\t (00:03:30) Can not select unplaced component C1.
+\t (00:03:30) Can not select unplaced component C1.
+\i (00:03:30) xname_flush 
+\i (00:03:33) xrefdes C5.1 
+\i (00:03:33) xname_flush 
+\i (00:03:33) trapsize 121
+\i (00:03:33) xrefdes '!' C5.1 
+\i (00:03:33) xname_flush '!' 
+\i (00:03:33) xrefdes C5 
+\i (00:03:33) xname_flush 
+\i (00:03:33) trapsize 268
+\i (00:03:35) xrefdes '!' C5 
+\i (00:03:35) xname_flush '!' 
+\i (00:03:37) xNet '!' Stm32l052_Nrst 
+\i (00:03:37) xname_flush '!' 
+\i (00:03:40) xrefdes C11.2 
+\t (00:03:40) Can not select unplaced component C11.
+\i (00:03:40) xname_flush 
+\i (00:03:41) xrefdes '!' C11.2 
+\t (00:03:41) Can not select unplaced component C11.
+\i (00:03:41) xname_flush '!' 
+\i (00:03:41) xrefdes C11 
+\t (00:03:41) Can not select unplaced component C11.
+\t (00:03:41) Can not select unplaced component C11.
+\i (00:03:41) xname_flush 
+\i (00:03:42) xrefdes C9 
+\t (00:03:42) Can not select unplaced component C9.
+\t (00:03:42) Can not select unplaced component C9.
+\i (00:03:42) xname_flush 
+\i (00:03:44) xrefdes C7 
+\t (00:03:44) Can not select unplaced component C7.
+\t (00:03:44) Can not select unplaced component C7.
+\i (00:03:44) xname_flush 
+\i (00:03:45) xname_flush 
+\i (00:03:46) xname_flush '!' 
+\i (00:03:48) xNet '!' 3V3 
+\i (00:03:48) xname_flush '!' 
+\i (00:03:50) xNet '!' 3V3 
+\i (00:03:50) xname_flush '!' 
+\i (00:03:51) xNet '!' 3V3_Ana 
+\i (00:03:51) xname_flush '!' 
+\i (00:03:58) xrefdes C3.1 
+\i (00:03:58) xname_flush 
+\i (00:03:58) trapsize 121
+\i (00:04:02) xrefdes '!' C3.1 
+\i (00:04:02) xname_flush '!' 
+\i (00:04:02) xrefdes C3 
+\i (00:04:02) xname_flush 
+\i (00:04:02) trapsize 268
+\i (00:04:06) xrefdes '!' C3 
+\i (00:04:06) xname_flush '!' 
+\i (00:04:06) xrefdes C10 
+\t (00:04:06) Can not select unplaced component C10.
+\t (00:04:06) Can not select unplaced component C10.
+\i (00:04:06) xname_flush 
+\i (00:04:07) xrefdes C8 
+\t (00:04:07) Can not select unplaced component C8.
+\t (00:04:07) Can not select unplaced component C8.
+\i (00:04:07) xname_flush 
+\i (00:04:08) xrefdes C6 
+\t (00:04:08) Can not select unplaced component C6.
+\t (00:04:08) Can not select unplaced component C6.
+\i (00:04:08) xname_flush 
+\i (00:04:11) xNet '!' 3V3 
+\i (00:04:11) xname_flush '!' 
+\i (00:04:13) xrefdes '!' L1.2 
+\i (00:04:13) xname_flush '!' 
+\i (00:04:15) xNet '!' 3V3 
+\i (00:04:15) xname_flush '!' 
+\i (00:04:24) zoom out 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom out 442.9723 302.4387
+\i (00:04:24) trapsize 536
+\i (00:04:24) zoom out 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom out 442.9400 302.3636
+\i (00:04:24) trapsize 1072
+\i (00:04:24) zoom out 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom out 442.8757 302.2778
+\i (00:04:24) trapsize 2145
+\i (00:04:25) zoom out 1 
+\i (00:04:25) setwindow pcb
+\i (00:04:25) zoom out 442.8328 302.1919
+\i (00:04:25) trapsize 4290
+\i (00:04:27) design sync eco 
+\t (00:04:27) > Requesting Capture to open design
+\t (00:04:27) > Response received OpenDesign is done by remote tool
+\t (00:04:27) Design opened successfully
+\t (00:04:27) > Requesting Capture to generate logical netlist
+\t (00:04:27) > Requesting Capture to open design
+\t (00:04:27) > Response received LogicalNetlistGeneration is done by remote tool
+\t (00:04:27) Logical netlist generated successfully at d:\projects\hardwaredesign\dosti mps-3\allegro
+\t (00:04:27) > Requesting Capture to generate logical netlist
+\t (00:04:27) > Response received OpenDesign is done by remote tool
+\t (00:04:27) Design opened successfully
+\t (00:04:27) > Generating Physical Netlist
+\t (00:04:27) Starting genfeedformat...
+\t (00:04:28) > Generating Physical Netlist successful
+\t (00:04:28) > Generating Differences
+\t (00:04:28) > Generating Differences successful
+\t (00:04:28) > Displaying differences output
+\i (00:04:28) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
+\i (00:04:28) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
+\t (00:04:28) > Displaying differences output successful
+\t (00:04:28) > Response received LogicalNetlistGeneration is done by remote tool
+\t (00:04:28) Logical netlist generated successfully at d:\projects\hardwaredesign\dosti mps-3\allegro
+\i (00:04:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:04:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:04:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:04:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:04:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:04:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:04:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:04:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:04:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:04:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:04:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:04:29) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:04:30) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:04:30) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:04:30) QtSignal DesignSyncDialog preview_tableView selectionChanged
+\i (00:04:30) QtSignal DesignSyncDialog sync_button clicked
+\t (00:04:30) > Sending response DoneOpenBoard
+\t (00:04:30) Starting Cadence Logic Import...
+\w (00:04:31) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:04:31) Opening existing design...
+\t (00:04:32) Grids are drawn 162.5600, 162.5600 apart for enhanced viewing.
+\i (00:04:32) setwindow form.mini
+\i (00:04:32) FORM mini tree  'Components by refdes' 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) trapsize 4290
+\e (00:04:32) ERROR(SPMHDB-181): The current version of software is unable to open design sot230p700x180-4n.
+The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
+\e (00:04:32) ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
+The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
+\w (00:04:32) WARNING(SPMHUT-127): Could not find padstack R85_30.
+\t (00:04:32) Placed 9 of 11 symbols.
+\i (00:04:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:04:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:04:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:04:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:04:32) placementedit 
+\i (00:04:33) setwindow text
+\i (00:04:33) close
+\i (00:04:33) setwindow pcb
+\i (00:04:33) zoom out 1 
+\i (00:04:33) setwindow pcb
+\i (00:04:33) zoom out 432.2798 310.4286
+\i (00:04:33) trapsize 8580
+\i (00:04:33) zoom out 1 
+\i (00:04:33) setwindow pcb
+\i (00:04:33) zoom out 430.5638 309.9137
+\i (00:04:33) trapsize 17160
+\i (00:04:33) zoom out 1 
+\i (00:04:33) setwindow pcb
+\i (00:04:33) zoom out 425.0728 309.9138
+\t (00:04:33) Grids are drawn 5.0800, 5.0800 apart for enhanced viewing.
+\i (00:04:33) trapsize 34319
+\i (00:04:34) zoom in 1 
+\i (00:04:34) setwindow pcb
+\i (00:04:34) zoom in 241.8091 531.5393
+\i (00:04:34) trapsize 17160
+\i (00:04:34) zoom in 1 
+\i (00:04:34) setwindow pcb
+\i (00:04:34) zoom in 241.8092 531.5394
+\i (00:04:34) trapsize 8580
+\i (00:04:34) zoom in 1 
+\i (00:04:34) setwindow pcb
+\i (00:04:34) zoom in 241.8092 531.5394
+\i (00:04:34) trapsize 4290
+\i (00:04:37) prepopup 248.5872 514.6373
+\i (00:04:37) pick grid 246.0991 517.4686
+\t (00:04:37) last pick:  246.3800 518.1600
+\t (00:04:37) Group "_Qp" has been selected.
+\i (00:04:37) move 
+\t (00:04:37) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\t (00:04:37) Moving C12 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P / CAPC1608X90N.
+\t (00:04:37) Moving C13 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P / CAPC1608X90N.
+\t (00:04:37) Moving C1 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N.
+\t (00:04:37) Moving C11 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N.
+\t (00:04:37) Moving C7 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N.
+\t (00:04:37) Moving C9 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N.
+\t (00:04:37) Moving C10 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N.
+\t (00:04:37) Moving C6 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N.
+\t (00:04:37) Moving C8 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N.
+\t (00:04:37) Pick new location for the element(s).
+\i (00:04:38) prepopup 247.0428 517.7260
+\i (00:04:39) done 
+\i (00:04:39) placementedit 
+\i (00:04:40) prepopup 250.2174 517.9834
+\i (00:04:43) pop dyn_option_select '@:@Property edit' 
+\i (00:04:43) property edit 
+\i (00:04:45) setwindow form.editprop1
+\i (00:04:45) FORM editprop1 properties Locked 
+\i (00:04:50) setwindow text
+\i (00:04:50) close
+\i (00:04:51) setwindow form.editprop1
+\i (00:04:51) FORM editprop1 properties Idx_Exclude 
+\i (00:04:52) FORM editprop1 properties Comment 
+\i (00:04:55) setwindow form.editprop2
+\i (00:04:55) FORM editprop2 locked prop_state YES 
+\i (00:04:57) FORM editprop2 locked prop_state NO 
+\i (00:04:59) FORM editprop2 apply  
+\e (00:04:59) Property 'COMMENT' requires a value.
+\i (00:05:00) setwindow text
+\i (00:05:00) close
+\i (00:05:01) setwindow form.editprop1
+\i (00:05:01) FORM editprop1 done  
+\i (00:05:01) setwindow pcb
+\i (00:05:01) placementedit 
+\t (00:05:01) [20:22:31.003160] periodic Lic check successful
+[20:22:31.003160] Feature usage summary:
+[20:22:31.003160] Allegro_PCB_RF  
+[20:22:31.003160] Allegro_PCB_Harmony_Option  
+[20:22:31.003160] Allegro_Venture_PCB_Designer  
+[20:22:31.003160] PCB_design_studio  
+[20:22:31.003160] Venture_PCB_Schematic  
+[20:22:31.003160] Allegro_Venture_PCB_Designer2  
+[20:22:31.016464]  Allegro_PCB_Productivity_TB  
+[20:22:31.463271]   Allegro_X_Platinum_Layout  
+
+\i (00:05:02) pick grid 255.7084 489.7560
+\t (00:05:02) last pick:  256.5400 490.2200
+\i (00:05:03) prepopup 266.0899 504.5990
+\i (00:05:06) pop dyn_option_select 'Application Mode@:@General Edit' 
+\i (00:05:06) generaledit 
+\i (00:05:08) pick grid 271.4094 517.1254
+\t (00:05:08) last pick:  271.7800 518.1600
+\i (00:05:10) pick grid 271.8384 517.6402
+\t (00:05:10) last pick:  271.7800 518.1600
+\i (00:05:10) prepopup 271.8384 517.6402
+\i (00:05:15) delete 
+\t (00:05:15) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\t (00:05:15) Selected item not valid for current operation, ignored: Rectangle "Board Geometry/Top_Room"
+\t (00:05:15) No valid items selected for the current operation, exiting.
+\i (00:05:15) generaledit 
+\i (00:05:19) prepopup 238.5489 476.5432
+\i (00:05:22) pick grid 219.0728 487.0963
+\t (00:05:22) last pick:  218.4400 487.6800
+\i (00:05:22) drag_start grid 231.0845 524.8472
+\i (00:05:23) drag_stop 246.1849 508.2025
+\i (00:05:24) prepopup 243.1820 517.6402
+\i (00:05:33) prepopup 238.5489 506.4007
+\i (00:05:35) pop dyn_option_select @:@Fix 
+\i (00:05:35) fix 
+\i (00:05:35) generaledit 
+\i (00:05:36) prepopup 238.8063 511.4628
+\i (00:05:38) delete 
+\t (00:05:38) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\t (00:05:38) Selected item not valid for current operation, ignored: Rectangle "Board Geometry/Top_Room"
+\t (00:05:38) No valid items selected for the current operation, exiting.
+\i (00:05:38) generaledit 
+\i (00:05:38) delete 
+\t (00:05:38) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\t (00:05:38) Selected item not valid for current operation, ignored: Rectangle "Board Geometry/Top_Room"
+\t (00:05:38) No valid items selected for the current operation, exiting.
+\i (00:05:38) generaledit 
+\i (00:05:39) pick grid 244.9837 517.4686
+\t (00:05:39) last pick:  243.8400 518.1600
+\i (00:05:39) prepopup 244.9837 517.4686
+\i (00:05:40) pop dyn_option_select @:@Unfix 
+\i (00:05:40) unfix 
+\i (00:05:40) generaledit 
+\i (00:05:41) prepopup 244.9837 517.6402
+\i (00:05:42) delete 
+\t (00:05:42) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\t (00:05:42) Selected item not valid for current operation, ignored: Rectangle "Board Geometry/Top_Room"
+\t (00:05:42) No valid items selected for the current operation, exiting.
+\i (00:05:42) generaledit 
+\i (00:05:44) pick grid 264.3740 500.4807
+\t (00:05:44) last pick:  264.1600 500.3800
+\i (00:05:45) drag_start grid 261.3710 508.3741
+\i (00:05:45) drag_stop 300.2374 494.7323
+\i (00:05:46) prepopup 290.0274 504.6848
+\i (00:05:47) pick grid 284.2790 497.6494
+\t (00:05:47) last pick:  284.4800 497.8400
+\i (00:05:48) pop dyn_option_select 'Application Mode@:@Placement Edit' 
+\i (00:05:48) placementedit 
+\i (00:05:49) setwindow form.mini
+\i (00:05:49) FORM mini tree  'Components by refdes' 
+\i (00:05:49) setwindow pcb
+\i (00:05:49) drag_start grid 260.9421 508.4599
+\i (00:05:50) drag_stop 295.5185 501.4245
+\i (00:05:50) prepopup 290.5422 504.2558
+\i (00:05:52) pick grid 276.6430 495.0755
+\t (00:05:52) last pick:  276.8600 495.3000
+\i (00:05:53) prepopup 266.6047 504.0842
+\i (00:05:53) pick grid 258.3681 499.1079
+\t (00:05:53) last pick:  259.0800 497.8400
+\i (00:05:54) prepopup 265.8325 504.4274
+\i (00:05:55) pick grid 253.8209 492.3299
+\t (00:05:55) last pick:  254.0000 492.7600
+\i (00:05:56) zoom in 1 
+\i (00:05:56) setwindow pcb
+\i (00:05:56) zoom in 251.0753 483.1496
+\i (00:05:56) trapsize 2145
+\i (00:05:57) prepopup 254.0353 481.5623
+\i (00:05:59) pick grid 248.0295 493.9601
+\t (00:05:59) last pick:  248.9200 492.7600
+\i (00:06:00) zoom out 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom out 273.4256 490.7427
+\i (00:06:00) trapsize 4290
+\i (00:06:00) zoom out 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom out 271.2806 489.0267
+\i (00:06:00) trapsize 8580
+\i (00:06:01) zoom out 1 
+\i (00:06:01) setwindow pcb
+\i (00:06:01) zoom out 270.4227 488.6835
+\i (00:06:01) trapsize 17160
+\i (00:06:01) zoom in 1 
+\i (00:06:01) setwindow pcb
+\i (00:06:01) zoom in 276.6115 504.4273
+\i (00:06:01) trapsize 8580
+\i (00:06:02) zoom in 1 
+\i (00:06:02) setwindow pcb
+\i (00:06:02) zoom in 302.3508 513.1787
+\i (00:06:02) trapsize 4290
+\i (00:06:02) roam start
+\i (00:06:02) roam x 16
+\i (00:06:02) roam x 16
+\i (00:06:02) roam x 32
+\i (00:06:02) roam y -16
+\i (00:06:02) roam x 16
+\i (00:06:02) roam x 16
+\i (00:06:02) roam x 16
+\i (00:06:02) roam y -16
+\i (00:06:02) roam x 16
+\i (00:06:02) roam x 16
+\i (00:06:02) roam x 16
+\i (00:06:02) roam x 16
+\i (00:06:02) roam y -16
+\i (00:06:02) roam x 16
+\i (00:06:02) roam x 16
+\i (00:06:02) roam y -16
+\i (00:06:02) roam x 32
+\i (00:06:02) roam y -16
+\i (00:06:02) roam x 16
+\i (00:06:02) roam x 16
+\i (00:06:02) roam y -16
+\i (00:06:03) roam end
+\i (00:06:03) roam start
+\i (00:06:03) roam x -16
+\i (00:06:03) roam x -32
+\i (00:06:03) roam x -16
+\i (00:06:03) roam x -16
+\i (00:06:03) roam x -32
+\i (00:06:03) roam x -16
+\i (00:06:03) roam x -16
+\i (00:06:03) roam x -16
+\i (00:06:03) roam x -16
+\i (00:06:03) roam x -16
+\i (00:06:03) roam x -16
+\i (00:06:03) roam x -16
+\i (00:06:03) roam x -32
+\i (00:06:03) roam x -16
+\i (00:06:03) roam x -32
+\i (00:06:03) roam x -16
+\i (00:06:04) roam x -16
+\i (00:06:04) roam x -16
+\i (00:06:04) roam x -16
+\i (00:06:04) roam y 16
+\i (00:06:04) roam x -16
+\i (00:06:04) roam y 16
+\i (00:06:04) roam x 16
+\i (00:06:04) roam x 16
+\i (00:06:04) roam x 16
+\i (00:06:04) roam x 16
+\i (00:06:04) roam x 16
+\i (00:06:04) roam x 16
+\i (00:06:04) roam x 16
+\i (00:06:05) roam end
+\i (00:06:06) drag_start grid 300.1201 497.9693
+\i (00:06:06) drag_stop 307.0697 492.1351
+\i (00:06:07) prepopup 306.1259 492.1351
+\i (00:06:08) move 
+\t (00:06:08) Cannot edit Symbol "C1". Group "_Qp" has the LOCKED property.
+\t (00:06:08) No valid items selected for the current operation, exiting.
+\i (00:06:08) placementedit 
+\i (00:06:08) move 
+\t (00:06:08) Cannot edit Symbol "C1". Group "_Qp" has the LOCKED property.
+\t (00:06:08) No valid items selected for the current operation, exiting.
+\i (00:06:08) placementedit 
+\i (00:06:09) pick grid 302.0076 472.4874
+\t (00:06:09) last pick:  302.2600 472.4400
+\i (00:06:10) drag_start grid 299.6053 497.4545
+\i (00:06:10) drag_stop 310.6732 488.7032
+\i (00:06:11) pick grid 305.4395 493.5078
+\t (00:06:11) last pick:  304.8000 492.7600
+\i (00:06:11) move 
+\t (00:06:11) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\t (00:06:11) Cannot edit Symbol "C12". Group "_Qp" has the LOCKED property.
+\t (00:06:11) Cannot edit Symbol "C13". Group "_Qp" has the LOCKED property.
+\t (00:06:11) Cannot edit Symbol "C1". Group "_Qp" has the LOCKED property.
+\t (00:06:11) Cannot edit Symbol "C11". Group "_Qp" has the LOCKED property.
+\t (00:06:11) Cannot edit Symbol "C7". Group "_Qp" has the LOCKED property.
+\t (00:06:11) Cannot edit Symbol "C9". Group "_Qp" has the LOCKED property.
+\t (00:06:11) Cannot edit Symbol "C10". Group "_Qp" has the LOCKED property.
+\t (00:06:11) Cannot edit Symbol "C6". Group "_Qp" has the LOCKED property.
+\t (00:06:11) Cannot edit Symbol "C8". Group "_Qp" has the LOCKED property.
+\t (00:06:11) No valid items selected for the current operation, exiting.
+\i (00:06:11) placementedit 
+\i (00:06:12) drag_start grid 305.6969 493.1646
+\i (00:06:12) move 
+\t (00:06:12) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\t (00:06:12) Cannot edit Symbol "C12". Group "_Qp" has the LOCKED property.
+\t (00:06:12) Cannot edit Symbol "C13". Group "_Qp" has the LOCKED property.
+\t (00:06:12) Cannot edit Symbol "C1". Group "_Qp" has the LOCKED property.
+\t (00:06:12) Cannot edit Symbol "C11". Group "_Qp" has the LOCKED property.
+\t (00:06:12) Cannot edit Symbol "C7". Group "_Qp" has the LOCKED property.
+\t (00:06:12) Cannot edit Symbol "C9". Group "_Qp" has the LOCKED property.
+\t (00:06:12) Cannot edit Symbol "C10". Group "_Qp" has the LOCKED property.
+\t (00:06:12) Cannot edit Symbol "C6". Group "_Qp" has the LOCKED property.
+\t (00:06:12) Cannot edit Symbol "C8". Group "_Qp" has the LOCKED property.
+\t (00:06:12) No valid items selected for the current operation, exiting.
+\i (00:06:12) placementedit 
+\i (00:06:12) drag_stop grid 299.7769 473.5170
+\i (00:06:13) roam start
+\i (00:06:13) roam x 32
+\i (00:06:13) roam x 16
+\i (00:06:13) roam y 16
+\i (00:06:13) roam x 16
+\i (00:06:13) roam y 16
+\i (00:06:13) roam x 32
+\i (00:06:13) roam x 16
+\i (00:06:13) roam y 16
+\i (00:06:13) roam x 16
+\i (00:06:13) roam x 16
+\i (00:06:13) roam y 16
+\i (00:06:13) roam x 16
+\i (00:06:13) roam x 16
+\i (00:06:13) roam y 16
+\i (00:06:13) roam x 16
+\i (00:06:13) roam x 16
+\i (00:06:13) roam x 16
+\i (00:06:13) roam y 16
+\i (00:06:13) roam x 16
+\i (00:06:13) roam end
+\i (00:06:14) zoom out 1 
+\i (00:06:14) setwindow pcb
+\i (00:06:14) zoom out 304.1525 482.6974
+\i (00:06:14) trapsize 8580
+\i (00:06:16) zoom in 1 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom in 280.4724 500.5433
+\i (00:06:16) trapsize 4290
+\i (00:06:17) drag_start grid 256.6207 511.5254
+\i (00:06:17) drag_stop 303.8952 491.4488
+\i (00:06:18) prepopup 304.5816 492.7358
+\i (00:06:23) pop dyn_option_select '@:@Property edit' 
+\i (00:06:23) property edit 
+\i (00:06:29) setwindow form.editprop1
+\i (00:06:29) FORM editprop1 properties Locked 
+\i (00:06:30) FORM editprop1 properties Idx_Exclude 
+\i (00:06:30) FORM editprop1 properties Comment 
+\i (00:06:31) FORM editprop1 properties Locked 
+\i (00:06:32) FORM editprop1 properties Locked 
+\i (00:06:35) setwindow form.editprop2
+\i (00:06:35) FORM editprop2 locked prop_state YES 
+\i (00:06:39) FORM editprop2 locked bool_prop_value True 
+\i (00:06:40) FORM editprop2 apply  
+\e (00:06:40) Property 'COMMENT' requires a value.
+\i (00:06:41) setwindow form.editprop1
+\i (00:06:41) FORM editprop1 done  
+\i (00:06:41) setwindow pcb
+\i (00:06:41) placementedit 
+\i (00:06:42) pick grid 274.3808 497.0256
+\t (00:06:42) last pick:  274.3200 497.8400
+\i (00:06:43) drag_start grid 316.4217 521.6496
+\i (00:06:44) drag_stop 232.8548 491.7920
+\i (00:06:45) prepopup 283.3896 517.6171
+\i (00:06:46) pop dyn_option_select '@:@Unplace component' 
+\i (00:06:46) unplace component 
+\t (00:06:46) Selected item not valid for current operation, ignored: Group "_Qp"
+\t (00:06:46) Selected item not valid for current operation, ignored: Ratsnest "0, C10.1:Ic1.32"
+\t (00:06:46) Selected item not valid for current operation, ignored: Ratsnest "3V3, C10.2:J7.1"
+\t (00:06:46) Selected item not valid for current operation, ignored: Ratsnest "0, C7.1:Ic1.32"
+\t (00:06:46) Selected item not valid for current operation, ignored: Ratsnest "3V3, C7.2:J7.1"
+\t (00:06:46) Selected item not valid for current operation, ignored: Ratsnest "0, C6.1:Ic1.32"
+\t (00:06:46) Selected item not valid for current operation, ignored: Ratsnest "3V3, C6.2:J7.1"
+\t (00:06:46) Selected item not valid for current operation, ignored: Ratsnest "0, C8.1:Ic1.32"
+\t (00:06:46) Selected item not valid for current operation, ignored: Ratsnest "3V3_Ana, C8.2:Ic1.5"
+\t (00:06:46) Selected item not valid for current operation, ignored: Ratsnest "0, C1.1:Ic1.32"
+\t (00:06:46) Selected item not valid for current operation, ignored: Ratsnest "0, C9.1:Ic1.32"
+\t (00:06:46) Selected item not valid for current operation, ignored: Ratsnest "3V3, C9.2:J7.1"
+\t (00:06:46) Selected item not valid for current operation, ignored: Ratsnest "0, C11.1:Ic1.32"
+\t (00:06:46) Selected item not valid for current operation, ignored: Ratsnest "3V3_Ana, C11.2:Ic1.5"
+\t (00:06:46) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Nrst, Ic1.4:C1.2"
+\t (00:06:46) No valid items selected for the current operation, exiting.
+\i (00:06:46) placementedit 
+\i (00:06:53) pick grid 318.3950 511.8686
+\t (00:06:53) last pick:  317.5000 513.0800
+\i (00:06:53) zoom out 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom out 312.4750 505.9486
+\i (00:06:53) trapsize 8580
+\i (00:06:53) zoom out 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom out 312.3034 505.6054
+\i (00:06:53) trapsize 17160
+\i (00:06:53) zoom out 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom out 332.8947 466.3332
+\i (00:06:53) trapsize 34319
+\i (00:06:55) drag_start grid 617.7428 554.8763
+\i (00:06:55) drag_stop 68.6381 59.9957
+\i (00:06:56) prepopup 272.4932 495.1612
+\i (00:06:57) delete 
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N33354, Ic1.2:C12.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N33464, C12.1:C13.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N33362, Ic1.3:C13.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C10.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, C10.2:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C7.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, C7.2:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C6.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, C6.2:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C8.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3_Ana, C8.2:Ic1.5"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C1.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C9.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, C9.2:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C11.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3_Ana, C11.2:Ic1.5"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Nrst, Ic1.4:C1.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, J6.1:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, J7.2:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J5.2:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J5.3:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa0, J6.2:Ic1.6"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa1, J6.3:Ic1.7"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "1V, J5.1:D3.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pb1, Ic1.15:J7.4"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa8, Ic1.18:J7.3"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa2, Ic1.8:J6.4"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N29300, D2.1:D3.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N29300, R6.1:D2.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa3, Ic1.9:J6.5"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa4, J6.6:Ic1.10"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, Ic1.1:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Nrst, J3.1:Ic1.4"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N33362, Ic1.3:Y1.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N33354, Y1.1:Ic1.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa5, J6.7:Ic1.11"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa15, Ic1.25:J7.5"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pb3, J7.6:Ic1.26"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pb4, J7.7:Ic1.27"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.3:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.4:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, J1.1:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, J1.2:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, Ic1.16:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, Ic1.17:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pb0, J7.9:Ic1.14"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa6, J6.8:Ic1.12"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa7, Ic1.13:J6.9"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Usbdm, Ic1.21:R3.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Usbdp, Ic1.22:R2.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Boot0, R1.2:Ic1.31"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pb5, Ic1.28:J7.8"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Swclk, J1.9:Ic1.24"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Swdio, Ic1.23:J1.7"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J6.10:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J7.10:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.5:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.6:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.8:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.12:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.10:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Nrst, J1.11:J3.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, J2.1:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Boot0, J2.2:R1.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, R1.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, Led1.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N29240, R5.2:Led1.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, L1.1:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3_Ana, L1.2:Ic1.5"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.13:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.14:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J3.2:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N21736, R3.2:R4.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N29232, R5.1:R6.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N29232, C2.2:R5.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, R4.1:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C5.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C2.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C3.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C4.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N29232, C2.2:C4.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, C5.2:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, C3.2:J7.1"
+\e (00:06:57) ERROR(SPMHDB-243): Cannot modify element; the object or a parent has the FIXED property. [help]
+\i (00:06:57) placementedit 
+\i (00:06:57) delete 
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N33354, Ic1.2:C12.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N33464, C12.1:C13.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N33362, Ic1.3:C13.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C10.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, C10.2:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C7.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, C7.2:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C6.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, C6.2:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C8.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3_Ana, C8.2:Ic1.5"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C1.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C9.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, C9.2:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C11.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3_Ana, C11.2:Ic1.5"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Nrst, Ic1.4:C1.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, J6.1:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, J7.2:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J5.2:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J5.3:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa0, J6.2:Ic1.6"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa1, J6.3:Ic1.7"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "1V, J5.1:D3.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pb1, Ic1.15:J7.4"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa8, Ic1.18:J7.3"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa2, Ic1.8:J6.4"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N29300, D2.1:D3.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N29300, R6.1:D2.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa3, Ic1.9:J6.5"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa4, J6.6:Ic1.10"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, Ic1.1:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Nrst, J3.1:Ic1.4"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N33362, Ic1.3:Y1.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N33354, Y1.1:Ic1.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa5, J6.7:Ic1.11"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa15, Ic1.25:J7.5"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pb3, J7.6:Ic1.26"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pb4, J7.7:Ic1.27"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.3:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.4:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, J1.1:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, J1.2:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, Ic1.16:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, Ic1.17:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pb0, J7.9:Ic1.14"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa6, J6.8:Ic1.12"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa7, Ic1.13:J6.9"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Usbdm, Ic1.21:R3.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Usbdp, Ic1.22:R2.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Boot0, R1.2:Ic1.31"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pb5, Ic1.28:J7.8"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Swclk, J1.9:Ic1.24"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Swdio, Ic1.23:J1.7"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J6.10:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J7.10:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.5:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.6:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.8:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.12:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.10:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Nrst, J1.11:J3.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, J2.1:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Boot0, J2.2:R1.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, R1.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, Led1.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N29240, R5.2:Led1.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, L1.1:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3_Ana, L1.2:Ic1.5"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.13:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J1.14:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, J3.2:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N21736, R3.2:R4.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N29232, R5.1:R6.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N29232, C2.2:R5.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, R4.1:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C5.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C2.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C3.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "0, C4.1:Ic1.32"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "N29232, C2.2:C4.2"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, C5.2:J7.1"
+\t (00:06:57) Selected item not valid for current operation, ignored: Ratsnest "3V3, C3.2:J7.1"
+\e (00:06:57) ERROR(SPMHDB-243): Cannot modify element; the object or a parent has the FIXED property. [help]
+\i (00:06:57) placementedit 
+\i (00:07:00) pick grid 310.9305 84.0190
+\t (00:07:00) last pick:  309.8800 83.8200
+\i (00:07:01) pop dyn_option_select 'Application Mode@:@General Edit' 
+\i (00:07:01) generaledit 
+\i (00:07:02) drag_start grid 604.7016 184.9170
+\i (00:07:02) drag_stop 122.1758 589.8817
+\i (00:07:03) prepopup 289.6527 511.6343
+\i (00:07:04) delete 
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "N33354, Ic1.2:C12.2"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C12.1 (N33464)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "N33464, C12.1:C13.1"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C12.2 (N33354)"
+\t (00:07:04) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\t (00:07:04) Selected item not valid for current operation, ignored: Rectangle "Board Geometry/Top_Room"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "N33362, Ic1.3:C13.2"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C13.1 (N33464)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C13.2 (N33362)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C10.1 (0)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "0, C10.1:Ic1.32"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C10.2 (3V3)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "3V3, C10.2:J7.1"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C7.1 (0)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "0, C7.1:Ic1.32"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C7.2 (3V3)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "3V3, C7.2:J7.1"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C6.1 (0)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "0, C6.1:Ic1.32"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C6.2 (3V3)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "3V3, C6.2:J7.1"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C8.1 (0)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "0, C8.1:Ic1.32"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C8.2 (3V3_Ana)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "3V3_Ana, C8.2:Ic1.5"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C1.1 (0)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "0, C1.1:Ic1.32"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C9.1 (0)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "0, C9.1:Ic1.32"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C9.2 (3V3)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "3V3, C9.2:J7.1"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C11.1 (0)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "0, C11.1:Ic1.32"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C11.2 (3V3_Ana)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "3V3_Ana, C11.2:Ic1.5"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Nrst, Ic1.4:C1.2"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "C1.2 (Stm32l052_Nrst)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Mechanical Pin "J5."
+\t (00:07:04) Selected item not valid for current operation, ignored: Mechanical Pin "J5."
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "3V3, J6.1:J7.1"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J6.1 (3V3)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J6.2 (Stm32l052_Pa0)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "3V3, J7.2:J7.1"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J7.1 (3V3)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J7.2 (3V3)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "0, J5.2:Ic1.32"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "0, J5.3:Ic1.32"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa0, J6.2:Ic1.6"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa1, J6.3:Ic1.7"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "1V, J5.1:D3.2"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J5.1 (1V)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J5.2 (0)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J5.3 (0)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pb1, Ic1.15:J7.4"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa8, Ic1.18:J7.3"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa2, Ic1.8:J6.4"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J6.3 (Stm32l052_Pa1)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J6.4 (Stm32l052_Pa2)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J6.5 (Stm32l052_Pa3)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J7.3 (Stm32l052_Pa8)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J7.4 (Stm32l052_Pb1)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J7.5 (Stm32l052_Pa15)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "N29300, D2.1:D3.1"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "N29300, R6.1:D2.1"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "D3.1 (N29300)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "D3.2 (1V)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "D2.1 (N29300)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "D2.2 (5V)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "D1.1 (Dummy Net)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "D1.2 (2V)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa3, Ic1.9:J6.5"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa4, J6.6:Ic1.10"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.8 (Stm32l052_Pa2)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.9 (Stm32l052_Pa3)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "3V3, Ic1.1:J7.1"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Nrst, J3.1:Ic1.4"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "N33362, Ic1.3:Y1.2"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "N33354, Y1.1:Ic1.2"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa5, J6.7:Ic1.11"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.1 (3V3)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.2 (N33354)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.3 (N33362)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.4 (Stm32l052_Nrst)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.5 (3V3_Ana)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.6 (Stm32l052_Pa0)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.7 (Stm32l052_Pa1)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.32 (0)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa15, Ic1.25:J7.5"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pb3, J7.6:Ic1.26"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pb4, J7.7:Ic1.27"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J6.6 (Stm32l052_Pa4)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J6.7 (Stm32l052_Pa5)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J6.8 (Stm32l052_Pa6)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J7.6 (Stm32l052_Pb3)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J7.7 (Stm32l052_Pb4)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J7.8 (Stm32l052_Pb5)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "0, J1.3:Ic1.32"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "0, J1.4:Ic1.32"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "3V3, J1.1:J7.1"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "3V3, J1.2:J7.1"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J1.1 (3V3)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J1.2 (3V3)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J1.3 (0)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "J1.4 (0)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Mechanical Pin "J1."
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "0, Ic1.16:Ic1.32"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "3V3, Ic1.17:J7.1"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pb0, J7.9:Ic1.14"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa6, J6.8:Ic1.12"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pa7, Ic1.13:J6.9"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.10 (Stm32l052_Pa4)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.11 (Stm32l052_Pa5)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.12 (Stm32l052_Pa6)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.13 (Stm32l052_Pa7)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.14 (Stm32l052_Pb0)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.15 (Stm32l052_Pb1)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.16 (0)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.17 (3V3)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Usbdm, Ic1.21:R3.1"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Usbdp, Ic1.22:R2.1"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Boot0, R1.2:Ic1.31"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Pb5, Ic1.28:J7.8"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Swclk, J1.9:Ic1.24"
+\t (00:07:04) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Swdio, Ic1.23:J1.7"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.18 (Stm32l052_Pa8)"
+\t (00:07:04) Selected item not valid for current operation, ignored: Pin "Ic1.19 (L052h743_Rs485tx)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "Ic1.20 (L052h743_Rs485rx)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "Ic1.21 (Stm32l052_Usbdm)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "Ic1.22 (Stm32l052_Usbdp)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "Ic1.23 (Stm32l052_Swdio)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "Ic1.24 (Stm32l052_Swclk)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "Ic1.25 (Stm32l052_Pa15)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "Ic1.26 (Stm32l052_Pb3)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "Ic1.27 (Stm32l052_Pb4)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "Ic1.28 (Stm32l052_Pb5)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "Ic1.29 (L052wb55_I2csda)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "Ic1.30 (L052wb55_I2cscl)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "Ic1.31 (Stm32l052_Boot0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "0, J6.10:Ic1.32"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J6.9 (Stm32l052_Pa7)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J6.10 (0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "0, J7.10:Ic1.32"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J7.9 (Stm32l052_Pb0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J7.10 (0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "0, J1.5:Ic1.32"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "0, J1.6:Ic1.32"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "0, J1.8:Ic1.32"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "0, J1.12:Ic1.32"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "0, J1.10:Ic1.32"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Nrst, J1.11:J3.1"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J1.5 (0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J1.6 (0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J1.7 (Stm32l052_Swdio)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J1.8 (0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J1.9 (Stm32l052_Swclk)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J1.10 (0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J1.11 (Stm32l052_Nrst)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J1.12 (0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "3V3, J2.1:J7.1"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J2.1 (3V3)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "Stm32l052_Boot0, J2.2:R1.2"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J2.2 (Stm32l052_Boot0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "0, R1.1:Ic1.32"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "0, Led1.1:Ic1.32"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "N29240, R5.2:Led1.2"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "R2.1 (Stm32l052_Usbdp)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "R1.1 (0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "R1.2 (Stm32l052_Boot0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "Led1.1 (0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "Led1.2 (N29240)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "3V3, L1.1:J7.1"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "3V3_Ana, L1.2:Ic1.5"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "L1.2 (3V3_Ana)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "L1.1 (3V3)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "0, J1.13:Ic1.32"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "0, J1.14:Ic1.32"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J1.13 (0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J1.14 (0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Mechanical Pin "J1."
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J3.1 (Stm32l052_Nrst)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "0, J3.2:Ic1.32"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "J3.2 (0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "N21736, R3.2:R4.2"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "R3.1 (Stm32l052_Usbdm)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "R3.2 (N21736)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "R2.2 (N21700)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "R6.1 (N29300)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "R6.2 (N29232)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "N29232, R5.1:R6.2"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "N29232, C2.2:R5.1"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "R5.1 (N29232)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "R5.2 (N29240)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "3V3, R4.1:J7.1"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "R4.1 (3V3)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "R4.2 (N21736)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "Y1.1 (N33354)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "Y1.2 (N33362)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "0, C5.1:Ic1.32"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "C5.1 (0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "0, C2.1:Ic1.32"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "0, C3.1:Ic1.32"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "0, C4.1:Ic1.32"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "N29232, C2.2:C4.2"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "C4.1 (0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "C3.1 (0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "C2.2 (N29232)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "C2.1 (0)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "3V3, C5.2:J7.1"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "C5.2 (3V3)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Ratsnest "3V3, C3.2:J7.1"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "C4.2 (N29232)"
+\t (00:07:05) Selected item not valid for current operation, ignored: Pin "C3.2 (3V3)"
+\i (00:07:05) generaledit 
+\i (00:07:07) pick grid 589.6012 372.2990
+\t (00:07:07) last pick:  589.2800 373.3800
+\i (00:07:09) zoom in 1 
+\i (00:07:09) setwindow pcb
+\i (00:07:09) zoom in 248.4699 496.5339
+\i (00:07:09) trapsize 17160
+\i (00:07:09) zoom in 1 
+\i (00:07:09) setwindow pcb
+\i (00:07:09) zoom in 249.4995 492.7589
+\i (00:07:09) trapsize 8580
+\i (00:07:14) setwindow form.mini
+\i (00:07:14) FORM mini class 'BOARD GEOMETRY' 
+\i (00:07:17) FORM mini subclass TOP_ROOM 
+\i (00:07:17) setwindow pcb
+\i (00:07:17) updateport CVPane
+\i (00:07:17) roam start
+\i (00:07:17) roam x -16
+\i (00:07:17) roam y -16
+\i (00:07:17) roam y -16
+\i (00:07:17) roam x -16
+\i (00:07:17) roam y -16
+\i (00:07:17) roam x -16
+\i (00:07:17) roam y -16
+\i (00:07:17) roam y -16
+\i (00:07:17) roam x -16
+\i (00:07:17) roam y -32
+\i (00:07:17) roam x -16
+\i (00:07:17) roam y -16
+\i (00:07:17) roam y -16
+\i (00:07:17) roam x -16
+\i (00:07:17) roam y -32
+\i (00:07:17) roam y -16
+\i (00:07:17) roam y -32
+\i (00:07:17) roam y -16
+\i (00:07:17) roam x -16
+\i (00:07:17) roam y -32
+\i (00:07:18) roam end
+\i (00:07:18) zoom in 1 
+\i (00:07:18) setwindow pcb
+\i (00:07:18) zoom in 308.8714 510.1526
+\i (00:07:18) trapsize 4290
+\i (00:07:19) prepopup 308.1851 512.8123
+\i (00:07:21) delete 
+\i (00:07:22) pick grid 308.3566 514.4425
+\t (00:07:22) last pick:  307.3400 515.6200
+\t (00:07:22) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\i (00:07:23) pick grid 308.1851 513.9277
+\t (00:07:23) last pick:  307.3400 513.0800
+\t (00:07:23) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\i (00:07:23) drag_start grid 306.4691 518.9898
+\i (00:07:23) drag_stop 312.3033 508.3508
+\t (00:07:23) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\i (00:07:26) pop dyn_option_select 'Application Mode@:@Shape Edit' 
+\i (00:07:26) shapeedit 
+\i (00:07:26) updateport CVPane
+\i (00:07:27) pick grid 308.0993 506.5491
+\t (00:07:27) last pick:  307.9750 506.7300
+\i (00:07:27) click shape main 
+\t (00:07:27) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\i (00:07:27) shapeedit 
+\i (00:07:28) prepopup 308.0993 506.5491
+\i (00:07:29) delete 
+\t (00:07:29) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\t (00:07:29) Selected item not valid for current operation, ignored: Rectangle "Board Geometry/Top_Room"
+\t (00:07:29) No valid items selected for the current operation, exiting.
+\i (00:07:29) shapeedit 
+\i (00:07:29) prepopup 308.6140 505.6911
+\i (00:07:30) delete 
+\t (00:07:30) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\t (00:07:30) Selected item not valid for current operation, ignored: Rectangle "Board Geometry/Top_Room"
+\t (00:07:30) No valid items selected for the current operation, exiting.
+\i (00:07:30) shapeedit 
+\i (00:07:31) pick grid 308.4424 506.9781
+\t (00:07:31) last pick:  308.6100 506.7300
+\i (00:07:31) click shape main 
+\t (00:07:31) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\i (00:07:31) shapeedit 
+\i (00:07:31) pick grid 308.4424 506.8923
+\t (00:07:31) last pick:  308.6100 506.7300
+\i (00:07:31) click shape main 
+\t (00:07:31) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\i (00:07:31) shapeedit 
+\i (00:07:35) prepopup 293.1705 497.7119
+\i (00:07:47) pop dyn_option_select '@:@Delete Islands' 
+\i (00:07:47) island_delete 
+\t (00:07:47) No shape islands present on design!
+\i (00:07:47) shapeedit 
+\i (00:07:48) pick grid 308.3566 500.6291
+\t (00:07:48) last pick:  308.6100 500.3800
+\i (00:07:48) click shape main 
+\t (00:07:48) Cannot edit Rectangle "Board Geometry/Top_Room". It has the FIXED property.
+\i (00:07:48) shapeedit 
+\i (00:07:50) pop dyn_option_select 'Application Mode@:@Placement Edit' 
+\i (00:07:50) placementedit 
+\i (00:07:50) setwindow form.mini
+\i (00:07:50) FORM mini tree  'Components by refdes' 
+\i (00:07:52) setwindow pcb
+\i (00:07:52) zoom in 1 
+\i (00:07:52) setwindow pcb
+\i (00:07:52) zoom in 303.7236 505.0905
+\t (00:07:52) Loading apt.cxt 
+\i (00:07:52) trapsize 2145
+\i (00:07:52) zoom in 1 
+\i (00:07:52) setwindow pcb
+\i (00:07:52) zoom in 303.7236 505.0906
+\i (00:07:52) trapsize 1072
+\i (00:07:53) zoom out 1 
+\i (00:07:53) setwindow pcb
+\i (00:07:53) zoom out 304.9248 501.1010
+\i (00:07:53) trapsize 2145
+\i (00:07:53) zoom out 1 
+\i (00:07:53) setwindow pcb
+\i (00:07:53) zoom out 304.9247 501.1011
+\i (00:07:53) trapsize 4290
+\i (00:07:53) zoom out 1 
+\i (00:07:53) setwindow pcb
+\i (00:07:53) zoom out 304.9247 501.1011
+\i (00:07:53) trapsize 8580
+\i (00:07:53) zoom out 1 
+\i (00:07:53) setwindow pcb
+\i (00:07:53) zoom out 304.9248 496.3624
+\i (00:07:53) trapsize 17160
+\i (00:07:54) zoom out 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom out 308.6999 389.4585
+\i (00:07:54) trapsize 34319
+\i (00:07:54) zoom out 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom out 577.9327 175.9940
+\i (00:07:54) trapsize 38567
+\i (00:07:54) zoom in 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 273.8292 381.8788
+\i (00:07:54) trapsize 19284
+\i (00:07:54) zoom in 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 276.9146 378.7935
+\i (00:07:54) trapsize 9642
+\i (00:07:54) zoom in 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 294.6556 362.9809
+\i (00:07:54) trapsize 4821
+\i (00:07:55) zoom out 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom out 322.5206 343.0223
+\i (00:07:55) trapsize 9642
+\i (00:07:55) zoom out 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom out 322.7136 343.0222
+\i (00:07:55) trapsize 19284
+\i (00:07:55) zoom in 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom in 405.2480 298.2840
+\i (00:07:55) trapsize 9642
+\i (00:07:55) zoom in 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom in 420.2893 288.4493
+\i (00:07:55) trapsize 4821
+\i (00:07:55) zoom in 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom in 420.6750 288.1601
+\i (00:07:55) trapsize 2410
+\i (00:07:56) zoom out 1 
+\i (00:07:56) setwindow pcb
+\i (00:07:56) zoom out 415.8541 289.0279
+\i (00:07:56) trapsize 4821
+\i (00:07:56) zoom out 1 
+\i (00:07:56) setwindow pcb
+\i (00:07:56) zoom out 415.8541 289.0278
+\i (00:07:56) trapsize 9642
+\i (00:07:56) zoom out 1 
+\i (00:07:56) setwindow pcb
+\i (00:07:56) zoom out 415.6614 289.0278
+\i (00:07:56) trapsize 19284
+\i (00:07:56) zoom out 1 
+\i (00:07:56) setwindow pcb
+\i (00:07:56) zoom out 415.2757 289.0278
+\i (00:07:56) trapsize 38567
+\i (00:07:58) exit 
+\e (00:07:58) Do you want to save the changes you made to d:/projects/hardwaredesign/dosti mps-3/allegro/mps3hwdk.brd?
+\i (00:07:59) fillin no 
+\t (00:07:59) Lic Summary:
+[20:25:29.001192] cdslmd servers: DESKTOP-D851ENJ
+[20:25:29.001192] Feature usage summary:
+[20:25:29.001192] Allegro_PCB_RF  
+[20:25:29.001192] Allegro_PCB_Harmony_Option  
+[20:25:29.001192] Allegro_Venture_PCB_Designer  
+[20:25:29.001192] PCB_design_studio  
+[20:25:29.001192] Venture_PCB_Schematic  
+[20:25:29.001192] Allegro_Venture_PCB_Designer2  
+[20:25:29.016544]  Allegro_PCB_Productivity_TB  
+[20:25:29.309607]   Allegro_X_Platinum_Layout  
+
+\t (00:08:00)     Journal end - Sun Dec 22 20:25:29 2024

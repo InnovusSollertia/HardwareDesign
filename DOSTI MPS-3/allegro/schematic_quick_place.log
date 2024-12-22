@@ -1,0 +1,26 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : mps3hwdk.brd                                  )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Sun Dec 22 20:28:02 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Placing page ""
+	Placed symbol:  C12 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P / CAPC1608X90N at (241.2700 499.2300)
+	Placed symbol:  C13 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P / CAPC1608X90N at (253.7500 499.2300)
+	Placed symbol:  IC2 / LM1117MPX-50NOPB_SOT230P700X180-3N_LM1117MPX-50NOPB / SOT230P700X180-3N at (269.2900 484.9550)
+	Placed symbol:  C1 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N at (324.3744 510.5300)
+	Placed symbol:  C11 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N at (322.2700 533.1300)
+	Placed symbol:  C7 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N at (297.3100 521.8300)
+	Placed symbol:  C9 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N at (322.2700 521.8300)
+	Placed symbol:  C10 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N at (284.8300 521.8300)
+	Placed symbol:  C6 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N at (309.7900 521.8300)
+	Placed symbol:  C8 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N at (309.7900 533.1300)
+	ERROR:   Could not find symbol:  J4 / 219320-0001_0_2193200001_219320-0001 / 2193200001
+
+Placed 10 of 11 symbols.

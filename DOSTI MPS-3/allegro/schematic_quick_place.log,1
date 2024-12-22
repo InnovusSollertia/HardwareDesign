@@ -1,0 +1,30 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : mps3hwdk.brd                                  )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Sun Dec 22 20:19:01 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Placing page ""
+	Placed symbol:  C2 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N at (253.7500 481.9800)
+	Placed symbol:  C5 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N at (266.2300 493.2800)
+	Placed symbol:  C3 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N at (278.7100 493.2800)
+	Placed symbol:  C4 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N at (241.2700 481.9800)
+	ERROR:   Could not find symbol:  C1 / C1206C223F8HACAUTO_C1206_DISCRETE_100N / C1206
+	ERROR:   Could not find symbol:  C11 / C1206C223F8HACAUTO_C1206_DISCRETE_100N / C1206
+	ERROR:   Could not find symbol:  C7 / C1206C223F8HACAUTO_C1206_DISCRETE_100N / C1206
+	ERROR:   Could not find symbol:  C9 / C1206C223F8HACAUTO_C1206_DISCRETE_100N / C1206
+	ERROR:   Could not find symbol:  C10 / C1206C223F8HACAUTO_C1206_DISCRETE_10U / C1206
+	ERROR:   Could not find symbol:  C6 / C1206C223F8HACAUTO_C1206_DISCRETE_10U / C1206
+	ERROR:   Could not find symbol:  C8 / C1206C223F8HACAUTO_C1206_DISCRETE_10U / C1206
+	ERROR:   Could not find symbol:  C12 / C1206C223F8HACAUTO_C1206_DISCRETE_1.2P / C1206
+	ERROR:   Could not find symbol:  C13 / C1206C223F8HACAUTO_C1206_DISCRETE_1.2P / C1206
+	ERROR:   Could not find symbol:  IC2 / LM1117MPX-ADJNOPB_SOT230P700X180-4N_LM1117MPX-ADJNOPB / SOT230P700X180-4N
+	ERROR:   Could not find symbol:  J4 / 219320-0001_0_2193200001_219320-0001 / 2193200001
+
+Placed 4 of 15 symbols.
