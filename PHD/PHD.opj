@@ -92,6 +92,10 @@
       (Type "Log File")
       (LogFile "D:\Projects\HardwareDesign\PHD\allegro\eco.txt")))
   (PartMRUSelector
+    (149-0801-801
+      (FullPartName "149-0801-801.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\149-0801-801.OLB")
+      (DeviceIndex "0"))
     (STM32L052K8T6
       (FullPartName "STM32L052K8T6.Normal")
       (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\STM32L052K8T6.OLB")
@@ -120,13 +124,27 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
+      (Path "Design Resources" "d:\projects\hardwaredesign\phd\phd.dsn")
+      (Path "Design Resources" "d:\projects\hardwaredesign\phd\phd.dsn"
+         "SCHEMATIC1")
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs")
-      (Select "Referenced Projects"))
+      (Select "Design Resources" "d:\projects\hardwaredesign\phd\phd.dsn"
+         "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 574"))
-      (Tab 0))))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 518"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1255 24 536")
+        (Scroll "310 200")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\HARDWAREDESIGN\PHD\PHD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

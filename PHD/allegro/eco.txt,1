@@ -3,139 +3,87 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  d:/projects/hardwaredesign/phd/allegro/phd.brd                              |
-|                                                    Tue Jan  7 16:21:39 2025  |
+|                                                    Tue Jan  7 17:32:00 2025  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  GND          net RENAMED (to net name listed on right)           N02456       
+  N03125       pins ADDED TO this new net
+                                 J1.1                           
+                                 J2.1                           
+                                 J3.1                           
+                                 J4.1                           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N00970       pins MOVED FROM this net (to net name listed on right)
-                                 J1.3            242.090 227.160
-                                                                         N02065
-                                 J2.9            245.090 199.220
-                                                                         N02145
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N00985       pins MOVED FROM this net (to net name listed on right)
-                                 J1.4            242.590 227.160
-                                                                         N02069
-                                 J2.10           245.590 199.220
-                                                                         N02141
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N00997       pins MOVED FROM this net (to net name listed on right)
-                                 J1.8            244.590 227.160
-                                                                         N02097
-                                 J2.6            243.590 199.220
-                                                                         N02117
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01009       pins MOVED FROM this net (to net name listed on right)
-                                 J1.5            243.090 227.160
-                                                                         N02093
-                                 J2.7            244.090 199.220
-                                                                         N02121
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01021       pins MOVED FROM this net (to net name listed on right)
-                                 J1.6            243.590 227.160
-                                                                         N02117
-                                 J2.8            244.590 199.220
-                                                                         N02097
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01033       pins MOVED FROM this net (to net name listed on right)
-                                 J1.7            244.090 227.160
-                                                                         N02121
-                                 J2.5            243.090 199.220
-                                                                         N02093
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01045       pins MOVED FROM this net (to net name listed on right)
-                                 J1.10           245.590 227.160
-                                                                         N02141
-                                 J2.4            242.590 199.220
-                                                                         N02069
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01060       pins MOVED FROM this net (to net name listed on right)
+  N03160       pins ADDED TO this new net
+                                 J1.2                           
+                                 J2.2                           
+                                 J3.2                           
+                                 J4.2                           
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  d:/projects/hardwaredesign/phd/allegro/phd.brd                              |
-|                                                    Tue Jan  7 16:21:39 2025  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 J1.9            245.090 227.160
-                                                                         N02145
-                                 J2.3            242.090 199.220
-                                                                         N02065
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01075       net RENAMED (to net name listed on right)           N02207       
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01087       net RENAMED (to net name listed on right)           N02232       
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01099       net RENAMED (to net name listed on right)           N02341       
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01114       net RENAMED (to net name listed on right)           N02371       
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01126       net RENAMED (to net name listed on right)           N02396       
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01138       net RENAMED (to net name listed on right)           N02426       
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VBUS         pins MOVED FROM this net (to net name listed on right)
-                                 J1.2            241.490 227.160
-                                                                         N02151
-                                 J1.11           246.190 227.160
-                                                                         N02180
-                                 J2.2            241.490 199.220
-                                                                         N02151
-                                 J2.11           246.190 199.220
-                                                                         N02180
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  d:/projects/hardwaredesign/phd/allegro/phd.brd                              |
-|                                                    Tue Jan  7 16:21:39 2025  |
+|                                                    Tue Jan  7 17:32:00 2025  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- DX07S016JA1R1500_DX07S016JA1R1500_DX07S016JA1R1500_USBTYPEC001
+ 149-0801-801_1490801801_149-0801-801_149-0801-801
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  d:/projects/hardwaredesign/phd/allegro/phd.brd                              |
+|                                                    Tue Jan  7 17:32:00 2025  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1                 STM32L052K8T6_QFP80P900X900X160-32N_STM32L052K8T6_STM32L052K8T6                
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
 |  d:/projects/hardwaredesign/phd/allegro/phd.brd                              |
-|                                                    Tue Jan  7 16:21:39 2025  |
+|                                                    Tue Jan  7 17:32:00 2025  |
 |------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
+| COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|    ref des        |    device type                                           |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J1                  DX07S016JA1R1500_DX07S016JA1R1500_DX07S016JA1R1500_USBTYPEC001 243.840 226.060 DX07S016JA1R1500_DX07S016JA1R1500_DX07S016JA1R1500_USBTC001
- J2                  DX07S016JA1R1500_DX07S016JA1R1500_DX07S016JA1R1500_USBTYPEC001 243.840 198.120 DX07S016JA1R1500_DX07S016JA1R1500_DX07S016JA1R1500_USBTC001
+ J1                  149-0801-801_1490801801_149-0801-801_149-0801-801 
+ J2                  149-0801-801_1490801801_149-0801-801_149-0801-801 
+ J3                  149-0801-801_1490801801_149-0801-801_149-0801-801 
+ J4                  149-0801-801_1490801801_149-0801-801_149-0801-801 
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   5  |
 |------------------------------------------------------------------------------|
 |  d:/projects/hardwaredesign/phd/allegro/phd.brd                              |
-|                                                    Tue Jan  7 16:21:39 2025  |
+|                                                    Tue Jan  7 17:32:00 2025  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J1.2           243.840 226.060 PRIM_FILE      .\pstchip.dat
- J1.2           243.840 226.060 XY             (510,370)
- J2.2           243.840 198.120 PRIM_FILE      .\pstchip.dat
- J2.2           243.840 198.120 XY             (250,370)
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J1.2                           XY             (340,200)
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ J2.2                           XY             (490,200)
+ J3.2                           PRIM_FILE      .\pstchip.dat
+ J3.2                           XY             (490,260)
+ J4.2                           PRIM_FILE      .\pstchip.dat
+ J4.2                           XY             (490,140)
 |------------------------------------------------------------------------------|
-|       Nets changed          :      27                                        |
+|       Nets changed          :       8                                        |
 |       Comp definitions added:       1                                        |
-|       Components changed    :       2                                        |
-|       Slot property added   :       4                                        |
+|       Components added      :       4                                        |
+|       Components deleted    :       1                                        |
+|       Slot property added   :       8                                        |
 |                                                                              |
-|   Total ECO changes reported:      34                                        |
+|   Total ECO changes reported:      22                                        |
 |------------------------------------------------------------------------------|

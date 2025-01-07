@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : phd.brd                                       )
 (    Software Version : 24.1P001                                      )
-(    Date/Time        : Tue Jan  7 16:28:05 2025                      )
+(    Date/Time        : Tue Jan  7 17:34:41 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -17,28 +17,28 @@ Ripup retain bondwire:       No
 Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
-Schematic directory:         'd:\projects\hardwaredesign\phd\allegro'
-Design Directory:            'D:/Projects/HardwareDesign/PHD/allegro'
-Old design name:             'D:/Projects/HardwareDesign/PHD/allegro/phd.brd'
-New design name:             'D:/Projects/HardwareDesign/PHD/allegro/phd.brd'
+Schematic directory:         '.'
+Design Directory:            'd:/projects/hardwaredesign/phd/allegro'
+Old design name:             'd:/projects/hardwaredesign/phd/allegro/phd.brd'
+New design name:             'd:/projects/hardwaredesign/phd/allegro/phd.brd'
 
-CmdLine: netrev.exe -y 1 -n -i d:\projects\hardwaredesign\phd\allegro D:/Projects/HardwareDesign/PHD/allegro/phd.brd D:/Projects/HardwareDesign/PHD/allegro/phd.brd
+CmdLine: netrev -y 1 -q netrev_constraint_report.xml d:/projects/hardwaredesign/phd/allegro/#Taaaaau10572.tmp
 
 ------ Preparing to read pst files ------
 
-Starting to read d:/projects/hardwaredesign/phd/allegro/pstchip.dat 
-   Finished reading d:/projects/hardwaredesign/phd/allegro/pstchip.dat (00:00:00.01)
-Starting to read d:/projects/hardwaredesign/phd/allegro/pstxprt.dat 
-   Finished reading d:/projects/hardwaredesign/phd/allegro/pstxprt.dat (00:00:00.00)
-Starting to read d:/projects/hardwaredesign/phd/allegro/pstxnet.dat 
-   Finished reading d:/projects/hardwaredesign/phd/allegro/pstxnet.dat (00:00:00.00)
+Starting to read ./pstchip.dat 
+   Finished reading ./pstchip.dat (00:00:00.01)
+Starting to read ./pstxprt.dat 
+   Finished reading ./pstxprt.dat (00:00:00.00)
+Starting to read ./pstxnet.dat 
+   Finished reading ./pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
 
 ------ Library Paths ------
 MODULEPATH =  . 
-           C:/Cadence/SPB_24.1/share/orApps/OrCaptureApp/../../../share/local/pcb/modules 
+           c:/cadence/spb_24.1/share/local/pcb/modules 
 
 PSMPATH =  D:/Projects/CadenceAllegro/CIS/psmpath 
 
@@ -48,7 +48,7 @@ PADPATH =  D:/Projects/CadenceAllegro/CIS/psmpath
 ------ Summary Statistics ------
 
 
-netrev run on Jan 7 16:28:05 2025
+netrev run on Jan 7 17:34:41 2025
    DESIGN NAME : 'PHD'
    PACKAGING ON Sep  4 2024 20:54:11
 
@@ -73,6 +73,6 @@ netrev run on Jan 7 16:28:05 2025
  No oversight detected
  No warning detected
 
-cpu time      0:00:27
-elapsed time  0:00:01
+cpu time      0:00:25
+elapsed time  0:00:00
 
