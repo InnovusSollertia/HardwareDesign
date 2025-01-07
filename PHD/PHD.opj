@@ -1,6 +1,6 @@
 (ExpressProject "PHD"
   (ProjectVersion "19981106")
-  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[01/04/25]")
+  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[01/07/25]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -92,10 +92,14 @@
       (Type "Log File")
       (LogFile "D:\Projects\HardwareDesign\PHD\allegro\eco.txt")))
   (PartMRUSelector
+    (STM32L052K8T6
+      (FullPartName "STM32L052K8T6.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\STM32L052K8T6.OLB")
+      (DeviceIndex "0"))
     (DX07S016JA1R1500
       (FullPartName "DX07S016JA1R1500.Normal")
       (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CONNECTORS. USB TYPE-C\DX07S016JA1R1500\DX07S016JA1R1500.OLB")
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\DX07S016JA1R1500.OLB")
       (DeviceIndex "0"))
     (R
       (FullPartName "R.Normal")
@@ -124,15 +128,5 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 523"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1255 24 541")
-        (Scroll "0 367")
-        (Zoom "126")
-        (Occurrence "/"))
-      (Path "D:\PROJECTS\HARDWAREDESIGN\PHD\PHD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 574"))
+      (Tab 0))))

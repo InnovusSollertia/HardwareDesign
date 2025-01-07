@@ -3,45 +3,68 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  D:/Projects/HardwareDesign/PHD/allegro/phd.brd                              |
-|                                                    Sat Jan  4 21:17:18 2025  |
+|                                                    Tue Jan  7 16:28:06 2025  |
 |------------------------------------------------------------------------------|
-| COMPONENT DEFINITION added to design                                         |
+| NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    device type                                                               |
+|   net  name |  type of change |                net     pins                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- DX07S016JA1R1500_DX07S016JA1R1500_DX07S016JA1R1500_USBTC001
+  VDDA         pins ADDED TO this new net
+                                 IC1.5          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_1        pins ADDED TO this new net
+                                 IC1.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_2        pins ADDED TO this new net
+                                 IC1.17         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VSS_1        pins ADDED TO this new net
+                                 IC1.16         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VSS_2        pins ADDED TO this new net
+                                 IC1.32         
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  D:/Projects/HardwareDesign/PHD/allegro/phd.brd                              |
-|                                                    Sat Jan  4 21:17:18 2025  |
+|                                                    Tue Jan  7 16:28:06 2025  |
 |------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
+| COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J1                  DX07S016JA1R1500_DX07S016JA1R1500_DX07S016JA1R1500_USBTC001                 DX07S016JA1R1500_JAE_DX07S016JA1R1500_NONE_USBTC001
- J2                  DX07S016JA1R1500_DX07S016JA1R1500_DX07S016JA1R1500_USBTC001                 DX07S016JA1R1500_JAE_DX07S016JA1R1500_NONE_USBTC001
+ STM32L052K8T6_QFP80P900X900X160-32N_STM32L052K8T6_STM32L052K8T6
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  D:/Projects/HardwareDesign/PHD/allegro/phd.brd                              |
-|                                                    Sat Jan  4 21:17:18 2025  |
+|                                                    Tue Jan  7 16:28:06 2025  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1                 STM32L052K8T6_QFP80P900X900X160-32N_STM32L052K8T6_STM32L052K8T6 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/PHD/allegro/phd.brd                              |
+|                                                    Tue Jan  7 16:28:06 2025  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J1.2                           PRIM_FILE      .\pstchip.dat
- J1.2                           XY             (480,190)
- J2.2                           PRIM_FILE      .\pstchip.dat
- J2.2                           XY             (480,390)
+ IC1.32                         PRIM_FILE      .\pstchip.dat
+ IC1.32                         XY             (360,320)
 |------------------------------------------------------------------------------|
+|       Nets changed          :       5                                        |
 |       Comp definitions added:       1                                        |
-|       Components changed    :       2                                        |
-|       Slot property added   :       4                                        |
+|       Components added      :       1                                        |
+|       Slot property added   :       2                                        |
 |                                                                              |
-|   Total ECO changes reported:       7                                        |
+|   Total ECO changes reported:       9                                        |
 |------------------------------------------------------------------------------|

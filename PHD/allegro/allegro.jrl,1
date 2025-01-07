@@ -1,7 +1,7 @@
 \t (00:00:01) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Sat Jan  4 20:58:50 2025
-\t (00:00:01)         Host=DESKTOP-D851ENJ User=Prometheus Pid=12400 CPUs=12
-\t (00:00:01) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession Prometheus -proj D:\Projects\HardwareDesign\PHD\PHD.opj D:\Projects\HardwareDesign\PHD\allegro\phd.brd
+\t (00:00:01)     Journal start - Tue Jan  7 16:28:08 2025
+\t (00:00:01)         Host=DESKTOP-D851ENJ User=Prometheus Pid=13216 CPUs=12
+\t (00:00:01) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession Prometheus -proj d:\projects\hardwaredesign\phd\phd.opj D:/Projects/HardwareDesign/PHD/allegro/phd.brd
 \t (00:00:01) 
 \t (00:00:01) Loading axlcore.cxt 
 \t (00:00:04) Opening existing design...
@@ -9,502 +9,128 @@
 \i (00:00:04) trapsize 20000
 \i (00:00:04) trapsize 21429
 \i (00:00:04) trapsize 21875
-\i (00:00:04) trapsize 32915
+\i (00:00:04) trapsize 80153
 \i (00:00:04) setwindow form.mini
 \i (00:00:04) FORM mini tree  'Components by refdes' 
 \i (00:00:04) setwindow pcb
-\i (00:00:04) trapsize 32915
+\i (00:00:04) trapsize 80153
 \t (00:00:04) > Sending response DoneOpenBoard
 \t (00:00:04) Loading NV GPU Plugin
-\i (00:00:04) trapsize 9642
+\i (00:00:04) trapsize 11654
 \i (00:00:05) placementedit 
-\i (00:00:07) setwindow form.mini
-\i (00:00:07) FORM mini tree 'MULTISEL YES' 'Components by refdes' 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) place manual 
-\t (00:00:07) Placing R1 / R_SMD0805_10K_R001 / SMD0805 on Top.
-\i (00:00:08) zoom in 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom in 8928.37 9517.91
-\i (00:00:08) trapsize 4821
-\i (00:00:08) zoom in 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom in 8928.38 9508.27
-\i (00:00:08) trapsize 2410
-\i (00:00:08) zoom in 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom in 8913.92 9498.63
-\i (00:00:08) trapsize 1205
-\i (00:00:09) zoom in 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom in 8899.46 9488.99
-\i (00:00:09) trapsize 603
-\i (00:00:09) zoom in 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom in 8899.47 9487.79
-\i (00:00:09) trapsize 301
-\i (00:00:09) zoom in 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom in 8898.26 9487.19
-\i (00:00:09) trapsize 151
-\i (00:00:10) zoom out 1 
-\i (00:00:10) setwindow pcb
-\i (00:00:10) zoom out 8894.95 9467.61
-\i (00:00:10) trapsize 301
-\i (00:00:11) pick grid 8894.94 9467.61
-\t (00:00:11) last pick:  8900.00 9500.00
-\e (00:00:11) ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
-\t (00:00:11) Placing R1 / R_SMD0805_10K_R001 / SMD0805 on Top.
-\i (00:00:11) placementedit 
-\i (00:00:13) pop dyn_option_select 'Application Mode@:@General Edit' 
-\i (00:00:13) generaledit 
-\i (00:00:15) pop dyn_option_select 'Application Mode@:@Placement Edit' 
-\i (00:00:15) placementedit 
-\i (00:00:15) setwindow form.mini
-\i (00:00:15) FORM mini tree  'Components by refdes' 
-\i (00:00:16) FORM mini tree 'MULTISEL YES' 'Components by refdes' 
-\i (00:00:16) setwindow pcb
-\i (00:00:16) place manual 
-\t (00:00:16) Placing R1 / R_SMD0805_10K_R001 / SMD0805 on Top.
-\i (00:00:17) pick grid 8837.09 9473.03
-\t (00:00:17) last pick:  8800.00 9500.00
-\e (00:00:17) ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
-\t (00:00:17) Placing R1 / R_SMD0805_10K_R001 / SMD0805 on Top.
-\i (00:00:17) placementedit 
-\i (00:00:22) design sync eco 
-\t (00:00:22) > Requesting Capture to open design
-\t (00:00:22) > Response received OpenDesign is done by remote tool
-\t (00:00:22) Design opened successfully
-\t (00:00:22) > Requesting Capture to generate logical netlist
-\t (00:00:22) > Requesting Capture to open design
-\t (00:00:22) > Response received LogicalNetlistGeneration is done by remote tool
-\t (00:00:22) Logical netlist generated successfully at D:\Projects\HardwareDesign\PHD\allegro
-\t (00:00:22) > Requesting Capture to generate logical netlist
-\t (00:00:22) > Response received OpenDesign is done by remote tool
-\t (00:00:22) Design opened successfully
-\t (00:00:22) > Generating Physical Netlist
-\t (00:00:22) Starting genfeedformat...
-\t (00:00:23) > Generating Physical Netlist successful
-\t (00:00:23) > Generating Differences
-\t (00:00:23) > Generating Differences successful
-\t (00:00:23) > Displaying differences output
-\i (00:00:23) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
-\i (00:00:23) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
-\t (00:00:23) > Displaying differences output successful
-\t (00:00:23) > Response received LogicalNetlistGeneration is done by remote tool
-\t (00:00:23) Logical netlist generated successfully at D:\Projects\HardwareDesign\PHD\allegro
-\i (00:00:23) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:23) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:23) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:24) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:24) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:24) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:24) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:24) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:24) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:00:25) QtSignal DesignSyncDialog sync_button clicked
-\t (00:00:25) > Sending response DoneOpenBoard
-\t (00:00:25) Starting Cadence Logic Import...
-\w (00:00:25) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
-\t (00:00:25) Opening existing design...
-\i (00:00:25) setwindow form.mini
-\i (00:00:25) FORM mini tree  'Components by refdes' 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) trapsize 301
-\e (00:00:25) Quick placement cannot be done due to an invalid design outline.
-\i (00:00:25) placementedit 
-\i (00:00:27) setwindow text
-\i (00:00:27) close
-\i (00:00:36) setwindow pcb
-\i (00:00:36) design sync back_annotate 
-\t (00:00:36) > Requesting Capture to open design
-\t (00:00:36) > Response received OpenDesign is done by remote tool
-\t (00:00:36) Design opened successfully
-\t (00:00:36) > Requesting Capture to generate logical netlist
-\t (00:00:36) > Requesting Capture to open design
-\t (00:00:36) > Response received LogicalNetlistGeneration is done by remote tool
-\t (00:00:36) Logical netlist generated successfully at D:\Projects\HardwareDesign\PHD\allegro
-\t (00:00:36) > Requesting Capture to generate logical netlist
-\t (00:00:36) > Response received OpenDesign is done by remote tool
-\t (00:00:36) Design opened successfully
-\t (00:00:37) > Generating Physical Netlist
-\t (00:00:37) Starting genfeedformat...
-\t (00:00:37) > Generating Physical Netlist successful
-\t (00:00:37) > Generating Differences
-\t (00:00:37) > Generating Differences successful
-\t (00:00:37) > Displaying differences output
-\t (00:00:37) > Displaying differences output successful
-\t (00:00:37) > Response received LogicalNetlistGeneration is done by remote tool
-\t (00:00:37) Logical netlist generated successfully at D:\Projects\HardwareDesign\PHD\allegro
-\i (00:00:38) QtSignal DesignSyncDialog cancel_button clicked
-\i (00:00:38) placementedit 
-\i (00:00:42) netin 
-\i (00:00:44) setwindow form.niparams
-\i (00:00:44) FORM niparams import  
-\t (00:00:44) Starting Cadence Logic Import...
-\t (00:00:45) SpawnProcessExit background process completed status = 1
-
-\w (00:00:45) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
-\t (00:00:45) Opening existing design...
-\i (00:00:45) setwindow form.mini
-\i (00:00:45) FORM mini tree  'Components by refdes' 
-\i (00:00:45) setwindow pcb
-\i (00:00:45) trapsize 301
-\i (00:00:46) placementedit 
-\i (00:00:55) setwindow text
-\i (00:00:55) close
+\i (00:00:44) trapsize 11628
+\i (00:00:44) trapsize 11564
+\i (00:00:44) trapsize 11401
+\i (00:00:44) trapsize 11170
+\i (00:00:44) trapsize 10892
+\i (00:00:44) trapsize 10736
+\i (00:00:44) trapsize 10417
+\i (00:00:44) trapsize 9972
+\i (00:00:44) trapsize 9330
+\i (00:00:48) shape add circle 
+\i (00:00:50) setwindow form.mini
+\i (00:00:50) FORM mini class 'BOARD GEOMETRY' 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) pick grid 8490.67 8397.36
+\t (00:00:54) last pick:  8500.00 8400.00
+\i (00:00:55) pick grid 5243.69 12763.99
+\t (00:00:55) last pick:  5200.00 12800.00
+\i (00:00:56) prepopup 5262.35 12838.64
+\i (00:00:56) done 
+\i (00:00:56) setwindow form.mini
+\i (00:00:56) FORM mini tree  'Components by refdes' 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) placementedit 
 \i (00:00:58) setwindow form.mini
-\i (00:00:58) FORM mini tree  J1 'Components by refdes' 
-\i (00:00:58) FORM mini tree 'MULTISEL YES' J1 'Components by refdes' 
+\i (00:00:58) FORM mini tree 'MULTISEL YES' 'Components by refdes' 
 \i (00:00:58) setwindow pcb
 \i (00:00:58) place manual 
-\w (00:00:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:00:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:00:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:00:58) ERROR(SPMHSY-24): 'S_R52T100M52_100P52_100', not found in search path.
-\w (00:00:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:00:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\w (00:00:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\e (00:00:58) ERROR(SPMHSY-24): 'S_R52T100M52_100P52_100', not found in search path.
-\e (00:00:58) Cannot load symbol 'JAE_DX07S016JA1R1500'
-\e (00:00:58)   because WARNING(SPMHUT-127): Could not find padstack S_R52T100M52_100P52_100.
-\i (00:01:05) trapsize 302
-\i (00:01:05) trapsize 305
-\i (00:01:05) trapsize 316
-\i (00:01:05) trapsize 322
-\i (00:01:05) trapsize 326
-\i (00:01:05) trapsize 330
-\i (00:01:05) trapsize 337
-\i (00:01:05) trapsize 340
-\i (00:01:05) trapsize 349
-\i (00:01:05) trapsize 352
-\i (00:01:05) trapsize 359
-\i (00:01:05) trapsize 360
-\i (00:01:05) trapsize 363
-\i (00:01:05) trapsize 364
-\i (00:01:05) trapsize 366
-\i (00:01:05) trapsize 367
-\i (00:01:05) trapsize 370
-\i (00:01:05) trapsize 372
-\i (00:01:05) trapsize 374
-\i (00:01:05) trapsize 375
-\i (00:01:05) trapsize 377
-\i (00:01:05) trapsize 378
-\i (00:01:05) trapsize 379
-\i (00:01:05) trapsize 380
-\i (00:01:06) trapsize 381
-\i (00:01:06) trapsize 382
-\i (00:01:06) trapsize 383
-\i (00:01:06) trapsize 384
-\i (00:01:06) trapsize 386
-\i (00:01:06) trapsize 388
-\i (00:01:11) refdes J1 
-\i (00:01:11) xname_flush 
-\i (00:01:11) refdes '!' J1 
-\i (00:01:11) xname_flush '!' 
-\i (00:01:12) refdes J1 
-\i (00:01:12) xname_flush 
-\i (00:01:12) refdes '!' J1 
-\i (00:01:12) xname_flush '!' 
-\i (00:01:13) refdes J1 
-\i (00:01:13) xname_flush 
-\i (00:01:14) refdes '!' J1 
-\i (00:01:14) xname_flush '!' 
-\i (00:01:14) refdes J1 
-\i (00:01:14) xname_flush 
-\i (00:01:15) refdes '!' J1 
-\i (00:01:15) xname_flush '!' 
-\i (00:05:14) enved 
-\t (00:05:14) [21:04:03.003160] periodic Lic check successful
-[21:04:03.003160] Feature usage summary:
-[21:04:03.003160] Allegro_PCB_RF  
-[21:04:03.003160] Allegro_PCB_Harmony_Option  
-[21:04:03.003160] Allegro_Venture_PCB_Designer  
-[21:04:03.003160] PCB_design_studio  
-[21:04:03.003160] Venture_PCB_Schematic  
-[21:04:03.003160] Allegro_Venture_PCB_Designer2  
-[21:04:03.016464]  Allegro_PCB_Productivity_TB  
-[21:04:03.463271]   Allegro_X_Platinum_Layout  
+\w (00:00:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:59) Placing IC1 / STM32L052K8T6_QFP80P900X900X160-32N_STM32L052K8T6_STM32L052K8T6 / QFP80P900X900X160-32N on Top.
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in 8360.04 8901.21
+\i (00:00:59) trapsize 4665
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in 8322.72 8761.26
+\i (00:00:59) trapsize 2333
+\i (00:01:00) zoom in 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom in 8299.39 8733.27
+\i (00:01:00) trapsize 1166
+\i (00:01:00) pick grid 8357.71 8733.28
+\t (00:01:00) last pick:  8400.00 8700.00
+\i (00:01:00) placementedit 
+\i (00:01:01) prepopup 8467.34 8772.93
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 8481.33 8574.66
+\i (00:01:03) trapsize 583
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 8458.01 8592.16
+\i (00:01:03) trapsize 292
+\i (00:01:04) roam start
+\i (00:01:04) roam x -16
+\i (00:01:04) roam y -16
+\i (00:01:04) roam x -16
+\i (00:01:04) roam x -16
+\i (00:01:04) roam y -16
+\i (00:01:04) roam x -32
+\i (00:01:04) roam y -16
+\i (00:01:04) roam y -16
+\i (00:01:04) roam y -16
+\i (00:01:04) roam x -16
+\i (00:01:04) roam y -16
+\i (00:01:04) roam y -16
+\i (00:01:04) roam y -16
+\i (00:01:04) roam x -16
+\i (00:01:04) roam y -16
+\i (00:01:04) roam y -32
+\i (00:01:04) roam y -16
+\i (00:01:04) roam y -16
+\i (00:01:04) roam x -16
+\i (00:01:04) roam y -16
+\i (00:01:04) roam y -16
+\i (00:01:04) roam y -16
+\i (00:01:04) roam y -16
+\i (00:01:04) roam y -16
+\i (00:01:04) roam y -16
+\i (00:01:04) roam x -16
+\i (00:01:04) roam x -16
+\i (00:01:04) roam x -16
+\i (00:01:04) roam x -16
+\i (00:01:04) roam y 16
+\i (00:01:04) roam x -16
+\i (00:01:04) roam y 16
+\i (00:01:05) roam x -16
+\i (00:01:05) roam y 16
+\i (00:01:05) roam x -16
+\i (00:01:05) roam y 16
+\i (00:01:05) roam x -16
+\i (00:01:05) roam y 16
+\i (00:01:05) roam x 16
+\i (00:01:06) roam y 16
+\i (00:01:06) roam x 16
+\i (00:01:06) roam x 16
+\i (00:01:06) roam y 16
+\i (00:01:07) roam x 16
+\i (00:01:07) roam y 16
+\i (00:01:07) roam end
+\i (00:01:15) exit 
+\e (00:01:15) Do you want to save the changes you made to phd.brd?
+\i (00:01:17) fillin yes 
+\t (00:01:17) Lic Summary:
+[16:29:24.001224] cdslmd servers: DESKTOP-D851ENJ
+[16:29:24.001224] Feature usage summary:
+[16:29:24.001224] Allegro_PCB_RF  
+[16:29:24.001224] Allegro_PCB_Harmony_Option  
+[16:29:24.001224] Allegro_Venture_PCB_Designer  
+[16:29:24.001224] PCB_design_studio  
+[16:29:24.001224] Venture_PCB_Schematic  
+[16:29:24.001224] Allegro_Venture_PCB_Designer2  
+[16:29:24.016576]  Allegro_PCB_Productivity_TB  
+[16:29:24.309639]   Allegro_X_Platinum_Layout  
 
-\i (00:05:15) setwindow form.prfedit
-\i (00:05:15) FORM prfedit treelist  My_favorites 
-\i (00:05:27) FORM prfedit padpath  
-\i (00:05:32) FORM prfedit psmpath  
-\i (00:05:37) FORM prfedit steppath  
-\i (00:05:44) FORM prfedit psmpath  
-\i (00:06:06) FORM prfedit padpath  
-\i (00:06:12) FORM prfedit steppath  
-\i (00:06:20) FORM prfedit apply  
-\i (00:06:24) FORM prfedit padpath  
-\i (00:06:31) FORM prfedit psmpath  
-\i (00:06:35) FORM prfedit padpath  
-\i (00:06:40) FORM prfedit apply  
-\i (00:06:40) FORM prfedit done  
-\i (00:07:12) setwindow pcb
-\i (00:07:12) refdes J1 
-\i (00:07:12) xname_flush 
-\i (00:08:18) xname_flush 
-\i (00:08:19) xname_flush '!' 
-\i (00:08:21) xname_flush 
-\i (00:08:22) xname_flush '!' 
-\i (00:08:25) xname_flush '!' 
-\i (00:09:55) xname_flush 
-\i (00:09:56) xname_flush '!' 
-\i (00:09:56) xname_flush 
-\i (00:09:58) xname_flush '!' 
-\i (00:09:58) xname_flush 
-\i (00:09:58) xname_flush '!' 
-\i (00:10:00) xname_flush 
-\i (00:10:00) xname_flush '!' 
-\i (00:10:00) xname_flush 
-\i (00:10:01) xname_flush '!' 
-\i (00:10:02) xname_flush 
-\i (00:10:04) xname_flush '!' 
-\i (00:10:04) xname_flush 
-\i (00:10:04) xname_flush '!' 
-\i (00:10:05) xname_flush 
-\i (00:10:06) xname_flush '!' 
-\i (00:10:06) xname_flush 
-\i (00:10:06) xname_flush '!' 
-\i (00:10:08) xname_flush 
-\i (00:10:09) xname_flush '!' 
-\i (00:10:09) xname_flush 
-\i (00:10:09) xname_flush '!' 
-\i (00:10:10) xname_flush 
-\i (00:10:11) xname_flush '!' 
-\i (00:10:11) xname_flush 
-\i (00:10:11) xname_flush '!' 
-\i (00:10:12) xname_flush 
-\i (00:10:13) xname_flush '!' 
-\i (00:10:13) xname_flush 
-\i (00:10:14) xname_flush '!' 
-\i (00:10:14) xname_flush 
-\i (00:10:14) xname_flush '!' 
-\i (00:10:15) xname_flush 
-\i (00:10:16) xname_flush '!' 
-\i (00:10:16) xname_flush 
-\i (00:10:16) xname_flush '!' 
-\i (00:10:16) xname_flush 
-\i (00:10:19) xname_flush '!' 
-\i (00:10:19) xname_flush 
-\i (00:10:22) xname_flush '!' 
-\i (00:10:22) xname_flush 
-\i (00:10:23) xname_flush '!' 
-\i (00:10:24) xname_flush 
-\i (00:10:25) xname_flush '!' 
-\i (00:10:25) xname_flush 
-\i (00:10:25) xname_flush '!' 
-\i (00:10:27) xname_flush 
-\i (00:10:28) xname_flush '!' 
-\i (00:10:28) xname_flush 
-\i (00:10:29) xname_flush '!' 
-\i (00:10:29) xname_flush 
-\i (00:10:29) xname_flush '!' 
-\i (00:10:30) xname_flush 
-\i (00:10:31) xname_flush '!' 
-\i (00:10:31) xname_flush 
-\i (00:10:32) xname_flush '!' 
-\i (00:10:32) xname_flush 
-\i (00:10:34) xname_flush '!' 
-\i (00:10:34) xname_flush 
-\i (00:10:34) xname_flush '!' 
-\i (00:10:35) xname_flush 
-\i (00:10:36) xname_flush '!' 
-\i (00:10:36) xname_flush 
-\i (00:10:37) xname_flush '!' 
-\i (00:10:39) xname_flush 
-\i (00:10:41) xname_flush '!' 
-\t (00:11:02) > DoActivateAllegro message received
-\t (00:11:02) > Activating Allegro on existing open design...
-\t (00:11:02) > Sending response DoneActivateAllegro
-\t (00:11:02) > Allegro activated successfully
-\i (00:11:05) pick grid 8629.97 9608.64
-\t (00:11:05) last pick:  8600.00 9600.00
-\i (00:11:05) placementedit 
-\t (00:11:05) [21:09:54.003248] periodic Lic check successful
-[21:09:54.003248] Feature usage summary:
-[21:09:54.003248] Allegro_PCB_RF  
-[21:09:54.003248] Allegro_PCB_Harmony_Option  
-[21:09:54.003248] Allegro_Venture_PCB_Designer  
-[21:09:54.003248] PCB_design_studio  
-[21:09:54.003248] Venture_PCB_Schematic  
-[21:09:54.003248] Allegro_Venture_PCB_Designer2  
-[21:09:54.016552]  Allegro_PCB_Productivity_TB  
-[21:09:54.463359]   Allegro_X_Platinum_Layout  
-
-\i (00:11:06) trapsize 385
-\i (00:11:06) trapsize 380
-\i (00:11:06) trapsize 368
-\i (00:11:06) trapsize 360
-\i (00:11:06) trapsize 352
-\i (00:11:06) trapsize 346
-\i (00:11:06) trapsize 340
-\i (00:11:06) trapsize 332
-\i (00:11:06) trapsize 321
-\i (00:11:06) trapsize 311
-\i (00:11:06) trapsize 306
-\i (00:11:06) trapsize 302
-\i (00:11:06) trapsize 301
-\i (00:11:09) design sync eco 
-\t (00:11:09) > Requesting Capture to open design
-\t (00:11:09) > Response received OpenDesign is done by remote tool
-\t (00:11:09) Design opened successfully
-\t (00:11:09) > Requesting Capture to generate logical netlist
-\t (00:11:09) > Requesting Capture to open design
-\t (00:11:10) > Response received LogicalNetlistGeneration is done by remote tool
-\t (00:11:10) Logical netlist generated successfully at D:\Projects\HardwareDesign\PHD\allegro
-\t (00:11:10) > Requesting Capture to generate logical netlist
-\t (00:11:10) > Response received OpenDesign is done by remote tool
-\t (00:11:10) Design opened successfully
-\t (00:11:10) > Generating Physical Netlist
-\t (00:11:10) Starting genfeedformat...
-\t (00:11:10) > Generating Physical Netlist successful
-\t (00:11:10) > Generating Differences
-\t (00:11:10) > Generating Differences successful
-\t (00:11:10) > Displaying differences output
-\i (00:11:10) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
-\i (00:11:10) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
-\t (00:11:10) > Displaying differences output successful
-\t (00:11:10) > Response received LogicalNetlistGeneration is done by remote tool
-\t (00:11:10) Logical netlist generated successfully at D:\Projects\HardwareDesign\PHD\allegro
-\i (00:11:12) QtSignal DesignSyncDialog preview_tableView selectionChanged
-\i (00:11:14) QtSignal DesignSyncDialog sync_button clicked
-\t (00:11:14) > Sending response DoneOpenBoard
-\t (00:11:14) Starting Cadence Logic Import...
-\w (00:11:14) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
-\t (00:11:14) Opening existing design...
-\i (00:11:14) setwindow form.mini
-\i (00:11:14) FORM mini tree  'Components by refdes' 
-\i (00:11:14) setwindow pcb
-\i (00:11:14) trapsize 301
-\e (00:11:14) Quick placement cannot be done due to an invalid design outline.
-\i (00:11:14) placementedit 
-\i (00:11:21) setwindow text
-\i (00:11:21) close
-\i (00:11:27) setwindow pcb
-\i (00:11:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup  (0/3)" Grids
-\i (00:11:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup  (0/3)" Grids
-\i (00:11:27) define grid 
-\t (00:11:27) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:11:28) setwindow form.grid
-\i (00:11:28) FORM grid display YES 
-\i (00:11:31) FORM grid apply  
-\i (00:11:31) FORM grid done  
-\i (00:11:32) setwindow pcb
-\i (00:11:32) prmed 
-\i (00:11:32) FORM prmedit design 
-\i (00:11:32) setwindow form.prmedit
-\i (00:11:32) FORM prmedit design  
-\i (00:11:32) setwindow pcb
-\i (00:11:32) trapsize 301
-\i (00:11:34) setwindow form.prmedit
-\i (00:11:34) FORM prmedit units Millimeter 
-\e (00:11:34) Change may cause round-off; run dbcheck.
-\i (00:11:36) FORM prmedit apply  
-\w (00:11:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:11:36) setwindow pcb
-\i (00:11:36) trapsize 764
-\t (00:11:36) Performing DRC...
-\t (00:11:36) Multithreaded DRC update (12 threads).
-\t (00:11:37) No DRC errors detected.
-\i (00:11:37) setwindow form.prmedit
-\i (00:11:37) FORM prmedit done  
-\i (00:11:37) setwindow pcb
-\i (00:11:37) placementedit 
-\i (00:11:39) setwindow form.mini
-\i (00:11:39) FORM mini class 'BOARD GEOMETRY' 
-\i (00:11:43) setwindow pcb
-\i (00:11:43) shape add 
-\i (00:11:43) zoom out 1 
-\i (00:11:43) setwindow pcb
-\i (00:11:43) zoom out 225.0483 240.3882
-\i (00:11:43) trapsize 1528
-\i (00:11:43) zoom out 1 
-\i (00:11:43) setwindow pcb
-\i (00:11:43) zoom out 225.0178 242.0689
-\i (00:11:43) trapsize 3056
-\i (00:11:44) zoom out 1 
-\i (00:11:44) setwindow pcb
-\i (00:11:44) zoom out 218.3564 247.5081
-\i (00:11:44) trapsize 6111
-\i (00:11:44) pick grid 210.7784 261.8089
-\t (00:11:44) last pick:  210.8200 261.6200
-\i (00:11:46) pick grid 290.8378 250.3195
-\t (00:11:46) last pick:  292.1000 251.4600
-\i (00:11:46) pick grid 293.8935 201.9171
-\t (00:11:46) last pick:  294.6400 200.6600
-\i (00:11:47) pick grid 281.4262 191.6500
-\t (00:11:47) last pick:  281.9400 190.5000
-\i (00:11:48) pick grid 212.1229 191.1611
-\t (00:11:48) last pick:  213.3600 190.5000
-\i (00:11:49) pick grid 199.2889 206.0729
-\t (00:11:49) last pick:  198.1200 205.7400
-\i (00:11:49) pick grid 198.9222 255.3308
-\t (00:11:49) last pick:  198.1200 256.5400
-\i (00:11:50) pick grid 209.5561 261.3200
-\t (00:11:50) last pick:  210.8200 261.6200
-\i (00:11:51) prepopup 213.9563 258.6310
-\i (00:11:52) done 
-\i (00:11:52) setwindow form.mini
-\i (00:11:52) FORM mini tree  'Components by refdes' 
-\i (00:11:52) setwindow pcb
-\i (00:11:52) placementedit 
-\i (00:11:53) redraw 
-\i (00:11:54) setwindow form.mini
-\i (00:11:54) FORM mini tree 'MULTISEL YES' 'Components by refdes' 
-\i (00:11:54) setwindow pcb
-\i (00:11:54) place manual 
-\e (00:11:54) Cannot load symbol 'JAE_DX07S016JA1R1500'
-\i (00:17:27) pick grid 217.3787 235.8966
-\t (00:17:27) last pick:  218.4400 236.2200
-\e (00:17:27) Cannot load symbol 'JAE_DX07S016JA1R1500'
-\i (00:17:28) pick grid 222.0234 221.4737
-\t (00:17:28) last pick:  220.9800 220.9800
-\i (00:17:28) placementedit 
-\t (00:17:28) [21:16:17.003224] periodic Lic check successful
-[21:16:17.003224] Feature usage summary:
-[21:16:17.003224] Allegro_PCB_RF  
-[21:16:17.003224] Allegro_PCB_Harmony_Option  
-[21:16:17.003224] Allegro_Venture_PCB_Designer  
-[21:16:17.003224] PCB_design_studio  
-[21:16:17.003224] Venture_PCB_Schematic  
-[21:16:17.003224] Allegro_Venture_PCB_Designer2  
-[21:16:17.016528]  Allegro_PCB_Productivity_TB  
-[21:16:17.463335]   Allegro_X_Platinum_Layout  
-
-\i (00:17:28) pick grid 222.7567 236.2633
-\t (00:17:28) last pick:  223.5200 236.2200
-\i (00:17:29) pick grid 250.0136 235.6521
-\t (00:17:29) last pick:  248.9200 236.2200
-\i (00:17:29) pick grid 253.6804 226.4850
-\t (00:17:29) last pick:  254.0000 226.0600
-\i (00:17:29) pick grid 252.2137 218.5402
-\t (00:17:29) last pick:  251.4600 218.4400
-\i (00:17:29) pick grid 251.3581 216.7068
-\t (00:17:29) last pick:  251.4600 215.9000
-\i (00:17:30) pick grid 246.5912 213.0399
-\t (00:17:30) last pick:  246.3800 213.3600
-\i (00:17:31) setwindow form.mini
-\i (00:17:31) FORM mini tree 'MULTISEL YES' 'Components by refdes' 
-\i (00:17:31) setwindow pcb
-\i (00:17:31) place manual 
-\e (00:17:31) Cannot load symbol 'JAE_DX07S016JA1R1500'
-\i (00:17:33) setwindow form.mini
-\i (00:17:33) FORM mini tree  J2 'Components by refdes' 
-\i (00:17:34) setwindow pcb
-\i (00:17:34) exit 
-\e (00:17:34) Do you want to save the changes you made to D:/Projects/HardwareDesign/PHD/allegro/phd.brd?
-\i (00:17:35) fillin yes 
-\t (00:17:35) Lic Summary:
-[21:16:24.001160] cdslmd servers: DESKTOP-D851ENJ
-[21:16:24.001160] Feature usage summary:
-[21:16:24.001160] Allegro_PCB_RF  
-[21:16:24.001160] Allegro_PCB_Harmony_Option  
-[21:16:24.001160] Allegro_Venture_PCB_Designer  
-[21:16:24.001160] PCB_design_studio  
-[21:16:24.001160] Venture_PCB_Schematic  
-[21:16:24.001160] Allegro_Venture_PCB_Designer2  
-[21:16:24.016512]  Allegro_PCB_Productivity_TB  
-[21:16:24.309575]   Allegro_X_Platinum_Layout  
-
-\t (00:17:35)     Journal end - Sat Jan  4 21:16:24 2025
+\t (00:01:17)     Journal end - Tue Jan  7 16:29:24 2025

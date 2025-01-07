@@ -2,117 +2,140 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  D:/Projects/HardwareDesign/PHD/allegro/phd.brd                              |
-|                                                    Sat Jan  4 21:10:03 2025  |
+|  d:/projects/hardwaredesign/phd/allegro/phd.brd                              |
+|                                                    Tue Jan  7 16:21:39 2025  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  GND          pins ADDED TO this existing net (pins not previously on any net)
-                                 J2.1                           
-                                 J2.12                          
+  GND          net RENAMED (to net name listed on right)           N02456       
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N00970       pins ADDED TO this new net
-                                 J1.3                           
-                                 J2.9                           
+  N00970       pins MOVED FROM this net (to net name listed on right)
+                                 J1.3            242.090 227.160
+                                                                         N02065
+                                 J2.9            245.090 199.220
+                                                                         N02145
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N00985       pins ADDED TO this new net
-                                 J1.4                           
-                                 J2.10                          
+  N00985       pins MOVED FROM this net (to net name listed on right)
+                                 J1.4            242.590 227.160
+                                                                         N02069
+                                 J2.10           245.590 199.220
+                                                                         N02141
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N00997       pins ADDED TO this new net
-                                 J1.8                           
-                                 J2.6                           
+  N00997       pins MOVED FROM this net (to net name listed on right)
+                                 J1.8            244.590 227.160
+                                                                         N02097
+                                 J2.6            243.590 199.220
+                                                                         N02117
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01009       pins ADDED TO this new net
-                                 J1.5                           
-                                 J2.7                           
+  N01009       pins MOVED FROM this net (to net name listed on right)
+                                 J1.5            243.090 227.160
+                                                                         N02093
+                                 J2.7            244.090 199.220
+                                                                         N02121
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01021       pins ADDED TO this new net
-                                 J1.6                           
-                                 J2.8                           
+  N01021       pins MOVED FROM this net (to net name listed on right)
+                                 J1.6            243.590 227.160
+                                                                         N02117
+                                 J2.8            244.590 199.220
+                                                                         N02097
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01033       pins ADDED TO this new net
-                                 J1.7                           
-                                 J2.5                           
+  N01033       pins MOVED FROM this net (to net name listed on right)
+                                 J1.7            244.090 227.160
+                                                                         N02121
+                                 J2.5            243.090 199.220
+                                                                         N02093
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01045       pins ADDED TO this new net
-                                 J1.10                          
-                                 J2.4                           
+  N01045       pins MOVED FROM this net (to net name listed on right)
+                                 J1.10           245.590 227.160
+                                                                         N02141
+                                 J2.4            242.590 199.220
+                                                                         N02069
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01060       pins ADDED TO this new net
-                                 J1.9                           
-                                 J2.3                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01075       pins ADDED TO this new net
-                                 J1.S1                          
-                                 J2.S1                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01087       pins ADDED TO this new net
-                                 J1.S2                          
-                                 J2.S2                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01099       pins ADDED TO this new net
+  N01060       pins MOVED FROM this net (to net name listed on right)
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  D:/Projects/HardwareDesign/PHD/allegro/phd.brd                              |
-|                                                    Sat Jan  4 21:10:03 2025  |
+|  d:/projects/hardwaredesign/phd/allegro/phd.brd                              |
+|                                                    Tue Jan  7 16:21:39 2025  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 J1.S3                          
-                                 J2.S3                          
+                                 J1.9            245.090 227.160
+                                                                         N02145
+                                 J2.3            242.090 199.220
+                                                                         N02065
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01114       pins ADDED TO this new net
-                                 J1.S4                          
-                                 J2.S4                          
+  N01075       net RENAMED (to net name listed on right)           N02207       
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01126       pins ADDED TO this new net
-                                 J1.S5                          
-                                 J2.S5                          
+  N01087       net RENAMED (to net name listed on right)           N02232       
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N01138       pins ADDED TO this new net
-                                 J1.S6                          
-                                 J2.S6                          
+  N01099       net RENAMED (to net name listed on right)           N02341       
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VBUS         pins ADDED TO this existing net (pins not previously on any net)
-                                 J2.2                           
-                                 J2.11                          
+  N01114       net RENAMED (to net name listed on right)           N02371       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01126       net RENAMED (to net name listed on right)           N02396       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01138       net RENAMED (to net name listed on right)           N02426       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VBUS         pins MOVED FROM this net (to net name listed on right)
+                                 J1.2            241.490 227.160
+                                                                         N02151
+                                 J1.11           246.190 227.160
+                                                                         N02180
+                                 J2.2            241.490 199.220
+                                                                         N02151
+                                 J2.11           246.190 199.220
+                                                                         N02180
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|  D:/Projects/HardwareDesign/PHD/allegro/phd.brd                              |
-|                                                    Sat Jan  4 21:10:03 2025  |
+|  d:/projects/hardwaredesign/phd/allegro/phd.brd                              |
+|                                                    Tue Jan  7 16:21:39 2025  |
 |------------------------------------------------------------------------------|
-| COMPONENTS ADDED to design                                                   |
+| COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type                                           |
+|    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J2                  DX07S016JA1R1500_JAE_DX07S016JA1R1500_NONE_USBTC001 
+ DX07S016JA1R1500_DX07S016JA1R1500_DX07S016JA1R1500_USBTYPEC001
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
-|  D:/Projects/HardwareDesign/PHD/allegro/phd.brd                              |
-|                                                    Sat Jan  4 21:10:03 2025  |
+|  d:/projects/hardwaredesign/phd/allegro/phd.brd                              |
+|                                                    Tue Jan  7 16:21:39 2025  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J1                  DX07S016JA1R1500_DX07S016JA1R1500_DX07S016JA1R1500_USBTYPEC001 243.840 226.060 DX07S016JA1R1500_DX07S016JA1R1500_DX07S016JA1R1500_USBTC001
+ J2                  DX07S016JA1R1500_DX07S016JA1R1500_DX07S016JA1R1500_USBTYPEC001 243.840 198.120 DX07S016JA1R1500_DX07S016JA1R1500_DX07S016JA1R1500_USBTC001
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  d:/projects/hardwaredesign/phd/allegro/phd.brd                              |
+|                                                    Tue Jan  7 16:21:39 2025  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J1.2                           XY             (480,190)
- J2.2                           PRIM_FILE      .\pstchip.dat
- J2.2                           XY             (480,390)
+ J1.2           243.840 226.060 PRIM_FILE      .\pstchip.dat
+ J1.2           243.840 226.060 XY             (510,370)
+ J2.2           243.840 198.120 PRIM_FILE      .\pstchip.dat
+ J2.2           243.840 198.120 XY             (250,370)
 |------------------------------------------------------------------------------|
-|       Nets changed          :      32                                        |
-|       Components added      :       1                                        |
-|       Slot property added   :       3                                        |
+|       Nets changed          :      27                                        |
+|       Comp definitions added:       1                                        |
+|       Components changed    :       2                                        |
+|       Slot property added   :       4                                        |
 |                                                                              |
-|   Total ECO changes reported:      36                                        |
+|   Total ECO changes reported:      34                                        |
 |------------------------------------------------------------------------------|

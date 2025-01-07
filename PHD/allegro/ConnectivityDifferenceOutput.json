@@ -7,246 +7,445 @@
 	"Pin Property" : [],
 	"Component" : [
 		{
+			"Name" : "J1",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J1"
+		},
+		{
 			"Name" : "J2",
-			"C_PATH" : "@phd.schematic1(sch_1):ins918@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips)",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips)",
 			"Logical" : null,
 			"Physical" : "J2"
 		},
 		{
 			"Name" : "J1",
-			"C_PATH" : "@phd.schematic1(sch_1):ins824@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips)",
-			"Logical" : null,
-			"Physical" : "J1"
-		},
-		{
-			"Name" : "J1",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips)",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips)",
 			"Logical" : "J1",
 			"Physical" : null
 		},
 		{
 			"Name" : "J2",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips)",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips)",
 			"Logical" : "J2",
 			"Physical" : null
 		}
 	],
-	"Net" : [],
+	"Net" : [
+		{
+			"Name" : "N01138",
+			"C_PATH" : "@phd.schematic1(sch_1):n01138",
+			"Logical" : null,
+			"Physical" : "N01138"
+		},
+		{
+			"Name" : "N01126",
+			"C_PATH" : "@phd.schematic1(sch_1):n01126",
+			"Logical" : null,
+			"Physical" : "N01126"
+		},
+		{
+			"Name" : "N01114",
+			"C_PATH" : "@phd.schematic1(sch_1):n01114",
+			"Logical" : null,
+			"Physical" : "N01114"
+		},
+		{
+			"Name" : "N01099",
+			"C_PATH" : "@phd.schematic1(sch_1):n01099",
+			"Logical" : null,
+			"Physical" : "N01099"
+		},
+		{
+			"Name" : "N01087",
+			"C_PATH" : "@phd.schematic1(sch_1):n01087",
+			"Logical" : null,
+			"Physical" : "N01087"
+		},
+		{
+			"Name" : "N01075",
+			"C_PATH" : "@phd.schematic1(sch_1):n01075",
+			"Logical" : null,
+			"Physical" : "N01075"
+		},
+		{
+			"Name" : "N01060",
+			"C_PATH" : "@phd.schematic1(sch_1):n01060",
+			"Logical" : null,
+			"Physical" : "N01060"
+		},
+		{
+			"Name" : "N01045",
+			"C_PATH" : "@phd.schematic1(sch_1):n01045",
+			"Logical" : null,
+			"Physical" : "N01045"
+		},
+		{
+			"Name" : "N01033",
+			"C_PATH" : "@phd.schematic1(sch_1):n01033",
+			"Logical" : null,
+			"Physical" : "N01033"
+		},
+		{
+			"Name" : "N01021",
+			"C_PATH" : "@phd.schematic1(sch_1):n01021",
+			"Logical" : null,
+			"Physical" : "N01021"
+		},
+		{
+			"Name" : "N01009",
+			"C_PATH" : "@phd.schematic1(sch_1):n01009",
+			"Logical" : null,
+			"Physical" : "N01009"
+		},
+		{
+			"Name" : "N00997",
+			"C_PATH" : "@phd.schematic1(sch_1):n00997",
+			"Logical" : null,
+			"Physical" : "N00997"
+		},
+		{
+			"Name" : "N00985",
+			"C_PATH" : "@phd.schematic1(sch_1):n00985",
+			"Logical" : null,
+			"Physical" : "N00985"
+		},
+		{
+			"Name" : "N00970",
+			"C_PATH" : "@phd.schematic1(sch_1):n00970",
+			"Logical" : null,
+			"Physical" : "N00970"
+		},
+		{
+			"Name" : "VBUS",
+			"C_PATH" : "@phd.schematic1(sch_1):vbus",
+			"Logical" : null,
+			"Physical" : "VBUS"
+		},
+		{
+			"Name" : "GND",
+			"C_PATH" : "@phd.schematic1(sch_1):gnd",
+			"Logical" : null,
+			"Physical" : "GND"
+		},
+		{
+			"Name" : "N02065",
+			"C_PATH" : "@phd.schematic1(sch_1):n02065",
+			"Logical" : "N02065",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02069",
+			"C_PATH" : "@phd.schematic1(sch_1):n02069",
+			"Logical" : "N02069",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02097",
+			"C_PATH" : "@phd.schematic1(sch_1):n02097",
+			"Logical" : "N02097",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02093",
+			"C_PATH" : "@phd.schematic1(sch_1):n02093",
+			"Logical" : "N02093",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02117",
+			"C_PATH" : "@phd.schematic1(sch_1):n02117",
+			"Logical" : "N02117",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02121",
+			"C_PATH" : "@phd.schematic1(sch_1):n02121",
+			"Logical" : "N02121",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02141",
+			"C_PATH" : "@phd.schematic1(sch_1):n02141",
+			"Logical" : "N02141",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02145",
+			"C_PATH" : "@phd.schematic1(sch_1):n02145",
+			"Logical" : "N02145",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02151",
+			"C_PATH" : "@phd.schematic1(sch_1):n02151",
+			"Logical" : "N02151",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02180",
+			"C_PATH" : "@phd.schematic1(sch_1):n02180",
+			"Logical" : "N02180",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02207",
+			"C_PATH" : "@phd.schematic1(sch_1):n02207",
+			"Logical" : "N02207",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02232",
+			"C_PATH" : "@phd.schematic1(sch_1):n02232",
+			"Logical" : "N02232",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02341",
+			"C_PATH" : "@phd.schematic1(sch_1):n02341",
+			"Logical" : "N02341",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02371",
+			"C_PATH" : "@phd.schematic1(sch_1):n02371",
+			"Logical" : "N02371",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02396",
+			"C_PATH" : "@phd.schematic1(sch_1):n02396",
+			"Logical" : "N02396",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02426",
+			"C_PATH" : "@phd.schematic1(sch_1):n02426",
+			"Logical" : "N02426",
+			"Physical" : null
+		},
+		{
+			"Name" : "N02456",
+			"C_PATH" : "@phd.schematic1(sch_1):n02456",
+			"Logical" : "N02456",
+			"Physical" : null
+		}
+	],
 	"Connection" : [
 		{
 			"Name" : "J1.3",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):CC1",
-			"Logical" : "N00970",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):CC1",
+			"Logical" : "N02065",
 			"Physical" : null
 		},
 		{
 			"Name" : "J1.4",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):SBU2",
-			"Logical" : "N00985",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):SBU2",
+			"Logical" : "N02069",
 			"Physical" : null
 		},
 		{
 			"Name" : "J1.8",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\d-__1\\",
-			"Logical" : "N00997",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\d-__1\\",
+			"Logical" : "N02097",
 			"Physical" : null
 		},
 		{
 			"Name" : "J1.5",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\d-\\",
-			"Logical" : "N01009",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\d-\\",
+			"Logical" : "N02093",
 			"Physical" : null
 		},
 		{
 			"Name" : "J1.6",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\d+\\",
-			"Logical" : "N01021",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\d+\\",
+			"Logical" : "N02117",
 			"Physical" : null
 		},
 		{
 			"Name" : "J1.7",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\d+__1\\",
-			"Logical" : "N01033",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\d+__1\\",
+			"Logical" : "N02121",
 			"Physical" : null
 		},
 		{
 			"Name" : "J1.10",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):SBU1",
-			"Logical" : "N01045",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):SBU1",
+			"Logical" : "N02141",
 			"Physical" : null
 		},
 		{
 			"Name" : "J1.9",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):CC2",
-			"Logical" : "N01060",
-			"Physical" : null
-		},
-		{
-			"Name" : "J1.S1",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):SHIELD",
-			"Logical" : "N01075",
-			"Physical" : null
-		},
-		{
-			"Name" : "J1.S2",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__1\\",
-			"Logical" : "N01087",
-			"Physical" : null
-		},
-		{
-			"Name" : "J1.S3",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__2\\",
-			"Logical" : "N01099",
-			"Physical" : null
-		},
-		{
-			"Name" : "J1.S4",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__3\\",
-			"Logical" : "N01114",
-			"Physical" : null
-		},
-		{
-			"Name" : "J1.S5",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__4\\",
-			"Logical" : "N01126",
-			"Physical" : null
-		},
-		{
-			"Name" : "J1.S6",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__5\\",
-			"Logical" : "N01138",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):CC2",
+			"Logical" : "N02145",
 			"Physical" : null
 		},
 		{
 			"Name" : "J1.2",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\vbus#2\\",
-			"Logical" : "VBUS",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\vbus#2\\",
+			"Logical" : "N02151",
 			"Physical" : null
 		},
 		{
 			"Name" : "J1.11",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\vbus#11\\",
-			"Logical" : "VBUS",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\vbus#11\\",
+			"Logical" : "N02180",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.S1",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):SHIELD",
+			"Logical" : "N02207",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.S2",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__1\\",
+			"Logical" : "N02232",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.S3",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__2\\",
+			"Logical" : "N02341",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.S4",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__3\\",
+			"Logical" : "N02371",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.S5",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__4\\",
+			"Logical" : "N02396",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.S6",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__5\\",
+			"Logical" : "N02426",
 			"Physical" : null
 		},
 		{
 			"Name" : "J1.12",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\gnd#12\\",
-			"Logical" : "GND",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\gnd#12\\",
+			"Logical" : "N02456",
 			"Physical" : null
 		},
 		{
 			"Name" : "J1.1",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1511@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\gnd#1\\",
-			"Logical" : "GND",
-			"Physical" : null
-		},
-		{
-			"Name" : "J2.9",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):CC2",
-			"Logical" : "N00970",
-			"Physical" : null
-		},
-		{
-			"Name" : "J2.10",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):SBU1",
-			"Logical" : "N00985",
-			"Physical" : null
-		},
-		{
-			"Name" : "J2.6",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\d+\\",
-			"Logical" : "N00997",
-			"Physical" : null
-		},
-		{
-			"Name" : "J2.7",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\d+__1\\",
-			"Logical" : "N01009",
-			"Physical" : null
-		},
-		{
-			"Name" : "J2.8",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\d-__1\\",
-			"Logical" : "N01021",
-			"Physical" : null
-		},
-		{
-			"Name" : "J2.5",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\d-\\",
-			"Logical" : "N01033",
-			"Physical" : null
-		},
-		{
-			"Name" : "J2.4",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):SBU2",
-			"Logical" : "N01045",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1945@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\gnd#1\\",
+			"Logical" : "N02456",
 			"Physical" : null
 		},
 		{
 			"Name" : "J2.3",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):CC1",
-			"Logical" : "N01060",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):CC1",
+			"Logical" : "N02065",
 			"Physical" : null
 		},
 		{
-			"Name" : "J2.S1",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):SHIELD",
-			"Logical" : "N01075",
+			"Name" : "J2.4",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):SBU2",
+			"Logical" : "N02069",
 			"Physical" : null
 		},
 		{
-			"Name" : "J2.S2",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__1\\",
-			"Logical" : "N01087",
+			"Name" : "J2.8",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\d-__1\\",
+			"Logical" : "N02097",
 			"Physical" : null
 		},
 		{
-			"Name" : "J2.S3",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__2\\",
-			"Logical" : "N01099",
+			"Name" : "J2.5",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\d-\\",
+			"Logical" : "N02093",
 			"Physical" : null
 		},
 		{
-			"Name" : "J2.S4",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__3\\",
-			"Logical" : "N01114",
+			"Name" : "J2.6",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\d+\\",
+			"Logical" : "N02117",
 			"Physical" : null
 		},
 		{
-			"Name" : "J2.S5",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__4\\",
-			"Logical" : "N01126",
+			"Name" : "J2.7",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\d+__1\\",
+			"Logical" : "N02121",
 			"Physical" : null
 		},
 		{
-			"Name" : "J2.S6",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__5\\",
-			"Logical" : "N01138",
+			"Name" : "J2.10",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):SBU1",
+			"Logical" : "N02141",
 			"Physical" : null
 		},
 		{
-			"Name" : "J2.11",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\vbus#11\\",
-			"Logical" : "VBUS",
+			"Name" : "J2.9",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):CC2",
+			"Logical" : "N02145",
 			"Physical" : null
 		},
 		{
 			"Name" : "J2.2",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\vbus#2\\",
-			"Logical" : "VBUS",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\vbus#2\\",
+			"Logical" : "N02151",
 			"Physical" : null
 		},
 		{
-			"Name" : "J2.12",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\gnd#12\\",
-			"Logical" : "GND",
+			"Name" : "J2.11",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\vbus#11\\",
+			"Logical" : "N02180",
+			"Physical" : null
+		},
+		{
+			"Name" : "J2.S1",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):SHIELD",
+			"Logical" : "N02207",
+			"Physical" : null
+		},
+		{
+			"Name" : "J2.S2",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__1\\",
+			"Logical" : "N02232",
+			"Physical" : null
+		},
+		{
+			"Name" : "J2.S3",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__2\\",
+			"Logical" : "N02341",
+			"Physical" : null
+		},
+		{
+			"Name" : "J2.S4",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__3\\",
+			"Logical" : "N02371",
+			"Physical" : null
+		},
+		{
+			"Name" : "J2.S5",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__4\\",
+			"Logical" : "N02396",
+			"Physical" : null
+		},
+		{
+			"Name" : "J2.S6",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\shield__5\\",
+			"Logical" : "N02426",
 			"Physical" : null
 		},
 		{
 			"Name" : "J2.1",
-			"C_PATH" : "@phd.schematic1(sch_1):ins1619@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\gnd#1\\",
-			"Logical" : "GND",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\gnd#1\\",
+			"Logical" : "N02456",
+			"Physical" : null
+		},
+		{
+			"Name" : "J2.12",
+			"C_PATH" : "@phd.schematic1(sch_1):ins1997@dx07s016ja1r1500.\\dx07s016ja1r1500.normal\\(chips):\\gnd#12\\",
+			"Logical" : "N02456",
 			"Physical" : null
 		}
 	]

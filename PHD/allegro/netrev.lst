@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : phd.brd                                       )
 (    Software Version : 24.1P001                                      )
-(    Date/Time        : Sat Jan  4 21:17:18 2025                      )
+(    Date/Time        : Tue Jan  7 16:28:05 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -17,44 +17,38 @@ Ripup retain bondwire:       No
 Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
-Schematic directory:         '.'
+Schematic directory:         'd:\projects\hardwaredesign\phd\allegro'
 Design Directory:            'D:/Projects/HardwareDesign/PHD/allegro'
 Old design name:             'D:/Projects/HardwareDesign/PHD/allegro/phd.brd'
 New design name:             'D:/Projects/HardwareDesign/PHD/allegro/phd.brd'
 
-CmdLine: netrev -y 1 -h -q netrev_constraint_report.xml D:/Projects/HardwareDesign/PHD/allegro/#Taaaaau17632.tmp
+CmdLine: netrev.exe -y 1 -n -i d:\projects\hardwaredesign\phd\allegro D:/Projects/HardwareDesign/PHD/allegro/phd.brd D:/Projects/HardwareDesign/PHD/allegro/phd.brd
 
 ------ Preparing to read pst files ------
 
-Starting to read ./pstchip.dat 
-   Finished reading ./pstchip.dat (00:00:00.01)
-Starting to read ./pstxprt.dat 
-   Finished reading ./pstxprt.dat (00:00:00.00)
-Starting to read ./pstxnet.dat 
-   Finished reading ./pstxnet.dat (00:00:00.00)
+Starting to read d:/projects/hardwaredesign/phd/allegro/pstchip.dat 
+   Finished reading d:/projects/hardwaredesign/phd/allegro/pstchip.dat (00:00:00.01)
+Starting to read d:/projects/hardwaredesign/phd/allegro/pstxprt.dat 
+   Finished reading d:/projects/hardwaredesign/phd/allegro/pstxprt.dat (00:00:00.00)
+Starting to read d:/projects/hardwaredesign/phd/allegro/pstxnet.dat 
+   Finished reading d:/projects/hardwaredesign/phd/allegro/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
 
 ------ Library Paths ------
 MODULEPATH =  . 
-           c:/cadence/spb_24.1/share/local/pcb/modules 
+           C:/Cadence/SPB_24.1/share/orApps/OrCaptureApp/../../../share/local/pcb/modules 
 
 PSMPATH =  D:/Projects/CadenceAllegro/CIS/psmpath 
-           C:/Cadence/SPB_24.1/share/local/pcb/symbols 
-           C:/Cadence/SPB_24.1/share/pcb/pcb_lib/symbols 
-           C:/Cadence/SPB_24.1/share/pcb/allegrolib/symbols 
 
-PADPATH =  D:/Projects/CadenceAllegro/CIS/padpath 
-           C:/Cadence/SPB_24.1/share/local/pcb/padstacks 
-           C:/Cadence/SPB_24.1/share/pcb/pcb_lib/symbols 
-           C:/Cadence/SPB_24.1/share/pcb/allegrolib/symbols 
+PADPATH =  D:/Projects/CadenceAllegro/CIS/psmpath 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Jan 4 21:17:18 2025
+netrev run on Jan 7 16:28:05 2025
    DESIGN NAME : 'PHD'
    PACKAGING ON Sep  4 2024 20:54:11
 
@@ -79,6 +73,6 @@ netrev run on Jan 4 21:17:18 2025
  No oversight detected
  No warning detected
 
-cpu time      0:00:21
-elapsed time  0:00:00
+cpu time      0:00:27
+elapsed time  0:00:01
 
