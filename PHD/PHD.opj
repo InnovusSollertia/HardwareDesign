@@ -1,6 +1,6 @@
 (ExpressProject "PHD"
   (ProjectVersion "19981106")
-  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[01/09/25]")
+  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[01/10/25]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -92,6 +92,11 @@
       (Type "Log File")
       (LogFile "D:\Projects\HardwareDesign\PHD\allegro\eco.txt")))
   (PartMRUSelector
+    (XCVU7P-2FLVB2104I
+      (FullPartName "XCVU7P-2FLVB2104I.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\XCVU7P-2FLVB2104I.OLB")
+      (DeviceIndex "0"))
     (iCE40HX4K-TQ144
       (FullPartName "iCE40HX4K-TQ144.Normal")
       (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ICE40HX4K-TQ144.OLB")
@@ -157,9 +162,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1000 24 536")
-        (Scroll "-154 -8")
-        (Zoom "14")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1255 24 536")
+        (Scroll "3189 219")
+        (Zoom "192")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\PHD\PHD.DSN")
       (Schematic "SCHEMATIC1")
