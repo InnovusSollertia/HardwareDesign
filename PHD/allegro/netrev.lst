@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : phd.brd                                       )
 (    Software Version : 24.1P001                                      )
-(    Date/Time        : Tue Jan  7 17:34:41 2025                      )
+(    Date/Time        : Thu Jan  9 12:29:49 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,12 +22,12 @@ Design Directory:            'd:/projects/hardwaredesign/phd/allegro'
 Old design name:             'd:/projects/hardwaredesign/phd/allegro/phd.brd'
 New design name:             'd:/projects/hardwaredesign/phd/allegro/phd.brd'
 
-CmdLine: netrev -y 1 -q netrev_constraint_report.xml d:/projects/hardwaredesign/phd/allegro/#Taaaaau10572.tmp
+CmdLine: netrev -y 1 -q netrev_constraint_report.xml d:/projects/hardwaredesign/phd/allegro/#Taaaaau03056.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read ./pstchip.dat 
-   Finished reading ./pstchip.dat (00:00:00.01)
+   Finished reading ./pstchip.dat (00:00:00.06)
 Starting to read ./pstxprt.dat 
    Finished reading ./pstxprt.dat (00:00:00.00)
 Starting to read ./pstxnet.dat 
@@ -48,7 +48,7 @@ PADPATH =  D:/Projects/CadenceAllegro/CIS/psmpath
 ------ Summary Statistics ------
 
 
-netrev run on Jan 7 17:34:41 2025
+netrev run on Jan 9 12:29:49 2025
    DESIGN NAME : 'PHD'
    PACKAGING ON Sep  4 2024 20:54:11
 
@@ -73,6 +73,6 @@ netrev run on Jan 7 17:34:41 2025
  No oversight detected
  No warning detected
 
-cpu time      0:00:25
+cpu time      0:00:46
 elapsed time  0:00:00
 

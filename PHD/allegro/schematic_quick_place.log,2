@@ -4,8 +4,16 @@
 (                                                                     )
 (    Drawing          : phd.brd                                       )
 (    Software Version : 24.1P001                                      )
-(    Date/Time        : Tue Jan  7 16:21:40 2025                      )
+(    Date/Time        : Tue Jan  7 17:32:00 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
+
+Placing page "1"
+	ERROR:   Could not find symbol:  J1 / 149-0801-801_1490801801_149-0801-801_149-0801-801 / 1490801801
+	ERROR:   Could not find symbol:  J2 / 149-0801-801_1490801801_149-0801-801_149-0801-801 / 1490801801
+	ERROR:   Could not find symbol:  J3 / 149-0801-801_1490801801_149-0801-801_149-0801-801 / 1490801801
+	ERROR:   Could not find symbol:  J4 / 149-0801-801_1490801801_149-0801-801_149-0801-801 / 1490801801
+
+Placed 0 of 4 symbols.

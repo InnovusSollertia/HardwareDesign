@@ -1,6 +1,6 @@
 (ExpressProject "PHD"
   (ProjectVersion "19981106")
-  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[01/07/25]")
+  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[01/09/25]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -92,9 +92,27 @@
       (Type "Log File")
       (LogFile "D:\Projects\HardwareDesign\PHD\allegro\eco.txt")))
   (PartMRUSelector
+    (iCE40HX4K-TQ144
+      (FullPartName "iCE40HX4K-TQ144.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ICE40HX4K-TQ144.OLB")
+      (DeviceIndex "0"))
+    (STM32MP257FAI3
+      (FullPartName "STM32MP257FAI3.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\STM32MP257FAI3.OLB")
+      (DeviceIndex "0"))
     (149-0801-801
       (FullPartName "149-0801-801.Normal")
       (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\149-0801-801.OLB")
+      (DeviceIndex "0"))
+    (GRM0115C1E5R0CE01L
+      (FullPartName "GRM0115C1E5R0CE01L.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\GRM0115C1E5R0CE01L.OLB")
+      (DeviceIndex "0"))
+    (10158557-R302111LF
+      (FullPartName "10158557-R302111LF.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\10158557R302111LF.OLB")
       (DeviceIndex "0"))
     (STM32L052K8T6
       (FullPartName "STM32L052K8T6.Normal")
@@ -118,8 +136,7 @@
          "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CONNECTORS HEADER PINS\30_SSQ-130-01-G-S\SSQ-130-01-G-S.OLB")
       (DeviceIndex "0")))
   (MPSSessionName "Prometheus")
-  (LastUsedLibraryBrowseDirectory
-     "D:\Projects\CadenceAllegro\CIS\olbpath\Connectors Header Pins\30_SSQ-130-01-G-S")
+  (LastUsedLibraryBrowseDirectory "D:\Projects\CadenceAllegro\CIS\olbpath")
   (ISPCBBASICLICENSE "false")
   (GlobalState
     (FileView
@@ -130,8 +147,7 @@
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs")
-      (Select "Design Resources" "d:\projects\hardwaredesign\phd\phd.dsn"
-         "SCHEMATIC1" "PAGE1"))
+      (Select "Design Resources" "Library"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -141,9 +157,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1255 24 536")
-        (Scroll "310 200")
-        (Zoom "200")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1000 24 536")
+        (Scroll "-154 -8")
+        (Zoom "14")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\PHD\PHD.DSN")
       (Schematic "SCHEMATIC1")
