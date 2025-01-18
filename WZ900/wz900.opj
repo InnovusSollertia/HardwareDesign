@@ -1,0 +1,41 @@
+(ExpressProject "wz900"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[01/18/25]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\wz900.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "D:\Projects\HardwareDesign\WZ900\wz900.dsn")
+      (Path "Design Resources" "D:\Projects\HardwareDesign\WZ900\wz900.dsn"
+         "DEV0")
+      (Select "Design Resources" "D:\Projects\HardwareDesign\WZ900\wz900.dsn"
+         "DEV0"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 265 0 518"))
+      (Tab 0))))
