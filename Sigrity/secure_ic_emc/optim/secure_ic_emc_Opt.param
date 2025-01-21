@@ -1,0 +1,279 @@
+{
+    "Version": {
+        "Version": "5.10"
+    },
+    "Configurations": {
+        "Default": {
+            "Parameters": {
+                "Voltage": {
+                    "expression": "1",
+                    "unit": "",
+                    "defunit": "",
+                    "absvalue": "1",
+                    "oriname": "VRM>Voltage",
+                    "topxpParatype": "Float",
+                    "paratype": "continuous",
+                    "refvalue": "1",
+                    "lowlimit": "",
+                    "highlimit": "",
+                    "step": "",
+                    "array": "",
+                    "list": "",
+                    "boundtype": "relative",
+                    "opipara": "true"
+                },
+                "length": {
+                    "expression": "5 mil",
+                    "unit": "mil",
+                    "defunit": "mm",
+                    "absvalue": "5",
+                    "oriname": "Trace>length (mil)",
+                    "topxpParatype": "Float",
+                    "paratype": "continuous",
+                    "refvalue": "5",
+                    "lowlimit": "",
+                    "highlimit": "",
+                    "step": "",
+                    "array": "",
+                    "list": "",
+                    "boundtype": "relative",
+                    "opipara": "true"
+                },
+                "length_1": {
+                    "expression": "5 mil",
+                    "unit": "mil",
+                    "defunit": "mm",
+                    "absvalue": "5",
+                    "oriname": "Trace1>length (mil)",
+                    "topxpParatype": "Float",
+                    "paratype": "continuous",
+                    "refvalue": "5",
+                    "lowlimit": "",
+                    "highlimit": "",
+                    "step": "",
+                    "array": "",
+                    "list": "",
+                    "boundtype": "relative",
+                    "opipara": "true"
+                }
+            },
+            "SensiParameters": {
+                "Voltage": {
+                    "lowertol": "-3",
+                    "uppertol": "3",
+                    "sensipara": "true"
+                },
+                "length": {
+                    "lowertol": "-3",
+                    "uppertol": "3",
+                    "sensipara": "true"
+                },
+                "length_1": {
+                    "lowertol": "-3",
+                    "uppertol": "3",
+                    "sensipara": "true"
+                }
+            },
+            "Functions": {
+                "Overshoot": {
+                    "expression": "0.001",
+                    "oriname": "Max Overshoot (mV)",
+                    "mode": "Single_end_Mode",
+                    "type": "Measurement",
+                    "condition": "Average",
+                    "quantity": "",
+                    "centralizedpara": "",
+                    "centralizedfunc": "",
+                    "target": ""
+                },
+                "OvershootArea": {
+                    "expression": "0.001",
+                    "oriname": "Max OvershootArea (V-ns)",
+                    "mode": "Single_end_Mode",
+                    "type": "Measurement",
+                    "condition": "Average",
+                    "quantity": "",
+                    "centralizedpara": "",
+                    "centralizedfunc": "",
+                    "target": ""
+                },
+                "Undershoot": {
+                    "expression": "0.001",
+                    "oriname": "Max Undershoot (mV)",
+                    "mode": "Single_end_Mode",
+                    "type": "Measurement",
+                    "condition": "Average",
+                    "quantity": "",
+                    "centralizedpara": "",
+                    "centralizedfunc": "",
+                    "target": ""
+                },
+                "UndershootArea": {
+                    "expression": "0.001",
+                    "oriname": "Max UndershootArea (V-ns)",
+                    "mode": "Single_end_Mode",
+                    "type": "Measurement",
+                    "condition": "Average",
+                    "quantity": "",
+                    "centralizedpara": "",
+                    "centralizedfunc": "",
+                    "target": ""
+                },
+                "RBack_marginH": {
+                    "expression": "0.001",
+                    "oriname": "Min RBack_marginH (mV)",
+                    "mode": "Single_end_Mode",
+                    "type": "Measurement",
+                    "condition": "Average",
+                    "quantity": "",
+                    "centralizedpara": "",
+                    "centralizedfunc": "",
+                    "target": ""
+                },
+                "RBack_marginL": {
+                    "expression": "0.001",
+                    "oriname": "Min RBack_marginL (mV)",
+                    "mode": "Single_end_Mode",
+                    "type": "Measurement",
+                    "condition": "Average",
+                    "quantity": "",
+                    "centralizedpara": "",
+                    "centralizedfunc": "",
+                    "target": ""
+                },
+                "Power_Ripple": {
+                    "expression": "0.001",
+                    "oriname": "Max Power_Ripple (mVp-p)",
+                    "mode": "Single_end_Mode",
+                    "type": "Measurement",
+                    "condition": "Average",
+                    "quantity": "",
+                    "centralizedpara": "",
+                    "centralizedfunc": "",
+                    "target": ""
+                },
+                "Tx_Power_Ripple": {
+                    "expression": "0.001",
+                    "oriname": "Max Tx_Power_Ripple (mVp-p)",
+                    "mode": "Single_end_Mode",
+                    "type": "Measurement",
+                    "condition": "Average",
+                    "quantity": "",
+                    "centralizedpara": "",
+                    "centralizedfunc": "",
+                    "target": ""
+                },
+                "ApertureWidth": {
+                    "expression": "0.001",
+                    "oriname": "Min ApertureWidth (ps)",
+                    "mode": "Single_end_Mode",
+                    "type": "Measurement",
+                    "condition": "Average",
+                    "quantity": "",
+                    "centralizedpara": "",
+                    "centralizedfunc": "",
+                    "target": ""
+                },
+                "InterconnectDelay": {
+                    "expression": "0.001",
+                    "oriname": "Min InterconnectDelay (ps)",
+                    "mode": "Single_end_Mode",
+                    "type": "Measurement",
+                    "condition": "Average",
+                    "quantity": "",
+                    "centralizedpara": "",
+                    "centralizedfunc": "",
+                    "target": ""
+                },
+                "InterconnectDelay": {
+                    "expression": "0.001",
+                    "oriname": "Max InterconnectDelay (ps)",
+                    "mode": "Single_end_Mode",
+                    "type": "Measurement",
+                    "condition": "Average",
+                    "quantity": "",
+                    "centralizedpara": "",
+                    "centralizedfunc": "",
+                    "target": ""
+                },
+                "FirstSwitch": {
+                    "expression": "0.001",
+                    "oriname": "Min FirstSwitch (ps)",
+                    "mode": "Single_end_Mode",
+                    "type": "Measurement",
+                    "condition": "Average",
+                    "quantity": "",
+                    "centralizedpara": "",
+                    "centralizedfunc": "",
+                    "target": ""
+                },
+                "FinalSettle": {
+                    "expression": "0.001",
+                    "oriname": "Max FinalSettle (ps)",
+                    "mode": "Single_end_Mode",
+                    "type": "Measurement",
+                    "condition": "Average",
+                    "quantity": "",
+                    "centralizedpara": "",
+                    "centralizedfunc": "",
+                    "target": ""
+                }
+            },
+            "Config": {
+                "ParallelCount": "2",
+                "IterationCount": "100",
+                "Timeout": "100",
+                "Algorithm": "4",
+                "MOOAlgorithm": "1",
+                "DOETYPE": "Optimization"
+            },
+            "DOEConfig": {
+                "UsedDOETYPE": "",
+                "UseExistedDOE": "0",
+                "DOEAlgorithm": "",
+                "LHSCriterion": "",
+                "DOEIterationCount": "1",
+                "DOEParallelCount": "1"
+            },
+            "AdvConfig": {
+                "IgnoreShortCircuit": "0",
+                "SignificantNumber": "8",
+                "OptEngineCPUNumber": "16",
+                "SecondaryOpiEnable": "0",
+                "UseRefValueAsInitial": "0",
+                "Resume": "0",
+                "UseLegacyDb": "0",
+                "SaveSetupOnly": "0",
+                "EnableLicenseFailureReconnection": "1",
+                "MaxRetryTimeForLicenseFailure": "10",
+                "ReconnectionDelayForLicenseFailure": "60",
+                "SaveIntermediateFiles": "0",
+                "CustomFunction": "",
+                "EnableCustomFunction": "0"
+            },
+            "SAConfig": {
+                "SAIterationCount": "100",
+                "SAIterationIndex": "-1"
+            },
+            "SweepParameters": {
+                "Voltage": {
+                    "sweepdatatype": "Count",
+                    "sweepstep": "",
+                    "sweepcount": ""
+                },
+                "length": {
+                    "sweepdatatype": "Count",
+                    "sweepstep": "",
+                    "sweepcount": ""
+                },
+                "length_1": {
+                    "sweepdatatype": "Count",
+                    "sweepstep": "",
+                    "sweepcount": ""
+                }
+            },
+            "SweepTable": ""
+        }
+    },
+    "ActiveConfiguration": "Default"
+}

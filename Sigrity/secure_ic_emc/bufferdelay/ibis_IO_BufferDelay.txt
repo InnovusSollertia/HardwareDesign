@@ -1,0 +1,5 @@
+[IBIS File]	C:\Cadence\SPB_24.1\share\topxp\default_models\ibis.ibs
+[Date Modified (IBIS File)]	2020-10-8 21:48:20
+[Signal Name]	Signal1
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+CDSDefaultIO_2p5v    1Gbps                NC                   4.09282e-10          NC                   NC                   4.24152e-10          NC                  

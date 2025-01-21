@@ -1,0 +1,15 @@
+0.000000e+00 (V)  __Gnd
+2.500000e-01 (V)  n1
+7.500000e-01 (V)  n2
+0.000000e+00 (V)  X1.X_SpeedXP_auto_Tx_Default.nd_in_1
+1.000000e+00 (V)  X1.X_SpeedXP_auto_Tx_Default.nd_in_2
+1.000000e+00 (V)  X1.X_SpeedXP_auto_Tx_Default.pwrbus_1
+1.000000e+00 (V)  X1.X_SpeedXP_auto_Tx_Default.pwrbus_2
+5.000000e-01 (V)  X2.out_1
+5.000000e-01 (V)  X2.out_2
+-7.500000e-13 (A)  X1.X_SpeedXP_auto_Tx_Default.V_SpeedXP_auto_pwrbus_1
+-5.000000e-03 (A)  X1.X_SpeedXP_auto_Tx_Default.V_SpeedXP_auto_pwrbus_2
+0.000000e+00 (A)  X1.X_SpeedXP_auto_Tx_Default.X_SpeedXP_auto_1_St.v1
+-1.000000e-10 (A)  X1.X_SpeedXP_auto_Tx_Default.X_SpeedXP_auto_2_St.v1
+-5.000000e-03 (A)  X2.v_1
+5.000000e-03 (A)  X2.v_2

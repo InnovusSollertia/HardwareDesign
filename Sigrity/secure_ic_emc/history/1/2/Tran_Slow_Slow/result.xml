@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TBSimulationResult Module="SE" SimulationName = "2\Tran_Slow_Slow" Project = "D:/Projects/HardwareDesign/Sigrity/secure_ic_emc/secure_ic_emc.topx">
+<SimulationResult Comment = "" >
+</SimulationResult>
+<ProbeSetting>
+<ProbePoint component = "Tx" actualBlock = "Tx" busName = "" busGroup = "Power &amp; Ground" probePlace = "0" probeType = "2" componentType = "0" isConnected = "1" constValue = "1" bufferDelay = "inf" posPin = "7" posCallNode = "n3" posActualNode = "7" posSignal = "POWER" posIBISPin = "7" negPin = "8" negCallNode = "gnd" negActualNode = "8" negSignal = "GND" negIBISPin = "8" powerSignal = "POWER" groundSignal = "GND" clampPowerSignal = "POWER" clampGroundSignal = "GND" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Tx" actualBlock = "Tx" busName = "" busGroup = "Power &amp; Ground" probePlace = "0" probeType = "3" componentType = "0" isConnected = "1" constValue = "0" bufferDelay = "inf" posPin = "8" posCallNode = "gnd" posActualNode = "8" posSignal = "GND" posIBISPin = "8" negPin = "8" negCallNode = "gnd" negActualNode = "8" negSignal = "GND" negIBISPin = "8" powerSignal = "POWER" groundSignal = "GND" clampPowerSignal = "POWER" clampGroundSignal = "GND" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Tx" actualBlock = "Tx" busName = "" busGroup = "Signal" probePlace = "0" probeType = "11" componentType = "0" isConnected = "1" constValue = "1" bufferDelay = "2.35714e-11" posPin = "1" posCallNode = "n1" posActualNode = "1" posSignal = "TX_P" posIBISPin = "1" negPin = "8" negCallNode = "gnd" negActualNode = "8" negSignal = "GND" negIBISPin = "8" powerSignal = "POWER" groundSignal = "GND" clampPowerSignal = "POWER" clampGroundSignal = "GND" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Tx" actualBlock = "Tx" busName = "" busGroup = "Signal" probePlace = "0" probeType = "12" componentType = "0" isConnected = "1" constValue = "1" bufferDelay = "2.35714e-11" posPin = "2" posCallNode = "n2" posActualNode = "2" posSignal = "TX_N" posIBISPin = "2" negPin = "8" negCallNode = "gnd" negActualNode = "8" negSignal = "GND" negIBISPin = "8" powerSignal = "POWER" groundSignal = "GND" clampPowerSignal = "POWER" clampGroundSignal = "GND" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Tx" actualBlock = "Tx" busName = "" busGroup = "Signal" probePlace = "0" probeType = "13" componentType = "0" isConnected = "1" constValue = "1" bufferDelay = "2.35714e-11" posPin = "1" posCallNode = "n1" posActualNode = "1" posSignal = "TX_P" posIBISPin = "1" negPin = "2" negCallNode = "n2" negActualNode = "2" negSignal = "TX_N" negIBISPin = "2" powerSignal = "POWER" groundSignal = "GND" clampPowerSignal = "POWER" clampGroundSignal = "GND" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Rx" actualBlock = "Rx" busName = "" busGroup = "Power &amp; Ground" probePlace = "0" probeType = "2" componentType = "1" isConnected = "1" constValue = "1" bufferDelay = "inf" posPin = "7" posCallNode = "n6" posActualNode = "7" posSignal = "POWER" posIBISPin = "7" negPin = "8" negCallNode = "gnd" negActualNode = "8" negSignal = "GND" negIBISPin = "8" powerSignal = "POWER" groundSignal = "GND" clampPowerSignal = "POWER" clampGroundSignal = "GND" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Rx" actualBlock = "Rx" busName = "" busGroup = "Power &amp; Ground" probePlace = "0" probeType = "3" componentType = "1" isConnected = "1" constValue = "0" bufferDelay = "inf" posPin = "8" posCallNode = "gnd" posActualNode = "8" posSignal = "GND" posIBISPin = "8" negPin = "8" negCallNode = "gnd" negActualNode = "8" negSignal = "GND" negIBISPin = "8" powerSignal = "POWER" groundSignal = "GND" clampPowerSignal = "POWER" clampGroundSignal = "GND" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Rx" actualBlock = "Rx" busName = "" busGroup = "Signal" probePlace = "0" probeType = "11" componentType = "1" isConnected = "1" constValue = "1" bufferDelay = "inf" posPin = "3" posCallNode = "n4" posActualNode = "3" posSignal = "RX_P" posIBISPin = "3" negPin = "8" negCallNode = "gnd" negActualNode = "8" negSignal = "GND" negIBISPin = "8" powerSignal = "POWER" groundSignal = "GND" clampPowerSignal = "POWER" clampGroundSignal = "GND" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Rx" actualBlock = "Rx" busName = "" busGroup = "Signal" probePlace = "0" probeType = "12" componentType = "1" isConnected = "1" constValue = "1" bufferDelay = "inf" posPin = "4" posCallNode = "n5" posActualNode = "4" posSignal = "RX_N" posIBISPin = "4" negPin = "8" negCallNode = "gnd" negActualNode = "8" negSignal = "GND" negIBISPin = "8" powerSignal = "POWER" groundSignal = "GND" clampPowerSignal = "POWER" clampGroundSignal = "GND" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Rx" actualBlock = "Rx" busName = "" busGroup = "Signal" probePlace = "0" probeType = "13" componentType = "1" isConnected = "1" constValue = "1" bufferDelay = "inf" posPin = "3" posCallNode = "n4" posActualNode = "3" posSignal = "RX_P" posIBISPin = "3" negPin = "4" negCallNode = "n5" negActualNode = "4" negSignal = "RX_N" negIBISPin = "4" powerSignal = "POWER" groundSignal = "GND" clampPowerSignal = "POWER" clampGroundSignal = "GND" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+</ProbeSetting>
+<UserDefinedProbeSetting IsInternal = "0">
+</UserDefinedProbeSetting>
+<UserDefinedProbeSetting IsInternal = "1">
+</UserDefinedProbeSetting>
+<UserDefinedCurrentProbeSetting IsInternal = "0">
+</UserDefinedCurrentProbeSetting>
+<UserDefinedCurrentProbeSetting IsInternal = "1">
+</UserDefinedCurrentProbeSetting>
+<SimulationSetting txCorner = "Slow" rxCorner = "Slow" isWrite = "1" maxMeasurementCycle = "4" isSPDSIM = "1" vrmVoltages = "0.900000, 1.000000" stimulusOffsetAdjustment = "0" isPowerRipple = "0" >
+<DeviceBlock Block = "Tx" IsTx = "1" IBISFile = "C:\Cadence\SPB_24.1\share\topxp\default_models\ibis.ibs" IBISComponent = "Default" OnDieMode = "0" PkgMode = "0" PkgModeName = "" />
+<DeviceBlock Block = "Rx" IsTx = "0" IBISFile = "C:\Cadence\SPB_24.1\share\topxp\default_models\ibis.ibs" IBISComponent = "Default" OnDieMode = "0" PkgMode = "0" PkgModeName = "" />
+<DeviceSignalSetting BlockName = "Rx" >
+<SignalSetting busGroup = "Signal" signal = "RX_P" pin = "3" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "" receiveModel = "Rx" standbyModel = "Rx"  transmitModelType = "255" receiveModelType = "0" standbyModelType = "0"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "1" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0.025" DcThreshold = "0.025"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "Signal" signal = "RX_N" pin = "4" powerSignal = "" groudSignal = "" stimulusPattern = "01010101.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "" receiveModel = "Rx" standbyModel = "Rx"  transmitModelType = "255" receiveModelType = "0" standbyModelType = "0"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "1" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0.025" DcThreshold = "0.025"  isIBISModel = "1">
+</SignalSetting>
+</DeviceSignalSetting>
+<DeviceSignalSetting BlockName = "Tx" >
+<SignalSetting busGroup = "Signal" signal = "TX_P" pin = "1" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "Tx" receiveModel = "" standbyModel = ""  transmitModelType = "1" receiveModelType = "255" standbyModelType = "255"  transmitModelPolarityInverting = "0"  riseBufferDelay = "2.35714e-11" fallBufferDelay = "2.35714e-11"  type = "0" isSelected =  "1" isConnected = "1" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "Signal" signal = "TX_N" pin = "2" powerSignal = "" groudSignal = "" stimulusPattern = "01010101.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "Tx" receiveModel = "" standbyModel = ""  transmitModelType = "1" receiveModelType = "255" standbyModelType = "255"  transmitModelPolarityInverting = "0"  riseBufferDelay = "2.35714e-11" fallBufferDelay = "2.35714e-11"  type = "0" isSelected =  "1" isConnected = "1" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+</DeviceSignalSetting>
+<BlockModelInfo>
+</BlockModelInfo>
+<SimulatorSetting >
+<SimulatorOption SimulatorName = "spdsim" AdaptiveTimeStep = "0" Version = "1">$DEFAULT_OPTION</SimulatorOption>
+<ChannelSimulatorOption OS="Windows 64 Bit" Version ="1">$DEFAULT_OPTION</ChannelSimulatorOption>
+<CharacterizationSetting Duration = "30" Delay = "0" Vmeas = "" BusStepStimulus = "1" SeedControl = "0" />
+<SpectreSimulatorOptions>
+<SpectreOption name = "SpectreOptions" >
+<SpectreOption name = "SpectreHighPerformanceOptions" >
+<SpectreOption name = "PerformanceMode" value = "Spectre" />
+<SpectreOption name = "SpectreOptions" >
+<SpectreOption name = "ErrorPreset" value = "conservative" />
+</SpectreOption>
+<SpectreOption name = "APSOptions" >
+<SpectreOption name = "useAPS" value = "0" />
+<SpectreOption name = "MultiThreading" value = "Auto" />
+<SpectreOption name = "threadsNo" value = "" />
+<SpectreOption name = "procAffinity" value = "" />
+</SpectreOption>
+</SpectreOption>
+<SpectreOption name = "SpectreSimulatorOptions" >
+<SpectreOption name = "MainOptions" >
+<SpectreOption name = "reltol" value = "1e-3" />
+<SpectreOption name = "residualtol" value = "" />
+<SpectreOption name = "vabstol" value = "1e-6" />
+<SpectreOption name = "iabstol" value = "1e-12" />
+<SpectreOption name = "temp" value = "27" />
+</SpectreOption>
+<SpectreOption name = "AlgorithmOptions" >
+<SpectreOption name = "homotopy" value = "" />
+<SpectreOption name = "limit" value = "" />
+<SpectreOption name = "gmethod" value = "" />
+<SpectreOption name = "dptran_gmethod" value = "" />
+<SpectreOption name = "try_fast_op" value = "" />
+<SpectreOption name = "convdbg" value = "" />
+<SpectreOption name = "nonconv_topnum" value = "" />
+<SpectreOption name = "gmin" value = "1e-12" />
+<SpectreOption name = "gmin_check" value = "" />
+<SpectreOption name = "gmindc" value = "" />
+<SpectreOption name = "rforce" value = "1" />
+<SpectreOption name = "pivotdc" value = "" />
+<SpectreOption name = "dc_pivot_check" value = "" />
+<SpectreOption name = "pivrel" value = "1e-3" />
+<SpectreOption name = "pivabs" value = "" />
+<SpectreOption name = "preorder" value = "" />
+<SpectreOption name = "rebuild_matrix" value = "" />
+</SpectreOption>
+<SpectreOption name = "ComponentOptions" >
+<SpectreOption name = "scalem" value = "1.0" />
+<SpectreOption name = "scale" value = "1.0" />
+<SpectreOption name = "scalefactor" value = "" />
+<SpectreOption name = "approx" value = "" />
+<SpectreOption name = "macromodels" value = "" />
+<SpectreOption name = "maxrsd" value = "" />
+<SpectreOption name = "auto_minductor" value = "" />
+<SpectreOption name = "minr" value = "" />
+</SpectreOption>
+<SpectreOption name = "CheckOptions" >
+<SpectreOption name = "topcheck" value = "" />
+<SpectreOption name = "iccapcheck" value = "" />
+<SpectreOption name = "ignshorts" value = "" />
+<SpectreOption name = "diagnose" value = "" />
+<SpectreOption name = "dochecklimit" value = "" />
+<SpectreOption name = "checklimitfile" value = "" />
+<SpectreOption name = "checklimitdest" value = "psf" />
+<SpectreOption name = "checklimit_skip_subs" value = "" />
+<SpectreOption name = "checklimit_skip_file" value = "" />
+<SpectreOption name = "opptcheck" value = "" />
+</SpectreOption>
+<SpectreOption name = "AnnotationOptions" >
+<SpectreOption name = "audit" value = "" />
+<SpectreOption name = "inventory" value = "" />
+<SpectreOption name = "narrate" value = "" />
+<SpectreOption name = "debug" value = "" />
+<SpectreOption name = "info" value = "" />
+<SpectreOption name = "note" value = "" />
+<SpectreOption name = "maxnotes" value = "5" />
+<SpectreOption name = "warn" value = "" />
+<SpectreOption name = "maxwarns" value = "5" />
+<SpectreOption name = "maxwarnstologfile" value = "" />
+<SpectreOption name = "maxnotestologfile" value = "" />
+<SpectreOption name = "error" value = "" />
+<SpectreOption name = "printstep" value = "" />
+<SpectreOption name = "digits" value = "5" />
+<SpectreOption name = "notation" value = "" />
+<SpectreOption name = "cols" value = "80" />
+<SpectreOption name = "colslog" value = "" />
+<SpectreOption name = "title" value = "" />
+</SpectreOption>
+<SpectreOption name = "MiscOptions" >
+<SpectreOption name = "value" value = "" />
+<SpectreOption name = "flow" value = "" />
+<SpectreOption name = "quantities" value = "" />
+<SpectreOption name = "additional_arguments" value = "" />
+</SpectreOption>
+</SpectreOption>
+<SpectreOption name = "AnalysisOptions" >
+<SpectreOption name = "BasicOptions" >
+<SpectreOption name = "errpreset" value = "" />
+</SpectreOption>
+<SpectreOption name = "SpectreTransientOptions" >
+<SpectreOption name = "TimeStepOptions" >
+<SpectreOption name = "step" value = "" />
+<SpectreOption name = "maxstep" value = "" />
+<SpectreOption name = "minstep" value = "" />
+</SpectreOption>
+<SpectreOption name = "AlgorithmOptions" >
+<SpectreOption name = "method" value = "" />
+<SpectreOption name = "maxiters" value = "5" />
+<SpectreOption name = "restart" value = "" />
+<SpectreOption name = "relref" value = "" />
+<SpectreOption name = "lteratio" value = "" />
+</SpectreOption>
+<SpectreOption name = "MiscOptions" >
+<SpectreOption name = "annotate" value = "status" />
+<SpectreOption name = "emirstop" value = "" />
+</SpectreOption>
+</SpectreOption>
+<SpectreOption name = "SpectreDcOptions" >
+<SpectreOption name = "force" value = "" />
+<SpectreOption name = "save_op_in_final" value = "0" />
+<SpectreOption name = "readns" value = "" />
+<SpectreOption name = "readforce" value = "" />
+<SpectreOption name = "writefinal" value = "" />
+<SpectreOption name = "homotopy" value = "" />
+<SpectreOption name = "restart" value = "" />
+<SpectreOption name = "maxiters" value = "150" />
+<SpectreOption name = "maxsteps" value = "10000" />
+<SpectreOption name = "annotate" value = "" />
+<SpectreOption name = "additionalParams" value = "" />
+</SpectreOption>
+</SpectreOption>
+</SpectreOption>
+</SpectreSimulatorOptions>
+</SimulatorSetting>
+<DQMaskSpec VdIVW = "" VdIVW2 = "" TdIVW = "" TdIVW2 = "" MintDQS2DQ = "" MaxtDQS2DQ = "" MaxtDQ2DQ = "" MinVIHL_AC = "" MinTdIPW = "" MinTdIHL = "" MinSlewRate_Mask = "" MaxSlewRate_Mask = "" MinSlewRate_AC_Swing = "" MaxSlewRate_AC_Swing = "" MaskType = "" />
+</SimulationSetting>
+<DdrReportSetting WaveformLocation = "Die Pad" startingTime = "0" endingTime = "inf" rangeUnit = "2" SetupDeratingTableFile = "" HoldDeratingTableFile = "" EyeTrigger = "0" EyeAperture = "0" minTacWidthPercent = "50" offset = "" ExtrapolationMethod = "Nearest" PerformDeratingForDataRead = "0" tdDataReadExport = "0" IsWorstCaseSummaryOnly = "1" CheckConnectivity = "0" averageMagnitudeThreshold = "0" >
+<Threshold title = "Default" ac = "0.175" dc = "0.1" DiffAC = "0.35" DiffDC = "0.2" DDRType = "Default" />
+<CustomReportSetting >
+</CustomReportSetting>
+<HTMLReport title = "" subTitle = "" desc = "" />
+<MeasurementType index = "0" enable = "1" />
+<MeasurementType index = "1" enable = "1" />
+<MeasurementType index = "2" enable = "1" />
+<MeasurementType index = "3" enable = "1" />
+<MeasurementType index = "4" enable = "1" />
+<MeasurementType index = "5" enable = "1" />
+<MeasurementType index = "6" enable = "1" />
+<MeasurementType index = "7" enable = "1" />
+<MeasurementType index = "8" enable = "1" />
+<MeasurementType index = "9" enable = "1" />
+<MeasurementType index = "10" enable = "1" />
+<MeasurementType index = "11" enable = "1" />
+<MeasurementType index = "12" enable = "1" />
+<MeasurementType index = "13" enable = "1" />
+<MeasurementType index = "14" enable = "1" />
+<MeasurementType index = "15" enable = "1" />
+<MeasurementType index = "16" enable = "1" />
+<MeasurementType index = "17" enable = "1" />
+<MeasurementType index = "18" enable = "1" />
+<MeasurementType index = "19" enable = "1" />
+<MeasurementType index = "20" enable = "1" />
+<MeasurementType index = "21" enable = "1" />
+<MeasurementType index = "22" enable = "1" />
+<MeasurementType index = "23" enable = "1" />
+<MeasurementType index = "24" enable = "1" />
+<MeasurementType index = "25" enable = "1" />
+<Specs strobeAdjustmentResolution = "0.02" >
+<ControllerTimingSpec >
+<TimingSpec MinTransmitSetup = "" MinTransmitHold = "" MinReceiveSetup = "" MinReceiveHold = "" MaxReceiveSkewPlus = "" MaxReceiveSkewMinus = "" MinStrobeSetup = "" MinStrobeHold = "" MaxStrobeClockSkewPlus = "" MaxStrobeClockSkewMinus = "" tDQSQ = "" tQH = "" />
+</ControllerTimingSpec>
+<MemoryTimingSpec >
+<TimingSpec MinTransmitSetup = "" MinTransmitHold = "" MinReceiveSetup = "" MinReceiveHold = "" MaxReceiveSkewPlus = "" MaxReceiveSkewMinus = "" MinStrobeSetup = "" MinStrobeHold = "" MaxStrobeClockSkewPlus = "" MaxStrobeClockSkewMinus = "" tDQSQ = "" tQH = "" />
+</MemoryTimingSpec>
+<DQMaskSpec VdIVW = "" VdIVW2 = "" TdIVW = "" TdIVW2 = "" MintDQS2DQ = "" MaxtDQS2DQ = "" MaxtDQ2DQ = "" MinVIHL_AC = "" MinTdIPW = "" MinTdIHL = "" MinSlewRate_Mask = "" MaxSlewRate_Mask = "" MinSlewRate_AC_Swing = "" MaxSlewRate_AC_Swing = "" MaskType = "" />
+<DQVrefSpec Vref_max = "" Vref_min = "" Vref_step = "" Vref_set_tol = "" />
+</Specs>
+</DdrReportSetting>
+<FrequencyResponseResult>
+<FrequencyResponseSetting MaxFrequency = "1" NumOfFreqPoint = "128"/>
+<PinMappingResult>
+<PinMapping RxBlock = "Rx" RxSignal = "RX_P" RxPin = "3" TxBlock = "Tx" TxSignal = "TX_P" TxPin = "1" Magnitude = "0.999837" />
+<PinMapping RxBlock = "Rx" RxSignal = "RX_N" RxPin = "4" TxBlock = "Tx" TxSignal = "TX_N" TxPin = "2" Magnitude = "0.999837" />
+</PinMappingResult></FrequencyResponseResult>
+<SweepSetting sweepIndex = "-1">
+<SweepParamList >
+<SweepItem LongName = "Corner" ParameterValue = "Slow" ParameterDisplayValue = "Slow" DisplayName = "Corner" />
+</SweepParamList>
+</SweepSetting>
+<MeasurementSummary >
+</MeasurementSummary>
+</TBSimulationResult>

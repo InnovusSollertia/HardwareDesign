@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TxBufferDelayAnalysisResult>
+<SimulationResult Comment = "" >
+</SimulationResult>
+<BufferDelaySimulationSetting block = "Tx" corner = "Fast" ibisFile = "C:\Cadence\SPB_24.1\share\topxp\default_models\ibis.ibs" ibisComponent = "Default" isSPDSIM = "1" pkgMode = "0" pkgModeName = "" />
+<BufferDelayProbeSetting>
+<BufferDelayProbePoint DataRate = "1e+09" PosProbeNode = "gnd" NegProbeNode = "gnd" PosProbePin = "" NegProbePin = "" PosProbeSignal = "TX_P" NegProbeSignal = "" ModelPos = "Tx" ModelNeg = "" ModelTypePos = "1" ModelTypeNeg = "-1" ProbeType = "1" VMeas = "0.5" />
+<BufferDelayProbePoint DataRate = "1e+09" PosProbeNode = "gnd" NegProbeNode = "gnd" PosProbePin = "" NegProbePin = "" PosProbeSignal = "TX_N" NegProbeSignal = "" ModelPos = "Tx" ModelNeg = "" ModelTypePos = "1" ModelTypeNeg = "-1" ProbeType = "2" VMeas = "0.5" />
+<BufferDelayProbePoint DataRate = "1e+09" PosProbeNode = "n2" NegProbeNode = "n2" PosProbePin = "" NegProbePin = "" PosProbeSignal = "TX_P" NegProbeSignal = "TX_N" ModelPos = "Tx" ModelNeg = "Tx" ModelTypePos = "1" ModelTypeNeg = "1" ProbeType = "3" VMeas = "0" />
+</BufferDelayProbeSetting>
+</TxBufferDelayAnalysisResult>

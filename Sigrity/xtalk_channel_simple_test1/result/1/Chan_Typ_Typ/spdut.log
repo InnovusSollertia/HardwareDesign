@@ -1,0 +1,114 @@
+
+**** C:\Cadence\SPB_24.1\tools\bin\spdut.exe *****
+
+INFO: Command = 'C:\Cadence\SPB_24.1\tools\bin\spdut.exe -b D:\Projects\HardwareDesign\Sigrity\xtalk_channel_simple_test1\result\1\Chan_Typ_Typ\temp\command.txt'
+
+
+**** Mon Jan 20 10:07:48 2025
+ ****
+
+INFO: **** version = 24.1-2020 P001 (4234998)  [9/4/2024] *****
+
+INFO: ****Setting precision to '16' digits****
+INFO:  Compiling 'RX_PRIMARY_pos_neg'
+INFO:  Tx 'TX_LOWER_pos_neg' baud rate is set to '5e+09'
+INFO:  Tx 'TX_PRIMARY_pos_neg' baud rate is set to '5e+09'
+INFO:  Tx 'TX_UPPER_pos_neg' baud rate is set to '5e+09'
+INFO:  timestep specified in '
+(bitres 32 )'
+INFO:  timestep is derived from resolution 
+INFO:  Found system level time step = '6.25e-12', min bitp= '2e-10'
+INFO:  Starting impulse response compilation
+INFO: Processing impulse response for source 'TX_LOWER_pos_neg'
+INFO:  Applying impulse correction for 'TX_LOWER_pos_neg:impfile' -- directive '(fiximp (pwr ) )'
+INFO:     impulse correction: 'step=-3.9892e-05 refstep=-3.9892e-05'
+INFO: Processing impulse response for source 'TX_PRIMARY_pos_neg'
+INFO:  Applying impulse correction for 'TX_PRIMARY_pos_neg:impfile' -- directive '(fiximp (pwr ) )'
+INFO:     impulse correction: 'step=0.979995 refstep=0.979995'
+INFO: Processing impulse response for source 'TX_UPPER_pos_neg'
+INFO:  Applying impulse correction for 'TX_UPPER_pos_neg:impfile' -- directive '(fiximp (pwr ) )'
+INFO:     impulse correction: 'step=6.06207e-05 refstep=6.06207e-05'
+WARNING:  No primary channel information for xtalk driver 'TX_LOWER_pos_neg'
+WARNING:  'TX_LOWER_pos_neg' is a xtalk driver without its own main channel information; assuming its main channel identical to the primary channel represented by 'TX_PRIMARY_pos_neg->RX_PRIMARY_pos_neg'
+WARNING:  No primary channel information for xtalk driver 'TX_UPPER_pos_neg'
+WARNING:  'TX_UPPER_pos_neg' is a xtalk driver without its own main channel information; assuming its main channel identical to the primary channel represented by 'TX_PRIMARY_pos_neg->RX_PRIMARY_pos_neg'
+INFO:  primary channel signal to interference ratio = '4.98904719864938'
+INFO:  signal to interference ratio including xtalk = '4.966841256360026'
+INFO:  xtalk to signal ratio = '0.0008961306144482566'
+INFO:  compiling tx 'TX_PRIMARY_pos_neg' ami line = 
+ '(ami (C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll (amiffe (Reserved_Parameters (Max_Init_Aggressors 25 ) (Init_Returns_Impulse True ) (GetWave_Exists False ) ) (Model_Specific (fwd 3 ) (pre 1 ) (coeffout ffecoeff.txt ) (UserTapsFile nil ) (scalef 1 ) ) ) ) )'
+INFO: processing ami model 'TX_PRIMARY_pos_neg:C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll'
+INFO:  ami model line = 
+ '(C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll (amiffe (Reserved_Parameters (Max_Init_Aggressors 25 ) (Init_Returns_Impulse True ) (GetWave_Exists False ) ) (Model_Specific (fwd 3 ) (pre 1 ) (coeffout ffecoeff.txt ) (UserTapsFile nil ) (scalef 1 ) ) ) )'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll:AMI_Init'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll:AMI_GetWave'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll:AMI_Close'
+INFO:  IR from ami model 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll' Init function will be used in simulation 
+INFO:  ami 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll' input  parameters: ' (amiffe (fwd 3) (pre 1) (coeffout ffecoeff.txt) (UserTapsFile nil) (scalef 1)) '
+INFO:  ami 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll' returned the message:
+ *     Sigrity inc,  ami ffe filter       *
+******************************************************
+   snrgain  = 5.07887 
+ fwd=3  pre=1 offset=0
+ Taps= -0.00256254	1	-0.0333807	
+ 
+ xtalk_mode=0
+******************************************************
+
+ 
+INFO:  compiling rx 'RX_PRIMARY_pos_neg' ami line = 
+ '(ami (C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll (amirx (Reserved_Parameters (Ignore_Bits 40000 ) (Init_Returns_Impulse False ) (GetWave_Exists True ) ) (Model_Specific (dfe (bwd 5 ) (res 64 ) (foffset 0 ) (meas_delay 50e-09 ) (coeffout dfe.txt ) ) ) ) ) )'
+INFO: processing ami model 'RX_PRIMARY_pos_neg:C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll'
+INFO:  ami model line = 
+ '(C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll (amirx (Reserved_Parameters (Ignore_Bits 40000 ) (Init_Returns_Impulse False ) (GetWave_Exists True ) ) (Model_Specific (dfe (bwd 5 ) (res 64 ) (foffset 0 ) (meas_delay 50e-09 ) (coeffout dfe.txt ) ) ) ) )'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll:AMI_Init'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll:AMI_GetWave'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll:AMI_Close'
+INFO:  init output is false for ami model 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll'
+INFO:  ami 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll' input  parameters: ' (amirx (dfe (bwd 5) (res 64) (foffset 0) (meas_delay 50e-09) (coeffout dfe.txt))) '
+INFO:  ami 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll' returned the message:
+ INFO: model 'amirx' returned '
+Loading module 'dfe' ..
+' 
+INFO:  blocksize = '60735' impulse size = '4801' ' 
+INFO: Compiled random stimulus '(rand (seed 1 ) (poly 7 ) )' for tx 'TX_LOWER_pos_neg'
+INFO:  stimulus option 'invert' applied to tx 'TX_LOWER_pos_neg' 
+INFO:  stimulus delay '0' for tx 'TX_LOWER_pos_neg' will be applied 
+INFO: Compiled random stimulus '(rand (seed 1 ) (poly 7 ) )' for tx 'TX_PRIMARY_pos_neg'
+INFO:  stimulus delay '0' for tx 'TX_PRIMARY_pos_neg' will be applied 
+INFO: Compiled random stimulus '(rand (seed 1 ) (poly 7 ) )' for tx 'TX_UPPER_pos_neg'
+INFO:  stimulus option 'invert' applied to tx 'TX_UPPER_pos_neg' 
+INFO:  stimulus delay '0' for tx 'TX_UPPER_pos_neg' will be applied 
+INFO:  Number of bits to be simulated = '201185' 
+INFO:  option '(wavecnt )' :will be storing the last '32000' wave points in file 'waveform.txt'
+INFO: 'RX_PRIMARY_pos_neg' jitter and noise consolidated '(jitternoise (jitter (rj 0.01 ) ) (noise (rn 0.001 ) ) )'
+INFO:  compiling  eye parameters
+INFO:  Eye signal resolution set to '128' points
+WARNING:  channel 'RX_PRIMARY_pos_neg': Measure Delay Required by system ami model is longer; Adjusting measure delay to '8e-06'
+INFO:  directive 'fstclk_edges' automatically added
+INFO:  directive '(fstclk_edges )': first ideal clock will be based on '100' edges
+WARNING:  measure delay '8e-06' + current time '0' was too large, automatically increasing simulation time to '4.8357e-05' (#bits = '242940')
+INFO:  Eye meas delay set to '8e-06'
+INFO:  vmeas_determine_bits set to '100'
+INFO: clk pdf will be ouput
+WARNING:  random noise was not specified; setting to default value '0'
+INFO:  Number of initial simulation blocks = 128 
+WARNING:  measure delay '8e-06' + current time '3.7959375e-07' was too large, automatically increasing simulation time to '4.873659375e-05' (#bits = '244838')
+INFO: Rx is getting external clock data from model
+INFO:  eye contour will be output to file 'eyectr.txt'
+INFO:  eye contour will be output to file 'eyectrjn.txt'
+INFO:  left bathtub  will be output to file 'bathtub_l.txt'
+INFO:  right bathtub  will be output to file 'bathtub_r.txt'
+INFO:  ber vs ui will be output to file 'berui.txt'
+INFO:  noise left bathtub  will be output to file 'nbathtub_l.txt'
+INFO:  noise right bathtub  will be output to file 'nbathtub_r.txt'
+INFO:  ber vs amplitude will be output to file 'nberampl.txt'
+INFO:  3d bathtub   will be output to file 'bathtub_3d.txt'
+INFO:  eye density  will be output to file 'eyedensity.txt'
+INFO:  eye density  will be output to file 'eyeden_nojn.txt'
+INFO:  eye time jitter distribution  will be output to file 'eyedist_tj.txt'
+INFO:  eye voltage jitter distribution  will be output to file 'eyedist_vj.txt'
+INFO:  eye time jitter distribution including global jitter noise will be output to file 'eyedist_tj_jn.txt'
+INFO:  eye voltage jitter distribution including global jitter noise will be output to file 'eyedist_vj_jn.txt'
+INFO:  channel report  will be output to file 'report.txt'
+INFO:  Elapsed Time = '59'

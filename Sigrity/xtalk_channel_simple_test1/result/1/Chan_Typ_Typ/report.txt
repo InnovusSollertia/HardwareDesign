@@ -1,0 +1,90 @@
+          Channel Report
+
+Mon Jan 20 10:08:47 2025
+
+General:
+
+        Simulation Type                 = Time Domain
+        Data Rate                       =    5 Gbps
+        Number of Bits                  = 244837
+        Number of Eye Bits              = 204737
+        Ignore Bits                     = 40100
+        Channel Coding                  = No
+        Primary Driver                  = TX_PRIMARY_pos_neg
+        Data Pattern                    = prbs 7
+        Number of Aggressors            = 2
+        Characterization Data           = D:\Projects\HardwareDesign\Sigrity\xtalk_channel_simple_test1\result\1\Chan_Typ_Typ\channel_TX_PRIMARY_pos_neg_RX_PRIMARY_rx.cur
+        Delay                           = 0.718128 ns
+        Intra-Pair Skew                 = 13.2204 ps
+
+
+Xtalk Info:
+
+        Xtalk Channel Data              = TX_LOWER_pos_neg:D:\Projects\HardwareDesign\Sigrity\xtalk_channel_simple_test1\result\1\Chan_Typ_Typ\channel_TX_LOWER_pos_neg_RX_PRIMARY_rx.cur
+                                          Stimulus: Random, Inverted
+
+                                          TX_UPPER_pos_neg:D:\Projects\HardwareDesign\Sigrity\xtalk_channel_simple_test1\result\1\Chan_Typ_Typ\channel_TX_UPPER_pos_neg_RX_PRIMARY_rx.cur
+                                          Stimulus: Random, Inverted
+
+
+
+
+Algorithmic Models:
+
+        Rx Models                       = C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll 
+        Primary Tx TX_PRIMARY_pos_neg Models = C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll 
+
+Jitter Inputs:
+
+        Random Jitter                   =  1 %
+
+Noise Inputs:
+
+        Random Noise                    =  1 mV
+
+Eye Contour Measurements:
+
+        Eye Height                      = 760 mV
+        Eye Height Measured at          = 0.5 UI
+        Eye Jitter                      = 0.06 UI
+        Eye Jitter Measured at          = -4 mV
+        Eye Norm Jitter and Noise (NJN) = 0.45 
+        Channel Operating Margin (COM)  = 17.18 dB
+
+Eye Density Signal to Noise Ratio (SNR)  = 136.80 
+
+BER Measurements:
+
+        LBER(log BER)	Eye Width(UI)
+        -16		0.76
+        -15		0.77
+        -14		0.77
+        -13		0.78
+        -12		0.79
+        -11		0.80
+        -10		0.81
+        -9		0.82
+        -8		0.83
+        -7		0.83
+        -6		0.84
+        -5		0.85
+        -4		0.86
+        -3		0.88
+
+mV BER Measurements:
+
+        LBER(log BER)	Eye Height(mV)
+        -16		723
+        -15		725
+        -14		726
+        -13		728
+        -12		730
+        -11		733
+        -10		735
+        -9		737
+        -8		740
+        -7		743
+        -6		746
+        -5		749
+        -4		752
+        -3		755

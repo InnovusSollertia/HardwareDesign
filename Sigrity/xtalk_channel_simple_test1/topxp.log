@@ -1,0 +1,23 @@
+2025-01-20T10:07:11 TopWb.exe 24.1 P001 (4234998)  [9/4/2024]
+2025-01-20T10:07:11 Sigrity Dir: C:\Cadence\Sigrity2024.0
+2025-01-20T10:07:11 Open Topology: D:/Projects/HardwareDesign/Sigrity/xtalk_channel_simple_test1/xtalk_channel_simple_test1.topx
+2025-01-20T10:07:22 Run Simulation
+2025-01-20T10:07:23 spdsim(pid 12732) started [D:\Projects\HardwareDesign\Sigrity\xtalk_channel_simple_test1\result\sparam\1\temp\SParamExtraction.sp]
+2025-01-20T10:07:23 spdsim(pid 12732) ended [D:\Projects\HardwareDesign\Sigrity\xtalk_channel_simple_test1\result\sparam\1\temp\SParamExtraction.sp]
+2025-01-20T10:07:23 Finish Connectivity Checker
+2025-01-20T10:07:23 Characterizing the TX_LOWER_pos_neg - RX_PRIMARY_pos_neg channel using 'SPDSIM'. The characterization results are being saved in 'D:\Projects\HardwareDesign\Sigrity\xtalk_channel_simple_test1\result\1\Chan_Typ_Typ'.
+2025-01-20T10:07:23 spdsim(pid 11656) started [D:\Projects\HardwareDesign\Sigrity\xtalk_channel_simple_test1\result\1\Chan_Typ_Typ\temp\channel_TX_LOWER_pos_neg_RX_PRIMARY.sp]
+2025-01-20T10:07:31 spdsim(pid 11656) ended [D:\Projects\HardwareDesign\Sigrity\xtalk_channel_simple_test1\result\1\Chan_Typ_Typ\temp\channel_TX_LOWER_pos_neg_RX_PRIMARY.sp]
+2025-01-20T10:07:31 Characterizing the TX_PRIMARY_pos_neg - RX_PRIMARY_pos_neg channel using 'SPDSIM'. The characterization results are being saved in 'D:\Projects\HardwareDesign\Sigrity\xtalk_channel_simple_test1\result\1\Chan_Typ_Typ'.
+2025-01-20T10:07:32 spdsim(pid 10840) started [D:\Projects\HardwareDesign\Sigrity\xtalk_channel_simple_test1\result\1\Chan_Typ_Typ\temp\channel_TX_PRIMARY_pos_neg_RX_PRIMARY.sp]
+2025-01-20T10:07:39 spdsim(pid 10840) ended [D:\Projects\HardwareDesign\Sigrity\xtalk_channel_simple_test1\result\1\Chan_Typ_Typ\temp\channel_TX_PRIMARY_pos_neg_RX_PRIMARY.sp]
+2025-01-20T10:07:39 Characterizing the TX_UPPER_pos_neg - RX_PRIMARY_pos_neg channel using 'SPDSIM'. The characterization results are being saved in 'D:\Projects\HardwareDesign\Sigrity\xtalk_channel_simple_test1\result\1\Chan_Typ_Typ'.
+2025-01-20T10:07:39 spdsim(pid 2100) started [D:\Projects\HardwareDesign\Sigrity\xtalk_channel_simple_test1\result\1\Chan_Typ_Typ\temp\channel_TX_UPPER_pos_neg_RX_PRIMARY.sp]
+2025-01-20T10:07:47 spdsim(pid 2100) ended [D:\Projects\HardwareDesign\Sigrity\xtalk_channel_simple_test1\result\1\Chan_Typ_Typ\temp\channel_TX_UPPER_pos_neg_RX_PRIMARY.sp]
+2025-01-20T10:07:47 Running time domain channel simulation at 5 Gbps.
+2025-01-20T10:07:48 spdut(pid 16988) started [Used CPUs: 1] [D:\Projects\HardwareDesign\Sigrity\xtalk_channel_simple_test1\result\1\Chan_Typ_Typ\temp\command.txt]
+2025-01-20T10:08:47 spdut(pid 16988) ended [D:\Projects\HardwareDesign\Sigrity\xtalk_channel_simple_test1\result\1\Chan_Typ_Typ\temp\command.txt]
+2025-01-20T10:08:50 Finish Channel Simulation (Performing bit-by-bit Channel Simulation)
+ Total characterization time: 21 seconds
+ Total channel simulation time: 59 seconds
+ Total simulation time: 88 seconds

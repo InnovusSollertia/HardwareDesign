@@ -1,0 +1,16 @@
+The log file is created on Mon Jan 20 10:25:09 2025
+
+[Computer Name]     DESKTOP-D851ENJ
+
+[Operating System]  Microsoft Windows (newer OS) [Version ] 
+
+[SPEED Simulator]   SPDSIM2000 version 24.0.0.05151.504415   000
+
+[SPEED File]        D:\Projects\HardwareDesign\Sigrity\secure_ic_emc\result\3\Tran_Slow_Slow\temp\simulation_input.sp
+
+
+
+[Time Steps]	[Mem Usage (M bytes)]	[Free Memory (M bytes)]	[Total CPU Time (hour:min:sec)]	[FDTD solver CPU Time (hour:min:sec)]	[Circuit solver CPU Time (hour:min:sec)]	[Peak Mem Usage (M bytes)]	[VM Size (M bytes)]
+
+1		12.8867			970.34			0: 0: 0			0: 0: 0					0: 0: 0					12.8906				69.3281
+

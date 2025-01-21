@@ -1,0 +1,12 @@
+0.000000e+00 (V)  __Gnd
+1.760563e-02 (V)  n1
+1.000000e+00 (V)  X1.X_SpeedXP_auto_IO_IO.nd_en_1
+0.000000e+00 (V)  X1.X_SpeedXP_auto_IO_IO.nd_in_1
+5.000000e-01 (V)  X1.X_SpeedXP_auto_IO_IO.nd_out_of_in_1
+2.500000e+00 (V)  X1.X_SpeedXP_auto_IO_IO.pwr_1
+1.250000e+00 (V)  X2.out_1
+-5.000000e-11 (A)  X1.X_SpeedXP_auto_IO_IO.B_SpeedXP_auto_1_OutOfIn
+-1.000000e-10 (A)  X1.X_SpeedXP_auto_IO_IO.V_SpeedXP_auto_1_En
+-4.964789e-12 (A)  X1.X_SpeedXP_auto_IO_IO.V_SpeedXP_auto_pwr_1
+0.000000e+00 (A)  X1.X_SpeedXP_auto_IO_IO.X_SpeedXP_auto_1_St.v1
+-2.464789e-03 (A)  X2.v_1

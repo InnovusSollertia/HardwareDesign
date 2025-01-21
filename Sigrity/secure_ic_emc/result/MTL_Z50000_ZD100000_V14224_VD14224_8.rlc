@@ -1,0 +1,14 @@
+* Number of conductors
+2
+* L0 matrix
+3.51519e-07 
+0 3.51519e-07 
+* C0 matrix
+1.40607e-10 
+0 1.40607e-10 
+* R0 matrix
+1e-05 
+0 1e-05 
+* G0 matrix
+0 
+0 0 

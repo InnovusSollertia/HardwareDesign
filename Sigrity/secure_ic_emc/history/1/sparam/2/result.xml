@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<SParamExtractionResult SimulationName = "sparam\2" Project = "D:/Projects/HardwareDesign/Sigrity/secure_ic_emc/secure_ic_emc.topx" resultFile = "S_para_S_diff.bnp" isDiffMode = "1">
+<SimulationResult Comment = "" >
+</SimulationResult>
+<Identity>
+<File CRC32 = "3045092217"/>
+<File CRC32 = "1758042954"/>
+<File CRC32 = "4275595959"/>
+<File CRC32 = "1546224267"/>
+<File CRC32 = "448573463"/>
+</Identity>
+</SParamExtractionResult>

@@ -1,0 +1,728 @@
+
+Checking C:\Cadence\SPB_24.1\share\topxp\default_models\pba_ex.ibs for IBIS 5.1 Compatibility...
+
+WARNING (line  653) - Model DDR3L_DQ40_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line  653) - Model DDR3L_DQ40_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line  677) - Pulldown Minimum data is non-monotonic
+NOTE (line  680) - Pulldown Typical data is non-monotonic
+NOTE (line  683) - Pulldown Maximum data is non-monotonic
+NOTE (line  765) - Pullup Typical data is non-monotonic
+NOTE (line  766) - Pullup Minimum data is non-monotonic
+NOTE (line  769) - Pullup Maximum data is non-monotonic
+NOTE (line  909) - GND Clamp Maximum data is non-monotonic
+NOTE (line  911) - GND Clamp Typical data is non-monotonic
+NOTE (line  981) - POWER Clamp Maximum data is non-monotonic
+NOTE (line  996) - POWER Clamp Typical data is non-monotonic
+NOTE (line 1110) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 1111) - ISSO_PD Typical data is non-monotonic
+NOTE (line 1203) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 1208) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR3L_DQ40_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 3683) - Model DDR3L_DQ40_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 3683) - Model DDR3L_DQ40_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 3711) - Pulldown Minimum data is non-monotonic
+NOTE (line 3714) - Pulldown Typical data is non-monotonic
+NOTE (line 3717) - Pulldown Maximum data is non-monotonic
+NOTE (line 3799) - Pullup Typical data is non-monotonic
+NOTE (line 3800) - Pullup Minimum data is non-monotonic
+NOTE (line 3803) - Pullup Maximum data is non-monotonic
+NOTE (line 3943) - GND Clamp Maximum data is non-monotonic
+NOTE (line 3945) - GND Clamp Typical data is non-monotonic
+NOTE (line 4015) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 4030) - POWER Clamp Typical data is non-monotonic
+NOTE (line 4144) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 4145) - ISSO_PD Typical data is non-monotonic
+NOTE (line 4237) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 4242) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR3L_DQ40_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 6717) - Model DDR3L_DQ48_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 6717) - Model DDR3L_DQ48_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 6741) - Pulldown Minimum data is non-monotonic
+NOTE (line 6744) - Pulldown Typical data is non-monotonic
+NOTE (line 6747) - Pulldown Maximum data is non-monotonic
+NOTE (line 6829) - Pullup Typical data is non-monotonic
+NOTE (line 6830) - Pullup Minimum data is non-monotonic
+NOTE (line 6833) - Pullup Maximum data is non-monotonic
+NOTE (line 6973) - GND Clamp Maximum data is non-monotonic
+NOTE (line 6975) - GND Clamp Typical data is non-monotonic
+NOTE (line 7045) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 7060) - POWER Clamp Typical data is non-monotonic
+NOTE (line 7174) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 7267) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 7272) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR3L_DQ48_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 9747) - Model DDR3L_DQ48_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 9747) - Model DDR3L_DQ48_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 9775) - Pulldown Minimum data is non-monotonic
+NOTE (line 9778) - Pulldown Typical data is non-monotonic
+NOTE (line 9781) - Pulldown Maximum data is non-monotonic
+NOTE (line 9863) - Pullup Typical data is non-monotonic
+NOTE (line 9864) - Pullup Minimum data is non-monotonic
+NOTE (line 9867) - Pullup Maximum data is non-monotonic
+NOTE (line 10007) - GND Clamp Maximum data is non-monotonic
+NOTE (line 10009) - GND Clamp Typical data is non-monotonic
+NOTE (line 10079) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 10094) - POWER Clamp Typical data is non-monotonic
+NOTE (line 10208) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 10301) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 10306) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR3L_DQ48_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 12781) - Model DDR3L_DQS40_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 12781) - Model DDR3L_DQS40_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 12805) - Pulldown Minimum data is non-monotonic
+NOTE (line 12808) - Pulldown Typical data is non-monotonic
+NOTE (line 12811) - Pulldown Maximum data is non-monotonic
+NOTE (line 12893) - Pullup Typical data is non-monotonic
+NOTE (line 12894) - Pullup Minimum data is non-monotonic
+NOTE (line 12897) - Pullup Maximum data is non-monotonic
+NOTE (line 13037) - GND Clamp Maximum data is non-monotonic
+NOTE (line 13039) - GND Clamp Typical data is non-monotonic
+NOTE (line 13109) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 13124) - POWER Clamp Typical data is non-monotonic
+NOTE (line 13239) - ISSO_PD Typical data is non-monotonic
+NOTE (line 13331) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 13335) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR3L_DQS40_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 15811) - Model DDR3L_DQS40_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 15811) - Model DDR3L_DQS40_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 15839) - Pulldown Minimum data is non-monotonic
+NOTE (line 15842) - Pulldown Typical data is non-monotonic
+NOTE (line 15845) - Pulldown Maximum data is non-monotonic
+NOTE (line 15927) - Pullup Typical data is non-monotonic
+NOTE (line 15928) - Pullup Minimum data is non-monotonic
+NOTE (line 15931) - Pullup Maximum data is non-monotonic
+NOTE (line 16071) - GND Clamp Maximum data is non-monotonic
+NOTE (line 16073) - GND Clamp Typical data is non-monotonic
+NOTE (line 16143) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 16158) - POWER Clamp Typical data is non-monotonic
+NOTE (line 16273) - ISSO_PD Typical data is non-monotonic
+NOTE (line 16365) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 16369) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR3L_DQS40_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 18845) - Model DDR3L_DQS48_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 18845) - Model DDR3L_DQS48_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 18869) - Pulldown Minimum data is non-monotonic
+NOTE (line 18872) - Pulldown Typical data is non-monotonic
+NOTE (line 18875) - Pulldown Maximum data is non-monotonic
+NOTE (line 18957) - Pullup Typical data is non-monotonic
+NOTE (line 18958) - Pullup Minimum data is non-monotonic
+NOTE (line 18961) - Pullup Maximum data is non-monotonic
+NOTE (line 19101) - GND Clamp Maximum data is non-monotonic
+NOTE (line 19103) - GND Clamp Typical data is non-monotonic
+NOTE (line 19173) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 19188) - POWER Clamp Typical data is non-monotonic
+NOTE (line 19395) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 19400) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR3L_DQS48_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 21875) - Model DDR3L_DQS48_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 21875) - Model DDR3L_DQS48_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 21903) - Pulldown Minimum data is non-monotonic
+NOTE (line 21906) - Pulldown Typical data is non-monotonic
+NOTE (line 21909) - Pulldown Maximum data is non-monotonic
+NOTE (line 21991) - Pullup Typical data is non-monotonic
+NOTE (line 21992) - Pullup Minimum data is non-monotonic
+NOTE (line 21995) - Pullup Maximum data is non-monotonic
+NOTE (line 22135) - GND Clamp Maximum data is non-monotonic
+NOTE (line 22137) - GND Clamp Typical data is non-monotonic
+NOTE (line 22207) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 22222) - POWER Clamp Typical data is non-monotonic
+NOTE (line 22429) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 22434) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR3L_DQS48_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 24909) - Typ value is not in between Min and Max 
+WARNING (line 24909) - Model DDR3_DQ34_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 24909) - Model DDR3_DQ34_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 24937) - Pulldown Minimum data is non-monotonic
+NOTE (line 24939) - Pulldown Typical data is non-monotonic
+NOTE (line 24942) - Pulldown Maximum data is non-monotonic
+NOTE (line 25033) - Pullup Typical data is non-monotonic
+NOTE (line 25034) - Pullup Minimum data is non-monotonic
+NOTE (line 25037) - Pullup Maximum data is non-monotonic
+NOTE (line 25180) - GND Clamp Maximum data is non-monotonic
+NOTE (line 25239) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 25340) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 25421) - ISSO_PU Minimum data is non-monotonic
+WARNING - Model DDR3_DQ34_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 27897) - Typ value is not in between Min and Max 
+WARNING (line 27897) - Model DDR3_DQ34_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 27897) - Model DDR3_DQ34_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 27929) - Pulldown Minimum data is non-monotonic
+NOTE (line 27931) - Pulldown Typical data is non-monotonic
+NOTE (line 27934) - Pulldown Maximum data is non-monotonic
+NOTE (line 28025) - Pullup Typical data is non-monotonic
+NOTE (line 28026) - Pullup Minimum data is non-monotonic
+NOTE (line 28029) - Pullup Maximum data is non-monotonic
+NOTE (line 28172) - GND Clamp Maximum data is non-monotonic
+NOTE (line 28231) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 28332) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 28413) - ISSO_PU Minimum data is non-monotonic
+WARNING - Model DDR3_DQ34_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 30889) - Typ value is not in between Min and Max 
+WARNING (line 30889) - Model DDR3_DQ40_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 30889) - Model DDR3_DQ40_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 30917) - Pulldown Minimum data is non-monotonic
+NOTE (line 30919) - Pulldown Typical data is non-monotonic
+NOTE (line 30922) - Pulldown Maximum data is non-monotonic
+NOTE (line 31013) - Pullup Typical data is non-monotonic
+NOTE (line 31014) - Pullup Minimum data is non-monotonic
+NOTE (line 31017) - Pullup Maximum data is non-monotonic
+NOTE (line 31160) - GND Clamp Maximum data is non-monotonic
+NOTE (line 31219) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 31320) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 31401) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 31403) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR3_DQ40_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 33877) - Typ value is not in between Min and Max 
+WARNING (line 33877) - Model DDR3_DQ40_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 33877) - Model DDR3_DQ40_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 33909) - Pulldown Minimum data is non-monotonic
+NOTE (line 33911) - Pulldown Typical data is non-monotonic
+NOTE (line 33914) - Pulldown Maximum data is non-monotonic
+NOTE (line 34005) - Pullup Typical data is non-monotonic
+NOTE (line 34006) - Pullup Minimum data is non-monotonic
+NOTE (line 34009) - Pullup Maximum data is non-monotonic
+NOTE (line 34152) - GND Clamp Maximum data is non-monotonic
+NOTE (line 34211) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 34312) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 34393) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 34395) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR3_DQ40_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 36868) - Typ value is not in between Min and Max 
+WARNING (line 36868) -
+    Model DDR3_DQ48_NO_ODT: C_comp min value is not the smallest value listed
+WARNING (line 36869) - Typ value is not in between Min and Max 
+WARNING (line 36869) - Model DDR3_DQ48_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 36869) - Model DDR3_DQ48_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 36897) - Pulldown Minimum data is non-monotonic
+NOTE (line 36899) - Pulldown Typical data is non-monotonic
+NOTE (line 36902) - Pulldown Maximum data is non-monotonic
+NOTE (line 36993) - Pullup Typical data is non-monotonic
+NOTE (line 36994) - Pullup Minimum data is non-monotonic
+NOTE (line 36997) - Pullup Maximum data is non-monotonic
+NOTE (line 37140) - GND Clamp Maximum data is non-monotonic
+NOTE (line 37199) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 37300) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 37381) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 37383) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR3_DQ48_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 39856) - Typ value is not in between Min and Max 
+WARNING (line 39856) -
+    Model DDR3_DQ48_ODT: C_comp min value is not the smallest value listed
+WARNING (line 39857) - Typ value is not in between Min and Max 
+WARNING (line 39857) - Model DDR3_DQ48_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 39857) - Model DDR3_DQ48_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 39888) - Pulldown Minimum data is non-monotonic
+NOTE (line 39890) - Pulldown Typical data is non-monotonic
+NOTE (line 39893) - Pulldown Maximum data is non-monotonic
+NOTE (line 39984) - Pullup Typical data is non-monotonic
+NOTE (line 39985) - Pullup Minimum data is non-monotonic
+NOTE (line 39988) - Pullup Maximum data is non-monotonic
+NOTE (line 40131) - GND Clamp Maximum data is non-monotonic
+NOTE (line 40190) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 40291) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 40372) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 40374) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR3_DQ48_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 42848) - Typ value is not in between Min and Max 
+WARNING (line 42848) - Model DDR3_DQS34_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 42848) - Model DDR3_DQS34_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 42876) - Pulldown Minimum data is non-monotonic
+NOTE (line 42878) - Pulldown Typical data is non-monotonic
+NOTE (line 42881) - Pulldown Maximum data is non-monotonic
+NOTE (line 42972) - Pullup Typical data is non-monotonic
+NOTE (line 42973) - Pullup Minimum data is non-monotonic
+NOTE (line 42976) - Pullup Maximum data is non-monotonic
+NOTE (line 43119) - GND Clamp Maximum data is non-monotonic
+NOTE (line 43178) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 43360) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 43362) - ISSO_PU Typical data is non-monotonic
+NOTE (line 43364) - ISSO_PU Maximum data is non-monotonic
+WARNING - Model DDR3_DQS34_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 45836) - Typ value is not in between Min and Max 
+WARNING (line 45836) - Model DDR3_DQS34_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 45836) - Model DDR3_DQS34_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 45868) - Pulldown Minimum data is non-monotonic
+NOTE (line 45870) - Pulldown Typical data is non-monotonic
+NOTE (line 45873) - Pulldown Maximum data is non-monotonic
+NOTE (line 45964) - Pullup Typical data is non-monotonic
+NOTE (line 45965) - Pullup Minimum data is non-monotonic
+NOTE (line 45968) - Pullup Maximum data is non-monotonic
+NOTE (line 46111) - GND Clamp Maximum data is non-monotonic
+NOTE (line 46170) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 46352) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 46354) - ISSO_PU Typical data is non-monotonic
+NOTE (line 46356) - ISSO_PU Maximum data is non-monotonic
+WARNING - Model DDR3_DQS34_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 48828) - Typ value is not in between Min and Max 
+WARNING (line 48828) - Model DDR3_DQS40_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 48828) - Model DDR3_DQS40_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 48856) - Pulldown Minimum data is non-monotonic
+NOTE (line 48858) - Pulldown Typical data is non-monotonic
+NOTE (line 48861) - Pulldown Maximum data is non-monotonic
+NOTE (line 48952) - Pullup Typical data is non-monotonic
+NOTE (line 48953) - Pullup Minimum data is non-monotonic
+NOTE (line 48956) - Pullup Maximum data is non-monotonic
+NOTE (line 49099) - GND Clamp Maximum data is non-monotonic
+NOTE (line 49158) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 49265) - ISSO_PD Maximum data is non-monotonic
+NOTE (line 49340) - ISSO_PU Minimum data is non-monotonic
+WARNING - Model DDR3_DQS40_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 51816) - Typ value is not in between Min and Max 
+WARNING (line 51816) - Model DDR3_DQS40_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 51816) - Model DDR3_DQS40_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 51848) - Pulldown Minimum data is non-monotonic
+NOTE (line 51850) - Pulldown Typical data is non-monotonic
+NOTE (line 51853) - Pulldown Maximum data is non-monotonic
+NOTE (line 51944) - Pullup Typical data is non-monotonic
+NOTE (line 51945) - Pullup Minimum data is non-monotonic
+NOTE (line 51948) - Pullup Maximum data is non-monotonic
+NOTE (line 52091) - GND Clamp Maximum data is non-monotonic
+NOTE (line 52150) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 52257) - ISSO_PD Maximum data is non-monotonic
+NOTE (line 52332) - ISSO_PU Minimum data is non-monotonic
+WARNING - Model DDR3_DQS40_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 54807) - Typ value is not in between Min and Max 
+WARNING (line 54807) -
+    Model DDR3_DQS48_NO_ODT: C_comp min value is not the smallest value listed
+WARNING (line 54808) - Typ value is not in between Min and Max 
+WARNING (line 54808) - Model DDR3_DQS48_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 54808) - Model DDR3_DQS48_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 54836) - Pulldown Minimum data is non-monotonic
+NOTE (line 54838) - Pulldown Typical data is non-monotonic
+NOTE (line 54841) - Pulldown Maximum data is non-monotonic
+NOTE (line 54932) - Pullup Typical data is non-monotonic
+NOTE (line 54933) - Pullup Minimum data is non-monotonic
+NOTE (line 54936) - Pullup Maximum data is non-monotonic
+NOTE (line 55079) - GND Clamp Maximum data is non-monotonic
+NOTE (line 55138) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 55320) - ISSO_PU Minimum data is non-monotonic
+WARNING - Model DDR3_DQS48_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 57795) - Typ value is not in between Min and Max 
+WARNING (line 57795) -
+    Model DDR3_DQS48_ODT: C_comp min value is not the smallest value listed
+WARNING (line 57796) - Typ value is not in between Min and Max 
+WARNING (line 57796) - Model DDR3_DQS48_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 57796) - Model DDR3_DQS48_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 57828) - Pulldown Minimum data is non-monotonic
+NOTE (line 57830) - Pulldown Typical data is non-monotonic
+NOTE (line 57833) - Pulldown Maximum data is non-monotonic
+NOTE (line 57924) - Pullup Typical data is non-monotonic
+NOTE (line 57925) - Pullup Minimum data is non-monotonic
+NOTE (line 57928) - Pullup Maximum data is non-monotonic
+NOTE (line 58071) - GND Clamp Maximum data is non-monotonic
+NOTE (line 58130) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 58312) - ISSO_PU Minimum data is non-monotonic
+WARNING - Model DDR3_DQS48_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 60787) - Typ value is not in between Min and Max 
+WARNING (line 60787) - Model DDR4_DQ34N48P_NO_ODT: C_comp min value is not the smallest value listed
+WARNING (line 60788) - Model DDR4_DQ34N48P_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 60788) - Model DDR4_DQ34N48P_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 60809) - Pulldown Minimum data is non-monotonic
+NOTE (line 60810) - Pulldown Typical data is non-monotonic
+NOTE (line 60816) - Pulldown Maximum data is non-monotonic
+NOTE (line 60908) - Pullup Typical data is non-monotonic
+NOTE (line 60909) - Pullup Minimum data is non-monotonic
+NOTE (line 60913) - Pullup Maximum data is non-monotonic
+NOTE (line 61053) - GND Clamp Maximum data is non-monotonic
+NOTE (line 61059) - GND Clamp Typical data is non-monotonic
+NOTE (line 61115) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 61125) - POWER Clamp Typical data is non-monotonic
+NOTE (line 61230) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 61315) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 61319) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR4_DQ34N48P_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 63793) - Typ value is not in between Min and Max 
+WARNING (line 63793) -
+    Model DDR4_DQ34N48P_ODT: C_comp min value is not the smallest value listed
+WARNING (line 63794) - Model DDR4_DQ34N48P_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 63794) - Model DDR4_DQ34N48P_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 63819) - Pulldown Minimum data is non-monotonic
+NOTE (line 63820) - Pulldown Typical data is non-monotonic
+NOTE (line 63826) - Pulldown Maximum data is non-monotonic
+NOTE (line 63918) - Pullup Typical data is non-monotonic
+NOTE (line 63919) - Pullup Minimum data is non-monotonic
+NOTE (line 63923) - Pullup Maximum data is non-monotonic
+NOTE (line 64063) - GND Clamp Maximum data is non-monotonic
+NOTE (line 64069) - GND Clamp Typical data is non-monotonic
+NOTE (line 64125) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 64135) - POWER Clamp Typical data is non-monotonic
+NOTE (line 64240) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 64325) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 64329) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR4_DQ34N48P_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 66803) - Typ value is not in between Min and Max 
+WARNING (line 66803) - Model DDR4_DQ34N60P_NO_ODT: C_comp min value is not the smallest value listed
+WARNING (line 66804) - Model DDR4_DQ34N60P_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 66804) - Model DDR4_DQ34N60P_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 66825) - Pulldown Minimum data is non-monotonic
+NOTE (line 66826) - Pulldown Typical data is non-monotonic
+NOTE (line 66832) - Pulldown Maximum data is non-monotonic
+NOTE (line 66924) - Pullup Typical data is non-monotonic
+NOTE (line 66925) - Pullup Minimum data is non-monotonic
+NOTE (line 66929) - Pullup Maximum data is non-monotonic
+NOTE (line 67069) - GND Clamp Maximum data is non-monotonic
+NOTE (line 67075) - GND Clamp Typical data is non-monotonic
+NOTE (line 67131) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 67141) - POWER Clamp Typical data is non-monotonic
+NOTE (line 67246) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 67331) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 67335) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR4_DQ34N60P_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 69809) - Typ value is not in between Min and Max 
+WARNING (line 69809) -
+    Model DDR4_DQ34N60P_ODT: C_comp min value is not the smallest value listed
+WARNING (line 69810) - Model DDR4_DQ34N60P_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 69810) - Model DDR4_DQ34N60P_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 69835) - Pulldown Minimum data is non-monotonic
+NOTE (line 69836) - Pulldown Typical data is non-monotonic
+NOTE (line 69842) - Pulldown Maximum data is non-monotonic
+NOTE (line 69934) - Pullup Typical data is non-monotonic
+NOTE (line 69935) - Pullup Minimum data is non-monotonic
+NOTE (line 69939) - Pullup Maximum data is non-monotonic
+NOTE (line 70079) - GND Clamp Maximum data is non-monotonic
+NOTE (line 70085) - GND Clamp Typical data is non-monotonic
+NOTE (line 70141) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 70151) - POWER Clamp Typical data is non-monotonic
+NOTE (line 70256) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 70341) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 70345) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR4_DQ34N60P_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 72819) - Typ value is not in between Min and Max 
+WARNING (line 72819) - Model DDR4_DQ40N48P_NO_ODT: C_comp min value is not the smallest value listed
+WARNING (line 72820) - Model DDR4_DQ40N48P_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 72820) - Model DDR4_DQ40N48P_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 72841) - Pulldown Minimum data is non-monotonic
+NOTE (line 72842) - Pulldown Typical data is non-monotonic
+NOTE (line 72848) - Pulldown Maximum data is non-monotonic
+NOTE (line 72940) - Pullup Typical data is non-monotonic
+NOTE (line 72941) - Pullup Minimum data is non-monotonic
+NOTE (line 72945) - Pullup Maximum data is non-monotonic
+NOTE (line 73085) - GND Clamp Maximum data is non-monotonic
+NOTE (line 73091) - GND Clamp Typical data is non-monotonic
+NOTE (line 73147) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 73157) - POWER Clamp Typical data is non-monotonic
+NOTE (line 73262) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 73347) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 73351) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR4_DQ40N48P_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 75825) - Typ value is not in between Min and Max 
+WARNING (line 75825) -
+    Model DDR4_DQ40N48P_ODT: C_comp min value is not the smallest value listed
+WARNING (line 75826) - Model DDR4_DQ40N48P_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 75826) - Model DDR4_DQ40N48P_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 75851) - Pulldown Minimum data is non-monotonic
+NOTE (line 75852) - Pulldown Typical data is non-monotonic
+NOTE (line 75858) - Pulldown Maximum data is non-monotonic
+NOTE (line 75950) - Pullup Typical data is non-monotonic
+NOTE (line 75951) - Pullup Minimum data is non-monotonic
+NOTE (line 75955) - Pullup Maximum data is non-monotonic
+NOTE (line 76095) - GND Clamp Maximum data is non-monotonic
+NOTE (line 76101) - GND Clamp Typical data is non-monotonic
+NOTE (line 76157) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 76167) - POWER Clamp Typical data is non-monotonic
+NOTE (line 76272) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 76357) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 76361) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR4_DQ40N48P_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 78835) - Typ value is not in between Min and Max 
+WARNING (line 78835) - Model DDR4_DQ40N60P_NO_ODT: C_comp min value is not the smallest value listed
+WARNING (line 78835) - Model DDR4_DQ40N60P_NO_ODT: C_comp max value is not the largest value listed
+WARNING (line 78836) - Model DDR4_DQ40N60P_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 78836) - Model DDR4_DQ40N60P_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 78857) - Pulldown Minimum data is non-monotonic
+NOTE (line 78858) - Pulldown Typical data is non-monotonic
+NOTE (line 78864) - Pulldown Maximum data is non-monotonic
+NOTE (line 78956) - Pullup Typical data is non-monotonic
+NOTE (line 78957) - Pullup Minimum data is non-monotonic
+NOTE (line 78961) - Pullup Maximum data is non-monotonic
+NOTE (line 79101) - GND Clamp Maximum data is non-monotonic
+NOTE (line 79107) - GND Clamp Typical data is non-monotonic
+NOTE (line 79163) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 79173) - POWER Clamp Typical data is non-monotonic
+NOTE (line 79278) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 79363) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 79367) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR4_DQ40N60P_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 81842) - Typ value is not in between Min and Max 
+WARNING (line 81842) -
+    Model DDR4_DQ40N60P_ODT: C_comp min value is not the smallest value listed
+WARNING (line 81842) -
+    Model DDR4_DQ40N60P_ODT: C_comp max value is not the largest value listed
+WARNING (line 81843) - Model DDR4_DQ40N60P_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 81843) - Model DDR4_DQ40N60P_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 81868) - Pulldown Minimum data is non-monotonic
+NOTE (line 81869) - Pulldown Typical data is non-monotonic
+NOTE (line 81875) - Pulldown Maximum data is non-monotonic
+NOTE (line 81967) - Pullup Typical data is non-monotonic
+NOTE (line 81968) - Pullup Minimum data is non-monotonic
+NOTE (line 81972) - Pullup Maximum data is non-monotonic
+NOTE (line 82112) - GND Clamp Maximum data is non-monotonic
+NOTE (line 82118) - GND Clamp Typical data is non-monotonic
+NOTE (line 82174) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 82184) - POWER Clamp Typical data is non-monotonic
+NOTE (line 82289) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 82374) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 82378) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR4_DQ40N60P_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 84853) - Model DDR4_DQS34N48P_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 84853) - Model DDR4_DQS34N48P_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 84874) - Pulldown Minimum data is non-monotonic
+NOTE (line 84875) - Pulldown Typical data is non-monotonic
+NOTE (line 84881) - Pulldown Maximum data is non-monotonic
+NOTE (line 84973) - Pullup Typical data is non-monotonic
+NOTE (line 84974) - Pullup Minimum data is non-monotonic
+NOTE (line 84978) - Pullup Maximum data is non-monotonic
+NOTE (line 85118) - GND Clamp Maximum data is non-monotonic
+NOTE (line 85124) - GND Clamp Typical data is non-monotonic
+NOTE (line 85180) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 85190) - POWER Clamp Typical data is non-monotonic
+NOTE (line 85295) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 85380) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 85384) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR4_DQS34N48P_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 87859) - Model DDR4_DQS34N48P_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 87859) - Model DDR4_DQS34N48P_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 87884) - Pulldown Minimum data is non-monotonic
+NOTE (line 87885) - Pulldown Typical data is non-monotonic
+NOTE (line 87891) - Pulldown Maximum data is non-monotonic
+NOTE (line 87983) - Pullup Typical data is non-monotonic
+NOTE (line 87984) - Pullup Minimum data is non-monotonic
+NOTE (line 87988) - Pullup Maximum data is non-monotonic
+NOTE (line 88128) - GND Clamp Maximum data is non-monotonic
+NOTE (line 88134) - GND Clamp Typical data is non-monotonic
+NOTE (line 88190) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 88200) - POWER Clamp Typical data is non-monotonic
+NOTE (line 88305) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 88390) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 88394) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR4_DQS34N48P_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 90868) - Typ value is not in between Min and Max 
+WARNING (line 90868) - Model DDR4_DQS34N60P_NO_ODT: C_comp min value is not the smallest value listed
+WARNING (line 90869) - Model DDR4_DQS34N60P_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 90869) - Model DDR4_DQS34N60P_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 90890) - Pulldown Minimum data is non-monotonic
+NOTE (line 90891) - Pulldown Typical data is non-monotonic
+NOTE (line 90897) - Pulldown Maximum data is non-monotonic
+NOTE (line 90989) - Pullup Typical data is non-monotonic
+NOTE (line 90990) - Pullup Minimum data is non-monotonic
+NOTE (line 90994) - Pullup Maximum data is non-monotonic
+NOTE (line 91134) - GND Clamp Maximum data is non-monotonic
+NOTE (line 91140) - GND Clamp Typical data is non-monotonic
+NOTE (line 91196) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 91206) - POWER Clamp Typical data is non-monotonic
+NOTE (line 91311) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 91396) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 91400) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR4_DQS34N60P_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 93874) - Typ value is not in between Min and Max 
+WARNING (line 93874) -
+    Model DDR4_DQS34N60P_ODT: C_comp min value is not the smallest value listed
+WARNING (line 93875) - Model DDR4_DQS34N60P_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 93875) - Model DDR4_DQS34N60P_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 93900) - Pulldown Minimum data is non-monotonic
+NOTE (line 93901) - Pulldown Typical data is non-monotonic
+NOTE (line 93907) - Pulldown Maximum data is non-monotonic
+NOTE (line 93999) - Pullup Typical data is non-monotonic
+NOTE (line 94000) - Pullup Minimum data is non-monotonic
+NOTE (line 94004) - Pullup Maximum data is non-monotonic
+NOTE (line 94144) - GND Clamp Maximum data is non-monotonic
+NOTE (line 94150) - GND Clamp Typical data is non-monotonic
+NOTE (line 94206) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 94216) - POWER Clamp Typical data is non-monotonic
+NOTE (line 94321) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 94406) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 94410) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR4_DQS34N60P_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 96884) - Typ value is not in between Min and Max 
+WARNING (line 96884) - Model DDR4_DQS40N48P_NO_ODT: C_comp min value is not the smallest value listed
+WARNING (line 96885) - Model DDR4_DQS40N48P_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 96885) - Model DDR4_DQS40N48P_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 96906) - Pulldown Minimum data is non-monotonic
+NOTE (line 96907) - Pulldown Typical data is non-monotonic
+NOTE (line 96913) - Pulldown Maximum data is non-monotonic
+NOTE (line 97005) - Pullup Typical data is non-monotonic
+NOTE (line 97006) - Pullup Minimum data is non-monotonic
+NOTE (line 97010) - Pullup Maximum data is non-monotonic
+NOTE (line 97150) - GND Clamp Maximum data is non-monotonic
+NOTE (line 97156) - GND Clamp Typical data is non-monotonic
+NOTE (line 97212) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 97222) - POWER Clamp Typical data is non-monotonic
+NOTE (line 97327) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 97412) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 97416) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR4_DQS40N48P_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 99890) - Typ value is not in between Min and Max 
+WARNING (line 99890) -
+    Model DDR4_DQS40N48P_ODT: C_comp min value is not the smallest value listed
+WARNING (line 99891) - Model DDR4_DQS40N48P_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 99891) - Model DDR4_DQS40N48P_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 99916) - Pulldown Minimum data is non-monotonic
+NOTE (line 99917) - Pulldown Typical data is non-monotonic
+NOTE (line 99923) - Pulldown Maximum data is non-monotonic
+NOTE (line 100015) - Pullup Typical data is non-monotonic
+NOTE (line 100016) - Pullup Minimum data is non-monotonic
+NOTE (line 100020) - Pullup Maximum data is non-monotonic
+NOTE (line 100160) - GND Clamp Maximum data is non-monotonic
+NOTE (line 100166) - GND Clamp Typical data is non-monotonic
+NOTE (line 100222) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 100232) - POWER Clamp Typical data is non-monotonic
+NOTE (line 100337) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 100422) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 100426) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR4_DQS40N48P_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 102900) - Typ value is not in between Min and Max 
+WARNING (line 102900) - Model DDR4_DQS40N60P_NO_ODT: C_comp min value is not the smallest value listed
+WARNING (line 102900) - Model DDR4_DQS40N60P_NO_ODT: C_comp max value is not the largest value listed
+WARNING (line 102901) - Model DDR4_DQS40N60P_NO_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 102901) - Model DDR4_DQS40N60P_NO_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 102922) - Pulldown Minimum data is non-monotonic
+NOTE (line 102923) - Pulldown Typical data is non-monotonic
+NOTE (line 102929) - Pulldown Maximum data is non-monotonic
+NOTE (line 103021) - Pullup Typical data is non-monotonic
+NOTE (line 103022) - Pullup Minimum data is non-monotonic
+NOTE (line 103026) - Pullup Maximum data is non-monotonic
+NOTE (line 103166) - GND Clamp Maximum data is non-monotonic
+NOTE (line 103172) - GND Clamp Typical data is non-monotonic
+NOTE (line 103228) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 103238) - POWER Clamp Typical data is non-monotonic
+NOTE (line 103343) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 103428) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 103432) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR4_DQS40N60P_NO_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 105906) - Typ value is not in between Min and Max 
+WARNING (line 105906) -
+    Model DDR4_DQS40N60P_ODT: C_comp min value is not the smallest value listed
+WARNING (line 105906) -
+    Model DDR4_DQS40N60P_ODT: C_comp max value is not the largest value listed
+WARNING (line 105907) - Model DDR4_DQS40N60P_ODT: C_comp_pullup min value is not the smallest value listed
+WARNING (line 105907) - Model DDR4_DQS40N60P_ODT: C_comp_pullup max value is not the largest value listed
+NOTE (line 105932) - Pulldown Minimum data is non-monotonic
+NOTE (line 105933) - Pulldown Typical data is non-monotonic
+NOTE (line 105939) - Pulldown Maximum data is non-monotonic
+NOTE (line 106031) - Pullup Typical data is non-monotonic
+NOTE (line 106032) - Pullup Minimum data is non-monotonic
+NOTE (line 106036) - Pullup Maximum data is non-monotonic
+NOTE (line 106176) - GND Clamp Maximum data is non-monotonic
+NOTE (line 106182) - GND Clamp Typical data is non-monotonic
+NOTE (line 106238) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 106248) - POWER Clamp Typical data is non-monotonic
+NOTE (line 106353) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 106438) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 106442) - ISSO_PU Typical data is non-monotonic
+WARNING - Model DDR4_DQS40N60P_ODT: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 108915) -
+    Model LPDDR2_DQ60: C_comp min value is not the smallest value listed
+WARNING (line 108915) -
+    Model LPDDR2_DQ60: C_comp max value is not the largest value listed
+WARNING (line 108916) -
+    Model LPDDR2_DQ60: C_comp_pullup min value is not the smallest value listed
+WARNING (line 108916) -
+    Model LPDDR2_DQ60: C_comp_pullup max value is not the largest value listed
+NOTE (line 108939) - Pulldown Minimum data is non-monotonic
+NOTE (line 108942) - Pulldown Typical data is non-monotonic
+NOTE (line 108946) - Pulldown Maximum data is non-monotonic
+NOTE (line 109035) - Pullup Typical data is non-monotonic
+NOTE (line 109037) - Pullup Minimum data is non-monotonic
+NOTE (line 109040) - Pullup Maximum data is non-monotonic
+NOTE (line 109181) - GND Clamp Maximum data is non-monotonic
+NOTE (line 109187) - GND Clamp Typical data is non-monotonic
+NOTE (line 109243) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 109253) - POWER Clamp Typical data is non-monotonic
+NOTE (line 109359) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 109443) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 109447) - ISSO_PU Typical data is non-monotonic
+WARNING - Model LPDDR2_DQ60: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+WARNING (line 111920) -
+    Model LPDDR2_DQS60: C_comp min value is not the smallest value listed
+WARNING (line 111920) -
+    Model LPDDR2_DQS60: C_comp max value is not the largest value listed
+WARNING (line 111921) - Model LPDDR2_DQS60: C_comp_pullup min value is not the smallest value listed
+WARNING (line 111921) -
+    Model LPDDR2_DQS60: C_comp_pullup max value is not the largest value listed
+NOTE (line 111944) - Pulldown Minimum data is non-monotonic
+NOTE (line 111947) - Pulldown Typical data is non-monotonic
+NOTE (line 111951) - Pulldown Maximum data is non-monotonic
+NOTE (line 112040) - Pullup Typical data is non-monotonic
+NOTE (line 112042) - Pullup Minimum data is non-monotonic
+NOTE (line 112045) - Pullup Maximum data is non-monotonic
+NOTE (line 112186) - GND Clamp Maximum data is non-monotonic
+NOTE (line 112192) - GND Clamp Typical data is non-monotonic
+NOTE (line 112248) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 112258) - POWER Clamp Typical data is non-monotonic
+NOTE (line 112364) - ISSO_PD Minimum data is non-monotonic
+NOTE (line 112448) - ISSO_PU Minimum data is non-monotonic
+NOTE (line 112452) - ISSO_PU Typical data is non-monotonic
+WARNING - Model LPDDR2_DQS60: C_comp should not be specified when C_comp_pullup, C_comp_pulldown, C_comp_power_clamp or C_comp_gnd_clamp is specified
+NOTE (line 114943) - GND Clamp Minimum data is non-monotonic
+NOTE (line 114946) - GND Clamp Typical data is non-monotonic
+NOTE (line 114951) - GND Clamp Maximum data is non-monotonic
+NOTE (line 115027) - POWER Clamp Typical data is non-monotonic
+NOTE (line 115030) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 115031) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 115111) - GND Clamp Minimum data is non-monotonic
+NOTE (line 115114) - GND Clamp Typical data is non-monotonic
+NOTE (line 115119) - GND Clamp Maximum data is non-monotonic
+NOTE (line 115195) - POWER Clamp Typical data is non-monotonic
+NOTE (line 115198) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 115199) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 115278) - GND Clamp Minimum data is non-monotonic
+NOTE (line 115283) - GND Clamp Typical data is non-monotonic
+NOTE (line 115289) - GND Clamp Maximum data is non-monotonic
+NOTE (line 115380) - POWER Clamp Typical data is non-monotonic
+NOTE (line 115383) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 115384) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 115476) - GND Clamp Minimum data is non-monotonic
+NOTE (line 115481) - GND Clamp Typical data is non-monotonic
+NOTE (line 115487) - GND Clamp Maximum data is non-monotonic
+NOTE (line 115578) - POWER Clamp Typical data is non-monotonic
+NOTE (line 115581) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 115582) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 115723) - GND Clamp Maximum data is non-monotonic
+NOTE (line 115729) - GND Clamp Typical data is non-monotonic
+WARNING - Submodel DDR4_DQ_ODT60: GND Clamp has Decreasing Current
+NOTE (line 115761) - POWER Clamp Typical data is non-monotonic
+NOTE (line 115762) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 115768) - POWER Clamp Maximum data is non-monotonic
+WARNING (line 115785) - Value 0.000000e+00 repeated in the First Column
+NOTE (line 115902) - GND Clamp Maximum data is non-monotonic
+NOTE (line 115908) - GND Clamp Typical data is non-monotonic
+WARNING - Submodel DDR4_DQS_ODT60: GND Clamp has Decreasing Current
+NOTE (line 115940) - POWER Clamp Typical data is non-monotonic
+NOTE (line 115941) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 115947) - POWER Clamp Maximum data is non-monotonic
+WARNING (line 115964) - Value 0.000000e+00 repeated in the First Column
+NOTE - Combined Clamp in Driving Mode for Model DDR4_DQS40N60P_ODT Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR4_DQS40N48P_ODT Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR4_DQS34N60P_ODT Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR4_DQS34N48P_ODT Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR4_DQ40N60P_ODT Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR4_DQ40N48P_ODT Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR4_DQ34N60P_ODT Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR4_DQ34N48P_ODT Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR3L_DQS48_ODT Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR3L_DQS40_ODT Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR3L_DQ48_ODT Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR3L_DQ40_ODT Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR4_DQS40N60P_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR4_DQS40N48P_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR4_DQS34N60P_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR4_DQS34N48P_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR4_DQ40N60P_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR4_DQ40N48P_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR4_DQ34N60P_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR4_DQ34N48P_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR3_DQS48_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR3_DQS40_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR3_DQS34_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR3_DQ48_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR3_DQ40_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR3_DQ34_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR3L_DQS48_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR3L_DQS40_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR3L_DQ48_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Clamp in Driving Mode for Model DDR3L_DQ40_ODT Maximum data is non-monotonic based on piece-wise linear interpolation
+
+Errors  : 0
+Warnings: 174
+
+File Passed

@@ -1,0 +1,14 @@
+[IBIS File]	C:\Cadence\SPB_24.1\share\topxp\default_models\ibis.ibs
+[Date Modified (IBIS File)]	2020-10-8 21:48:20
+[Signal Name]	TX_P
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+Tx                   1Gbps                2.35714e-11          2.35714e-11          2.35714e-11          2.35714e-11          2.35714e-11          2.35714e-11         
+Tx                   100Gbps              NC                   2.18332e-11          NC                   NC                   2.18332e-11          NC                  
+[Signal Name]	TX_N
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+Tx                   1Gbps                2.35714e-11          2.35714e-11          2.35714e-11          2.35714e-11          2.35714e-11          2.35714e-11         
+Tx                   100Gbps              NC                   2.18332e-11          NC                   NC                   2.18332e-11          NC                  
+[Signal Name]	TX_P-TX_N
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+Tx                   1Gbps                2.35714e-11          2.35714e-11          2.35714e-11          2.35714e-11          2.35714e-11          2.35714e-11         
+Tx                   100Gbps              NC                   2.18332e-11          NC                   NC                   2.18332e-11          NC                  

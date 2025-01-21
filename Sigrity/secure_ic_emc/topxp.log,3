@@ -1,0 +1,14 @@
+2025-01-20T15:00:39 TopWb.exe 24.1 P001 (4234998)  [9/4/2024]
+2025-01-20T15:00:39 Sigrity Dir: C:\Cadence\Sigrity2024.0
+2025-01-20T15:00:39 Open Topology: D:/Projects/HardwareDesign/Sigrity/secure_ic_emc/secure_ic_emc.topx
+2025-01-20T15:08:42 Run Simulation
+2025-01-20T15:08:42 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-20T15:08:42 spdsim(pid 4476) started [D:\Projects\HardwareDesign\Sigrity\secure_ic_emc\result\sparam\1\temp\SParamExtraction.sp]
+2025-01-20T15:08:42 spdsim(pid 4476) ended [D:\Projects\HardwareDesign\Sigrity\secure_ic_emc\result\sparam\1\temp\SParamExtraction.sp]
+2025-01-20T15:08:42 Finish Connectivity Checker
+2025-01-20T15:08:42 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-20T15:08:42 spdsim(pid 16720) started [D:\Projects\HardwareDesign\Sigrity\secure_ic_emc\result\1\Tran_Typ_Typ\temp\simulation_input.sp]
+2025-01-20T15:08:43 spdsim(pid 16720) ended [D:\Projects\HardwareDesign\Sigrity\secure_ic_emc\result\1\Tran_Typ_Typ\temp\simulation_input.sp]
+2025-01-20T15:08:43 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-20T15:08:43 spdsim(pid 7732) started [D:\Projects\HardwareDesign\Sigrity\secure_ic_emc\result\buffer\1\temp\simulation_input.sp]
+2025-01-20T15:08:43 spdsim(pid 7732) ended [D:\Projects\HardwareDesign\Sigrity\secure_ic_emc\result\buffer\1\temp\simulation_input.sp]
