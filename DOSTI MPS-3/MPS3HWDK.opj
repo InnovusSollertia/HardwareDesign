@@ -1,6 +1,6 @@
 (ExpressProject "MPS3HWDK"
   (ProjectVersion "19981106")
-  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[01/21/25]")
+  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[01/29/25]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -199,13 +199,13 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 518"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 257 0 518"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1255 24 536")
-        (Scroll "-278 -7")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1198 24 536")
+        (Scroll "-250 -7")
         (Zoom "57")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
