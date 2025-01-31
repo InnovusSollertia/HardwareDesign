@@ -1,0 +1,4 @@
+Source	Max    	Min    	Source 	Percentage	Location	VRM	Pin 	Net 
+Name  	Voltage	Voltage	Voltage	(%)       	(m)     	(V)	Name	Name
+------	-------	-------	-------	----------	--------	---	----	----
+a1	9.033387e-01V	8.963802e-01V	3.619780e-03V	0.402198	NA	0.9	a1	a

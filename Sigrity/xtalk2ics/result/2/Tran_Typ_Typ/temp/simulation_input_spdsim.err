@@ -1,0 +1,8 @@
+*** Messages reported by SPDSIM (build24.0.0.05151.504415   000) ***
+
+Warning 5167: Resistor "X7.X_SpeedXP_auto_Mem_receive.X_SpeedXP_auto_A2_Sp.X1.rd" in partial circuit "rx_single" has zero or negative resistance
+
+
+	0 error(s),	1 warning(s)
+
+	0 error(s),	1 warning(s)

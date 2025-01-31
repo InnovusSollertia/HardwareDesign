@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<PowerRippleSimulationResult Module="SE" SimulationName = "powerripple\1" Project = "D:/Projects/HardwareDesign/Sigrity/ac_multi_ic/ac_multi_ic.topx" Simulator = "spdsim">
+<SimulationResult Comment = "" >
+</SimulationResult>
+<PDNReportSetting >
+<HTMLReport title = "Topology Workbench Power Ripple Analysis Report" subTitle = "ac_multi_ic" desc = "" useType = "Cktnode" />
+</PDNReportSetting>
+<SimulationControllerSetting TimeStep = "2p" TimeStop = "56.568n" IsAutoTimeStep = "1" >
+<DieSetting Block = "IC0" >
+<PowerSetting IsSelected = "0" PowerNode = "a1" PowerPin = "a1" PowerNet = "a" VoltageNoiseType = "PeakToPeak" VoltageNoise = "0.05" StartingFreq = "1000" EndingFreq = "5G" TimeStep = "2e-12" TimeStop = "4.9568e-08" Resistance = "" Inductance = "" RegularVoltage = "1" WindowStart = "-1" WindowEnd = "-1" />
+</DieSetting>
+<DieSetting Block = "IC1" >
+<PowerSetting IsSelected = "0" PowerNode = "a1" PowerPin = "a1" PowerNet = "a" VoltageNoiseType = "PeakToPeak" VoltageNoise = "0.05" StartingFreq = "100" EndingFreq = "5G" TimeStep = "2e-12" TimeStop = "5.1568e-08" Resistance = "" Inductance = "" RegularVoltage = "1" WindowStart = "-1" WindowEnd = "-1" />
+</DieSetting>
+<DieSetting Block = "IC2" >
+<PowerSetting IsSelected = "0" PowerNode = "a1" PowerPin = "a1" PowerNet = "a" VoltageNoiseType = "PeakToPeak" VoltageNoise = "0.05" StartingFreq = "100" EndingFreq = "1G" TimeStep = "2e-12" TimeStop = "5.3568e-08" Resistance = "" Inductance = "" RegularVoltage = "1" WindowStart = "-1" WindowEnd = "-1" />
+</DieSetting>
+<DieSetting Block = "IC3" >
+<PowerSetting IsSelected = "0" PowerNode = "a1" PowerPin = "a1" PowerNet = "a" VoltageNoiseType = "PeakToPeak" VoltageNoise = "0.05" StartingFreq = "100" EndingFreq = "1G" TimeStep = "2e-12" TimeStop = "5.5568e-08" Resistance = "" Inductance = "" RegularVoltage = "1" WindowStart = "-1" WindowEnd = "-1" />
+</DieSetting>
+<DieSetting Block = "IC4" >
+<PowerSetting IsSelected = "0" PowerNode = "a1" PowerPin = "a1" PowerNet = "a" VoltageNoiseType = "PeakToPeak" VoltageNoise = "0.05" StartingFreq = "100" EndingFreq = "1G" TimeStep = "2e-12" TimeStop = "5.0568e-08" Resistance = "" Inductance = "" RegularVoltage = "1" WindowStart = "-1" WindowEnd = "-1" />
+</DieSetting>
+<DieSetting Block = "IC5" >
+<PowerSetting IsSelected = "0" PowerNode = "a1" PowerPin = "a1" PowerNet = "a" VoltageNoiseType = "PeakToPeak" VoltageNoise = "0.05" StartingFreq = "100" EndingFreq = "1G" TimeStep = "2e-12" TimeStop = "5.2568e-08" Resistance = "" Inductance = "" RegularVoltage = "1" WindowStart = "-1" WindowEnd = "-1" />
+</DieSetting>
+<DieSetting Block = "IC6" >
+<PowerSetting IsSelected = "0" PowerNode = "a1" PowerPin = "a1" PowerNet = "a" VoltageNoiseType = "PeakToPeak" VoltageNoise = "0.05" StartingFreq = "100" EndingFreq = "1G" TimeStep = "2e-12" TimeStop = "5.4568e-08" Resistance = "" Inductance = "" RegularVoltage = "1" WindowStart = "-1" WindowEnd = "-1" />
+</DieSetting>
+<DieSetting Block = "IC7" >
+<PowerSetting IsSelected = "1" PowerNode = "a1" PowerPin = "a1" PowerNet = "a" VoltageNoiseType = "PeakToPeak" VoltageNoise = "0.05" StartingFreq = "100" EndingFreq = "1G" TimeStep = "2e-12" TimeStop = "5.6568e-08" Resistance = "" Inductance = "" RegularVoltage = "1" WindowStart = "-1" WindowEnd = "-1" />
+</DieSetting>
+</SimulationControllerSetting>
+<ProbeSetting>
+<ProbePoint component = "IC7" actualBlock = "IC7" busName = "" busGroup = "" probeType = "0" componentType = "1" isConnected = "1" constValue = "0" bufferDelay = "inf" posPin = "a1" posCallNode = "n10" posActualNode = "a1" posSignal = "a" posIBISPin = "a1" negPin = "gnd" negCallNode = "gnd" negActualNode = "gnd" negSignal = "gnd" negIBISPin = "" powerSignal = "" groundSignal = "" clampPowerSignal = "" clampGroundSignal = "" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "0" DefVddq = "0" >
+</ProbePoint>
+</ProbeSetting>
+<UserDefinedProbeSetting IsInternal = "0">
+</UserDefinedProbeSetting>
+<UserDefinedProbeSetting IsInternal = "1">
+</UserDefinedProbeSetting>
+<UserDefinedCurrentProbeSetting IsInternal = "0">
+</UserDefinedCurrentProbeSetting>
+<UserDefinedCurrentProbeSetting IsInternal = "1">
+</UserDefinedCurrentProbeSetting>
+<SweepSetting sweepIndex = "-1">
+<SweepParamList >
+<SweepItem LongName = "Corner" ParameterValue = "Typ" ParameterDisplayValue = "Typ" DisplayName = "Corner" />
+</SweepParamList>
+</SweepSetting>
+<NorminalVoltage net = "" voltage = "0.9" />
+<MeasurementSummary >
+</MeasurementSummary>
+</PowerRippleSimulationResult>

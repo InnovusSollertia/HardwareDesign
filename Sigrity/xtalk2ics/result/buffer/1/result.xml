@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TxBufferDelayAnalysisResult>
+<SimulationResult Comment = "" >
+</SimulationResult>
+<BufferDelaySimulationSetting block = "Tx1" corner = "Typ" ibisFile = "C:\Cadence\SPB_24.1\share\topxp\Explorer\xtalk_3_signals\se_example.ibs" ibisComponent = "SSI_IBIS" isSPDSIM = "1" pkgMode = "0" pkgModeName = "" />
+<BufferDelayProbeSetting>
+<BufferDelayProbePoint DataRate = "1e+09" PosProbeNode = "gnd" NegProbeNode = "gnd" PosProbePin = "" NegProbePin = "" PosProbeSignal = "ABC" NegProbeSignal = "" ModelPos = "SSI_Tx_Spice" ModelNeg = "" ModelTypePos = "1" ModelTypeNeg = "-1" ProbeType = "0" VMeas = "0.5" />
+<BufferDelayProbePoint DataRate = "1e+09" PosProbeNode = "gnd" NegProbeNode = "gnd" PosProbePin = "" NegProbePin = "" PosProbeSignal = "DEF" NegProbeSignal = "" ModelPos = "SSI_Tx_Spice" ModelNeg = "" ModelTypePos = "1" ModelTypeNeg = "-1" ProbeType = "0" VMeas = "0.5" />
+<BufferDelayProbePoint DataRate = "1e+09" PosProbeNode = "gnd" NegProbeNode = "gnd" PosProbePin = "" NegProbePin = "" PosProbeSignal = "GHI" NegProbeSignal = "" ModelPos = "SSI_Tx_Spice" ModelNeg = "" ModelTypePos = "1" ModelTypeNeg = "-1" ProbeType = "0" VMeas = "0.5" />
+<BufferDelayProbePoint DataRate = "1e+09" PosProbeNode = "gnd" NegProbeNode = "gnd" PosProbePin = "" NegProbePin = "" PosProbeSignal = "TX_P" NegProbeSignal = "" ModelPos = "SSI_Tx" ModelNeg = "" ModelTypePos = "1" ModelTypeNeg = "-1" ProbeType = "1" VMeas = "0.5" />
+<BufferDelayProbePoint DataRate = "1e+09" PosProbeNode = "gnd" NegProbeNode = "gnd" PosProbePin = "" NegProbePin = "" PosProbeSignal = "TX_N" NegProbeSignal = "" ModelPos = "SSI_Tx" ModelNeg = "" ModelTypePos = "1" ModelTypeNeg = "-1" ProbeType = "2" VMeas = "0.5" />
+<BufferDelayProbePoint DataRate = "1e+09" PosProbeNode = "n2" NegProbeNode = "n2" PosProbePin = "" NegProbePin = "" PosProbeSignal = "TX_P" NegProbeSignal = "TX_N" ModelPos = "SSI_Tx" ModelNeg = "SSI_Tx" ModelTypePos = "1" ModelTypeNeg = "1" ProbeType = "3" VMeas = "0" />
+</BufferDelayProbeSetting>
+</TxBufferDelayAnalysisResult>

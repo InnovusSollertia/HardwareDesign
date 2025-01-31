@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<SParamExtractionResult SimulationName = "sparam\1" Project = "D:/Projects/HardwareDesign/Sigrity/pcbthru/pcbthru.topx" resultFile = "S_para_S_diff.bnp" isDiffMode = "1">
+<SimulationResult Comment = "" >
+</SimulationResult>
+<Identity>
+<File CRC32 = "3694251315"/>
+<File CRC32 = "1822709207"/>
+<File CRC32 = "1771767560"/>
+<File CRC32 = "1289951217"/>
+</Identity>
+</SParamExtractionResult>

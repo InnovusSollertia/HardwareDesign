@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TBSimulationResult Module="SE" SimulationName = "2\Tran_Typ_Typ" Project = "D:/Projects/HardwareDesign/Sigrity/xtalk2ics/xtalk2ics.topx">
+<SimulationResult Comment = "" >
+</SimulationResult>
+<ProbeSetting>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "Power &amp; Ground" probePlace = "0" probeType = "2" componentType = "0" isConnected = "1" constValue = "1.5" bufferDelay = "inf" posPin = "36" posCallNode = "n47" posActualNode = "36" posSignal = "VDDQ" posIBISPin = "36" negPin = "38" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSS" clampPowerSignal = "VDDQ" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "Power &amp; Ground" probePlace = "0" probeType = "3" componentType = "0" isConnected = "1" constValue = "0" bufferDelay = "inf" posPin = "38" posCallNode = "gnd" posActualNode = "38" posSignal = "VSSQ" posIBISPin = "38" negPin = "38" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDD" groundSignal = "VSSQ" clampPowerSignal = "VDD" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "87" posCallNode = "n35" posActualNode = "87" posSignal = "DQ0" posIBISPin = "87" negPin = "87" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "80" posCallNode = "n32" posActualNode = "80" posSignal = "DQ1" posIBISPin = "80" negPin = "80" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "85" posCallNode = "n34" posActualNode = "85" posSignal = "DQ2" posIBISPin = "85" negPin = "85" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "82" posCallNode = "n33" posActualNode = "82" posSignal = "DQ3" posIBISPin = "82" negPin = "82" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "62" posCallNode = "n26" posActualNode = "62" posSignal = "DQ4" posIBISPin = "62" negPin = "62" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "69" posCallNode = "n29" posActualNode = "69" posSignal = "DQ5" posIBISPin = "69" negPin = "69" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "64" posCallNode = "n27" posActualNode = "64" posSignal = "DQ6" posIBISPin = "64" negPin = "64" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "67" posCallNode = "n28" posActualNode = "67" posSignal = "DQ7" posIBISPin = "67" negPin = "67" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "5" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37205e-10" posPin = "77" posCallNode = "n31" posActualNode = "77" posSignal = "LDQS" posIBISPin = "77" negPin = "77" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "6" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37205e-10" posPin = "75" posCallNode = "n30" posActualNode = "75" posSignal = "LDQS#" posIBISPin = "75" negPin = "75" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "7" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37287e-10" posPin = "77" posCallNode = "n31" posActualNode = "77" posSignal = "LDQS" posIBISPin = "77" negPin = "77" negCallNode = "n30" negActualNode = "75" negSignal = "LDQS#" negIBISPin = "75" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "94" posCallNode = "n36" posActualNode = "94" posSignal = "DQ8" posIBISPin = "94" negPin = "94" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "101" posCallNode = "n39" posActualNode = "101" posSignal = "DQ9" posIBISPin = "101" negPin = "101" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "96" posCallNode = "n37" posActualNode = "96" posSignal = "DQ10" posIBISPin = "96" negPin = "96" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "99" posCallNode = "n38" posActualNode = "99" posSignal = "DQ11" posIBISPin = "99" negPin = "99" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "118" posCallNode = "n45" posActualNode = "118" posSignal = "DQ12" posIBISPin = "118" negPin = "118" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "111" posCallNode = "n42" posActualNode = "111" posSignal = "DQ13" posIBISPin = "111" negPin = "111" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "116" posCallNode = "n44" posActualNode = "116" posSignal = "DQ14" posIBISPin = "116" negPin = "116" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "113" posCallNode = "n43" posActualNode = "113" posSignal = "DQ15" posIBISPin = "113" negPin = "113" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "5" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37205e-10" posPin = "104" posCallNode = "n40" posActualNode = "104" posSignal = "UDQS" posIBISPin = "104" negPin = "104" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "6" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37205e-10" posPin = "106" posCallNode = "n41" posActualNode = "106" posSignal = "UDQS#" posIBISPin = "106" negPin = "106" negCallNode = "gnd" negActualNode = "38" negSignal = "VSSQ" negIBISPin = "38" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "7" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37287e-10" posPin = "104" posCallNode = "n40" posActualNode = "104" posSignal = "UDQS" posIBISPin = "104" negPin = "104" negCallNode = "n41" negActualNode = "106" negSignal = "UDQS#" negIBISPin = "106" powerSignal = "VDDQ" groundSignal = "VSSQ" clampPowerSignal = "VDDQ" clampGroundSignal = "VSSQ" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Power &amp; Ground" probePlace = "0" probeType = "2" componentType = "0" isConnected = "1" constValue = "1.5" bufferDelay = "inf" posPin = "1" posCallNode = "n46" posActualNode = "1" posSignal = "VDD" posIBISPin = "1" negPin = "5" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Power &amp; Ground" probePlace = "0" probeType = "3" componentType = "0" isConnected = "1" constValue = "0" bufferDelay = "inf" posPin = "5" posCallNode = "gnd" posActualNode = "5" posSignal = "VSS" posIBISPin = "5" negPin = "5" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "23" posCallNode = "n19" posActualNode = "23" posSignal = "A0" posIBISPin = "23" negPin = "23" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "20" posCallNode = "n16" posActualNode = "20" posSignal = "A1" posIBISPin = "20" negPin = "20" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "17" posCallNode = "n13" posActualNode = "17" posSignal = "A2" posIBISPin = "17" negPin = "17" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "21" posCallNode = "n17" posActualNode = "21" posSignal = "A3" posIBISPin = "21" negPin = "21" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "22" posCallNode = "n18" posActualNode = "22" posSignal = "A4" posIBISPin = "22" negPin = "22" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "19" posCallNode = "n15" posActualNode = "19" posSignal = "A5" posIBISPin = "19" negPin = "19" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "18" posCallNode = "n14" posActualNode = "18" posSignal = "A6" posIBISPin = "18" negPin = "18" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "4" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37902e-10" posPin = "15" posCallNode = "n12" posActualNode = "15" posSignal = "A7" posIBISPin = "15" negPin = "15" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "5" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37205e-10" posPin = "52" posCallNode = "n25" posActualNode = "52" posSignal = "CLK0P" posIBISPin = "52" negPin = "52" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "6" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37205e-10" posPin = "51" posCallNode = "n24" posActualNode = "51" posSignal = "CLK0N" posIBISPin = "51" negPin = "51" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "7" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37287e-10" posPin = "52" posCallNode = "n25" posActualNode = "52" posSignal = "CLK0P" posIBISPin = "52" negPin = "52" negCallNode = "n24" negActualNode = "51" negSignal = "CLK0N" negIBISPin = "51" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "5" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37205e-10" posPin = "3" posCallNode = "n11" posActualNode = "3" posSignal = "CLK1P" posIBISPin = "3" negPin = "3" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "6" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37205e-10" posPin = "2" posCallNode = "n10" posActualNode = "2" posSignal = "CLK1N" posIBISPin = "2" negPin = "2" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "7" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37287e-10" posPin = "3" posCallNode = "n11" posActualNode = "3" posSignal = "CLK1P" posIBISPin = "3" negPin = "3" negCallNode = "n10" negActualNode = "2" negSignal = "CLK1N" negIBISPin = "2" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "5" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37205e-10" posPin = "33" posCallNode = "n21" posActualNode = "33" posSignal = "CLK2P" posIBISPin = "33" negPin = "33" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "6" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37205e-10" posPin = "32" posCallNode = "n20" posActualNode = "32" posSignal = "CLK2N" posIBISPin = "32" negPin = "32" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "7" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37287e-10" posPin = "33" posCallNode = "n21" posActualNode = "33" posSignal = "CLK2P" posIBISPin = "33" negPin = "33" negCallNode = "n20" negActualNode = "32" negSignal = "CLK2N" negIBISPin = "32" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "5" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37205e-10" posPin = "43" posCallNode = "n23" posActualNode = "43" posSignal = "CLK3P" posIBISPin = "43" negPin = "43" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "6" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37205e-10" posPin = "42" posCallNode = "n22" posActualNode = "42" posSignal = "CLK3N" posIBISPin = "42" negPin = "42" negCallNode = "gnd" negActualNode = "5" negSignal = "VSS" negIBISPin = "5" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Ctrl" actualBlock = "Ctrl" busName = "AddCmd" busGroup = "Address" probePlace = "0" probeType = "7" componentType = "0" isConnected = "0" constValue = "0" bufferDelay = "1.37287e-10" posPin = "43" posCallNode = "n23" posActualNode = "43" posSignal = "CLK3P" posIBISPin = "43" negPin = "43" negCallNode = "n22" negActualNode = "42" negSignal = "CLK3N" negIBISPin = "42" powerSignal = "VDD" groundSignal = "VSS" clampPowerSignal = "VDD" clampGroundSignal = "VSS" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "Power &amp; Ground" probePlace = "0" probeType = "2" componentType = "1" isConnected = "1" constValue = "1" bufferDelay = "inf" posPin = "pwr" posCallNode = "n81" posActualNode = "pwr" posSignal = "vdd" posIBISPin = "pwr" negPin = "ngnd" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "Power &amp; Ground" probePlace = "0" probeType = "3" componentType = "1" isConnected = "1" constValue = "0" bufferDelay = "inf" posPin = "ngnd" posCallNode = "gnd" posActualNode = "ngnd" posSignal = "vss" posIBISPin = "ngnd" negPin = "ngnd" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "E3" posCallNode = "n61" posActualNode = "E3" posSignal = "DQ0" posIBISPin = "E3" negPin = "E3" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "F7" posCallNode = "n64" posActualNode = "F7" posSignal = "DQ1" posIBISPin = "F7" negPin = "F7" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "F2" posCallNode = "n62" posActualNode = "F2" posSignal = "DQ2" posIBISPin = "F2" negPin = "F2" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "F8" posCallNode = "n65" posActualNode = "F8" posSignal = "DQ3" posIBISPin = "F8" negPin = "F8" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "H3" posCallNode = "n68" posActualNode = "H3" posSignal = "DQ4" posIBISPin = "H3" negPin = "H3" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "H8" posCallNode = "n70" posActualNode = "H8" posSignal = "DQ5" posIBISPin = "H8" negPin = "H8" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "G2" posCallNode = "n66" posActualNode = "G2" posSignal = "DQ6" posIBISPin = "G2" negPin = "G2" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "H7" posCallNode = "n69" posActualNode = "H7" posSignal = "DQ7" posIBISPin = "H7" negPin = "H7" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "5" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "F3" posCallNode = "n63" posActualNode = "F3" posSignal = "LDQS" posIBISPin = "F3" negPin = "F3" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "6" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "G3" posCallNode = "n67" posActualNode = "G3" posSignal = "LDQS#" posIBISPin = "G3" negPin = "G3" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataL" probePlace = "0" probeType = "7" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "F3" posCallNode = "n63" posActualNode = "F3" posSignal = "LDQS" posIBISPin = "F3" negPin = "F3" negCallNode = "n67" negActualNode = "G3" negSignal = "LDQS#" negIBISPin = "G3" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "D7" posCallNode = "n60" posActualNode = "D7" posSignal = "DQ8" posIBISPin = "D7" negPin = "D7" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "C3" posCallNode = "n57" posActualNode = "C3" posSignal = "DQ9" posIBISPin = "C3" negPin = "C3" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "C8" posCallNode = "n59" posActualNode = "C8" posSignal = "DQ10" posIBISPin = "C8" negPin = "C8" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "C2" posCallNode = "n56" posActualNode = "C2" posSignal = "DQ11" posIBISPin = "C2" negPin = "C2" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "A7" posCallNode = "n53" posActualNode = "A7" posSignal = "DQ12" posIBISPin = "A7" negPin = "A7" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "4" componentType = "1" isConnected = "1" constValue = "0" bufferDelay = "inf" posPin = "A2" posCallNode = "n6" posActualNode = "A2" posSignal = "DQ13" posIBISPin = "A2" negPin = "A2" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "B8" posCallNode = "n55" posActualNode = "B8" posSignal = "DQ14" posIBISPin = "B8" negPin = "B8" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "A3" posCallNode = "n52" posActualNode = "A3" posSignal = "DQ15" posIBISPin = "A3" negPin = "A3" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "5" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "C7" posCallNode = "n58" posActualNode = "C7" posSignal = "UDQS" posIBISPin = "C7" negPin = "C7" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "6" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "B7" posCallNode = "n54" posActualNode = "B7" posSignal = "UDQS#" posIBISPin = "B7" negPin = "B7" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "Data" busGroup = "DataU" probePlace = "0" probeType = "7" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "C7" posCallNode = "n58" posActualNode = "C7" posSignal = "UDQS" posIBISPin = "C7" negPin = "C7" negCallNode = "n54" negActualNode = "B7" negSignal = "UDQS#" negIBISPin = "B7" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "AddCmd" busGroup = "AddCmd::CK/CK#" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "N3" posCallNode = "n74" posActualNode = "N3" posSignal = "A0" posIBISPin = "N3" negPin = "N3" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "AddCmd" busGroup = "AddCmd::CK/CK#" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "P7" posCallNode = "n77" posActualNode = "P7" posSignal = "A1" posIBISPin = "P7" negPin = "P7" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "AddCmd" busGroup = "AddCmd::CK/CK#" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "P3" posCallNode = "n76" posActualNode = "P3" posSignal = "A2" posIBISPin = "P3" negPin = "P3" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "AddCmd" busGroup = "AddCmd::CK/CK#" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "N2" posCallNode = "n73" posActualNode = "N2" posSignal = "A3" posIBISPin = "N2" negPin = "N2" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "AddCmd" busGroup = "AddCmd::CK/CK#" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "P8" posCallNode = "n78" posActualNode = "P8" posSignal = "A4" posIBISPin = "P8" negPin = "P8" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "AddCmd" busGroup = "AddCmd::CK/CK#" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "P2" posCallNode = "n75" posActualNode = "P2" posSignal = "A5" posIBISPin = "P2" negPin = "P2" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "AddCmd" busGroup = "AddCmd::CK/CK#" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "R8" posCallNode = "n80" posActualNode = "R8" posSignal = "A6" posIBISPin = "R8" negPin = "R8" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "AddCmd" busGroup = "AddCmd::CK/CK#" probePlace = "0" probeType = "4" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "R2" posCallNode = "n79" posActualNode = "R2" posSignal = "A7" posIBISPin = "R2" negPin = "R2" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "AddCmd" busGroup = "AddCmd::CK/CK#" probePlace = "0" probeType = "5" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "J7" posCallNode = "n71" posActualNode = "J7" posSignal = "CK" posIBISPin = "J7" negPin = "J7" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "AddCmd" busGroup = "AddCmd::CK/CK#" probePlace = "0" probeType = "6" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "K7" posCallNode = "n72" posActualNode = "K7" posSignal = "CK#" posIBISPin = "K7" negPin = "K7" negCallNode = "gnd" negActualNode = "ngnd" negSignal = "vss" negIBISPin = "ngnd" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+<ProbePoint component = "Mem" actualBlock = "Mem" busName = "AddCmd" busGroup = "AddCmd::CK/CK#" probePlace = "0" probeType = "7" componentType = "1" isConnected = "0" constValue = "0" bufferDelay = "inf" posPin = "J7" posCallNode = "n71" posActualNode = "J7" posSignal = "CK" posIBISPin = "J7" negPin = "J7" negCallNode = "n72" negActualNode = "K7" negSignal = "CK#" negIBISPin = "K7" powerSignal = "vdd" groundSignal = "vss" clampPowerSignal = "vdd" clampGroundSignal = "vss" IsDefVRef = "1" UserWanted = "1" VRef = "0" Vddq = "1" DefVddq = "1" >
+<WorstCaseOffset >
+<Offset type = "Simulated_Shift90" value = "inf" />
+<Offset type = "WCSetup" value = "inf" />
+<Offset type = "WCHold" value = "inf" />
+<Offset type = "WCTxSkew(+)" value = "inf" />
+<Offset type = "WCTxSkew(+)_Shift90" value = "inf" />
+<Offset type = "WCTxSkew(-)" value = "inf" />
+<Offset type = "WCTxSkew(-)_Shift90" value = "inf" />
+<Offset type = "BCTiming" value = "inf" />
+<Offset type = "BCEyeHeight" value = "inf" />
+<Offset type = "BCCAMask" value = "inf" />
+<Offset type = "BCCAMask(+)" value = "inf" />
+<Offset type = "BCCAMask(-)" value = "inf" />
+</WorstCaseOffset>
+</ProbePoint>
+</ProbeSetting>
+<UserDefinedProbeSetting IsInternal = "0">
+</UserDefinedProbeSetting>
+<UserDefinedProbeSetting IsInternal = "1">
+</UserDefinedProbeSetting>
+<UserDefinedCurrentProbeSetting IsInternal = "0">
+</UserDefinedCurrentProbeSetting>
+<UserDefinedCurrentProbeSetting IsInternal = "1">
+</UserDefinedCurrentProbeSetting>
+<SimulationSetting txCorner = "Typ" rxCorner = "Typ" isWrite = "1" maxMeasurementCycle = "4" isSPDSIM = "1" vrmVoltages = "1.000000, 1.500000" stimulusOffsetAdjustment = "0" isPowerRipple = "0" >
+<DeviceBlock Block = "Ctrl" IsTx = "1" IBISFile = "C:\Cadence\SPB_24.1\share\topxp\default_models\pba_ex.ibs" IBISComponent = "Controller" OnDieMode = "0" PkgMode = "0" PkgModeName = "" />
+<DeviceBlock Block = "Mem" IsTx = "0" IBISFile = "C:\Cadence\SPB_24.1\share\topxp\default_models\pba_ex.spice" IBISComponent = "Memory" OnDieMode = "0" PkgMode = "0" PkgModeName = "" />
+<DeviceSignalSetting BlockName = "Ctrl" >
+<SignalSetting busGroup = "Address" signal = "A0" pin = "23" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "Address" signal = "A1" pin = "20" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "Address" signal = "A2" pin = "17" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "Address" signal = "A3" pin = "21" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "Address" signal = "A4" pin = "22" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "Address" signal = "A5" pin = "19" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "Address" signal = "A6" pin = "18" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "Address" signal = "A7" pin = "15" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "Address" signal = "CLK0P" pin = "52" powerSignal = "" groudSignal = "" stimulusPattern = "10.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQS34_NO_ODT" receiveModel = "DDR3_DQS34_NO_ODT" standbyModel = "DDR3_DQS34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29704e-10" fallBufferDelay = "1.44707e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0" DcThreshold = "0"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "Address" signal = "CLK0N" pin = "51" powerSignal = "" groudSignal = "" stimulusPattern = "01.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQS34_NO_ODT" receiveModel = "DDR3_DQS34_NO_ODT" standbyModel = "DDR3_DQS34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29704e-10" fallBufferDelay = "1.44707e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0" DcThreshold = "0"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "Address" signal = "CLK1P" pin = "3" powerSignal = "" groudSignal = "" stimulusPattern = "10.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQS34_NO_ODT" receiveModel = "DDR3_DQS34_NO_ODT" standbyModel = "DDR3_DQS34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29704e-10" fallBufferDelay = "1.44707e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0" DcThreshold = "0"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "Address" signal = "CLK1N" pin = "2" powerSignal = "" groudSignal = "" stimulusPattern = "01.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQS34_NO_ODT" receiveModel = "DDR3_DQS34_NO_ODT" standbyModel = "DDR3_DQS34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29704e-10" fallBufferDelay = "1.44707e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0" DcThreshold = "0"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "Address" signal = "CLK2P" pin = "33" powerSignal = "" groudSignal = "" stimulusPattern = "10.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQS34_NO_ODT" receiveModel = "DDR3_DQS34_NO_ODT" standbyModel = "DDR3_DQS34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29704e-10" fallBufferDelay = "1.44707e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0" DcThreshold = "0"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "Address" signal = "CLK2N" pin = "32" powerSignal = "" groudSignal = "" stimulusPattern = "01.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQS34_NO_ODT" receiveModel = "DDR3_DQS34_NO_ODT" standbyModel = "DDR3_DQS34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29704e-10" fallBufferDelay = "1.44707e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0" DcThreshold = "0"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "Address" signal = "CLK3P" pin = "43" powerSignal = "" groudSignal = "" stimulusPattern = "10.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQS34_NO_ODT" receiveModel = "DDR3_DQS34_NO_ODT" standbyModel = "DDR3_DQS34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29704e-10" fallBufferDelay = "1.44707e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0" DcThreshold = "0"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "Address" signal = "CLK3N" pin = "42" powerSignal = "" groudSignal = "" stimulusPattern = "01.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQS34_NO_ODT" receiveModel = "DDR3_DQS34_NO_ODT" standbyModel = "DDR3_DQS34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29704e-10" fallBufferDelay = "1.44707e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0" DcThreshold = "0"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "DQ0" pin = "87" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "DQ1" pin = "80" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "DQ2" pin = "85" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "DQ3" pin = "82" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "DQ4" pin = "62" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "DQ5" pin = "69" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "DQ6" pin = "64" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "DQ7" pin = "67" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "LDQS" pin = "77" powerSignal = "" groudSignal = "" stimulusPattern = "10.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQS34_NO_ODT" receiveModel = "DDR3_DQS34_NO_ODT" standbyModel = "DDR3_DQS34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29704e-10" fallBufferDelay = "1.44707e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0.35" DcThreshold = "0.35"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "LDQS#" pin = "75" powerSignal = "" groudSignal = "" stimulusPattern = "01.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQS34_NO_ODT" receiveModel = "DDR3_DQS34_NO_ODT" standbyModel = "DDR3_DQS34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29704e-10" fallBufferDelay = "1.44707e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0.35" DcThreshold = "0.35"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "DQ8" pin = "94" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "DQ9" pin = "101" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "DQ10" pin = "96" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "DQ11" pin = "99" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "DQ12" pin = "118" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "DQ13" pin = "111" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "DQ14" pin = "116" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "DQ15" pin = "113" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.5T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQ34_NO_ODT" receiveModel = "DDR3_DQ34_NO_ODT" standbyModel = "DDR3_DQ34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29586e-10" fallBufferDelay = "1.46218e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "0.925" AcLo = "0.575" DcHi = "0.925" DcLo = "0.575" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "UDQS" pin = "104" powerSignal = "" groudSignal = "" stimulusPattern = "10.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQS34_NO_ODT" receiveModel = "DDR3_DQS34_NO_ODT" standbyModel = "DDR3_DQS34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29704e-10" fallBufferDelay = "1.44707e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0.35" DcThreshold = "0.35"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "UDQS#" pin = "106" powerSignal = "" groudSignal = "" stimulusPattern = "01.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "DDR3_DQS34_NO_ODT" receiveModel = "DDR3_DQS34_NO_ODT" standbyModel = "DDR3_DQS34_NO_ODT"  transmitModelType = "2" receiveModelType = "2" standbyModelType = "2"  transmitModelPolarityInverting = "0"  riseBufferDelay = "1.29704e-10" fallBufferDelay = "1.44707e-10"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0.35" DcThreshold = "0.35"  isIBISModel = "1">
+</SignalSetting>
+</DeviceSignalSetting>
+<DeviceSignalSetting BlockName = "Mem" >
+<SignalSetting busGroup = "AddCmd::CK/CK#" signal = "A0" pin = "N3" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "AddCmd::CK/CK#" signal = "A1" pin = "P7" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "AddCmd::CK/CK#" signal = "A2" pin = "P3" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "AddCmd::CK/CK#" signal = "A3" pin = "N2" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "AddCmd::CK/CK#" signal = "A4" pin = "P8" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "AddCmd::CK/CK#" signal = "A5" pin = "P2" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "AddCmd::CK/CK#" signal = "A6" pin = "R8" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "AddCmd::CK/CK#" signal = "A7" pin = "R2" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "AddCmd::CK/CK#" signal = "CK" pin = "J7" powerSignal = "" groudSignal = "" stimulusPattern = "10.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_diff" receiveModel = "rx_diff" standbyModel = "rx_diff"  transmitModelType = "24" receiveModelType = "22" standbyModelType = "22"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0" DcThreshold = "0"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "AddCmd::CK/CK#" signal = "CK#" pin = "K7" powerSignal = "" groudSignal = "" stimulusPattern = "01.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_diff" receiveModel = "rx_diff" standbyModel = "rx_diff"  transmitModelType = "24" receiveModelType = "22" standbyModelType = "22"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0" DcThreshold = "0"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "DQ0" pin = "E3" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "DQ1" pin = "F7" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "DQ2" pin = "F2" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "DQ3" pin = "F8" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "DQ4" pin = "H3" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "DQ5" pin = "H8" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "DQ6" pin = "G2" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "DQ7" pin = "H7" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "LDQS" pin = "F3" powerSignal = "" groudSignal = "" stimulusPattern = "10.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_diff" receiveModel = "rx_diff" standbyModel = "rx_diff"  transmitModelType = "24" receiveModelType = "22" standbyModelType = "22"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0" DcThreshold = "0"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataL" signal = "LDQS#" pin = "G3" powerSignal = "" groudSignal = "" stimulusPattern = "01.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_diff" receiveModel = "rx_diff" standbyModel = "rx_diff"  transmitModelType = "24" receiveModelType = "22" standbyModelType = "22"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0" DcThreshold = "0"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "DQ8" pin = "D7" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "DQ9" pin = "C3" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "DQ10" pin = "C8" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "DQ11" pin = "C2" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "DQ12" pin = "A7" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "DQ13" pin = "A2" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "1" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "DQ14" pin = "B8" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "DQ15" pin = "A3" powerSignal = "" groudSignal = "" stimulusPattern = "10101010.." stimulusOffset = "0.75T" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_single" receiveModel = "rx_single" standbyModel = "rx_single"  transmitModelType = "23" receiveModelType = "21" standbyModelType = "21"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "inf" DcThreshold = "inf"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "UDQS" pin = "C7" powerSignal = "" groudSignal = "" stimulusPattern = "10.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_diff" receiveModel = "rx_diff" standbyModel = "rx_diff"  transmitModelType = "24" receiveModelType = "22" standbyModelType = "22"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0" DcThreshold = "0"  isIBISModel = "1">
+</SignalSetting>
+<SignalSetting busGroup = "DataU" signal = "UDQS#" pin = "B7" powerSignal = "" groudSignal = "" stimulusPattern = "01.." stimulusOffset = "0" stimulusOffsetType = "Default" IsStimulusOffsetOnTheFly = "0"  transmitModel = "tx_diff" receiveModel = "rx_diff" standbyModel = "rx_diff"  transmitModelType = "24" receiveModelType = "22" standbyModelType = "22"  transmitModelPolarityInverting = "0"  riseBufferDelay = "inf" fallBufferDelay = "inf"  type = "0" isSelected =  "1" isConnected = "0" dataRate = "1e+09" NumberOfBit = "8"  AcHi = "inf" AcLo = "inf" DcHi = "inf" DcLo = "inf" AcThreshold = "0" DcThreshold = "0"  isIBISModel = "1">
+</SignalSetting>
+</DeviceSignalSetting>
+<BlockModelInfo>
+</BlockModelInfo>
+<SimulatorSetting >
+<SimulatorOption SimulatorName = "spdsim" AdaptiveTimeStep = "0" Version = "1">$DEFAULT_OPTION</SimulatorOption>
+<ChannelSimulatorOption OS="Windows 64 Bit" Version ="1">$DEFAULT_OPTION</ChannelSimulatorOption>
+<CharacterizationSetting Duration = "30" Delay = "0" Vmeas = "" BusStepStimulus = "1" SeedControl = "0" />
+<SpectreSimulatorOptions>
+<SpectreOption name = "SpectreOptions" >
+<SpectreOption name = "SpectreHighPerformanceOptions" >
+<SpectreOption name = "PerformanceMode" value = "Spectre" />
+<SpectreOption name = "SpectreOptions" >
+<SpectreOption name = "ErrorPreset" value = "conservative" />
+</SpectreOption>
+<SpectreOption name = "APSOptions" >
+<SpectreOption name = "useAPS" value = "0" />
+<SpectreOption name = "MultiThreading" value = "Auto" />
+<SpectreOption name = "threadsNo" value = "" />
+<SpectreOption name = "procAffinity" value = "" />
+</SpectreOption>
+</SpectreOption>
+<SpectreOption name = "SpectreSimulatorOptions" >
+<SpectreOption name = "MainOptions" >
+<SpectreOption name = "reltol" value = "1e-3" />
+<SpectreOption name = "residualtol" value = "" />
+<SpectreOption name = "vabstol" value = "1e-6" />
+<SpectreOption name = "iabstol" value = "1e-12" />
+<SpectreOption name = "temp" value = "27" />
+</SpectreOption>
+<SpectreOption name = "AlgorithmOptions" >
+<SpectreOption name = "homotopy" value = "" />
+<SpectreOption name = "limit" value = "" />
+<SpectreOption name = "gmethod" value = "" />
+<SpectreOption name = "dptran_gmethod" value = "" />
+<SpectreOption name = "try_fast_op" value = "" />
+<SpectreOption name = "convdbg" value = "" />
+<SpectreOption name = "nonconv_topnum" value = "" />
+<SpectreOption name = "gmin" value = "1e-12" />
+<SpectreOption name = "gmin_check" value = "" />
+<SpectreOption name = "gmindc" value = "" />
+<SpectreOption name = "rforce" value = "1" />
+<SpectreOption name = "pivotdc" value = "" />
+<SpectreOption name = "dc_pivot_check" value = "" />
+<SpectreOption name = "pivrel" value = "1e-3" />
+<SpectreOption name = "pivabs" value = "" />
+<SpectreOption name = "preorder" value = "" />
+<SpectreOption name = "rebuild_matrix" value = "" />
+</SpectreOption>
+<SpectreOption name = "ComponentOptions" >
+<SpectreOption name = "scalem" value = "1.0" />
+<SpectreOption name = "scale" value = "1.0" />
+<SpectreOption name = "scalefactor" value = "" />
+<SpectreOption name = "approx" value = "" />
+<SpectreOption name = "macromodels" value = "" />
+<SpectreOption name = "maxrsd" value = "" />
+<SpectreOption name = "auto_minductor" value = "" />
+<SpectreOption name = "minr" value = "" />
+</SpectreOption>
+<SpectreOption name = "CheckOptions" >
+<SpectreOption name = "topcheck" value = "" />
+<SpectreOption name = "iccapcheck" value = "" />
+<SpectreOption name = "ignshorts" value = "" />
+<SpectreOption name = "diagnose" value = "" />
+<SpectreOption name = "dochecklimit" value = "" />
+<SpectreOption name = "checklimitfile" value = "" />
+<SpectreOption name = "checklimitdest" value = "psf" />
+<SpectreOption name = "checklimit_skip_subs" value = "" />
+<SpectreOption name = "checklimit_skip_file" value = "" />
+<SpectreOption name = "opptcheck" value = "" />
+</SpectreOption>
+<SpectreOption name = "AnnotationOptions" >
+<SpectreOption name = "audit" value = "" />
+<SpectreOption name = "inventory" value = "" />
+<SpectreOption name = "narrate" value = "" />
+<SpectreOption name = "debug" value = "" />
+<SpectreOption name = "info" value = "" />
+<SpectreOption name = "note" value = "" />
+<SpectreOption name = "maxnotes" value = "5" />
+<SpectreOption name = "warn" value = "" />
+<SpectreOption name = "maxwarns" value = "5" />
+<SpectreOption name = "maxwarnstologfile" value = "" />
+<SpectreOption name = "maxnotestologfile" value = "" />
+<SpectreOption name = "error" value = "" />
+<SpectreOption name = "printstep" value = "" />
+<SpectreOption name = "digits" value = "5" />
+<SpectreOption name = "notation" value = "" />
+<SpectreOption name = "cols" value = "80" />
+<SpectreOption name = "colslog" value = "" />
+<SpectreOption name = "title" value = "" />
+</SpectreOption>
+<SpectreOption name = "MiscOptions" >
+<SpectreOption name = "value" value = "" />
+<SpectreOption name = "flow" value = "" />
+<SpectreOption name = "quantities" value = "" />
+<SpectreOption name = "additional_arguments" value = "" />
+</SpectreOption>
+</SpectreOption>
+<SpectreOption name = "AnalysisOptions" >
+<SpectreOption name = "BasicOptions" >
+<SpectreOption name = "errpreset" value = "" />
+</SpectreOption>
+<SpectreOption name = "SpectreTransientOptions" >
+<SpectreOption name = "TimeStepOptions" >
+<SpectreOption name = "step" value = "" />
+<SpectreOption name = "maxstep" value = "" />
+<SpectreOption name = "minstep" value = "" />
+</SpectreOption>
+<SpectreOption name = "AlgorithmOptions" >
+<SpectreOption name = "method" value = "" />
+<SpectreOption name = "maxiters" value = "5" />
+<SpectreOption name = "restart" value = "" />
+<SpectreOption name = "relref" value = "" />
+<SpectreOption name = "lteratio" value = "" />
+</SpectreOption>
+<SpectreOption name = "MiscOptions" >
+<SpectreOption name = "annotate" value = "status" />
+<SpectreOption name = "emirstop" value = "" />
+</SpectreOption>
+</SpectreOption>
+<SpectreOption name = "SpectreDcOptions" >
+<SpectreOption name = "force" value = "" />
+<SpectreOption name = "save_op_in_final" value = "0" />
+<SpectreOption name = "readns" value = "" />
+<SpectreOption name = "readforce" value = "" />
+<SpectreOption name = "writefinal" value = "" />
+<SpectreOption name = "homotopy" value = "" />
+<SpectreOption name = "restart" value = "" />
+<SpectreOption name = "maxiters" value = "150" />
+<SpectreOption name = "maxsteps" value = "10000" />
+<SpectreOption name = "annotate" value = "" />
+<SpectreOption name = "additionalParams" value = "" />
+</SpectreOption>
+</SpectreOption>
+</SpectreOption>
+</SpectreSimulatorOptions>
+</SimulatorSetting>
+<DQMaskSpec VdIVW = "" VdIVW2 = "" TdIVW = "" TdIVW2 = "" MintDQS2DQ = "" MaxtDQS2DQ = "" MaxtDQ2DQ = "" MinVIHL_AC = "" MinTdIPW = "" MinTdIHL = "" MinSlewRate_Mask = "" MaxSlewRate_Mask = "" MinSlewRate_AC_Swing = "" MaxSlewRate_AC_Swing = "" MaskType = "" />
+</SimulationSetting>
+<DdrReportSetting WaveformLocation = "Die Pad" startingTime = "0" endingTime = "inf" rangeUnit = "2" SetupDeratingTableFile = "" HoldDeratingTableFile = "" EyeTrigger = "0" EyeAperture = "0" minTacWidthPercent = "50" offset = "" ExtrapolationMethod = "Nearest" PerformDeratingForDataRead = "0" tdDataReadExport = "0" IsWorstCaseSummaryOnly = "1" CheckConnectivity = "0" averageMagnitudeThreshold = "0" >
+<Threshold title = "Default" ac = "0.175" dc = "0.1" DiffAC = "0.35" DiffDC = "0.2" DDRType = "Default" />
+<CustomReportSetting >
+</CustomReportSetting>
+<HTMLReport title = "" subTitle = "" desc = "" />
+<MeasurementType index = "0" enable = "1" />
+<MeasurementType index = "1" enable = "1" />
+<MeasurementType index = "2" enable = "1" />
+<MeasurementType index = "3" enable = "1" />
+<MeasurementType index = "4" enable = "1" />
+<MeasurementType index = "5" enable = "1" />
+<MeasurementType index = "6" enable = "1" />
+<MeasurementType index = "7" enable = "1" />
+<MeasurementType index = "8" enable = "1" />
+<MeasurementType index = "9" enable = "1" />
+<MeasurementType index = "10" enable = "1" />
+<MeasurementType index = "11" enable = "1" />
+<MeasurementType index = "12" enable = "1" />
+<MeasurementType index = "13" enable = "1" />
+<MeasurementType index = "14" enable = "1" />
+<MeasurementType index = "15" enable = "1" />
+<MeasurementType index = "16" enable = "1" />
+<MeasurementType index = "17" enable = "1" />
+<MeasurementType index = "18" enable = "1" />
+<MeasurementType index = "19" enable = "1" />
+<MeasurementType index = "20" enable = "1" />
+<MeasurementType index = "21" enable = "1" />
+<MeasurementType index = "22" enable = "1" />
+<MeasurementType index = "23" enable = "1" />
+<MeasurementType index = "24" enable = "1" />
+<MeasurementType index = "25" enable = "1" />
+<Specs strobeAdjustmentResolution = "0.02" >
+<ControllerTimingSpec >
+<TimingSpec MinTransmitSetup = "" MinTransmitHold = "" MinReceiveSetup = "" MinReceiveHold = "" MaxReceiveSkewPlus = "" MaxReceiveSkewMinus = "" MinStrobeSetup = "" MinStrobeHold = "" MaxStrobeClockSkewPlus = "" MaxStrobeClockSkewMinus = "" tDQSQ = "" tQH = "" />
+</ControllerTimingSpec>
+<MemoryTimingSpec >
+<TimingSpec MinTransmitSetup = "" MinTransmitHold = "" MinReceiveSetup = "" MinReceiveHold = "" MaxReceiveSkewPlus = "" MaxReceiveSkewMinus = "" MinStrobeSetup = "" MinStrobeHold = "" MaxStrobeClockSkewPlus = "" MaxStrobeClockSkewMinus = "" tDQSQ = "" tQH = "" />
+</MemoryTimingSpec>
+<DQMaskSpec VdIVW = "" VdIVW2 = "" TdIVW = "" TdIVW2 = "" MintDQS2DQ = "" MaxtDQS2DQ = "" MaxtDQ2DQ = "" MinVIHL_AC = "" MinTdIPW = "" MinTdIHL = "" MinSlewRate_Mask = "" MaxSlewRate_Mask = "" MinSlewRate_AC_Swing = "" MaxSlewRate_AC_Swing = "" MaskType = "" />
+<DQVrefSpec Vref_max = "" Vref_min = "" Vref_step = "" Vref_set_tol = "" />
+</Specs>
+</DdrReportSetting>
+<FrequencyResponseResult>
+<FrequencyResponseSetting MaxFrequency = "1" NumOfFreqPoint = "128"/>
+<PinMappingResult>
+<PinMapping RxBlock = "Mem" RxSignal = "DQ13" RxPin = "A2" TxBlock = "" TxSignal = "" TxPin = "" Magnitude = "inf" />
+</PinMappingResult></FrequencyResponseResult>
+<SweepSetting sweepIndex = "-1">
+<SweepParamList >
+<SweepItem LongName = "Corner" ParameterValue = "Typ" ParameterDisplayValue = "Typ" DisplayName = "Corner" />
+</SweepParamList>
+</SweepSetting>
+<MeasurementSummary >
+</MeasurementSummary>
+</TBSimulationResult>

@@ -1,0 +1,53 @@
+2025-01-30T22:40:00 TopWb.exe 24.1 P001 (4234998)  [9/4/2024]
+2025-01-30T22:40:00 Sigrity Dir: C:\Cadence\Sigrity2024.0
+2025-01-30T22:40:00 Open Topology: D:/Projects/HardwareDesign/Sigrity/xtalk2ics/xtalk2ics.topx
+2025-01-30T22:40:15 Run Simulation
+2025-01-30T22:40:15 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-30T22:40:15 spdsim(pid 10980) started [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\sparam\1\temp\SParamExtraction.sp]
+2025-01-30T22:40:16 spdsim(pid 10980) ended [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\sparam\1\temp\SParamExtraction.sp]
+2025-01-30T22:40:16 Finish Connectivity Checker
+2025-01-30T22:40:16 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-30T22:40:16 spdsim(pid 2608) started [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\1\Tran_Typ_Typ\temp\simulation_input.sp]
+2025-01-30T22:40:16 spdsim(pid 2608) ended [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\1\Tran_Typ_Typ\temp\simulation_input.sp]
+2025-01-30T22:40:16 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-30T22:40:16 spdsim(pid 12416) started [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\buffer\1\temp\simulation_input.sp]
+2025-01-30T22:40:17 spdsim(pid 12416) ended [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\buffer\1\temp\simulation_input.sp]
+2025-01-30T22:44:52 Run Simulation
+2025-01-30T22:44:52 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-30T22:44:52 spdsim(pid 15340) started [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\sparam\2\temp\SParamExtraction.sp]
+2025-01-30T22:44:53 spdsim(pid 15340) ended [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\sparam\2\temp\SParamExtraction.sp]
+2025-01-30T22:44:53 Finish Connectivity Checker
+2025-01-30T22:44:53 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-30T22:44:53 spdsim(pid 4132) started [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\2\Tran_Typ_Typ\temp\simulation_input.sp]
+2025-01-30T22:44:53 spdsim(pid 4132) ended [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\2\Tran_Typ_Typ\temp\simulation_input.sp]
+2025-01-30T22:44:53 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-30T22:44:53 spdsim(pid 9124) started [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\buffer\2\temp\simulation_input.sp]
+2025-01-30T22:44:56 spdsim(pid 9124) ended [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\buffer\2\temp\simulation_input.sp]
+2025-01-30T22:46:34 Run Simulation
+2025-01-30T22:46:34 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-30T22:46:34 spdsim(pid 2808) started [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\sparam\3\temp\SParamExtraction.sp]
+2025-01-30T22:46:34 spdsim(pid 2808) ended [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\sparam\3\temp\SParamExtraction.sp]
+2025-01-30T22:46:34 Finish Connectivity Checker
+2025-01-30T22:46:35 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-30T22:46:35 spdsim(pid 2700) started [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\3\Tran_Typ_Typ\temp\simulation_input.sp]
+2025-01-30T22:46:36 spdsim(pid 2700) ended [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\3\Tran_Typ_Typ\temp\simulation_input.sp]
+2025-01-30T22:48:02 Run Simulation
+2025-01-30T22:48:02 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-30T22:48:02 spdsim(pid 9072) started [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\sparam\4\temp\SParamExtraction.sp]
+2025-01-30T22:48:02 spdsim(pid 9072) ended [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\sparam\4\temp\SParamExtraction.sp]
+2025-01-30T22:48:02 Finish Connectivity Checker
+2025-01-30T22:48:02 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-30T22:48:02 spdsim(pid 16828) started [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\4\Tran_Typ_Typ\temp\simulation_input.sp]
+2025-01-30T22:48:03 spdsim(pid 16828) ended [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\4\Tran_Typ_Typ\temp\simulation_input.sp]
+2025-01-30T22:48:03 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-30T22:48:03 spdsim(pid 4864) started [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\buffer\4\temp\simulation_input.sp]
+2025-01-30T22:48:04 spdsim(pid 4864) ended [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\buffer\4\temp\simulation_input.sp]
+2025-01-30T22:50:01 Run Simulation
+2025-01-30T22:50:01 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-30T22:50:01 spdsim(pid 15284) started [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\sparam\5\temp\SParamExtraction.sp]
+2025-01-30T22:50:01 spdsim(pid 15284) ended [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\sparam\5\temp\SParamExtraction.sp]
+2025-01-30T22:50:01 Finish Connectivity Checker
+2025-01-30T22:50:02 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-30T22:50:02 spdsim(pid 2376) started [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\5\Tran_Typ_Typ\temp\simulation_input.sp]
+2025-01-30T22:50:02 spdsim(pid 2376) ended [D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\5\Tran_Typ_Typ\temp\simulation_input.sp]
+2025-01-30T22:50:42 Select license to proceed ...

@@ -1,0 +1,128 @@
+[IBIS File]	C:\Cadence\SPB_24.1\share\topxp\default_models\pba_ex.ibs
+[Date Modified (IBIS File)]	2018-6-7 2:5:52
+[Signal Name]	A0
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	A1
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	A2
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	A3
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	A4
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	A5
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	A6
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	A7
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	DQ0
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	DQ1
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	DQ2
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	DQ3
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	DQ4
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	DQ5
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	DQ6
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	DQ7
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	DQ8
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	DQ9
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	DQ10
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	DQ11
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	DQ12
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	DQ13
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	DQ14
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	DQ15
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQ34_NO_ODT     1Gbps                NC                   1.29586e-10          NC                   NC                   1.46218e-10          NC                  
+[Signal Name]	CLK0P
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.29704e-10          NC                   NC                   1.44707e-10          NC                  
+[Signal Name]	CLK1P
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.29704e-10          NC                   NC                   1.44707e-10          NC                  
+[Signal Name]	CLK2P
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.29704e-10          NC                   NC                   1.44707e-10          NC                  
+[Signal Name]	CLK3P
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.29704e-10          NC                   NC                   1.44707e-10          NC                  
+[Signal Name]	LDQS
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.29704e-10          NC                   NC                   1.44707e-10          NC                  
+[Signal Name]	UDQS
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.29704e-10          NC                   NC                   1.44707e-10          NC                  
+[Signal Name]	CLK0N
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.29704e-10          NC                   NC                   1.44707e-10          NC                  
+[Signal Name]	CLK1N
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.29704e-10          NC                   NC                   1.44707e-10          NC                  
+[Signal Name]	CLK2N
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.29704e-10          NC                   NC                   1.44707e-10          NC                  
+[Signal Name]	CLK3N
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.29704e-10          NC                   NC                   1.44707e-10          NC                  
+[Signal Name]	LDQS#
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.29704e-10          NC                   NC                   1.44707e-10          NC                  
+[Signal Name]	UDQS#
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.29704e-10          NC                   NC                   1.44707e-10          NC                  
+[Signal Name]	CLK0P-CLK0N
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.37287e-10          NC                   NC                   1.37287e-10          NC                  
+[Signal Name]	CLK1P-CLK1N
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.37287e-10          NC                   NC                   1.37287e-10          NC                  
+[Signal Name]	CLK2P-CLK2N
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.37287e-10          NC                   NC                   1.37287e-10          NC                  
+[Signal Name]	CLK3P-CLK3N
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.37287e-10          NC                   NC                   1.37287e-10          NC                  
+[Signal Name]	LDQS-LDQS#
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.37287e-10          NC                   NC                   1.37287e-10          NC                  
+[Signal Name]	UDQS-UDQS#
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+DDR3_DQS34_NO_ODT    1Gbps                NC                   1.37287e-10          NC                   NC                   1.37287e-10          NC                  

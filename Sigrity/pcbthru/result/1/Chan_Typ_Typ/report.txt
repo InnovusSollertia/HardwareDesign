@@ -1,0 +1,80 @@
+          Channel Report
+
+Thu Jan 30 22:51:57 2025
+
+General:
+
+        Simulation Type                 = Time Domain
+        Data Rate                       =    8 Gbps
+        Number of Bits                  = 144877
+        Number of Eye Bits              = 104777
+        Ignore Bits                     = 40100
+        Channel Coding                  = No
+        Primary Driver                  = tx_pos_neg
+        Data Pattern                    = random
+        Number of Aggressors            = 0
+        Characterization Data           = D:\Projects\HardwareDesign\Sigrity\pcbthru\result\1\Chan_Typ_Typ\channel_tx_pos_neg_rx_rx.cur
+        Delay                           = 4.41134 ns
+        Intra-Pair Skew                 = 4.48273 ps
+
+
+
+Algorithmic Models:
+
+        Rx Models                       = C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll 
+        Primary Tx tx_pos_neg Models    = C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll 
+
+Jitter Inputs:
+
+        Random Jitter                   =  1 %
+
+Noise Inputs:
+
+        Random Noise                    =  1 mV
+
+Eye Contour Measurements:
+
+        Eye Height                      = 155 mV
+        Eye Height Measured at          = 0.5 UI
+        Eye Jitter                      = 0.59 UI
+        Eye Jitter Measured at          = -3 mV
+        Eye Norm Jitter and Noise (NJN) = 0.91 
+        Channel Operating Margin (COM)  = 4.89 dB
+
+Eye Density Signal to Noise Ratio (SNR)  = 33.19 
+
+BER Measurements:
+
+        LBER(log BER)	Eye Width(UI)
+        -16		0.25
+        -15		0.26
+        -14		0.27
+        -13		0.27
+        -12		0.28
+        -11		0.29
+        -10		0.30
+        -9		0.31
+        -8		0.32
+        -7		0.33
+        -6		0.34
+        -5		0.36
+        -4		0.39
+        -3		0.43
+
+mV BER Measurements:
+
+        LBER(log BER)	Eye Height(mV)
+        -16		61
+        -15		62
+        -14		64
+        -13		66
+        -12		68
+        -11		71
+        -10		73
+        -9		75
+        -8		78
+        -7		83
+        -6		102
+        -5		121
+        -4		144
+        -3		174

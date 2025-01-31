@@ -27,15 +27,11 @@
   (PartMRUSelector)
   (GlobalState
     (FileView
-      (Path "Design Resources")
-      (Path "Design Resources" "D:\Projects\HardwareDesign\WZ900\wz900.dsn")
-      (Path "Design Resources" "D:\Projects\HardwareDesign\WZ900\wz900.dsn"
-         "DEV0")
-      (Select "Design Resources" "D:\Projects\HardwareDesign\WZ900\wz900.dsn"
-         "DEV0"))
+      (Path "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 265 0 518"))
-      (Tab 0))))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 518"))
+      (Tab 0)))
+  (MPSSessionName "Prometheus"))

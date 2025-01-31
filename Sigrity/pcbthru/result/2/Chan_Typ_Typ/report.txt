@@ -1,0 +1,251 @@
+          Channel Report
+
+Thu Jan 30 23:36:12 2025
+
+General:
+
+        Simulation Type                 = Time Domain
+        Modulation                      = PAM 8
+        Baud Rate                       = 2.6666 Gbps
+        Data Rate                       = 10.6667 Gbps
+        Number of Bits                  = 143921
+        Number of Eye Bits              = 103821
+        Ignore Bits                     = 40100
+        Channel Coding                  = No
+        Primary Driver                  = tx_pos_neg
+        Data Pattern                    = random
+        Number of Aggressors            = 0
+        Characterization Data           = D:\Projects\HardwareDesign\Sigrity\pcbthru\result\2\Chan_Typ_Typ\channel_tx_pos_neg_rx_rx.cur
+        Delay                           = 4.41134 ns
+        Intra-Pair Skew                 = 4.48273 ps
+
+
+
+Algorithmic Models:
+
+        Rx Models                       = C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll 
+        Primary Tx tx_pos_neg Models    = C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll 
+
+Jitter Inputs:
+
+        Random Jitter                   =  1 %
+
+Noise Inputs:
+
+        Random Noise                    =  1 mV
+
+Eye Contour Measurements:
+
+        Eye Height                      = 0 mV
+        Eye Jitter                      =  1 UI
+        Eye Norm Jitter and Noise (NJN) =  1 
+        Channel Operating Margin (COM)  =  0 dB
+
+Eye Density Signal to Noise Ratio (SNR)  = 3.47 
+
+BER Measurements:
+
+        LBER(log BER)	Eye Width(UI)
+
+mV BER Measurements:
+
+        LBER(log BER)	Eye Height(mV)
+
+
+                        ******* pam0 *******
+
+Eye Contour Measurements:
+
+        Eye Height                      = 0 mV
+        Eye Jitter                      =  1 UI
+        Eye Norm Jitter and Noise (NJN) =  1 
+        Channel Operating Margin (COM)  =  0 dB
+
+Eye Density Signal to Noise Ratio (SNR)  = 4.48 
+
+BER Measurements:
+
+        LBER(log BER)	Eye Width(UI)
+
+mV BER Measurements:
+
+        LBER(log BER)	Eye Height(mV)
+
+
+                        ******* pam1 *******
+
+Eye Contour Measurements:
+
+        Eye Height                      = 0 mV
+        Eye Jitter                      =  1 UI
+        Eye Norm Jitter and Noise (NJN) =  1 
+        Channel Operating Margin (COM)  =  0 dB
+
+Eye Density Signal to Noise Ratio (SNR)  = 0.24 
+
+BER Measurements:
+
+        LBER(log BER)	Eye Width(UI)
+
+mV BER Measurements:
+
+        LBER(log BER)	Eye Height(mV)
+
+
+                        ******* pam2 *******
+
+Eye Contour Measurements:
+
+        Eye Height                      = 0 mV
+        Eye Jitter                      =  1 UI
+        Eye Norm Jitter and Noise (NJN) = 0.08 
+        Channel Operating Margin (COM)  =  0 dB
+
+Eye Density Signal to Noise Ratio (SNR)  = 1.00 
+
+BER Measurements:
+
+        LBER(log BER)	Eye Width(UI)
+        -7		 0
+        -6		0.27
+        -5		0.47
+        -4		0.56
+        -3		0.79
+
+mV BER Measurements:
+
+        LBER(log BER)	Eye Height(mV)
+        -10		0
+        -9		0
+        -8		0
+        -7		0
+        -6		0
+        -5		0
+        -4		0
+        -3		0
+
+
+                        ******* pam3 *******
+
+Eye Contour Measurements:
+
+        Eye Height                      = 0 mV
+        Eye Jitter                      =  1 UI
+        Eye Norm Jitter and Noise (NJN) = -0.17 
+        Channel Operating Margin (COM)  = 1e+20 dB
+
+Eye Density Signal to Noise Ratio (SNR)  = 0 
+
+BER Measurements:
+
+        LBER(log BER)	Eye Width(UI)
+        -16		0.79
+        -15		0.80
+        -14		0.80
+        -13		0.81
+        -12		0.82
+        -11		0.83
+        -10		0.84
+        -9		0.84
+        -8		0.85
+        -7		0.86
+        -6		0.87
+        -5		0.88
+        -4		0.89
+        -3		0.91
+
+mV BER Measurements:
+
+        LBER(log BER)	Eye Height(mV)
+        -16		152
+        -15		156
+        -14		159
+        -13		164
+        -12		168
+        -11		172
+        -10		177
+        -9		182
+        -8		187
+        -7		192
+        -6		197
+        -5		201
+        -4		205
+        -3		208
+
+
+                        ******* pam4 *******
+
+Eye Contour Measurements:
+
+        Eye Height                      = 0 mV
+        Eye Jitter                      =  1 UI
+        Eye Norm Jitter and Noise (NJN) = -0.07 
+        Channel Operating Margin (COM)  =  0 dB
+
+Eye Density Signal to Noise Ratio (SNR)  = 501.41 
+
+BER Measurements:
+
+        LBER(log BER)	Eye Width(UI)
+        -16		0.40
+        -15		0.41
+        -14		0.42
+        -13		0.43
+        -12		0.44
+        -11		0.45
+        -10		0.47
+        -9		0.48
+        -8		0.49
+        -7		0.51
+        -6		0.53
+        -5		0.55
+        -4		0.62
+        -3		0.90
+
+mV BER Measurements:
+
+        LBER(log BER)	Eye Height(mV)
+        -5		0
+        -4		0
+        -3		0
+
+
+                        ******* pam5 *******
+
+Eye Contour Measurements:
+
+        Eye Height                      = 0 mV
+        Eye Jitter                      =  1 UI
+        Eye Norm Jitter and Noise (NJN) =  1 
+        Channel Operating Margin (COM)  =  0 dB
+
+Eye Density Signal to Noise Ratio (SNR)  = 31.09 
+
+BER Measurements:
+
+        LBER(log BER)	Eye Width(UI)
+        -3		 0
+
+mV BER Measurements:
+
+        LBER(log BER)	Eye Height(mV)
+
+
+                        ******* pam6 *******
+
+Eye Contour Measurements:
+
+        Eye Height                      = 0 mV
+        Eye Jitter                      =  1 UI
+        Eye Norm Jitter and Noise (NJN) =  1 
+        Channel Operating Margin (COM)  =  0 dB
+
+Eye Density Signal to Noise Ratio (SNR)  = 1.70 
+
+BER Measurements:
+
+        LBER(log BER)	Eye Width(UI)
+
+mV BER Measurements:
+
+        LBER(log BER)	Eye Height(mV)

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<SParamExtractionResult SimulationName = "2\IC7_a1" Project = "D:/Projects/HardwareDesign/Sigrity/ac_multi_ic/ac_multi_ic.topx" resultFile = "S_para_S.s1p" isDiffMode = "0">
+<SimulationResult Comment = "" >
+</SimulationResult>
+<Identity>
+<File CRC32 = "1926553860"/>
+<File CRC32 = "143973993"/>
+<File CRC32 = "3491910366"/>
+<File CRC32 = "196199922"/>
+<File CRC32 = "918621835"/>
+<File CRC32 = "2009777471"/>
+<File CRC32 = "3033962979"/>
+<File CRC32 = "4124922455"/>
+<File CRC32 = "4216395748"/>
+<File CRC32 = "3126516816"/>
+<File CRC32 = "2034663564"/>
+<File CRC32 = "944589624"/>
+</Identity>
+</SParamExtractionResult>

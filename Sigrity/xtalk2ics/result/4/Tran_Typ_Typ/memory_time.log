@@ -1,0 +1,22 @@
+The log file is created on Thu Jan 30 22:48:02 2025
+
+[Computer Name]     DESKTOP-D851ENJ
+
+[Operating System]  Microsoft Windows (newer OS) [Version ] 
+
+[SPEED Simulator]   SPDSIM2000 version 24.0.0.05151.504415   000
+
+[SPEED File]        D:\Projects\HardwareDesign\Sigrity\xtalk2ics\result\4\Tran_Typ_Typ\temp\simulation_input.sp
+
+
+
+[Time Steps]	[Mem Usage (M bytes)]	[Free Memory (M bytes)]	[Total CPU Time (hour:min:sec)]	[FDTD solver CPU Time (hour:min:sec)]	[Circuit solver CPU Time (hour:min:sec)]	[Peak Mem Usage (M bytes)]	[VM Size (M bytes)]
+
+1		21.4023			14563.4			0: 0: 0			0: 0: 0					0: 0: 0					21.4062				139.332
+
+1000		22.082			14564.3			0: 0: 0			0: 0: 0			0: 0: 0			22.0859			139.535
+
+2000		22.2578			14564.4			0: 0: 0			0: 0: 0			0: 0: 0			22.2617			139.707
+
+3000		22.4258			14565.3			0: 0: 0			0: 0: 0			0: 0: 0			22.4297			139.875
+

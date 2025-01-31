@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ChannelSimulationResult SimulationName = "2\Chan_Typ_Typ" Project = "D:/Projects/HardwareDesign/Sigrity/pcbthru/pcbthru.topx" FilePattern = "%s" TaskFolder = ".." CurrentLBER = "">
+<SimulationResult Comment = "" >
+</SimulationResult>
+<ChannelSimulationSetting DataRate = "2.6666e+09">
+<ChannelSimulationSetting isWrite = "1" vrmVoltages = "0.000000" stimulusOffsetAdjustment = "0" >
+<DeviceBlock Block = "tx" IsTx = "1" IBISFile = "" IBISComponent = "" OnDieMode = "0" PkgMode = "0" PkgModeName = "" />
+<DeviceBlock Block = "rx" IsTx = "0" IBISFile = "" IBISComponent = "" OnDieMode = "0" PkgMode = "0" PkgModeName = "" />
+<DeviceSignalSetting DeviceBlock = "tx" >
+<SignalSetting signal = "pos" pin = "pos" powerSignal = "" groudSignal = "" dataRate = "8e+09" stimulusPatternType = "Random" stimulusPatternData = "1" stimulusPattern = "1" stimulusPatternSeed = "1" stimulusPatternAllZero = "0" stimulusPatternAllOne = "0" isStimulusOffsetOnTheFly = "0" stimulusOffset = "0" stimulusOffsetType = "Default" transmitModel = "tx_differential" receiveModel = "" transmitModelType = "-1" receiveModelType = "-1" transmitModelPolarityInverting = "0" transmitModePullupVoltage = "0" receiveModePullupVoltage = "0" riseBufferDelay = "0" fallBufferDelay = "0" isSelected = "1" isConnected = "1" dataRate = "8e+09" baudRate = "2.66667e+09" leadingBits = "" signaling = "PAM 8" type = "0" achi = "6.95187e-310" aclo = "6.95187e-310" dchi = "2.03604e-320" dclo = "1.21277e-311" acThreshold = "6.95187e-310" dcThreshold = "1.27963e-321" isIBISModel = "0" >
+<TxJitterNoise JitterPeriodicChecked = "0" JitterFreqOffsetChecked = "0" JitterPeriodicFreq = "60" JitterPeriodicAmplitude = "5" JitterFreqOffset = "100" JitterTransitionChecked = "0" JitterTransition = "0.5" JitterTransitionDjChecked = "0" JitterTransitionDj = "0.5" JitterDCDChecked = "0" JitterDCD = "0.5" NoisePeriodicChecked = "0" NoiseFreq = "60" NoiseAmpitude = "1" NoiseTransitionChecked = "0" NoiseTransition = "1" />
+<RxJitterNoise JitterRandomChecked = "1" JitterRandom = "1" JitterDJChecked = "0" JitterDJ = "0.5" NoiseRandomChecked = "1" NoiseRandom = "1" NoiseDNChecked = "0" NoiseDN = "1" />
+</SignalSetting>
+<SignalSetting signal = "neg" pin = "neg" powerSignal = "" groudSignal = "" dataRate = "8e+09" stimulusPatternType = "Random" stimulusPatternData = "1" stimulusPattern = "1" stimulusPatternSeed = "1" stimulusPatternAllZero = "0" stimulusPatternAllOne = "0" isStimulusOffsetOnTheFly = "0" stimulusOffset = "0" stimulusOffsetType = "Default" transmitModel = "tx_differential" receiveModel = "" transmitModelType = "-1" receiveModelType = "-1" transmitModelPolarityInverting = "0" transmitModePullupVoltage = "0" receiveModePullupVoltage = "0" riseBufferDelay = "0" fallBufferDelay = "0" isSelected = "1" isConnected = "1" dataRate = "8e+09" baudRate = "2.66667e+09" leadingBits = "" signaling = "PAM 8" type = "0" achi = "6.95187e-310" aclo = "6.95187e-310" dchi = "2.03604e-320" dclo = "1.21277e-311" acThreshold = "6.95187e-310" dcThreshold = "1.27963e-321" isIBISModel = "0" >
+<TxJitterNoise JitterPeriodicChecked = "0" JitterFreqOffsetChecked = "0" JitterPeriodicFreq = "60" JitterPeriodicAmplitude = "5" JitterFreqOffset = "100" JitterTransitionChecked = "0" JitterTransition = "0.5" JitterTransitionDjChecked = "0" JitterTransitionDj = "0.5" JitterDCDChecked = "0" JitterDCD = "0.5" NoisePeriodicChecked = "0" NoiseFreq = "60" NoiseAmpitude = "1" NoiseTransitionChecked = "0" NoiseTransition = "1" />
+<RxJitterNoise JitterRandomChecked = "1" JitterRandom = "1" JitterDJChecked = "0" JitterDJ = "0.5" NoiseRandomChecked = "1" NoiseRandom = "1" NoiseDNChecked = "0" NoiseDN = "1" />
+</SignalSetting>
+</DeviceSignalSetting>
+<DeviceSignalSetting DeviceBlock = "rx" >
+<SignalSetting signal = "pos" pin = "pos" powerSignal = "" groudSignal = "" dataRate = "1e+09" stimulusPatternType = "Bit" stimulusPatternData = "10101010.." stimulusPattern = "10101010.." stimulusPatternSeed = "" stimulusPatternAllZero = "0" stimulusPatternAllOne = "0" isStimulusOffsetOnTheFly = "0" stimulusOffset = "0" stimulusOffsetType = "Default" transmitModel = "" receiveModel = "rx_differential" transmitModelType = "-1" receiveModelType = "-1" transmitModelPolarityInverting = "0" transmitModePullupVoltage = "0" receiveModePullupVoltage = "0" riseBufferDelay = "0" fallBufferDelay = "0" isSelected = "1" isConnected = "1" dataRate = "1e+09" baudRate = "3.33333e+08" leadingBits = "" signaling = "PAM 8" type = "0" achi = "6.95187e-310" aclo = "6.95187e-310" dchi = "2.03604e-320" dclo = "1.21277e-311" acThreshold = "6.95187e-310" dcThreshold = "1.27963e-321" isIBISModel = "0" >
+<TxJitterNoise JitterPeriodicChecked = "0" JitterFreqOffsetChecked = "0" JitterPeriodicFreq = "60" JitterPeriodicAmplitude = "5" JitterFreqOffset = "100" JitterTransitionChecked = "0" JitterTransition = "0.5" JitterTransitionDjChecked = "0" JitterTransitionDj = "0.5" JitterDCDChecked = "0" JitterDCD = "0.5" NoisePeriodicChecked = "0" NoiseFreq = "60" NoiseAmpitude = "1" NoiseTransitionChecked = "0" NoiseTransition = "1" />
+<RxJitterNoise JitterRandomChecked = "1" JitterRandom = "1" JitterDJChecked = "0" JitterDJ = "0.5" NoiseRandomChecked = "1" NoiseRandom = "1" NoiseDNChecked = "0" NoiseDN = "1" />
+</SignalSetting>
+<SignalSetting signal = "neg" pin = "neg" powerSignal = "" groudSignal = "" dataRate = "1e+09" stimulusPatternType = "Bit" stimulusPatternData = "01010101.." stimulusPattern = "01010101.." stimulusPatternSeed = "" stimulusPatternAllZero = "0" stimulusPatternAllOne = "0" isStimulusOffsetOnTheFly = "0" stimulusOffset = "0" stimulusOffsetType = "Default" transmitModel = "" receiveModel = "rx_differential" transmitModelType = "-1" receiveModelType = "-1" transmitModelPolarityInverting = "0" transmitModePullupVoltage = "0" receiveModePullupVoltage = "0" riseBufferDelay = "0" fallBufferDelay = "0" isSelected = "1" isConnected = "1" dataRate = "1e+09" baudRate = "3.33333e+08" leadingBits = "" signaling = "PAM 8" type = "0" achi = "6.95187e-310" aclo = "6.95187e-310" dchi = "2.03604e-320" dclo = "1.21277e-311" acThreshold = "6.95187e-310" dcThreshold = "1.27963e-321" isIBISModel = "0" >
+<TxJitterNoise JitterPeriodicChecked = "0" JitterFreqOffsetChecked = "0" JitterPeriodicFreq = "60" JitterPeriodicAmplitude = "5" JitterFreqOffset = "100" JitterTransitionChecked = "0" JitterTransition = "0.5" JitterTransitionDjChecked = "0" JitterTransitionDj = "0.5" JitterDCDChecked = "0" JitterDCD = "0.5" NoisePeriodicChecked = "0" NoiseFreq = "60" NoiseAmpitude = "1" NoiseTransitionChecked = "0" NoiseTransition = "1" />
+<RxJitterNoise JitterRandomChecked = "1" JitterRandom = "1" JitterDJChecked = "0" JitterDJ = "0.5" NoiseRandomChecked = "1" NoiseRandom = "1" NoiseDNChecked = "0" NoiseDN = "1" />
+</SignalSetting>
+</DeviceSignalSetting>
+<CharacterizationSetting TxCorner = "Typ" RxCorner = "Typ" >
+<ChannelSetting >
+<Channel >
+<Tx >
+<Terminal Block = "tx" PosPin = "pos" NegPin = "neg" PosSignal = "pos" NegSignal = "neg" />
+</Tx>
+<Rx >
+<Terminal Block = "rx" PosPin = "pos" NegPin = "neg" PosSignal = "pos" NegSignal = "neg" />
+</Rx>
+</Channel>
+</ChannelSetting>
+<ProbePointSetting >
+<ProbePoint Component = "rx" ComponentType = "1" BusName = "" PosNodeName = "rxnode" PosNodeNet = "Signal1" NegNodeName = "ngnd" NegNodeNet = "GND" PosSignal = "pos" NegSignal = "neg" PosPin = "pos" NegPin = "neg" CustomName = "" Flag = "50" BufferDelay = "inf" IsDefVRef = "1" VRef = "0" Vddq = "1" DefVddq = "1" />
+<ProbePoint Component = "rx" ComponentType = "1" BusName = "" PosNodeName = "pos" PosNodeNet = "pos" NegNodeName = "ngnd" NegNodeNet = "GND" PosSignal = "pos" NegSignal = "neg" PosPin = "pos" NegPin = "neg" CustomName = "" Flag = "4" BufferDelay = "inf" IsDefVRef = "1" VRef = "0" Vddq = "1" DefVddq = "1" />
+<ProbePoint Component = "rx" ComponentType = "1" BusName = "" PosNodeName = "neg" PosNodeNet = "neg" NegNodeName = "ngnd" NegNodeNet = "GND" PosSignal = "pos" NegSignal = "neg" PosPin = "pos" NegPin = "neg" CustomName = "" Flag = "8" BufferDelay = "inf" IsDefVRef = "1" VRef = "0" Vddq = "1" DefVddq = "1" />
+</ProbePointSetting>
+<SimulationIdentity >
+<Identity>
+<File CRC32 = "1325032231"/>
+<File CRC32 = "254728889"/>
+<File CRC32 = "249131477"/>
+<File CRC32 = "1771767560"/>
+<File CRC32 = "1822709207"/>
+<File CRC32 = "1289951217"/>
+<File CRC32 = "3178612992"/>
+</Identity>
+</SimulationIdentity>
+</CharacterizationSetting>
+<ChannelSimulationSetting ProbeIndex = "0" ResultFilePattern = "%s" IsDebug = "0" IsStatisticalMode = "0" IsBEREye = "0" IsTxRxJitterNoiseOff = "0" IsWin32 = "0" InvertStimulus = "0" TimeScaleLBERs = "" VoltageScaleLBERs = "" BothLBERs = "" DateRate = "2.66667e+09" Wavecnt = "1000" WaveDisplayFirstOrLast = "0" ResultPreservedTime = "inf" IncludeAllChannelForMeasurementXTalk = "0" lber = "" >
+<ChannelOptions Option = "vres 128" />
+<JTOptions TargetBER = "1e-15" MaskFile="share\topxp\ComplianceKits\jitter_tol\mask\jtolmask.txt"/>
+</ChannelSimulationSetting>
+<BlockModelInfo>
+<BlockModel BlockName = "pcb" ModelFile = "C:\Cadence\SPB_24.1\share\topxp\SerialLink\pcb_thru\chan_xaui4.sp" />
+<BlockModel BlockName = "txpkg" ModelFile = "C:\Cadence\SPB_24.1\share\topxp\SerialLink\pcb_thru\tx_pkg.sp" />
+<BlockModel BlockName = "rxpkg" ModelFile = "C:\Cadence\SPB_24.1\share\topxp\SerialLink\pcb_thru\rx_pkg.sp" />
+</BlockModelInfo>
+<SimulatorSetting >
+<SimulatorOption SimulatorName = "spdsim" AdaptiveTimeStep = "0" Version = "1">* Add global .option and .include commands here._br_* They'll be used for time domain characterization._br_* .option delmax=10p</SimulatorOption>
+<ChannelSimulatorOption OS="Windows 64 Bit" Version ="1">$DEFAULT_OPTION</ChannelSimulatorOption>
+<CharacterizationSetting Duration = "30" Delay = "0" Vmeas = "" BusStepStimulus = "1" SeedControl = "0" />
+<SpectreSimulatorOptions>
+<SpectreOption name = "SpectreOptions" >
+<SpectreOption name = "SpectreHighPerformanceOptions" >
+<SpectreOption name = "PerformanceMode" value = "Spectre" />
+<SpectreOption name = "SpectreOptions" >
+<SpectreOption name = "ErrorPreset" value = "conservative" />
+</SpectreOption>
+<SpectreOption name = "APSOptions" >
+<SpectreOption name = "useAPS" value = "0" />
+<SpectreOption name = "MultiThreading" value = "Auto" />
+<SpectreOption name = "threadsNo" value = "" />
+<SpectreOption name = "procAffinity" value = "" />
+</SpectreOption>
+</SpectreOption>
+<SpectreOption name = "SpectreSimulatorOptions" >
+<SpectreOption name = "MainOptions" >
+<SpectreOption name = "reltol" value = "1e-3" />
+<SpectreOption name = "residualtol" value = "" />
+<SpectreOption name = "vabstol" value = "1e-6" />
+<SpectreOption name = "iabstol" value = "1e-12" />
+<SpectreOption name = "temp" value = "27" />
+</SpectreOption>
+<SpectreOption name = "AlgorithmOptions" >
+<SpectreOption name = "homotopy" value = "" />
+<SpectreOption name = "limit" value = "" />
+<SpectreOption name = "gmethod" value = "" />
+<SpectreOption name = "dptran_gmethod" value = "" />
+<SpectreOption name = "try_fast_op" value = "" />
+<SpectreOption name = "convdbg" value = "" />
+<SpectreOption name = "nonconv_topnum" value = "" />
+<SpectreOption name = "gmin" value = "1e-12" />
+<SpectreOption name = "gmin_check" value = "" />
+<SpectreOption name = "gmindc" value = "" />
+<SpectreOption name = "rforce" value = "1" />
+<SpectreOption name = "pivotdc" value = "" />
+<SpectreOption name = "dc_pivot_check" value = "" />
+<SpectreOption name = "pivrel" value = "1e-3" />
+<SpectreOption name = "pivabs" value = "" />
+<SpectreOption name = "preorder" value = "" />
+<SpectreOption name = "rebuild_matrix" value = "" />
+</SpectreOption>
+<SpectreOption name = "ComponentOptions" >
+<SpectreOption name = "scalem" value = "1.0" />
+<SpectreOption name = "scale" value = "1.0" />
+<SpectreOption name = "scalefactor" value = "" />
+<SpectreOption name = "approx" value = "" />
+<SpectreOption name = "macromodels" value = "" />
+<SpectreOption name = "maxrsd" value = "" />
+<SpectreOption name = "auto_minductor" value = "" />
+<SpectreOption name = "minr" value = "" />
+</SpectreOption>
+<SpectreOption name = "CheckOptions" >
+<SpectreOption name = "topcheck" value = "" />
+<SpectreOption name = "iccapcheck" value = "" />
+<SpectreOption name = "ignshorts" value = "" />
+<SpectreOption name = "diagnose" value = "" />
+<SpectreOption name = "dochecklimit" value = "" />
+<SpectreOption name = "checklimitfile" value = "" />
+<SpectreOption name = "checklimitdest" value = "psf" />
+<SpectreOption name = "checklimit_skip_subs" value = "" />
+<SpectreOption name = "checklimit_skip_file" value = "" />
+<SpectreOption name = "opptcheck" value = "" />
+</SpectreOption>
+<SpectreOption name = "AnnotationOptions" >
+<SpectreOption name = "audit" value = "" />
+<SpectreOption name = "inventory" value = "" />
+<SpectreOption name = "narrate" value = "" />
+<SpectreOption name = "debug" value = "" />
+<SpectreOption name = "info" value = "" />
+<SpectreOption name = "note" value = "" />
+<SpectreOption name = "maxnotes" value = "5" />
+<SpectreOption name = "warn" value = "" />
+<SpectreOption name = "maxwarns" value = "5" />
+<SpectreOption name = "maxwarnstologfile" value = "" />
+<SpectreOption name = "maxnotestologfile" value = "" />
+<SpectreOption name = "error" value = "" />
+<SpectreOption name = "printstep" value = "" />
+<SpectreOption name = "digits" value = "5" />
+<SpectreOption name = "notation" value = "" />
+<SpectreOption name = "cols" value = "80" />
+<SpectreOption name = "colslog" value = "" />
+<SpectreOption name = "title" value = "" />
+</SpectreOption>
+<SpectreOption name = "MiscOptions" >
+<SpectreOption name = "value" value = "" />
+<SpectreOption name = "flow" value = "" />
+<SpectreOption name = "quantities" value = "" />
+<SpectreOption name = "additional_arguments" value = "" />
+</SpectreOption>
+</SpectreOption>
+<SpectreOption name = "AnalysisOptions" >
+<SpectreOption name = "BasicOptions" >
+<SpectreOption name = "errpreset" value = "" />
+</SpectreOption>
+<SpectreOption name = "SpectreTransientOptions" >
+<SpectreOption name = "TimeStepOptions" >
+<SpectreOption name = "step" value = "" />
+<SpectreOption name = "maxstep" value = "" />
+<SpectreOption name = "minstep" value = "" />
+</SpectreOption>
+<SpectreOption name = "AlgorithmOptions" >
+<SpectreOption name = "method" value = "" />
+<SpectreOption name = "maxiters" value = "5" />
+<SpectreOption name = "restart" value = "" />
+<SpectreOption name = "relref" value = "" />
+<SpectreOption name = "lteratio" value = "" />
+</SpectreOption>
+<SpectreOption name = "MiscOptions" >
+<SpectreOption name = "annotate" value = "status" />
+<SpectreOption name = "emirstop" value = "" />
+</SpectreOption>
+</SpectreOption>
+<SpectreOption name = "SpectreDcOptions" >
+<SpectreOption name = "force" value = "" />
+<SpectreOption name = "save_op_in_final" value = "0" />
+<SpectreOption name = "readns" value = "" />
+<SpectreOption name = "readforce" value = "" />
+<SpectreOption name = "writefinal" value = "" />
+<SpectreOption name = "homotopy" value = "" />
+<SpectreOption name = "restart" value = "" />
+<SpectreOption name = "maxiters" value = "150" />
+<SpectreOption name = "maxsteps" value = "10000" />
+<SpectreOption name = "annotate" value = "" />
+<SpectreOption name = "additionalParams" value = "" />
+</SpectreOption>
+</SpectreOption>
+</SpectreOption>
+</SpectreSimulatorOptions>
+</SimulatorSetting>
+<ChannelAnalysisOption>
+<EyeDistribution Method = "0"/>
+<BEREyes TimeScaleChecked = "0" VoltageScaleChecked = "0" BothChecked = "0" LBERs = "-12" />
+<XTalkModel  mode = "-1" />
+<SimulationSetting bitNum = "100000" bitNumDisplay = "" bitNumDisplayFirstOrLast = "" ignoreTime = "200" ignoreTimeUnit = "0" bitSamplingRate = "32" IsBerFloorChecked = "0" berFloor = "" signalingType = "PAM 8" />
+<ChSimAnalMode mode = "0" />
+</ChannelAnalysisOption>
+<CharacterizationOption StimulusTypeName = "Ramp" StimulusType = "0" prbs_poly = "7" prbs_numOfBits = "128" prbs_seed = "0" prbs_option = "0" isCaptureXtalkEnabled = "0" />
+</ChannelSimulationSetting>
+</ChannelSimulationSetting>
+<CharacterizationResult>
+<ChannelTxFile>channel_tx_pos_neg_rx_tx.cur</ChannelTxFile>
+<ChannelRxFile>channel_tx_pos_neg_rx_rx.cur</ChannelRxFile>
+<ChannelRxFile>channel_tx_pos_neg_rx_rx_rx[pos,ngnd].cur</ChannelRxFile>
+<ChannelRxFile>channel_tx_pos_neg_rx_rx_rx[neg,ngnd].cur</ChannelRxFile>
+</CharacterizationResult>
+<DdrReportSetting WaveformLocation = "Die Pad" startingTime = "0" endingTime = "inf" rangeUnit = "2" SetupDeratingTableFile = "" HoldDeratingTableFile = "" EyeTrigger = "0" EyeAperture = "0" minTacWidthPercent = "50" offset = "" ExtrapolationMethod = "Nearest" PerformDeratingForDataRead = "0" tdDataReadExport = "0" IsWorstCaseSummaryOnly = "1" >
+<Threshold title = "Default" ac = "0.175" dc = "0.1" DiffAC = "0.35" DiffDC = "0.2" DDRType = "Default" />
+<CustomReportSetting >
+<Setting MeasType = "BER" >
+<Option Name = "Composite" IsChecked = "1" />
+<Option Name = "Eye 0" IsChecked = "1" />
+<Option Name = "Eye 1" IsChecked = "1" />
+<Option Name = "Eye 2" IsChecked = "1" />
+<Option Name = "Eye 3" IsChecked = "1" />
+<Option Name = "Eye 4" IsChecked = "1" />
+<Option Name = "Eye 5" IsChecked = "1" />
+<Option Name = "Eye 6" IsChecked = "1" />
+</Setting>
+</CustomReportSetting>
+<HTMLReport title = "" subTitle = "" desc = "" />
+<MeasurementType index = "0" enable = "1" />
+<MeasurementType index = "1" enable = "1" />
+<MeasurementType index = "2" enable = "1" />
+<MeasurementType index = "3" enable = "1" />
+<MeasurementType index = "4" enable = "1" />
+<MeasurementType index = "5" enable = "1" />
+<MeasurementType index = "6" enable = "1" />
+<MeasurementType index = "7" enable = "1" />
+<MeasurementType index = "8" enable = "1" />
+<MeasurementType index = "9" enable = "1" />
+<MeasurementType index = "10" enable = "1" />
+<MeasurementType index = "11" enable = "1" />
+<MeasurementType index = "12" enable = "1" />
+<MeasurementType index = "13" enable = "1" />
+<MeasurementType index = "14" enable = "1" />
+<MeasurementType index = "15" enable = "1" />
+<MeasurementType index = "16" enable = "1" />
+<MeasurementType index = "17" enable = "1" />
+<MeasurementType index = "18" enable = "1" />
+<MeasurementType index = "19" enable = "1" />
+<MeasurementType index = "20" enable = "1" />
+<MeasurementType index = "21" enable = "1" />
+<MeasurementType index = "22" enable = "1" />
+<MeasurementType index = "23" enable = "1" />
+<MeasurementType index = "24" enable = "1" />
+<MeasurementType index = "25" enable = "1" />
+<Specs strobeAdjustmentResolution = "0.02" >
+<ControllerTimingSpec >
+<TimingSpec MinTransmitSetup = "" MinTransmitHold = "" MinReceiveSetup = "" MinReceiveHold = "" MaxReceiveSkewPlus = "" MaxReceiveSkewMinus = "" MinStrobeSetup = "" MinStrobeHold = "" MaxStrobeClockSkewPlus = "" MaxStrobeClockSkewMinus = "" tDQSQ = "" tQH = "" />
+</ControllerTimingSpec>
+<MemoryTimingSpec >
+<TimingSpec MinTransmitSetup = "" MinTransmitHold = "" MinReceiveSetup = "" MinReceiveHold = "" MaxReceiveSkewPlus = "" MaxReceiveSkewMinus = "" MinStrobeSetup = "" MinStrobeHold = "" MaxStrobeClockSkewPlus = "" MaxStrobeClockSkewMinus = "" tDQSQ = "" tQH = "" />
+</MemoryTimingSpec>
+<DQMaskSpec VdIVW = "" VdIVW2 = "" TdIVW = "" TdIVW2 = "" MintDQS2DQ = "" MaxtDQS2DQ = "" MaxtDQ2DQ = "" MinVIHL_AC = "" MinTdIPW = "" MinTdIHL = "" MinSlewRate_Mask = "" MaxSlewRate_Mask = "" MinSlewRate_AC_Swing = "" MaxSlewRate_AC_Swing = "" MaskType = "" />
+<DQVrefSpec Vref_max = "" Vref_min = "" Vref_step = "" Vref_set_tol = "" />
+</Specs>
+</DdrReportSetting>
+<FrequencyResponseResult>
+<FrequencyResponseSetting MaxFrequency = "1" NumOfFreqPoint = "128"/>
+<PinMappingResult>
+<PinMapping RxBlock = "rx" RxSignal = "pos" RxPin = "pos" TxBlock = "tx" TxSignal = "pos" TxPin = "pos" Magnitude = "0.732777" />
+<PinMapping RxBlock = "rx" RxSignal = "neg" RxPin = "neg" TxBlock = "tx" TxSignal = "neg" TxPin = "neg" Magnitude = "0.732777" />
+</PinMappingResult></FrequencyResponseResult>
+<SweepSetting sweepIndex = "-1">
+<SweepParamList >
+<SweepItem LongName = "Corner" ParameterValue = "Typ" ParameterDisplayValue = "Typ" DisplayName = "Corner" />
+</SweepParamList>
+</SweepSetting>
+<MeasurementSummary >
+<WorstCase type = "" title = "Min BER Eye Width (Composite) (UI)" shortTitle = "BEREyeWidth_Composite" value = "" optValue = "0" />
+<WorstCase type = "" title = "Min BER Eye Height (Composite) (mV)" shortTitle = "BEREyeHeight_Composite" value = "" optValue = "0" />
+<WorstCase type = "" title = "Min Eye Contour Width (Composite) (UI)" shortTitle = "EyeContourWidth_Composite" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Min Eye Contour Height (Composite) (mV)" shortTitle = "EyeContourHeight_Composite" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Max Eye Contour Jitter (Composite) (UI)" shortTitle = "EyeContourJitter_Composite" value = "1" optValue = "1" />
+<WorstCase type = "" title = "Max Eye Contour NJN (Composite)" shortTitle = "EyeContourNJN_Composite" value = "1" optValue = "1" />
+<WorstCase type = "" title = "Min COM (dB) (Composite)" shortTitle = "COM_Composite" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Min SNR (Composite)" shortTitle = "SNR_Composite" value = "3.47" optValue = "3.47" />
+<WorstCase type = "" title = "Min BER Eye Width (Eye 0) (UI)" shortTitle = "BEREyeWidth_Eye0" value = "" optValue = "0" />
+<WorstCase type = "" title = "Min BER Eye Height (Eye 0) (mV)" shortTitle = "BEREyeHeight_Eye0" value = "" optValue = "0" />
+<WorstCase type = "" title = "Min Eye Contour Width (Eye 0) (UI)" shortTitle = "EyeContourWidth_Eye0" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Min Eye Contour Height (Eye 0) (mV)" shortTitle = "EyeContourHeight_Eye0" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Max Eye Contour Jitter (Eye 0) (UI)" shortTitle = "EyeContourJitter_Eye0" value = "1" optValue = "1" />
+<WorstCase type = "" title = "Max Eye Contour NJN (Eye 0)" shortTitle = "EyeContourNJN_Eye0" value = "1" optValue = "1" />
+<WorstCase type = "" title = "Min COM (dB) (Eye 0)" shortTitle = "COM_Eye0" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Min SNR (Eye 0)" shortTitle = "SNR_Eye0" value = "4.48" optValue = "4.48" />
+<WorstCase type = "" title = "Min BER Eye Width (Eye 1) (UI)" shortTitle = "BEREyeWidth_Eye1" value = "" optValue = "0" />
+<WorstCase type = "" title = "Min BER Eye Height (Eye 1) (mV)" shortTitle = "BEREyeHeight_Eye1" value = "" optValue = "0" />
+<WorstCase type = "" title = "Min Eye Contour Width (Eye 1) (UI)" shortTitle = "EyeContourWidth_Eye1" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Min Eye Contour Height (Eye 1) (mV)" shortTitle = "EyeContourHeight_Eye1" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Max Eye Contour Jitter (Eye 1) (UI)" shortTitle = "EyeContourJitter_Eye1" value = "1" optValue = "1" />
+<WorstCase type = "" title = "Max Eye Contour NJN (Eye 1)" shortTitle = "EyeContourNJN_Eye1" value = "1" optValue = "1" />
+<WorstCase type = "" title = "Min COM (dB) (Eye 1)" shortTitle = "COM_Eye1" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Min SNR (Eye 1)" shortTitle = "SNR_Eye1" value = "0.24" optValue = "0.24" />
+<WorstCase type = "" title = "Min BER Eye Width (Eye 2) (UI)" shortTitle = "BEREyeWidth_Eye2" value = "" optValue = "0" />
+<WorstCase type = "" title = "Min BER Eye Height (Eye 2) (mV)" shortTitle = "BEREyeHeight_Eye2" value = "" optValue = "0" />
+<WorstCase type = "" title = "Min Eye Contour Width (Eye 2) (UI)" shortTitle = "EyeContourWidth_Eye2" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Min Eye Contour Height (Eye 2) (mV)" shortTitle = "EyeContourHeight_Eye2" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Max Eye Contour Jitter (Eye 2) (UI)" shortTitle = "EyeContourJitter_Eye2" value = "1" optValue = "1" />
+<WorstCase type = "" title = "Max Eye Contour NJN (Eye 2)" shortTitle = "EyeContourNJN_Eye2" value = "0.08" optValue = "0.08" />
+<WorstCase type = "" title = "Min COM (dB) (Eye 2)" shortTitle = "COM_Eye2" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Min SNR (Eye 2)" shortTitle = "SNR_Eye2" value = "1.00" optValue = "1.00" />
+<WorstCase type = "" title = "Min BER Eye Width (Eye 3) (UI)" shortTitle = "BEREyeWidth_Eye3" value = "0.82" optValue = "0.82" />
+<WorstCase type = "" title = "Min BER Eye Height (Eye 3) (mV)" shortTitle = "BEREyeHeight_Eye3" value = "168" optValue = "168" />
+<WorstCase type = "" title = "Min Eye Contour Width (Eye 3) (UI)" shortTitle = "EyeContourWidth_Eye3" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Min Eye Contour Height (Eye 3) (mV)" shortTitle = "EyeContourHeight_Eye3" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Max Eye Contour Jitter (Eye 3) (UI)" shortTitle = "EyeContourJitter_Eye3" value = "1" optValue = "1" />
+<WorstCase type = "" title = "Max Eye Contour NJN (Eye 3)" shortTitle = "EyeContourNJN_Eye3" value = "-0.17" optValue = "-0.17" />
+<WorstCase type = "" title = "Min COM (dB) (Eye 3)" shortTitle = "COM_Eye3" value = "1e+20" optValue = "1e+20" />
+<WorstCase type = "" title = "Min SNR (Eye 3)" shortTitle = "SNR_Eye3" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Min BER Eye Width (Eye 4) (UI)" shortTitle = "BEREyeWidth_Eye4" value = "0.44" optValue = "0.44" />
+<WorstCase type = "" title = "Min BER Eye Height (Eye 4) (mV)" shortTitle = "BEREyeHeight_Eye4" value = "" optValue = "0" />
+<WorstCase type = "" title = "Min Eye Contour Width (Eye 4) (UI)" shortTitle = "EyeContourWidth_Eye4" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Min Eye Contour Height (Eye 4) (mV)" shortTitle = "EyeContourHeight_Eye4" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Max Eye Contour Jitter (Eye 4) (UI)" shortTitle = "EyeContourJitter_Eye4" value = "1" optValue = "1" />
+<WorstCase type = "" title = "Max Eye Contour NJN (Eye 4)" shortTitle = "EyeContourNJN_Eye4" value = "-0.07" optValue = "-0.07" />
+<WorstCase type = "" title = "Min COM (dB) (Eye 4)" shortTitle = "COM_Eye4" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Min SNR (Eye 4)" shortTitle = "SNR_Eye4" value = "501.41" optValue = "501.41" />
+<WorstCase type = "" title = "Min BER Eye Width (Eye 5) (UI)" shortTitle = "BEREyeWidth_Eye5" value = "" optValue = "0" />
+<WorstCase type = "" title = "Min BER Eye Height (Eye 5) (mV)" shortTitle = "BEREyeHeight_Eye5" value = "" optValue = "0" />
+<WorstCase type = "" title = "Min Eye Contour Width (Eye 5) (UI)" shortTitle = "EyeContourWidth_Eye5" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Min Eye Contour Height (Eye 5) (mV)" shortTitle = "EyeContourHeight_Eye5" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Max Eye Contour Jitter (Eye 5) (UI)" shortTitle = "EyeContourJitter_Eye5" value = "1" optValue = "1" />
+<WorstCase type = "" title = "Max Eye Contour NJN (Eye 5)" shortTitle = "EyeContourNJN_Eye5" value = "1" optValue = "1" />
+<WorstCase type = "" title = "Min COM (dB) (Eye 5)" shortTitle = "COM_Eye5" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Min SNR (Eye 5)" shortTitle = "SNR_Eye5" value = "31.09" optValue = "31.09" />
+<WorstCase type = "" title = "Min BER Eye Width (Eye 6) (UI)" shortTitle = "BEREyeWidth_Eye6" value = "" optValue = "0" />
+<WorstCase type = "" title = "Min BER Eye Height (Eye 6) (mV)" shortTitle = "BEREyeHeight_Eye6" value = "" optValue = "0" />
+<WorstCase type = "" title = "Min Eye Contour Width (Eye 6) (UI)" shortTitle = "EyeContourWidth_Eye6" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Min Eye Contour Height (Eye 6) (mV)" shortTitle = "EyeContourHeight_Eye6" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Max Eye Contour Jitter (Eye 6) (UI)" shortTitle = "EyeContourJitter_Eye6" value = "1" optValue = "1" />
+<WorstCase type = "" title = "Max Eye Contour NJN (Eye 6)" shortTitle = "EyeContourNJN_Eye6" value = "1" optValue = "1" />
+<WorstCase type = "" title = "Min COM (dB) (Eye 6)" shortTitle = "COM_Eye6" value = "0" optValue = "0" />
+<WorstCase type = "" title = "Min SNR (Eye 6)" shortTitle = "SNR_Eye6" value = "1.70" optValue = "1.70" />
+<WorstCase type = "" title = "Delay (ns)" shortTitle = "Delay" value = "4.41134" optValue = "4.41134" />
+<WorstCase type = "" title = "|Max| Intra-Pair Skew (ps)" shortTitle = "IntraPairSkew" value = "4.48273" optValue = "4.48273" />
+</MeasurementSummary>
+<LBERItem>-12</LBERItem>
+</ChannelSimulationResult>

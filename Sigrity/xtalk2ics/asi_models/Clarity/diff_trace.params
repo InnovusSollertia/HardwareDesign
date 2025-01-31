@@ -1,0 +1,41 @@
+Name,Expression,Value,Unit,Description,Sweep
+T_Medium_40,0.0127 mm,0.0127,mm,Thickness of layer 'Medium$40',0
+Z_Medium_40,0 mm,0,mm,Z coordinate of layer 'Medium$40',0
+T_Signal_TOP,0.04572 mm,0.04572,mm,Thickness of layer 'Signal$TOP',0
+Z_Signal_TOP,Z_Medium_40 - T_Signal_TOP,-0.04572,mm,Z coordinate of layer 'Signal$TOP',0
+T_Medium_42,0.07366 mm,0.07366,mm,Thickness of layer 'Medium$42',0
+Z_Medium_42,Z_Signal_TOP - T_Medium_42,-0.11938,mm,Z coordinate of layer 'Medium$42',0
+T_Plane_L2_INNER,0.01524 mm,0.01524,mm,Thickness of layer 'Plane$L2_INNER',0
+Z_Plane_L2_INNER,Z_Medium_42 - T_Plane_L2_INNER,-0.13462,mm,Z coordinate of layer 'Plane$L2_INNER',0
+T_Medium_44,0.09906 mm,0.09906,mm,Thickness of layer 'Medium$44',0
+Z_Medium_44,Z_Plane_L2_INNER - T_Medium_44,-0.23368,mm,Z coordinate of layer 'Medium$44',0
+T_Signal_L3_INNER,0.01524 mm,0.01524,mm,Thickness of layer 'Signal$L3_INNER',0
+Z_Signal_L3_INNER,Z_Medium_44 - T_Signal_L3_INNER,-0.24892,mm,Z coordinate of layer 'Signal$L3_INNER',0
+T_Medium_46,0.16764 mm,0.16764,mm,Thickness of layer 'Medium$46',0
+Z_Medium_46,Z_Signal_L3_INNER - T_Medium_46,-0.41656,mm,Z coordinate of layer 'Medium$46',0
+T_Plane_L4_INNER,0.03048 mm,0.03048,mm,Thickness of layer 'Plane$L4_INNER',0
+Z_Plane_L4_INNER,Z_Medium_46 - T_Plane_L4_INNER,-0.44704,mm,Z coordinate of layer 'Plane$L4_INNER',0
+T_Medium_48,0.7493 mm,0.7493,mm,Thickness of layer 'Medium$48',0
+Z_Medium_48,Z_Plane_L4_INNER - T_Medium_48,-1.19634,mm,Z coordinate of layer 'Medium$48',0
+T_Plane_L5_INNER,0.03048 mm,0.03048,mm,Thickness of layer 'Plane$L5_INNER',0
+Z_Plane_L5_INNER,Z_Medium_48 - T_Plane_L5_INNER,-1.22682,mm,Z coordinate of layer 'Plane$L5_INNER',0
+T_Medium_50,0.16764 mm,0.16764,mm,Thickness of layer 'Medium$50',0
+Z_Medium_50,Z_Plane_L5_INNER - T_Medium_50,-1.39446,mm,Z coordinate of layer 'Medium$50',0
+T_Signal_L6_INNER,0.01524 mm,0.01524,mm,Thickness of layer 'Signal$L6_INNER',0
+Z_Signal_L6_INNER,Z_Medium_50 - T_Signal_L6_INNER,-1.4097,mm,Z coordinate of layer 'Signal$L6_INNER',0
+T_Medium_52,0.09906 mm,0.09906,mm,Thickness of layer 'Medium$52',0
+Z_Medium_52,Z_Signal_L6_INNER - T_Medium_52,-1.50876,mm,Z coordinate of layer 'Medium$52',0
+T_Plane_L7_INNER,0.01524 mm,0.01524,mm,Thickness of layer 'Plane$L7_INNER',0
+Z_Plane_L7_INNER,Z_Medium_52 - T_Plane_L7_INNER,-1.524,mm,Z coordinate of layer 'Plane$L7_INNER',0
+T_Medium_54,0.07366 mm,0.07366,mm,Thickness of layer 'Medium$54',0
+Z_Medium_54,Z_Plane_L7_INNER - T_Medium_54,-1.59766,mm,Z coordinate of layer 'Medium$54',0
+T_Signal_BOTTOM,0.04572 mm,0.04572,mm,Thickness of layer 'Signal$BOTTOM',0
+Z_Signal_BOTTOM,Z_Medium_54 - T_Signal_BOTTOM,-1.64338,mm,Z coordinate of layer 'Signal$BOTTOM',0
+T_Medium_56,0.0127 mm,0.0127,mm,Thickness of layer 'Medium$56',0
+Z_Medium_56,Z_Signal_BOTTOM - T_Medium_56,-1.65608,mm,Z coordinate of layer 'Medium$56',0
+Trace_W,0.15 mm,0.15,mm,,0
+Trace_R,75 deg,75,deg,,0
+Port_W,0.1 mm,0.1,mm,,0
+Port_R,0 deg,0,deg,,0
+dzm,1.5 mm,1.5,mm,,0
+dzp,1.5 mm,1.5,mm,,0

@@ -1,0 +1,7 @@
+*** Messages reported by SPDSIM (build24.0.0.05151.504415   000) ***
+
+Warning 5163: To ensure simulation accuracy and stability, time step is reset to 10.0ps based on simulation requirements from all the elements in the circuit.
+
+	0 error(s),	1 warning(s)
+
+	0 error(s),	1 warning(s)

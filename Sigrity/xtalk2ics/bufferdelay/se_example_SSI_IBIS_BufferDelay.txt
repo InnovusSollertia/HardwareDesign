@@ -1,0 +1,20 @@
+[IBIS File]	C:\Cadence\SPB_24.1\share\topxp\Explorer\xtalk_3_signals\se_example.ibs
+[Date Modified (IBIS File)]	2017-6-7 22:7:22
+[Signal Name]	ABC
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+SSI_Tx_Spice         1Gbps                NC                   2.46972e-11          NC                   NC                   2.46972e-11          NC                  
+[Signal Name]	DEF
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+SSI_Tx_Spice         1Gbps                NC                   2.46972e-11          NC                   NC                   2.46972e-11          NC                  
+[Signal Name]	GHI
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+SSI_Tx_Spice         1Gbps                NC                   2.46972e-11          NC                   NC                   2.46972e-11          NC                  
+[Signal Name]	TX_P
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+SSI_Tx               1Gbps                NC                   3.06646e-11          NC                   NC                   3.06646e-11          NC                  
+[Signal Name]	TX_N
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+SSI_Tx               1Gbps                NC                   3.06646e-11          NC                   NC                   3.06646e-11          NC                  
+[Signal Name]	TX_P-TX_N
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+SSI_Tx               1Gbps                NC                   3.06646e-11          NC                   NC                   3.06646e-11          NC                  

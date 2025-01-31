@@ -1,0 +1,10 @@
+[Reading and processing .spd file] 0.017024(s)			[Total Time] 0.017024(s)
+
+[Partial circuit rearrangement] 0.000618(s)			[Total Time] 0.017642(s)
+
+[Graphic interface before preprocessing] 0.000216(s)			[Total Time] 0.017858(s)
+
+[DC Circuit processing] 0.0002558(s)			[Total Time] 0.0181138(s)
+
+[Other Pre-processing] 0.0002096(s)			[Total Time] 0.0183234(s)
+

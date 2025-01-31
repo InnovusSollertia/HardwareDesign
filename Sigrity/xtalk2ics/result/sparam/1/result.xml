@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<SParamExtractionResult SimulationName = "sparam\1" Project = "D:/Projects/HardwareDesign/Sigrity/xtalk2ics/xtalk2ics.topx" resultFile = "S_para_S.bnp" isDiffMode = "0">
+<SimulationResult Comment = "" >
+</SimulationResult>
+<Identity>
+<File CRC32 = "2576978392"/>
+<File CRC32 = "3317796407"/>
+</Identity>
+</SParamExtractionResult>

@@ -1,0 +1,41 @@
+[Reading and processing .spd file] 0.0094797(s)			[Total Time] 0.0094797(s)
+
+[Partial circuit rearrangement] 0.0016963(s)			[Total Time] 0.011176(s)
+
+[Graphic interface before preprocessing] 0.0001924(s)			[Total Time] 0.0113684(s)
+
+[DC Circuit processing] 0.0001865(s)			[Total Time] 0.0115549(s)
+
+[DC analysis] 0.0019331(s)			[Total Time] 0.013488(s)
+
+[Other Pre-processing] 0.0001297(s)			[Total Time] 0.0136177(s)
+
+[Initializing partial circuits] 0.0023488(s)			[Total Time] 0.0159665(s)
+
+[Inverting partial circuit matrices] 0.0002022(s)			[Total Time] 0.0161687(s)
+
+[Graphic interface before or during transient analysis] 0.000272(s)			[Total Time] 0.0164407(s)
+
+[First time step] 0.0020809(s)			[Total Time] 0.0020809(s)
+
+[Last time step] 0.0003661(s)			[Total Time] 0.002447(s)
+
+[Time marching] 0.306989(s)			[Total Time] 0.32343(s)
+
+[Total running time] 0.32528(s)			[Total Time] 0.32528(s)
+
+[First time step] 0.0020809(s)
+[Last time step] 0.0003661(s)
+
+[% on Reading and processing .spd file ] 				2.91432
+[% on Partial circuit rearrangement ] 				0.521489
+[% on Graphic interface before preprocessing ] 				0.0591491
+[% on DC Circuit processing ] 				0.0573352
+[% on DC analysis ] 				0.594288
+[% on Other Pre-processing ] 				0.0398734
+[% on Initializing partial circuits ] 				0.722086
+[% on Inverting partial circuit matrices ] 				0.0621618
+[% on Graphic interface before or during transient analysis ] 				0.0836203
+[% on Time marching ] 				94.3768
+
+[% on measured code] 				99.4311

@@ -1,0 +1,10 @@
+2025-01-30T22:29:03 Select license to proceed ...
+2025-01-30T22:29:09 TopWb.exe 24.1 P001 (4234998)  [9/4/2024]
+2025-01-30T22:29:09 Sigrity Dir: C:\Cadence\Sigrity2024.0
+2025-01-30T22:29:09 Open Topology: D:/Projects/HardwareDesign/Sigrity/ac_multi_ic/ac_multi_ic.topx
+2025-01-30T22:29:36 spdsim(pid 12620) started [D:\Projects\HardwareDesign\Sigrity\ac_multi_ic\result\impedance\1\IC7_a1\temp\SParamExtraction.sp]
+2025-01-30T22:29:45 spdsim(pid 12620) ended [D:\Projects\HardwareDesign\Sigrity\ac_multi_ic\result\impedance\1\IC7_a1\temp\SParamExtraction.sp]
+2025-01-30T22:29:55 spdsim(pid 10244) started [D:\Projects\HardwareDesign\Sigrity\ac_multi_ic\result\powerripple\1\temp\simulation_input.sp]
+2025-01-30T22:30:29 spdsim(pid 10244) ended [D:\Projects\HardwareDesign\Sigrity\ac_multi_ic\result\powerripple\1\temp\simulation_input.sp]
+2025-01-30T22:37:32 spdsim(pid 2156) started [D:\Projects\HardwareDesign\Sigrity\ac_multi_ic\result\impedance\2\IC7_a1\temp\SParamExtraction.sp]
+2025-01-30T22:37:41 spdsim(pid 2156) ended [D:\Projects\HardwareDesign\Sigrity\ac_multi_ic\result\impedance\2\IC7_a1\temp\SParamExtraction.sp]

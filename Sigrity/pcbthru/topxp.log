@@ -1,0 +1,27 @@
+2025-01-30T22:50:51 TopWb.exe 24.1 P001 (4234998)  [9/4/2024]
+2025-01-30T22:50:51 Sigrity Dir: C:\Cadence\Sigrity2024.0
+2025-01-30T22:50:51 Open Topology: D:/Projects/HardwareDesign/Sigrity/pcbthru/pcbthru.topx
+2025-01-30T22:51:17 Run Simulation
+2025-01-30T22:51:17 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-30T22:51:17 spdsim(pid 18320) started [D:\Projects\HardwareDesign\Sigrity\pcbthru\result\sparam\1\temp\SParamExtraction.sp]
+2025-01-30T22:51:17 spdsim(pid 18320) ended [D:\Projects\HardwareDesign\Sigrity\pcbthru\result\sparam\1\temp\SParamExtraction.sp]
+2025-01-30T22:51:17 Finish Connectivity Checker
+2025-01-30T22:51:17 Characterizing the tx_pos_neg - rx_pos_neg channel using 'SPDSIM'. The characterization results are being saved in 'D:\Projects\HardwareDesign\Sigrity\pcbthru\result\1\Chan_Typ_Typ'.
+2025-01-30T22:51:17 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-01-30T22:51:17 spdsim(pid 10308) started [D:\Projects\HardwareDesign\Sigrity\pcbthru\result\1\Chan_Typ_Typ\temp\channel_tx_pos_neg_rx.sp]
+2025-01-30T22:51:21 spdsim(pid 10308) ended [D:\Projects\HardwareDesign\Sigrity\pcbthru\result\1\Chan_Typ_Typ\temp\channel_tx_pos_neg_rx.sp]
+2025-01-30T22:51:22 Running time domain channel simulation at 8 Gbps.
+2025-01-30T22:51:22 spdut(pid 22388) started [Used CPUs: 1] [D:\Projects\HardwareDesign\Sigrity\pcbthru\result\1\Chan_Typ_Typ\temp1\command.txt]
+2025-01-30T22:51:57 spdut(pid 22388) ended [D:\Projects\HardwareDesign\Sigrity\pcbthru\result\1\Chan_Typ_Typ\temp1\command.txt]
+2025-01-30T22:51:59 Finish Channel Simulation (Performing bit-by-bit Channel Simulation)
+ Total characterization time: 4 seconds
+ Total channel simulation time: 35 seconds
+ Total simulation time: 42 seconds
+2025-01-30T23:35:37 Run Channel Simulation (Performing bit-by-bit Channel Simulation)
+2025-01-30T23:35:37 The characterization results saved in 'D:\Projects\HardwareDesign\Sigrity\pcbthru\result\2\Chan_Typ_Typ' are being used for channel simulation.
+2025-01-30T23:35:38 Running time domain channel simulation at 2.66667 Gbps.
+2025-01-30T23:35:38 spdut(pid 17480) started [Used CPUs: 1] [D:\Projects\HardwareDesign\Sigrity\pcbthru\result\2\Chan_Typ_Typ\temp\command.txt]
+2025-01-30T23:36:13 spdut(pid 17480) ended [D:\Projects\HardwareDesign\Sigrity\pcbthru\result\2\Chan_Typ_Typ\temp\command.txt]
+2025-01-30T23:36:15 Finish Channel Simulation (Performing bit-by-bit Channel Simulation)
+ Total channel simulation time: 34 seconds
+ Total simulation time: 37 seconds

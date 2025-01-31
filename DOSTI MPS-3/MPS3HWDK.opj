@@ -206,8 +206,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1255 24 536")
-        (Scroll "-278 -7")
-        (Zoom "57")
+        (Scroll "67 377")
+        (Zoom "114")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")

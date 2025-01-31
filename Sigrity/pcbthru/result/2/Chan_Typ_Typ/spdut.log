@@ -1,0 +1,147 @@
+
+**** C:\Cadence\SPB_24.1\tools\bin\spdut.exe *****
+
+INFO: Command = 'C:\Cadence\SPB_24.1\tools\bin\spdut.exe -b D:\Projects\HardwareDesign\Sigrity\pcbthru\result\2\Chan_Typ_Typ\temp\command.txt'
+
+
+**** Thu Jan 30 23:35:38 2025
+ ****
+
+INFO: **** version = 24.1-2020 P001 (4234998)  [9/4/2024] *****
+
+INFO: ****Setting precision to '16' digits****
+INFO:  Compiling 'rx_pos_neg'
+INFO:  Tx 'tx_pos_neg' baud rate is set to '2.66667e+09'
+INFO:  timestep specified in '
+(bitres 32 )'
+INFO:  timestep is derived from resolution 
+INFO:  Found system level time step = '1.171875e-11', min bitp= '3.75e-10'
+INFO:  Starting impulse response compilation
+INFO: Processing impulse response for source 'tx_pos_neg'
+INFO: tx_pos_neg->rx_pos_neg Using previously stored characterization
+INFO:  Applying impulse correction for 'tx_pos_neg:impfile' -- directive '(fiximp (pwr ) )'
+INFO:     impulse correction: 'step=0.965924 refstep=0.965925'
+INFO:  primary channel signal to interference ratio = '5.790588511007874'
+INFO:  compiling tx 'tx_pos_neg' ami line = 
+ '(ami (C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll (amiffe (Reserved_Parameters (Max_Init_Aggressors 25 ) (Init_Returns_Impulse True ) (GetWave_Exists False ) ) (Model_Specific (fwd 3 ) (pre 1 ) (coeffout ffecoeff.txt ) (UserTapsFile nil ) (scalef 1 ) ) ) ) )'
+INFO: processing ami model 'tx_pos_neg:C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll'
+INFO:  ami model line = 
+ '(C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll (amiffe (Reserved_Parameters (Max_Init_Aggressors 25 ) (Init_Returns_Impulse True ) (GetWave_Exists False ) ) (Model_Specific (fwd 3 ) (pre 1 ) (coeffout ffecoeff.txt ) (UserTapsFile nil ) (scalef 1 ) ) ) )'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll:AMI_Init'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll:AMI_GetWave'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll:AMI_Close'
+INFO:  IR from ami model 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll' Init function will be used in simulation 
+INFO:  ami 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll' input  parameters: ' (amiffe (fwd 3) (pre 1) (coeffout ffecoeff.txt) (UserTapsFile nil) (scalef 1)) '
+INFO:  ami 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll' returned the message:
+ *     Sigrity inc,  ami ffe filter       *
+******************************************************
+   snrgain  = 6.83826 
+ fwd=3  pre=1 offset=0
+ Taps= -0.0410327	1	-0.12723	
+ 
+ xtalk_mode=0
+******************************************************
+
+ 
+INFO:  compiling rx 'rx_pos_neg' ami line = 
+ '(ami (C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll (amirx (Reserved_Parameters (Ignore_Bits 40000 ) (Max_Init_Aggressors 25 ) (Init_Returns_Impulse False ) (GetWave_Exists True ) ) (Model_Specific (agc (agcrcf 0.01 ) (agcdelf 0.01 ) (agcgain 1 ) (agcgainmax 3 ) (adapt (adapt_size 2048 ) (adapt_dvlh_target 0.5 ) (adapt_bias 1 ) (adapt_on 1 ) ) (module_off 0 ) ) (cte (pcix3spec2 (f0 4e9 ) (f2 16e9 ) (dbl 3 ) ) (gain 1 ) (adapt (adapt_size 1024 ) (adapt_bias 1 ) (adapt_on 1 ) ) (adapt_cte_sel_file cte_out.txt ) (module_off 0 ) ) (dfe (ndfe 5 ) (dfe_autolev 1 ) (dfe_autolev_fact 1.1 ) (dfe_off 0 ) (coeffout dfecoeffout.txt ) (module_off 0 ) ) ) ) ) )'
+INFO: processing ami model 'rx_pos_neg:C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll'
+INFO:  ami model line = 
+ '(C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll (amirx (Reserved_Parameters (Ignore_Bits 40000 ) (Max_Init_Aggressors 25 ) (Init_Returns_Impulse False ) (GetWave_Exists True ) ) (Model_Specific (agc (agcrcf 0.01 ) (agcdelf 0.01 ) (agcgain 1 ) (agcgainmax 3 ) (adapt (adapt_size 2048 ) (adapt_dvlh_target 0.5 ) (adapt_bias 1 ) (adapt_on 1 ) ) (module_off 0 ) ) (cte (pcix3spec2 (f0 4e9 ) (f2 16e9 ) (dbl 3 ) ) (gain 1 ) (adapt (adapt_size 1024 ) (adapt_bias 1 ) (adapt_on 1 ) ) (adapt_cte_sel_file cte_out.txt ) (module_off 0 ) ) (dfe (ndfe 5 ) (dfe_autolev 1 ) (dfe_autolev_fact 1.1 ) (dfe_off 0 ) (coeffout dfecoeffout.txt ) (module_off 0 ) ) ) ) )'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll:AMI_Init'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll:AMI_GetWave'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll:AMI_Close'
+INFO:  init output is false for ami model 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll'
+INFO:  ami 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll' input  parameters: ' (amirx (agc (agcrcf 0.01) (agcdelf 0.01) (agcgain 1) (agcgainmax 3) (adapt (adapt_size 2048) (adapt_dvlh_target 0.5) (adapt_bias 1) (adapt_on 1)) (module_off 0)) (cte (pcix3spec2 (f0 4e9) (f2 16e9) (dbl 3)) (gain 1) (adapt (adapt_size 1024) (adapt_bias 1) (adapt_on 1)) (adapt_cte_sel_file cte_out.txt) (module_off 0)) (dfe (ndfe 5) (dfe_autolev 1) (dfe_autolev_fact 1.1) (dfe_off 0) (coeffout dfecoeffout.txt) (module_off 0))) '
+INFO:  ami 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll' returned the message:
+ INFO: model 'amirx' returned '
+Loading module 'agc' ..
+
+Loading module 'cte' ..
+
+Loading module 'dfe' ..
+' 
+INFO:  blocksize = '63089' impulse size = '2447' ' 
+INFO: Compiled random stimulus '(rand (seed 1 ) )' for tx 'tx_pos_neg'
+INFO:  pam '8' stimulus set for 'tx_pos_neg'
+INFO:  Number of bits to be simulated = '100548' 
+INFO:  option '(wavecnt )' :will be storing the last '32000' wave points in file 'waveform.txt'
+INFO: 'rx_pos_neg' jitter and noise consolidated '(jitternoise (jitter (rj 0.01 ) ) (noise (rn 0.001 ) ) )'
+INFO:  compiling  eye parameters
+INFO:  Eye signal resolution set to '128' points
+WARNING:  channel 'rx_pos_neg': Measure Delay Required by system ami model is longer; Adjusting measure delay to '1.5e-05'
+INFO:  directive 'fstclk_edges' automatically added
+INFO:  directive '(fstclk_edges )': first ideal clock will be based on '100' edges
+WARNING:  measure delay '1.5e-05' + current time '0' was too large, automatically increasing simulation time to '5.29305e-05' (#bits = '141950')
+INFO:  Eye meas delay set to '1.5e-05'
+INFO:  vmeas_determine_bits set to '100'
+INFO:  dynamic isi eye density info can be found for every '1000' bits in 'eyedyndens.txt'
+INFO: clk pdf will be ouput
+WARNING:  random noise was not specified; setting to default value '0'
+INFO:  Number of initial simulation blocks = 72 
+WARNING:  measure delay '1.5e-05' + current time '7.3932421875e-07' was too large, automatically increasing simulation time to '5.366982421875e-05' (#bits = '143922')
+INFO: Rx is getting external clock data from model
+INFO:  eye contour will be output to file 'eyectr_pam0.txt'
+INFO:  eye contour will be output to file 'eyectrjn_pam0.txt'
+INFO:  left bathtub  will be output to file 'bathtub_l_pam0.txt'
+INFO:  right bathtub  will be output to file 'bathtub_r_pam0.txt'
+INFO:  ber vs ui will be output to file 'berui_pam0.txt'
+INFO:  noise left bathtub  will be output to file 'nbathtub_l_pam0.txt'
+INFO:  noise right bathtub  will be output to file 'nbathtub_r_pam0.txt'
+INFO:  ber vs amplitude will be output to file 'nberampl_pam0.txt'
+INFO:  eye contour will be output to file 'eyectr_pam1.txt'
+INFO:  eye contour will be output to file 'eyectrjn_pam1.txt'
+INFO:  left bathtub  will be output to file 'bathtub_l_pam1.txt'
+INFO:  right bathtub  will be output to file 'bathtub_r_pam1.txt'
+INFO:  ber vs ui will be output to file 'berui_pam1.txt'
+INFO:  noise left bathtub  will be output to file 'nbathtub_l_pam1.txt'
+INFO:  noise right bathtub  will be output to file 'nbathtub_r_pam1.txt'
+INFO:  ber vs amplitude will be output to file 'nberampl_pam1.txt'
+INFO:  eye contour will be output to file 'eyectr_pam2.txt'
+INFO:  eye contour will be output to file 'eyectrjn_pam2.txt'
+INFO:  left bathtub  will be output to file 'bathtub_l_pam2.txt'
+INFO:  right bathtub  will be output to file 'bathtub_r_pam2.txt'
+INFO:  ber vs ui will be output to file 'berui_pam2.txt'
+INFO:  noise left bathtub  will be output to file 'nbathtub_l_pam2.txt'
+INFO:  noise right bathtub  will be output to file 'nbathtub_r_pam2.txt'
+INFO:  ber vs amplitude will be output to file 'nberampl_pam2.txt'
+INFO:  eye contour will be output to file 'eyectr_pam3.txt'
+INFO:  eye contour will be output to file 'eyectrjn_pam3.txt'
+INFO:  left bathtub  will be output to file 'bathtub_l_pam3.txt'
+INFO:  right bathtub  will be output to file 'bathtub_r_pam3.txt'
+INFO:  ber vs ui will be output to file 'berui_pam3.txt'
+INFO:  noise left bathtub  will be output to file 'nbathtub_l_pam3.txt'
+INFO:  noise right bathtub  will be output to file 'nbathtub_r_pam3.txt'
+INFO:  ber vs amplitude will be output to file 'nberampl_pam3.txt'
+INFO:  eye contour will be output to file 'eyectr_pam4.txt'
+INFO:  eye contour will be output to file 'eyectrjn_pam4.txt'
+INFO:  left bathtub  will be output to file 'bathtub_l_pam4.txt'
+INFO:  right bathtub  will be output to file 'bathtub_r_pam4.txt'
+INFO:  ber vs ui will be output to file 'berui_pam4.txt'
+INFO:  noise left bathtub  will be output to file 'nbathtub_l_pam4.txt'
+INFO:  noise right bathtub  will be output to file 'nbathtub_r_pam4.txt'
+INFO:  ber vs amplitude will be output to file 'nberampl_pam4.txt'
+INFO:  eye contour will be output to file 'eyectr_pam5.txt'
+INFO:  eye contour will be output to file 'eyectrjn_pam5.txt'
+INFO:  left bathtub  will be output to file 'bathtub_l_pam5.txt'
+INFO:  right bathtub  will be output to file 'bathtub_r_pam5.txt'
+INFO:  ber vs ui will be output to file 'berui_pam5.txt'
+INFO:  noise left bathtub  will be output to file 'nbathtub_l_pam5.txt'
+INFO:  noise right bathtub  will be output to file 'nbathtub_r_pam5.txt'
+INFO:  ber vs amplitude will be output to file 'nberampl_pam5.txt'
+INFO:  eye contour will be output to file 'eyectr_pam6.txt'
+INFO:  eye contour will be output to file 'eyectrjn_pam6.txt'
+INFO:  left bathtub  will be output to file 'bathtub_l_pam6.txt'
+INFO:  right bathtub  will be output to file 'bathtub_r_pam6.txt'
+INFO:  ber vs ui will be output to file 'berui_pam6.txt'
+INFO:  noise left bathtub  will be output to file 'nbathtub_l_pam6.txt'
+INFO:  noise right bathtub  will be output to file 'nbathtub_r_pam6.txt'
+INFO:  ber vs amplitude will be output to file 'nberampl_pam6.txt'
+INFO:  eye density  will be output to file 'eyedensity.txt'
+INFO:  eye density  will be output to file 'eyeden_nojn.txt'
+INFO:  eye time jitter distribution  will be output to file 'eyedist_tj.txt'
+INFO:  eye voltage jitter distribution  will be output to file 'eyedist_vj.txt'
+INFO:  eye time jitter distribution including global jitter noise will be output to file 'eyedist_tj_jn.txt'
+INFO:  eye voltage jitter distribution including global jitter noise will be output to file 'eyedist_vj_jn.txt'
+INFO:  channel report  will be output to file 'report.txt'
+INFO:  Elapsed Time = '35'
