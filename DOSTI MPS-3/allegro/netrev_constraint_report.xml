@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <?xml-stylesheet type="text/xsl" href="file:///c:/cadence/spb_24.1/share/pcb/consmgr/VDD/report/treeview.xsl"?>
-<ConstraintDifferenceReport Path="file:///c:/cadence/spb_24.1/share/pcb/consmgr/VDD/report/rc" Status="no-change" Type="Constraint Difference Report">
+<ConstraintDifferenceReport Path="file:///c:/cadence/spb_24.1/share/pcb/consmgr/VDD/report/rc" Status="not-run" Type="Constraint Difference Report">
 
   <RptSummary Col1="Layout" Col2="Schematic">
-    <Entry Name="Report time">Sun Dec 22 20:28:02 2024
+    <Entry Name="Report time">Mon Feb 17 11:48:18 2025
 </Entry>
-    <Entry Name="Software version">24.1 (P001)</Entry>
-    <Entry Name="Layout">d:\projects\hardwaredesign\dosti mps-3\allegro\mps3hwdk.brd</Entry>
-    <Entry Name="Schematic">d:\projects\hardwaredesign\dosti mps-3\allegro\pstcmdb.dat</Entry>
-    <Entry Name="Baseline File">C:\Users\PROMET~1\AppData\Local\Temp\#Taaaaaj10060.tmp</Entry>
-    <Entry Name="Destination design updated">Yes</Entry>
-    <Entry Name="Update Mode">Diff3</Entry>
-    <Entry Name="Constraint Information">Electrical, NetClasses, Properties</Entry>
-    <Entry Name="White list">c:\cadence\spb_24.1\share\local\consmgr\cds_flow_config.txt - No valid filters found.</Entry>
+    <Entry Name="Software version">24.1 (S002)</Entry>
+    <Entry Name="Layout">D:\Projects\HardwareDesign\DOSTI MPS-3\allegro\mps3hwdk.brd</Entry>
+    <Entry Name="Schematic">D:\Projects\HardwareDesign\DOSTI MPS-3\allegro\pstcmdb.dat</Entry>
+    <Entry Name="Baseline File">C:\Users\Tokito\AppData\Local\Temp\#Taaaaaj02768.tmp</Entry>
+    <Entry Name="Status">Diff3 not run. Input file and Baseline file having matching keys.</Entry>
   </RptSummary>
 
   <Tree>
@@ -22,6 +19,10 @@
   <Summaries>
     <MainSummary ID="main-summary"/>
   </Summaries>
+
+  <Notes>
+    <Note Text="Diff3 not run. Input file and Baseline file having matching keys." Type="Warning"/>
+  </Notes>
 
   <Layers>
     <Layer Name="TOP" Type="Conductor"/>

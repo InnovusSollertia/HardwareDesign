@@ -2,119 +2,10 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  d:/projects/hardwaredesign/dosti mps-3/allegro/mps3hwdk.brd                 |
-|                                                    Sun Dec 22 20:28:02 2024  |
+|  D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd                 |
+|                                                    Mon Feb 17 11:48:17 2025  |
 |------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  3V3_ANA      pins MOVED FROM this net (to net name listed on right)
-                                 C6.2                           
-                                                                            3V3
-                                 C7.2                           
-                                                                            3V3
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  3V3          pins MOVED FROM this net (to net name listed on right)
-                                 C8.2                           
-                                                                        3V3_ANA
-                                 C11.2                          
-                                                                        3V3_ANA
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  0            pins MOVED FROM this net (to net name listed on right)
-                                 IC2.2                          
-                                                                            3V3
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  d:/projects/hardwaredesign/dosti mps-3/allegro/mps3hwdk.brd                 |
-|                                                    Sun Dec 22 20:28:02 2024  |
-|------------------------------------------------------------------------------|
-| COMPONENT DEFINITION added to design                                         |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    device type                                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P
- LM1117MPX-50NOPB_SOT230P700X180-3N_LM1117MPX-50NOPB
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  d:/projects/hardwaredesign/dosti mps-3/allegro/mps3hwdk.brd                 |
-|                                                    Sun Dec 22 20:28:02 2024  |
-|------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C1                  06034C104KAT2A_CAPC1608X90N_DISCRETE_100N                 C1206C223F8HACAUTO_C1206_DISCRETE_100N
- C3                  06034C104KAT2A_CAPC1608X90N_DISCRETE_100N 441.960 302.260 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U
- C5                  06034C104KAT2A_CAPC1608X90N_DISCRETE_10U 441.960 297.180 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N
- C6                  06034C104KAT2A_CAPC1608X90N_DISCRETE_10U                 C1206C223F8HACAUTO_C1206_DISCRETE_10U
- C7                  06034C104KAT2A_CAPC1608X90N_DISCRETE_100N                 C1206C223F8HACAUTO_C1206_DISCRETE_100N
- C8                  06034C104KAT2A_CAPC1608X90N_DISCRETE_10U                 C1206C223F8HACAUTO_C1206_DISCRETE_10U
- C9                  06034C104KAT2A_CAPC1608X90N_DISCRETE_100N                 C1206C223F8HACAUTO_C1206_DISCRETE_100N
- C10                 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U                 C1206C223F8HACAUTO_C1206_DISCRETE_10U
- C11                 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N                 C1206C223F8HACAUTO_C1206_DISCRETE_100N
- C12                 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P                 C1206C223F8HACAUTO_C1206_DISCRETE_1.2P
- C13                 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P                 C1206C223F8HACAUTO_C1206_DISCRETE_1.2P
- IC2                 LM1117MPX-50NOPB_SOT230P700X180-3N_LM1117MPX-50NOPB                 LM1117MPX-ADJNOPB_SOT230P700X180-4N_LM1117MPX-ADJNOPB
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
-|------------------------------------------------------------------------------|
-|  d:/projects/hardwaredesign/dosti mps-3/allegro/mps3hwdk.brd                 |
-|                                                    Sun Dec 22 20:28:02 2024  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C1.2                           PRIM_FILE      .\pstchip.dat
- C1.2                           XY             (1090,380)
- C3.2           441.960 302.260 PRIM_FILE      .\pstchip.dat
- C3.2           441.960 302.260 XY             (630,760)
- C5.2           441.960 297.180 PRIM_FILE      .\pstchip.dat
- C5.2           441.960 297.180 XY             (680,760)
- C6.2                           PRIM_FILE      .\pstchip.dat
- C6.2                           XY             (1010,220)
- C7.2                           PRIM_FILE      .\pstchip.dat
- C7.2                           XY             (960,220)
- C8.2                           PRIM_FILE      .\pstchip.dat
- C8.2                           XY             (1010,120)
- C9.2                           PRIM_FILE      .\pstchip.dat
- C9.2                           XY             (1060,220)
- C10.2                          PRIM_FILE      .\pstchip.dat
- C10.2                          XY             (910,220)
- C11.2                          PRIM_FILE      .\pstchip.dat
- C11.2                          XY             (1060,120)
- C12.2                          PRIM_FILE      .\pstchip.dat
- C12.2                          XY             (120,490)
- C13.2                          PRIM_FILE      .\pstchip.dat
- C13.2                          XY             (180,490)
- IC2.2                          PRIM_FILE      .\pstchip.dat
- IC2.2                          XY             (470,710)
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   5  |
-|------------------------------------------------------------------------------|
-|  d:/projects/hardwaredesign/dosti mps-3/allegro/mps3hwdk.brd                 |
-|                                                    Sun Dec 22 20:28:02 2024  |
-|------------------------------------------------------------------------------|
-| PIN PROPERTIES added to design                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    pin_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- IC2.1                          CDS_PINID      \GROUND\
- IC2.2                          CDS_PINID      \OUTPUT\
- IC2.3                          CDS_PINID      \INPUT\
-|------------------------------------------------------------------------------|
-|       Nets changed          :       5                                        |
-|       Comp definitions added:       2                                        |
-|       Components changed    :      12                                        |
-|       Pin property added    :       3                                        |
-|       Slot property added   :      24                                        |
 |                                                                              |
-|   Total ECO changes reported:      46                                        |
+|   Total ECO changes reported:       0                                        |
 |------------------------------------------------------------------------------|

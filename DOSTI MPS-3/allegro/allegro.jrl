@@ -1,406 +1,722 @@
-\t (00:00:01) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Sun Dec 22 20:27:00 2024
-\t (00:00:01)         Host=DESKTOP-D851ENJ User=Prometheus Pid=2292 CPUs=12
-\t (00:00:01) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession Prometheus -proj d:\projects\hardwaredesign\dosti mps-3\mps3hwdk.opj d:\projects\hardwaredesign\dosti mps-3\allegro\mps3hwdk.brd
-\t (00:00:01) 
-\t (00:00:01) Loading axlcore.cxt 
-\t (00:00:03) Opening existing design...
-\d (00:00:03) Design opened: d:/projects/hardwaredesign/dosti mps-3/allegro/mps3hwdk.brd
-\t (00:00:04) Grids are drawn 10.1600, 10.1600 apart for enhanced viewing.
-\i (00:00:04) trapsize 2500
-\i (00:00:04) trapsize 2679
-\i (00:00:04) trapsize 2734
-\i (00:00:04) trapsize 4114
-\i (00:00:04) setwindow form.mini
-\i (00:00:04) FORM mini tree  'Components by refdes' 
-\i (00:00:04) setwindow pcb
-\i (00:00:04) trapsize 4114
-\t (00:00:04) > Sending response DoneOpenBoard
-\t (00:00:04) Loading NV GPU Plugin
-\i (00:00:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
-\i (00:00:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
-\i (00:00:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
-\i (00:00:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
-\i (00:00:04) trapsize 1205
-\i (00:00:05) placementedit 
-\i (00:00:06) zoom out 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom out 438.7296 292.9125
-\i (00:00:06) trapsize 2410
-\i (00:00:06) zoom out 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom out 438.8744 292.6716
-\i (00:00:06) trapsize 4821
-\i (00:00:06) zoom out 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom out 438.9707 292.6716
-\i (00:00:06) trapsize 9642
-\i (00:00:08) zoom out 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom out 389.4114 305.3989
-\i (00:00:08) trapsize 19284
-\i (00:00:08) zoom out 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom out 389.4115 305.3989
-\t (00:00:08) Grids are drawn 5.0800, 5.0800 apart for enhanced viewing.
-\i (00:00:08) trapsize 38567
-\i (00:00:09) zoom in 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom in 205.9504 513.7796
-\i (00:00:09) trapsize 19284
-\i (00:00:15) setwindow form.mini
-\i (00:00:15) FORM mini tree 'MULTISEL YES' 'Components by refdes' 
-\i (00:00:15) setwindow pcb
-\i (00:00:15) place manual 
-\e (00:00:15) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:15) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:15) Cannot load symbol 'C1206'
-\i (00:00:16) pick grid 362.9201 367.2232
-\t (00:00:16) last pick:  363.2200 368.3000
-\e (00:00:16) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:16) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:16) Cannot load symbol 'C1206'
-\i (00:00:17) pick grid 342.0937 396.1488
-\t (00:00:17) last pick:  342.9000 396.2400
-\e (00:00:17) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:17) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:17) Cannot load symbol 'C1206'
-\i (00:00:17) pick grid 352.8926 407.3334
-\t (00:00:17) last pick:  353.0600 406.4000
-\e (00:00:17) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:17) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:17) Cannot load symbol 'C1206'
-\i (00:00:17) pick grid dbl 352.8926 407.3334
-\t (00:00:17) last pick:  353.0600 406.4000
-\e (00:00:17) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:17) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:17) Cannot load symbol 'C1206'
-\i (00:00:18) pick grid 353.2782 407.7191
-\t (00:00:18) last pick:  353.0600 408.9400
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:18) Cannot load symbol 'C1206'
-\i (00:00:18) pick grid dbl 353.2782 407.7191
-\t (00:00:18) last pick:  353.0600 408.9400
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:18) Cannot load symbol 'C1206'
-\i (00:00:18) pick grid 353.2782 407.7191
-\t (00:00:18) last pick:  353.0600 408.9400
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:18) Cannot load symbol 'C1206'
-\i (00:00:18) pick grid dbl 353.2782 407.7191
-\t (00:00:18) last pick:  353.0600 408.9400
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:18) Cannot load symbol 'C1206'
-\i (00:00:18) pick grid 353.2782 407.7191
-\t (00:00:18) last pick:  353.0600 408.9400
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design sot230p700x180-4n.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design sot230p700x180-4n.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\e (00:00:18) Cannot load symbol 'SOT230P700X180-4N'
-\i (00:00:19) pick grid dbl 353.2782 407.7191
-\t (00:00:19) last pick:  353.0600 408.9400
-\e (00:00:19) ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\w (00:00:19) WARNING(SPMHUT-127): Could not find padstack R85_30.
-\e (00:00:19) ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\w (00:00:19) WARNING(SPMHUT-127): Could not find padstack R85_30.
-\e (00:00:19) Cannot load symbol '2193200001'
-\e (00:00:19)   because WARNING(SPMHUT-127): Could not find padstack R85_30.
-   With Padstack: ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\i (00:00:19) pick grid 353.2782 407.7191
-\t (00:00:19) last pick:  353.0600 408.9400
-\i (00:00:19) placementedit 
-\i (00:00:57) design sync eco 
-\t (00:00:57) > Requesting Capture to open design
-\t (00:00:57) > Response received OpenDesign is done by remote tool
-\t (00:00:57) Design opened successfully
-\t (00:00:57) > Requesting Capture to generate logical netlist
-\t (00:00:57) > Requesting Capture to open design
-\t (00:00:58) > Response received LogicalNetlistGeneration is done by remote tool
-\t (00:00:58) Logical netlist generated successfully at d:\projects\hardwaredesign\dosti mps-3\allegro
-\t (00:00:58) > Requesting Capture to generate logical netlist
-\t (00:00:58) > Response received OpenDesign is done by remote tool
-\t (00:00:58) Design opened successfully
-\t (00:00:58) > Generating Physical Netlist
-\t (00:00:58) Starting genfeedformat...
-\t (00:00:58) > Generating Physical Netlist successful
-\t (00:00:58) > Generating Differences
-\t (00:00:59) > Generating Differences successful
-\t (00:00:59) > Displaying differences output
-\i (00:00:59) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
-\i (00:00:59) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
-\t (00:00:59) > Displaying differences output successful
-\t (00:00:59) > Response received LogicalNetlistGeneration is done by remote tool
-\t (00:00:59) Logical netlist generated successfully at d:\projects\hardwaredesign\dosti mps-3\allegro
-\i (00:01:02) QtSignal DesignSyncDialog sync_button clicked
-\t (00:01:02) > Sending response DoneOpenBoard
-\t (00:01:02) Starting Cadence Logic Import...
-\w (00:01:03) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
-\t (00:01:03) Opening existing design...
-\t (00:01:03) Grids are drawn 1300.4800, 1300.4800 apart for enhanced viewing.
-\i (00:01:03) setwindow form.mini
-\i (00:01:03) FORM mini tree  'Components by refdes' 
-\i (00:01:03) setwindow pcb
-\i (00:01:03) trapsize 19284
-\e (00:01:03) ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\w (00:01:03) WARNING(SPMHUT-127): Could not find padstack R85_30.
-\t (00:01:03) Placed 10 of 11 symbols.
-\i (00:01:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
-\i (00:01:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
-\i (00:01:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
-\i (00:01:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
-\i (00:01:03) placementedit 
-\i (00:01:07) setwindow text
-\i (00:01:07) close
-\i (00:01:08) setwindow form.mini
-\i (00:01:08) FORM mini tree 'MULTISEL YES' 'Components by refdes' 
-\i (00:01:08) setwindow pcb
-\i (00:01:08) place manual 
-\t (00:01:08) last pick:  324.3744 510.5300
-\t (00:01:08) Placing C1 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
-\i (00:01:10) zoom in 1 
-\i (00:01:10) setwindow pcb
-\i (00:01:10) zoom in 420.7713 293.5593
-\i (00:01:10) trapsize 9642
-\i (00:01:10) zoom in 1 
-\i (00:01:10) setwindow pcb
-\i (00:01:10) zoom in 422.5069 292.5952
-\i (00:01:10) trapsize 4821
-\i (00:01:10) zoom in 1 
-\i (00:01:10) setwindow pcb
-\i (00:01:10) zoom in 424.0496 295.1021
-\i (00:01:10) trapsize 2410
-\i (00:01:12) pick grid 422.6034 311.3969
-\t (00:01:12) last pick:  421.6400 312.4200
-\t (00:01:12) last pick:  309.7900 521.8300
-\t (00:01:12) Placing C6 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N on Top.
-\i (00:01:12) pick grid 421.7838 310.9630
-\t (00:01:12) last pick:  421.6400 309.8800
-\t (00:01:12) last pick:  297.3100 521.8300
-\t (00:01:12) Placing C7 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
-\i (00:01:13) pick grid 421.5428 308.5525
-\t (00:01:13) last pick:  421.6400 307.3400
-\t (00:01:13) last pick:  309.7900 533.1300
-\t (00:01:13) Placing C8 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N on Top.
-\i (00:01:13) pick grid 421.4946 305.9974
-\t (00:01:13) last pick:  421.6400 304.8000
-\t (00:01:13) last pick:  322.2700 521.8300
-\t (00:01:13) Placing C9 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
-\i (00:01:14) pick grid 425.5441 311.8790
-\t (00:01:14) last pick:  426.7200 312.4200
-\t (00:01:14) last pick:  284.8300 521.8300
-\t (00:01:14) Placing C10 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N on Top.
-\i (00:01:15) pick grid 425.9780 311.0112
-\t (00:01:15) last pick:  426.7200 309.8800
-\t (00:01:15) last pick:  322.2700 533.1300
-\t (00:01:15) Placing C11 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
-\i (00:01:16) pick grid 426.1227 308.4561
-\t (00:01:16) last pick:  426.7200 307.3400
-\t (00:01:16) last pick:  241.2700 499.2300
-\t (00:01:16) Placing C12 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P / CAPC1608X90N on Top.
-\i (00:01:16) pick grid 426.1227 306.0456
-\t (00:01:16) last pick:  426.7200 304.8000
-\t (00:01:16) last pick:  253.7500 499.2300
-\t (00:01:16) Placing C13 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P / CAPC1608X90N on Top.
-\i (00:01:17) pick grid 430.5579 311.9272
-\t (00:01:17) last pick:  431.8000 312.4200
-\t (00:01:17) last pick:  269.2900 484.9550
-\t (00:01:17) Placing IC2 / LM1117MPX-50NOPB_SOT230P700X180-3N_LM1117MPX-50NOPB / SOT230P700X180-3N on Top.
-\i (00:01:19) pick grid 412.8169 313.8556
-\t (00:01:19) last pick:  414.0200 314.9600
-\e (00:01:19) ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\w (00:01:19) WARNING(SPMHUT-127): Could not find padstack R85_30.
-\e (00:01:19) ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\w (00:01:19) WARNING(SPMHUT-127): Could not find padstack R85_30.
-\e (00:01:19) Cannot load symbol '2193200001'
-\e (00:01:19)   because WARNING(SPMHUT-127): Could not find padstack R85_30.
-   With Padstack: ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\i (00:01:26) refdes J4 
-\i (00:01:26) xname_flush 
-\i (00:01:46) xname_flush 
-\i (00:01:48) xname_flush '!' 
-\i (00:02:04) zoom out 1 
-\i (00:02:04) setwindow pcb
-\i (00:02:04) zoom out 403.9463 308.5525
-\i (00:02:04) trapsize 4821
-\i (00:02:04) zoom out 1 
-\i (00:02:04) setwindow pcb
-\i (00:02:04) zoom out 405.7783 308.8418
-\i (00:02:04) trapsize 9642
-\i (00:02:08) setwindow form.mini
-\i (00:02:08) FORM mini tree 'MULTISEL YES' 'Components by refdes' 
-\t (00:02:08) last pick:  421.6400 312.4200
-\t (00:02:08) Placing C1 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
-\i (00:02:09) setwindow pcb
-\i (00:02:09) zoom in 1 
-\i (00:02:09) setwindow pcb
-\i (00:02:09) zoom in 394.5939 325.4259
-\i (00:02:09) trapsize 4821
-\i (00:02:11) zoom in 1 
-\i (00:02:11) setwindow pcb
-\i (00:02:11) zoom in 430.1724 323.3047
-\i (00:02:11) trapsize 2410
-\i (00:02:12) pick grid 438.1752 321.3764
-\t (00:02:12) last pick:  439.4200 322.5800
-\t (00:02:12) last pick:  421.6400 309.8800
-\t (00:02:12) Placing C6 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N on Top.
-\i (00:02:13) pick grid 439.3322 321.2317
-\t (00:02:13) last pick:  439.4200 320.0400
-\t (00:02:13) last pick:  421.6400 307.3400
-\t (00:02:13) Placing C7 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
-\i (00:02:13) pick grid 439.5251 318.6766
-\t (00:02:13) last pick:  439.4200 317.5000
-\t (00:02:13) last pick:  421.6400 304.8000
-\t (00:02:13) Placing C8 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N on Top.
-\i (00:02:14) pick grid 439.4286 316.1698
-\t (00:02:14) last pick:  439.4200 314.9600
-\t (00:02:14) last pick:  426.7200 312.4200
-\t (00:02:14) Placing C9 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
-\i (00:02:15) pick grid 439.1876 313.6629
-\t (00:02:15) last pick:  439.4200 312.4200
-\t (00:02:15) last pick:  426.7200 309.8800
-\t (00:02:15) Placing C10 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N on Top.
-\i (00:02:16) pick grid 439.0430 311.0114
-\t (00:02:16) last pick:  439.4200 309.8800
-\t (00:02:16) last pick:  426.7200 307.3400
-\t (00:02:16) Placing C11 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
-\i (00:02:17) pick grid 439.6697 308.4563
-\t (00:02:17) last pick:  439.4200 307.3400
-\t (00:02:17) last pick:  426.7200 304.8000
-\t (00:02:17) Placing C12 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P / CAPC1608X90N on Top.
-\i (00:02:18) pick grid 439.6215 306.0458
-\t (00:02:18) last pick:  439.4200 304.8000
-\t (00:02:18) last pick:  431.8000 312.4200
-\t (00:02:18) Placing C13 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P / CAPC1608X90N on Top.
-\i (00:02:20) pick grid 434.3667 321.3282
-\t (00:02:20) last pick:  434.3400 322.5800
-\t (00:02:20) last pick:  414.0200 314.9600
-\t (00:02:20) Placing IC2 / LM1117MPX-50NOPB_SOT230P700X180-3N_LM1117MPX-50NOPB / SOT230P700X180-3N on Top.
-\i (00:02:21) pick grid 432.9204 318.0017
-\t (00:02:21) last pick:  431.8000 317.5000
-\e (00:02:21) ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\w (00:02:21) WARNING(SPMHUT-127): Could not find padstack R85_30.
-\e (00:02:21) ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\w (00:02:21) WARNING(SPMHUT-127): Could not find padstack R85_30.
-\e (00:02:21) Cannot load symbol '2193200001'
-\e (00:02:21)   because WARNING(SPMHUT-127): Could not find padstack R85_30.
-   With Padstack: ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\i (00:02:22) prepopup 419.2289 321.7620
-\i (00:02:22) done 
-\i (00:02:22) placementedit 
-\i (00:02:26) zoom out 1 
-\i (00:02:26) setwindow pcb
-\i (00:02:26) zoom out 418.6022 310.5775
-\i (00:02:26) trapsize 4821
-\i (00:02:26) zoom out 1 
-\i (00:02:26) setwindow pcb
-\i (00:02:26) zoom out 422.5553 307.7813
-\i (00:02:26) trapsize 9642
-\i (00:02:32) place param 
-\i (00:02:32) placementedit 
-\i (00:02:38) setwindow form.plpmanual
-\i (00:02:38) FORM plpmanual overlap YES 
-\i (00:02:39) FORM plpmanual soft_boundary YES 
-\i (00:02:39) FORM plpmanual clock_redistribute YES 
-\i (00:02:40) FORM plpmanual cluster YES 
-\i (00:02:40) FORM plpmanual no_rat YES 
-\i (00:02:40) FORM plpmanual remove_tag YES 
-\i (00:02:41) FORM plpmanual placeit  
-\i (00:02:41) setwindow pcb
-\i (00:02:41) place execute 
-\w (00:02:41) WARNING(SPMHPL-31): There were 1 warnings reported in the log file.
-\i (00:02:41) placementedit 
-\i (00:02:51) place interactive 
-\e (00:02:51) ERROR(SPMHGE-457): Error see the logfile.
-\i (00:02:51) placementedit 
-\i (00:02:57) QtSignal CWorkFlowWidget CWorkFlowWidget_tree customContextMenuRequest "Setup  (2/3)" +
-\i (00:02:57) QtSignal Colors
-\i (00:02:57) QtSignal CWorkFlowWidget_tree Mark_Complete triggered
-\i (00:02:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/9)"
-\i (00:02:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/9)"
-\i (00:02:59) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/9)" +
-\i (00:02:59) QtSignal "Board Outline  (0/6)"
-\i (00:02:59) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/9)" +
-\i (00:02:59) QtSignal "Board Outline  (0/6)"
-\i (00:02:59) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/9)" +
-\i (00:02:59) QtSignal "Board Outline  (0/6)" "Create  (0/2)"
-\i (00:02:59) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/9)" +
-\i (00:02:59) QtSignal "Board Outline  (0/6)" "Create  (0/2)"
-\i (00:03:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/9)" +
-\i (00:03:00) QtSignal "Board Outline  (0/6)" "Create  (0/2)"
-\i (00:03:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/9)" +
-\i (00:03:00) QtSignal "Board Outline  (0/6)" "Create  (0/2)"
-\i (00:03:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/9)" +
-\i (00:03:00) QtSignal "Board Outline  (0/6)"
-\i (00:03:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/9)" +
-\i (00:03:00) QtSignal "Board Outline  (0/6)"
-\i (00:03:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/9)"
-\i (00:03:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/9)"
-\i (00:03:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/9)" +
-\i (00:03:03) QtSignal "Cross Section (Stack-up)  (0/1)"
-\i (00:03:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/9)" +
-\i (00:03:03) QtSignal "Cross Section (Stack-up)  (0/1)"
-\i (00:03:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/9)" +
-\i (00:03:03) QtSignal "Cross Section (Stack-up)  (0/1)" Create
-\i (00:03:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/9)" +
-\i (00:03:03) QtSignal "Cross Section (Stack-up)  (0/1)" Create
-\i (00:03:03) xsection 
-\i (00:03:07) QtSignal SPBMainWindow CCMQtXSectionDlg closed
-\i (00:03:07) QtSignal m_vSplitter m_stackupsTab currentChanged
-\i (00:03:07) QtSignal m_vSplitter m_stackupsTab currentChanged
-\i (00:03:07) QtSignal CCMQtXSectionDlg AddLayerDlg closed
-\i (00:03:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
-\i (00:03:08) QtSignal "Cross Section (Stack-up)  (0/1)" 0 "|" Create
-\i (00:03:08) placementedit 
-\i (00:03:08) save 
-\i (00:03:09) fillin yes 
-\t (00:03:09) Loading consmgr.cxt 
-\t (00:03:09) Loading acns_formula.cxt 
-\t (00:03:09) > Sending response DoneOpenBoard
-\i (00:03:09) placementedit 
-\i (00:03:11) exit 
-\t (00:03:11) Lic Summary:
-[20:30:10.001080] cdslmd servers: DESKTOP-D851ENJ
-[20:30:10.001080] Feature usage summary:
-[20:30:10.001080] Allegro_PCB_RF  
-[20:30:10.001080] Allegro_PCB_Harmony_Option  
-[20:30:10.001080] Allegro_Venture_PCB_Designer  
-[20:30:10.001080] PCB_design_studio  
-[20:30:10.001080] Venture_PCB_Schematic  
-[20:30:10.001080] Allegro_Venture_PCB_Designer2  
-[20:30:10.016432]  Allegro_PCB_Productivity_TB  
-[20:30:10.309495]   Allegro_X_Platinum_Layout  
+\t (00:00:02) allegro 24.1 S002 (4270188) [1/23/2025] Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Feb 17 11:43:56 2025
+\t (00:00:02)         Host=DESKTOP-2BLDU22 User=Tokito Pid=4808 CPUs=4
+\t (00:00:02) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession Tokito -proj D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.opj D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd
+\t (00:00:02) 
+\t (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged mps3hwdk
+\d (00:00:05) Design opened: D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd
+\i (00:00:05) trapsize 24148
+\i (00:00:05) trapsize 26814
+\i (00:00:06) trapsize 10983
+\i (00:00:06) trapsize 11330
+\i (00:00:06) trapsize 11700
+\i (00:00:06) trapsize 29617
+\t (00:00:06) > Sending response DoneOpenBoard
+\t (00:00:06) Loading NV GPU Plugin
+\i (00:00:06) trapsize 21584
+\i (00:00:07) generaledit 
+\i (00:00:14) trapsize 27745
+\i (00:00:14) trapsize 26922
+\i (00:00:16) trapsize 31250
+\i (00:00:20) trapsize 16008
+\i (00:00:46) manage_settings 
+\i (00:00:46) QtSignal SPBManageSettingsDialog ManageSettingsDlg_List currentRowChanged 0
+\i (00:00:47) QtSignal SPBManageSettingsDialog SPBManageSettingsDialog closed
+\i (00:00:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup  (0/3)"
+\i (00:00:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup  (0/3)"
+\i (00:01:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup  (0/3)"
+\i (00:01:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup  (0/3)"
+\i (00:01:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup  (0/3)" "Design Parameters"
+\i (00:01:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup  (0/3)" "Design Parameters"
+\i (00:01:03) prmed 
+\i (00:01:06) setwindow form.prmedit
+\i (00:01:06) FORM prmedit display_grid YES 
+\t (00:01:06) Grids are drawn 200.00, 200.00 apart for enhanced viewing.
+\i (00:01:09) FORM prmedit design  
+\i (00:01:09) FORM prmedit shapes  
+\i (00:01:10) FORM prmedit text  
+\i (00:01:10) FORM prmedit flow_planning  
+\i (00:01:10) FORM prmedit route  
+\i (00:01:11) FORM prmedit mfg_applications  
+\i (00:01:12) FORM prmedit display  
+\i (00:01:13) FORM prmedit cancel  
+\i (00:01:13) setwindow pcb
+\i (00:01:13) generaledit 
+\i (00:01:14) prmed 
+\i (00:01:14) FORM prmedit design 
+\i (00:01:14) setwindow form.prmedit
+\i (00:01:14) FORM prmedit design  
+\i (00:01:14) setwindow pcb
+\i (00:01:14) trapsize 16008
+\i (00:01:16) setwindow form.prmedit
+\i (00:01:16) FORM prmedit units Millimeter 
+\e (00:01:16) Change may cause round-off; run dbcheck.
+\i (00:01:21) FORM prmedit cancel  
+\i (00:01:21) setwindow pcb
+\i (00:01:21) generaledit 
+\i (00:01:22) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:01:29) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup  (0/3)" Grids
+\i (00:01:29) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup  (0/3)" Grids
+\i (00:01:29) define grid 
+\t (00:01:29) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:01:33) setwindow form.grid
+\i (00:01:33) FORM grid display YES 
+\i (00:01:54) FORM grid non_etch non_etch_x_grids 6.25 
+\i (00:01:56) FORM grid non_etch non_etch_y_grids 6.25 
+\i (00:02:02) FORM grid top subclass_x_grids 1.27 
+\i (00:02:03) FORM grid top subclass_y_grids 1.27 
+\i (00:02:03) FORM grid bottom subclass_x_grids 1.27 
+\i (00:02:04) FORM grid bottom subclass_y_grids 1.27 
+\i (00:02:04) FORM grid all_etch all_etch_y_grids 1.27 
+\i (00:02:06) FORM grid all_etch all_etch_x_grids 1.27 
+\i (00:02:06) FORM grid apply  
+\i (00:02:07) FORM grid done  
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom in 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom in 4193.97 9316.38
+\t (00:02:07) Grids are drawn 100.00, 100.00 apart for enhanced viewing.
+\i (00:02:07) trapsize 8004
+\i (00:02:07) zoom in 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom in 4193.98 9316.38
+\t (00:02:07) Grids are drawn 50.00, 50.00 apart for enhanced viewing.
+\i (00:02:07) trapsize 4002
+\i (00:02:08) zoom in 1 
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom in 3905.85 9436.44
+\t (00:02:08) Grids are drawn 25.00, 25.00 apart for enhanced viewing.
+\i (00:02:08) trapsize 2001
+\i (00:02:08) zoom in 1 
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom in 3609.71 9508.48
+\t (00:02:08) Grids are drawn 12.50, 12.50 apart for enhanced viewing.
+\i (00:02:08) trapsize 1000
+\i (00:02:08) zoom in 1 
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom in 3611.71 9510.49
+\i (00:02:08) trapsize 500
+\i (00:02:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree customContextMenuRequest "Setup  (0/3)" +
+\i (00:02:10) QtSignal "Design Parameters"
+\i (00:02:11) QtSignal CWorkFlowWidget_tree Mark_Complete triggered
+\i (00:02:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree customContextMenuRequest "Setup  (1/3)" +
+\i (00:02:11) QtSignal Grids
+\i (00:02:12) QtSignal CWorkFlowWidget_tree Mark_Complete triggered
+\i (00:02:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup  (2/3)" Colors
+\i (00:02:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup  (2/3)" Colors
+\i (00:02:12) color192 
+\i (00:02:13) generaledit 
+\i (00:02:15) QtSignal CVDTabs CVDLayerContainer keyPressEvent 16777248 33554432 false 1
+\i (00:02:18) QtSignal CVDLayerContainer CVDFilterLayerEntry editingFinished Pin
+\i (00:02:18) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox PkgGeo 0
+\i (00:02:18) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:02:23) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:02:24) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:02:25) QtSignal CWorkFlowWidget CWorkFlowWidget_tree customContextMenuRequest "Setup  (2/3)" +
+\i (00:02:25) QtSignal Colors
+\i (00:02:25) QtSignal CWorkFlowWidget_tree Mark_Complete triggered
+\i (00:02:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup (Complete)"
+\i (00:02:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup (Complete)"
+\i (00:02:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/8)"
+\i (00:02:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/8)"
+\i (00:02:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/8)" +
+\i (00:02:27) QtSignal "Board Outline  (0/5)"
+\i (00:02:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/8)" +
+\i (00:02:27) QtSignal "Board Outline  (0/5)"
+\i (00:02:28) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/8)" +
+\i (00:02:28) QtSignal "Board Outline  (0/5)" "Create  (0/1)"
+\i (00:02:28) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/8)" +
+\i (00:02:28) QtSignal "Board Outline  (0/5)" "Create  (0/1)"
+\i (00:02:34) trapsize 480
+\i (00:02:43) setwindow form.mini
+\i (00:02:43) FORM mini subclass DESIGN_OUTLINE 
+\i (00:02:43) setwindow pcb
+\i (00:02:43) updateport CVPane
+\i (00:02:46) shape add 
+\i (00:02:49) pick grid 3723.15 9655.78
+\t (00:02:49) last pick:  3725.00 9656.25
+\i (00:02:53) prepopup 3924.77 9645.22
+\i (00:02:54) cancel 
+\i (00:02:54) generaledit 
+\i (00:02:56) shape add rect 
+\i (00:03:04) setwindow form.mini
+\i (00:03:04) FORM mini rec_corner_type_ch YES 
+\i (00:03:04) FORM mini rec_corner_type_rd YES 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) pick grid 3770.20 9610.66
+\t (00:03:06) last pick:  3768.75 9612.50
+\i (00:03:08) zoom in 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom in 3794.20 9570.33
+\i (00:03:08) trapsize 240
+\i (00:03:08) zoom in 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom in 3792.28 9570.34
+\i (00:03:08) trapsize 120
+\i (00:03:09) zoom out 1 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom out 3776.68 9582.82
+\i (00:03:09) trapsize 240
+\i (00:03:09) zoom out 1 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom out 3776.21 9582.82
+\i (00:03:09) trapsize 480
+\i (00:03:09) zoom in 1 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom in 3749.32 9619.30
+\i (00:03:09) trapsize 240
+\i (00:03:09) zoom in 1 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom in 3749.32 9619.30
+\i (00:03:09) trapsize 120
+\i (00:03:09) zoom in 1 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom in 3749.32 9619.30
+\i (00:03:09) trapsize 60
+\i (00:03:10) zoom in 1 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) zoom in 3751.00 9619.18
+\i (00:03:10) trapsize 30
+\i (00:03:11) zoom out 1 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) zoom out 3771.82 9609.76
+\i (00:03:11) trapsize 60
+\i (00:03:11) zoom out 1 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) zoom out 3772.66 9608.68
+\i (00:03:11) trapsize 120
+\i (00:03:11) zoom out 1 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) zoom out 3786.10 9591.40
+\i (00:03:11) trapsize 240
+\i (00:03:12) zoom out 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom out 3824.02 9554.44
+\i (00:03:12) trapsize 480
+\i (00:03:12) zoom out 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom out 3833.62 9541.00
+\i (00:03:12) trapsize 960
+\i (00:03:12) roam start
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -32
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -32
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -32
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -32
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -32
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -32
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -32
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -32
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam y -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:12) roam x -16
+\i (00:03:13) roam y -16
+\i (00:03:13) roam x -16
+\i (00:03:13) roam x -16
+\i (00:03:13) roam x -16
+\i (00:03:13) roam y -16
+\i (00:03:13) roam x -16
+\i (00:03:13) roam y -16
+\i (00:03:13) roam y -16
+\i (00:03:13) roam y -16
+\i (00:03:13) roam y -16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y -16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam y 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:13) roam x 16
+\i (00:03:14) roam x 16
+\i (00:03:14) roam x 16
+\i (00:03:14) roam x 16
+\i (00:03:14) roam x 16
+\i (00:03:14) roam x 16
+\i (00:03:14) roam x 16
+\i (00:03:14) roam x -16
+\i (00:03:14) roam x -16
+\i (00:03:14) roam x -16
+\i (00:03:14) roam x -16
+\i (00:03:14) roam end
+\i (00:03:14) zoom out 1 
+\i (00:03:14) setwindow pcb
+\i (00:03:14) zoom out 2709.12 9884.16
+\t (00:03:14) Grids are drawn 25.00, 25.00 apart for enhanced viewing.
+\i (00:03:14) trapsize 1920
+\i (00:03:14) zoom out 1 
+\i (00:03:14) setwindow pcb
+\i (00:03:14) zoom out 2709.12 9880.32
+\t (00:03:14) Grids are drawn 50.00, 50.00 apart for enhanced viewing.
+\i (00:03:14) trapsize 3840
+\i (00:03:14) zoom out 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom out 3525.12 9880.32
+\t (00:03:15) Grids are drawn 100.00, 100.00 apart for enhanced viewing.
+\i (00:03:15) trapsize 7680
+\i (00:03:15) zoom out 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom out 7050.24 9880.32
+\t (00:03:15) Grids are drawn 200.00, 200.00 apart for enhanced viewing.
+\i (00:03:15) trapsize 16008
+\i (00:03:15) zoom in 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom in 5506.59 7619.58
+\t (00:03:15) Grids are drawn 100.00, 100.00 apart for enhanced viewing.
+\i (00:03:15) trapsize 8004
+\i (00:03:16) zoom in 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom in 5682.68 7363.46
+\t (00:03:16) Grids are drawn 50.00, 50.00 apart for enhanced viewing.
+\i (00:03:16) trapsize 4002
+\i (00:03:17) pick grid 6691.15 6683.15
+\t (00:03:17) last pick:  6693.75 6681.25
+\i (00:03:18) prepopup 6122.89 8467.99
+\i (00:03:18) done 
+\i (00:03:18) generaledit 
+\i (00:03:19) roam start
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -32
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -32
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam y -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam y -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam y -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam x -16
+\i (00:03:19) roam y -16
+\i (00:03:19) roam y -16
+\i (00:03:19) roam y -16
+\i (00:03:19) roam y -16
+\i (00:03:19) roam y -16
+\i (00:03:19) roam y -16
+\i (00:03:19) roam y -16
+\i (00:03:19) roam y -16
+\i (00:03:19) roam y -16
+\i (00:03:19) roam x 16
+\i (00:03:19) roam x 16
+\i (00:03:19) roam x 16
+\i (00:03:19) roam x 16
+\i (00:03:19) roam x 16
+\i (00:03:19) roam x 16
+\i (00:03:19) roam x 16
+\i (00:03:19) roam x 16
+\i (00:03:19) roam x 16
+\i (00:03:19) roam x 16
+\i (00:03:19) roam x 16
+\i (00:03:19) roam x 16
+\i (00:03:19) roam x 16
+\i (00:03:19) roam y 16
+\i (00:03:19) roam x 16
+\i (00:03:19) roam y 16
+\i (00:03:19) roam x 16
+\i (00:03:20) roam x 16
+\i (00:03:20) roam y 16
+\i (00:03:20) roam x 16
+\i (00:03:20) roam y 16
+\i (00:03:20) roam x 16
+\i (00:03:20) roam y 16
+\i (00:03:20) roam x 16
+\i (00:03:20) roam y 16
+\i (00:03:20) roam end
+\i (00:03:23) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/8)" +
+\i (00:03:23) QtSignal "Board Outline  (0/5)"
+\i (00:03:23) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/8)" +
+\i (00:03:23) QtSignal "Board Outline  (0/5)"
+\i (00:03:23) QtSignal CWorkFlowWidget CWorkFlowWidget_tree customContextMenuRequest "Database Preparation  (0/8)" +
+\i (00:03:23) QtSignal "Board Outline  (0/5)"
+\i (00:03:24) QtSignal CWorkFlowWidget_tree Mark_Complete triggered
+\i (00:03:25) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (5/8)" +
+\i (00:03:25) QtSignal "Cross Section (Stack-up)  (0/1)"
+\i (00:03:25) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (5/8)" +
+\i (00:03:25) QtSignal "Cross Section (Stack-up)  (0/1)"
+\i (00:03:25) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (5/8)" +
+\i (00:03:25) QtSignal "Cross Section (Stack-up)  (0/1)" Create
+\i (00:03:25) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (5/8)" +
+\i (00:03:25) QtSignal "Cross Section (Stack-up)  (0/1)" Create
+\i (00:03:25) xsection 
+\i (00:03:51) QtSignal inCell combo CurrentIndexChanged "1mm Copper"
+\i (00:03:51) QtSignal inCell combo CurrentIndexChanged Copper
+\i (00:03:56) QtSignal CCMQtXSectionDlg m_ApplyBtn clicked
+\i (00:03:57) QtSignal CCMQtXSectionDlg AddLayerDlg closed
+\i (00:03:58) QtSignal CCMQtXSectionDlg m_OkBtn clicked
+\i (00:03:58) QtSignal CCMQtXSectionDlg AddLayerDlg closed
+\i (00:03:59) generaledit 
+\i (00:04:00) prmed 
+\i (00:04:00) FORM prmedit design 
+\i (00:04:00) trapsize 4002
+\i (00:04:02) setwindow form.prmedit
+\i (00:04:02) FORM prmedit units Millimeter 
+\e (00:04:02) Change may cause round-off; run dbcheck.
+\i (00:04:07) FORM prmedit apply  
+\w (00:04:08) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:04:08) Grids are drawn 1.2704, 1.2704 apart for enhanced viewing.
+\t (00:04:08) Loading consmgr.cxt 
+\t (00:04:08) Loading acns_formula.cxt 
+\i (00:04:08) setwindow pcb
+\i (00:04:08) trapsize 10165
+\t (00:04:08) Performing DRC...
+\t (00:04:08) Multithreaded DRC update (4 threads).
+\t (00:04:09) No DRC errors detected.
+\i (00:04:13) setwindow form.prmedit
+\i (00:04:13) FORM prmedit done  
+\i (00:04:13) setwindow pcb
+\i (00:04:13) generaledit 
+\i (00:04:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree customContextMenuRequest "Database Preparation  (5/8)" +
+\i (00:04:15) QtSignal "Cross Section (Stack-up)  (0/1)"
+\i (00:04:15) QtSignal CWorkFlowWidget_tree Mark_Complete triggered
+\i (00:04:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (6/8)" +
+\i (00:04:16) QtSignal "Cross Section (Stack-up) (Complete)"
+\i (00:04:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (6/8)" +
+\i (00:04:16) QtSignal "Cross Section (Stack-up) (Complete)"
+\i (00:04:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (6/8)" +
+\i (00:04:16) QtSignal "Netlist  (0/2)"
+\i (00:04:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (6/8)" +
+\i (00:04:16) QtSignal "Netlist  (0/2)"
+\i (00:04:18) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (6/8)" +
+\i (00:04:18) QtSignal "Netlist  (0/2)" Import
+\i (00:04:18) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (6/8)" +
+\i (00:04:18) QtSignal "Netlist  (0/2)" Import
+\i (00:04:18) netin 
+\i (00:04:22) setwindow form.niparams
+\i (00:04:22) FORM niparams import  
+\t (00:04:22) Starting Cadence Logic Import...
+\t (00:04:24) SpawnProcessExit background process completed status = 1
 
-\t (00:03:11)     Journal end - Sun Dec 22 20:30:10 2024
+\w (00:04:24) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:04:24) Opening existing design...
+\t (00:04:24) Grids are drawn 1.2704, 1.2704 apart for enhanced viewing.
+\i (00:04:24) setwindow pcb
+\i (00:04:24) trapsize 10165
+\i (00:04:26) generaledit 
+\i (00:04:33) setwindow text
+\i (00:04:33) close
+\i (00:04:35) setwindow pcb
+\i (00:04:35) QtSignal CWorkFlowWidget CWorkFlowWidget_tree customContextMenuRequest "Setup  (0/3)"
+\i (00:04:35) QtSignal CWorkFlowWidget_tree Mark_Complete triggered
+\i (00:04:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup (Complete)"
+\i (00:04:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup (Complete)"
+\i (00:04:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree customContextMenuRequest "Database Preparation  (0/8)"
+\i (00:04:37) QtSignal CWorkFlowWidget_tree Mark_Complete triggered
+\i (00:04:37) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Placement  (0/4)"
+\i (00:04:37) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Placement  (0/4)"
+\i (00:04:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Placement  (0/4)" +
+\i (00:04:38) QtSignal Manual
+\i (00:04:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Placement  (0/4)" Manual
+\i (00:04:38) place manual 
+\i (00:04:38) setwindow form.plc_manual
+\i (00:04:38) FORM plc_manual tree  'Components by refdes' 
+\i (00:04:40) FORM plc_manual tree  IC1 'Components by refdes' 
+\i (00:04:40) FORM plc_manual tree 'MULTISEL YES' IC1 'Components by refdes' 
+\e (00:04:40) Cannot load symbol 'QFP50P2200X2200X160-144N'
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom in 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom in 135.1916 228.9110
+\t (00:04:44) Grids are drawn 0.6352, 0.6352 apart for enhanced viewing.
+\i (00:04:44) trapsize 5082
+\i (00:04:44) zoom in 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom in 135.0900 228.8094
+\t (00:04:44) Grids are drawn 0.3176, 0.3176 apart for enhanced viewing.
+\i (00:04:44) trapsize 2541
+\i (00:04:44) zoom in 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom in 135.0901 228.8095
+\i (00:04:44) trapsize 1271
+\i (00:04:45) zoom out 1 
+\i (00:04:45) setwindow pcb
+\i (00:04:45) zoom out 135.0647 228.8095
+\i (00:04:45) trapsize 2541
+\i (00:04:45) zoom out 1 
+\i (00:04:45) setwindow pcb
+\i (00:04:45) zoom out 135.0646 228.8096
+\t (00:04:45) Grids are drawn 0.6352, 0.6352 apart for enhanced viewing.
+\i (00:04:45) trapsize 5082
+\i (00:04:47) setwindow form.plc_manual
+\i (00:04:47) FORM plc_manual cancel  
+\i (00:04:47) setwindow pcb
+\i (00:04:47) generaledit 
+\i (00:04:59) pop dyn_option_select 'Application Mode@:@Placement Edit' 
+\i (00:04:59) placementedit 
+\t (00:04:59) [11:48:53.003256] periodic Lic check successful
+[11:48:53.003256] Feature usage summary:
+[11:48:53.003256] Allegro_PCB_RF  
+[11:48:53.003256] Allegro_PCB_Harmony_Option  
+[11:48:53.003256] Allegro_Venture_PCB_Designer  
+[11:48:53.003256] PCB_design_studio  
+[11:48:53.003256] Venture_PCB_Schematic  
+[11:48:53.003256] Allegro_Venture_PCB_Designer2  
+[11:48:53.016560]  Allegro_PCB_Productivity_TB  
+[11:48:53.463367]   Allegro_X_Platinum_Layout  
+
+\i (00:04:59) setwindow form.mini
+\i (00:04:59) FORM mini tree  'Components by refdes' 
+\i (00:05:01) FORM mini tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) place manual 
+\e (00:05:01) Cannot load symbol 'QFP50P2200X2200X160-144N'
+\i (00:05:02) zoom in 1 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) zoom in 116.8694 228.4030
+\t (00:05:02) Grids are drawn 0.3176, 0.3176 apart for enhanced viewing.
+\i (00:05:02) trapsize 2541
+\i (00:05:02) zoom in 1 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) zoom in 116.3612 228.3522
+\i (00:05:02) trapsize 1271
+\i (00:05:03) zoom in 1 
+\i (00:05:03) setwindow pcb
+\i (00:05:03) zoom in 116.8186 229.3686
+\i (00:05:03) trapsize 635
+\i (00:05:03) zoom in 1 
+\i (00:05:03) setwindow pcb
+\i (00:05:03) zoom in 116.8186 229.3559
+\i (00:05:03) trapsize 318
+\i (00:05:03) zoom in 1 
+\i (00:05:03) setwindow pcb
+\i (00:05:03) zoom in 116.7995 229.3115
+\i (00:05:03) trapsize 159
+\i (00:05:03) pick grid 116.9329 229.1813
+\t (00:05:03) last pick:  116.8768 229.1484
+\i (00:05:03) placementedit 
+\i (00:05:04) zoom out 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom out 117.2220 229.1400
+\i (00:05:04) trapsize 318
+\i (00:05:04) zoom out 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom out 117.2284 229.1336
+\i (00:05:04) trapsize 635
+\i (00:05:04) zoom out 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom out 117.2284 229.1209
+\i (00:05:04) trapsize 1271
+\i (00:05:07) setwindow form.mini
+\i (00:05:07) FORM mini tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:05:07) setwindow pcb
+\i (00:05:07) place manual 
+\e (00:05:07) Cannot load symbol 'QFP50P2200X2200X160-144N'
+\i (00:05:08) pick grid 114.7125 231.6368
+\t (00:05:08) last pick:  114.6536 231.6892
+\i (00:05:08) placementedit 
+\i (00:05:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Placement  (0/4)"
+\i (00:05:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Placement  (0/4)"
+\i (00:06:14) xname_flush 
+\i (00:06:16) xname_flush '!' 
+\i (00:06:16) xrefdes Ic1 
+\t (00:06:16) Can not select unplaced component IC1.
+\t (00:06:16) Can not select unplaced component IC1.
+\i (00:06:16) xname_flush 
+\i (00:06:18) xname_flush 
+\i (00:06:19) xname_flush '!' 
+\i (00:06:40) xname_flush 
+\i (00:06:42) xname_flush '!' 
+\i (00:06:42) xname_flush 
+\i (00:06:43) xname_flush 
+\i (00:06:45) xname_flush '!' 
+\i (00:08:18) xrefdes '!' Ic1 
+\t (00:08:18) Can not select unplaced component IC1.
+\t (00:08:18) Can not select unplaced component IC1.
+\i (00:08:18) xname_flush '!' 
+\i (00:08:18) xdehilite 
+\i (00:08:18) xrefdes Ic1 
+\t (00:08:18) Can not select unplaced component IC1.
+\t (00:08:18) Can not select unplaced component IC1.
+\i (00:08:18) xname_flush 
+\i (00:08:18) done 
+\i (00:08:18) placementedit 
+\i (00:08:19) save 
+\i (00:08:20) fillin yes 
+\t (00:08:20) > Sending response DoneOpenBoard
+\i (00:08:20) placementedit 
+\i (00:08:24) pick grid 125.4629 230.5952
+\t (00:08:24) last pick:  125.4520 230.5776
+\i (00:08:24) exit 
+\t (00:08:25)     Journal end - Mon Feb 17 11:52:18 2025

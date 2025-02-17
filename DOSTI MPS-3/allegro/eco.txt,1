@@ -2,90 +2,232 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  d:/projects/hardwaredesign/dosti mps-3/allegro/mps3hwdk.brd                 |
-|                                                    Sun Dec 22 20:22:01 2024  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  3V3_ANA      pins MOVED FROM this net (to net name listed on right)
-                                 C6.2                           
-                                                                            3V3
-                                 C7.2                           
-                                                                            3V3
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  3V3          pins MOVED FROM this net (to net name listed on right)
-                                 C8.2                           
-                                                                        3V3_ANA
-                                 C11.2                          
-                                                                        3V3_ANA
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
-|------------------------------------------------------------------------------|
-|  d:/projects/hardwaredesign/dosti mps-3/allegro/mps3hwdk.brd                 |
-|                                                    Sun Dec 22 20:22:01 2024  |
+|  D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd                 |
+|                                                    Mon Feb 17 11:43:50 2025  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P
+ ICE40HX4K-TQ144_QFP50P2200X2200X160-144N_ICE40HX4K-TQ144
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd                 |
+|                                                    Mon Feb 17 11:43:50 2025  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1                 ICE40HX4K-TQ144_QFP50P2200X2200X160-144N_ICE40HX4K-TQ144 
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|  d:/projects/hardwaredesign/dosti mps-3/allegro/mps3hwdk.brd                 |
-|                                                    Sun Dec 22 20:22:01 2024  |
-|------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C1                  06034C104KAT2A_CAPC1608X90N_DISCRETE_100N                 C1206C223F8HACAUTO_C1206_DISCRETE_100N
- C6                  06034C104KAT2A_CAPC1608X90N_DISCRETE_10U                 C1206C223F8HACAUTO_C1206_DISCRETE_10U
- C7                  06034C104KAT2A_CAPC1608X90N_DISCRETE_100N                 C1206C223F8HACAUTO_C1206_DISCRETE_100N
- C8                  06034C104KAT2A_CAPC1608X90N_DISCRETE_10U                 C1206C223F8HACAUTO_C1206_DISCRETE_10U
- C9                  06034C104KAT2A_CAPC1608X90N_DISCRETE_100N                 C1206C223F8HACAUTO_C1206_DISCRETE_100N
- C10                 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U                 C1206C223F8HACAUTO_C1206_DISCRETE_10U
- C11                 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N                 C1206C223F8HACAUTO_C1206_DISCRETE_100N
- C12                 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P                 C1206C223F8HACAUTO_C1206_DISCRETE_1.2P
- C13                 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P                 C1206C223F8HACAUTO_C1206_DISCRETE_1.2P
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
-|------------------------------------------------------------------------------|
-|  d:/projects/hardwaredesign/dosti mps-3/allegro/mps3hwdk.brd                 |
-|                                                    Sun Dec 22 20:22:01 2024  |
+|  D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd                 |
+|                                                    Mon Feb 17 11:43:50 2025  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C1.2                           PRIM_FILE      .\pstchip.dat
- C1.2                           XY             (1090,380)
- C6.2                           PRIM_FILE      .\pstchip.dat
- C6.2                           XY             (1010,220)
- C7.2                           PRIM_FILE      .\pstchip.dat
- C7.2                           XY             (960,220)
- C8.2                           PRIM_FILE      .\pstchip.dat
- C8.2                           XY             (1010,120)
- C9.2                           PRIM_FILE      .\pstchip.dat
- C9.2                           XY             (1060,220)
- C10.2                          PRIM_FILE      .\pstchip.dat
- C10.2                          XY             (910,220)
- C11.2                          PRIM_FILE      .\pstchip.dat
- C11.2                          XY             (1060,120)
- C12.2                          PRIM_FILE      .\pstchip.dat
- C12.2                          XY             (120,490)
- C13.2                          PRIM_FILE      .\pstchip.dat
- C13.2                          XY             (180,490)
+ IC1.109                        PRIM_FILE      .\pstchip.dat
+ IC1.109                        XY             (270,150)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
 |------------------------------------------------------------------------------|
-|       Nets changed          :       4                                        |
+|  D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd                 |
+|                                                    Mon Feb 17 11:43:50 2025  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.1                          CDS_PINID      \IOL_2A\
+ IC1.2                          CDS_PINID      \IOL_2B\
+ IC1.3                          CDS_PINID      \IOL_3A\
+ IC1.4                          CDS_PINID      \IOL_3B\
+ IC1.5                          CDS_PINID      \GND_1\
+ IC1.6                          CDS_PINID      \VCCIO_3_1\
+ IC1.7                          CDS_PINID      \IOL_4A\
+ IC1.8                          CDS_PINID      \IOL_4B\
+ IC1.9                          CDS_PINID      \IOL_5A\
+ IC1.10                         CDS_PINID      \IOL_5B\
+ IC1.11                         CDS_PINID      \IOL_8A\
+ IC1.12                         CDS_PINID      \IOL_8B\
+ IC1.13                         CDS_PINID      \GND_2\
+ IC1.14                         CDS_PINID      \GND_3\
+ IC1.15                         CDS_PINID      \IOL_10A\
+ IC1.16                         CDS_PINID      \IOL_10B\
+ IC1.17                         CDS_PINID      \IOL_12A\
+ IC1.18                         CDS_PINID      \IOL_12B\
+ IC1.19                         CDS_PINID      \IOL_13A\
+ IC1.20                         CDS_PINID      \IOL_13B_GBIN7\
+ IC1.21                         CDS_PINID      \IOL_14A_GBIN6\
+ IC1.22                         CDS_PINID      \IOL_14B\
+ IC1.23                         CDS_PINID      \IOL_17A\
+ IC1.24                         CDS_PINID      \IOL_17B\
+ IC1.25                         CDS_PINID      \IOL_18A\
+ IC1.26                         CDS_PINID      \IOL_18B\
+ IC1.27                         CDS_PINID      \VCC_1\
+ IC1.28                         CDS_PINID      \IOL_23A\
+ IC1.29                         CDS_PINID      \IOL_23B\
+ IC1.30                         CDS_PINID      \VCCIO_3_2\
+ IC1.31                         CDS_PINID      \IOL_24A\
+ IC1.32                         CDS_PINID      \IOL_24B\
+ IC1.33                         CDS_PINID      \IOL_25A\
+ IC1.34                         CDS_PINID      \IOL_25B\
+ IC1.35                         CDS_PINID      \NC_1\
+ IC1.36                         CDS_PINID      \NC_2\
+ IC1.37                         CDS_PINID      \IOB_56\
+ IC1.38                         CDS_PINID      \IOB_57\
+ IC1.39                         CDS_PINID      \IOB_61\
+ IC1.40                         CDS_PINID      \VCC_2\
+ IC1.41                         CDS_PINID      \IOB_63\
+ IC1.42                         CDS_PINID      \IOB_64\
+ IC1.43                         CDS_PINID      \IOB_71\
+ IC1.44                         CDS_PINID      \IOB_72\
+ IC1.45                         CDS_PINID      \IOB_73\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd                 |
+|                                                    Mon Feb 17 11:43:50 2025  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.46                         CDS_PINID      \VCCIO_2_1\
+ IC1.47                         CDS_PINID      \IOB_79\
+ IC1.48                         CDS_PINID      \IOB_80\
+ IC1.49                         CDS_PINID      \IOB_81_GBIN5\
+ IC1.50                         CDS_PINID      \NC_3\
+ IC1.51                         CDS_PINID      \NC_4\
+ IC1.52                         CDS_PINID      \IOB_82_GBIN4\
+ IC1.53                         CDS_PINID      \GNDPLL0\
+ IC1.54                         CDS_PINID      \VCCPLL0\
+ IC1.55                         CDS_PINID      \IOB_91\
+ IC1.56                         CDS_PINID      \IOB_94\
+ IC1.57                         CDS_PINID      \VCCIO_2_2\
+ IC1.58                         CDS_PINID      \NC_5\
+ IC1.59                         CDS_PINID      \GND_4\
+ IC1.60                         CDS_PINID      \IOB_95\
+ IC1.61                         CDS_PINID      \IOB_96\
+ IC1.62                         CDS_PINID      \IOB_102\
+ IC1.63                         CDS_PINID      \IOB_103_CBSEL0\
+ IC1.64                         CDS_PINID      \IOB_104_CBSEL1\
+ IC1.65                         CDS_PINID      \CDONE\
+ IC1.66                         CDS_PINID      \CRESET_B\
+ IC1.67                         CDS_PINID      \IOB_105_SDO\
+ IC1.68                         CDS_PINID      \IOB_106_SDI\
+ IC1.69                         CDS_PINID      \GND_5\
+ IC1.70                         CDS_PINID      \IOB_107_SCK\
+ IC1.71                         CDS_PINID      \IOB_108_SS\
+ IC1.72                         CDS_PINID      \VCC_SPI\
+ IC1.73                         CDS_PINID      \IOR_109\
+ IC1.74                         CDS_PINID      \IOR_110\
+ IC1.75                         CDS_PINID      \IOR_111\
+ IC1.76                         CDS_PINID      \IOR_112\
+ IC1.77                         CDS_PINID      \NC_6\
+ IC1.78                         CDS_PINID      \IOR_114\
+ IC1.79                         CDS_PINID      \IOR_115\
+ IC1.80                         CDS_PINID      \IOR_116\
+ IC1.81                         CDS_PINID      \IOR_117\
+ IC1.82                         CDS_PINID      \IOR_118\
+ IC1.83                         CDS_PINID      \IOR_119\
+ IC1.84                         CDS_PINID      \IOR_120\
+ IC1.85                         CDS_PINID      \IOR_128\
+ IC1.86                         CDS_PINID      \GND_6\
+ IC1.87                         CDS_PINID      \IOR_136\
+ IC1.88                         CDS_PINID      \IOR_137\
+ IC1.89                         CDS_PINID      \VCCIO_1_1\
+ IC1.90                         CDS_PINID      \IOR_138\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd                 |
+|                                                    Mon Feb 17 11:43:50 2025  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.91                         CDS_PINID      \IOR_139\
+ IC1.92                         CDS_PINID      \VCC_3\
+ IC1.93                         CDS_PINID      \IOR_140_GBIN3\
+ IC1.94                         CDS_PINID      \IOR_141_GBIN2\
+ IC1.95                         CDS_PINID      \IOR_144\
+ IC1.96                         CDS_PINID      \IOR_146\
+ IC1.97                         CDS_PINID      \IOR_147\
+ IC1.98                         CDS_PINID      \IOR_148\
+ IC1.99                         CDS_PINID      \IOR_152\
+ IC1.100                        CDS_PINID      \VCCIO_1_2\
+ IC1.101                        CDS_PINID      \IOR_160\
+ IC1.102                        CDS_PINID      \IOR_161\
+ IC1.103                        CDS_PINID      \GND_7\
+ IC1.104                        CDS_PINID      \IOR_164\
+ IC1.105                        CDS_PINID      \IOR_165\
+ IC1.106                        CDS_PINID      \IOR_166\
+ IC1.107                        CDS_PINID      \IOR_167\
+ IC1.108                        CDS_PINID      \VPP_2V5\
+ IC1.109                        CDS_PINID      \VPP_FAST\
+ IC1.110                        CDS_PINID      \IOT_168\
+ IC1.111                        CDS_PINID      \VCC_4\
+ IC1.112                        CDS_PINID      \IOT_169\
+ IC1.113                        CDS_PINID      \IOT_170\
+ IC1.114                        CDS_PINID      \IOT_171\
+ IC1.115                        CDS_PINID      \IOT_172\
+ IC1.116                        CDS_PINID      \IOT_173\
+ IC1.117                        CDS_PINID      \IOT_174\
+ IC1.118                        CDS_PINID      \IOT_177\
+ IC1.119                        CDS_PINID      \IOT_178\
+ IC1.120                        CDS_PINID      \IOT_179\
+ IC1.121                        CDS_PINID      \IOT_181\
+ IC1.122                        CDS_PINID      \IOT_190\
+ IC1.123                        CDS_PINID      \VCCIO_0_1\
+ IC1.124                        CDS_PINID      \IOT_191\
+ IC1.125                        CDS_PINID      \IOT_192\
+ IC1.126                        CDS_PINID      \VCCPLL1\
+ IC1.127                        CDS_PINID      \GNDPLL1\
+ IC1.128                        CDS_PINID      \IOT_197_GBIN1\
+ IC1.129                        CDS_PINID      \IOT_198_GBIN0\
+ IC1.130                        CDS_PINID      \IOT_206\
+ IC1.131                        CDS_PINID      \VCCIO_0_2\
+ IC1.132                        CDS_PINID      \GND_8\
+ IC1.133                        CDS_PINID      \NC_7\
+ IC1.134                        CDS_PINID      \IOT_212\
+ IC1.135                        CDS_PINID      \IOT_213\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd                 |
+|                                                    Mon Feb 17 11:43:50 2025  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ IC1.136                        CDS_PINID      \IOT_214\
+ IC1.137                        CDS_PINID      \IOT_215\
+ IC1.138                        CDS_PINID      \IOT_216\
+ IC1.139                        CDS_PINID      \IOT_217\
+ IC1.140                        CDS_PINID      \GND_9\
+ IC1.141                        CDS_PINID      \IOT_219\
+ IC1.142                        CDS_PINID      \IOT_220\
+ IC1.143                        CDS_PINID      \IOT_221\
+ IC1.144                        CDS_PINID      \IOT_222\
+|------------------------------------------------------------------------------|
 |       Comp definitions added:       1                                        |
-|       Components changed    :       9                                        |
-|       Slot property added   :      18                                        |
+|       Components added      :       1                                        |
+|       Pin property added    :     144                                        |
+|       Slot property added   :       2                                        |
 |                                                                              |
-|   Total ECO changes reported:      32                                        |
+|   Total ECO changes reported:     148                                        |
 |------------------------------------------------------------------------------|
