@@ -1,62 +1,542 @@
-\t (00:00:09) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
-\t (00:00:09)     Journal start - Tue Dec 31 11:40:45 2024
-\t (00:00:09)         Host=DESKTOP-D851ENJ User=Prometheus Pid=10884 CPUs=12
-\t (00:00:09) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe
-\t (00:00:09) 
-\t (00:00:10) Loading axlcore.cxt 
-\t (00:00:11) Opening existing design...
-\d (00:00:11) Design opened: D:/Projects/HardwareDesign/ST-Link v3/allegro/ST-LINKV3_open.brd
-\i (00:00:11) trapsize 2048
-\i (00:00:12) trapsize 2194
-\i (00:00:12) trapsize 2240
-\i (00:00:12) trapsize 3371
-\i (00:00:12) trapsize 3371
-\t (00:00:12) > Sending response DoneOpenBoard
-\t (00:00:12) Loading NV GPU Plugin
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
-\i (00:00:12) QtSignal Modes
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
-\i (00:00:12) QtSignal "Board Outline  (0/6)" 0 "|" "Create  (1/2)"
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
-\i (00:00:12) QtSignal 0 "|" "Board Outline  (1/6)"
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/9)"
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/9)" +
-\i (00:00:12) QtSignal "Board Outline  (1/6)" "Create  (1/2)" 0 "|" Manual
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
-\i (00:00:12) QtSignal "|" "Shapes  (1/4)"
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
-\i (00:00:12) QtSignal 0 "|" Polygon
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
-\i (00:00:12) QtSignal 0 "|" "IPC-2581"
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
-\i (00:00:12) QtSignal 0 "|" Testprep
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
-\i (00:00:12) QtSignal Manual
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
-\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
-\i (00:00:12) QtSignal "Display Status"
-\i (00:00:12) trapsize 987
-\i (00:00:17) placementedit 
-\i (00:00:19) exit 
-\t (00:00:19) Lic Summary:
-[11:40:55.127000] Cdslmd servers: DESKTOP-D851ENJ
-[11:40:55.127004] Feature usage summary:
-[11:40:55.127004] Allegro_X_Platinum_Layout
-[11:40:55.127004] Allegro_PCB_Productivity_TB
-[11:40:55.127004] Allegro_PCB_RF
-[11:40:55.127004] Allegro_PCB_Harmony_Option
-[11:40:55.127004] Allegro_Venture_PCB_Designer
-[11:40:55.127004] PCB_design_studio
-[11:40:55.127004] Venture_PCB_Schematic
-[11:40:55.127004] Allegro_Venture_PCB_Designer2
+\t (00:00:26) allegro 24.1 S002 (4270188) [1/23/2025] Windows SPB 64-bit Edition
+\t (00:00:26)     Journal start - Thu Feb 13 11:13:40 2025
+\t (00:00:26)         Host=DESKTOP-D851ENJ User=Prometheus Pid=22420 CPUs=12
+\t (00:00:26) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe
+\t (00:00:26) 
+\d (00:00:26) Design opened: D:/Projects/HardwareDesign/ST-Link v3/allegro/ST-LINKV3_open.brd
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
+\i (00:00:26) QtSignal Modes
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/8)" +
+\i (00:00:26) QtSignal "Board Outline  (0/5)" "Create  (0/1)" 0 "|" Manual
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
+\i (00:00:26) QtSignal "|" "Shapes  (1/4)"
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
+\i (00:00:26) QtSignal 0 "|" Polygon
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
+\i (00:00:26) QtSignal 0 "|" "IPC-2581"
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
+\i (00:00:26) QtSignal 0 "|" Testprep
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
+\i (00:00:26) QtSignal Manual
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
+\i (00:00:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
+\i (00:00:26) QtSignal "Display Status"
+\i (00:00:26) generaledit 
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 171.7165 271.6097
+\i (00:00:27) trapsize 2056
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 171.6754 271.6098
+\i (00:00:27) trapsize 4112
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 171.6754 271.6098
+\i (00:00:27) trapsize 8224
+\i (00:00:27) roam start
+\i (00:00:27) roam x -16
+\i (00:00:27) roam x -16
+\i (00:00:27) roam x -16
+\i (00:00:27) roam x -16
+\i (00:00:27) roam x -16
+\i (00:00:27) roam x -16
+\i (00:00:27) roam x -16
+\i (00:00:27) roam x -16
+\i (00:00:27) roam x -32
+\i (00:00:27) roam x -16
+\i (00:00:28) roam x -16
+\i (00:00:28) roam x -16
+\i (00:00:28) roam x -16
+\i (00:00:28) roam x -16
+\i (00:00:28) roam x -16
+\i (00:00:28) roam x -16
+\i (00:00:28) roam x -16
+\i (00:00:28) roam x -16
+\i (00:00:28) roam x -16
+\i (00:00:28) roam x -16
+\i (00:00:28) roam x -16
+\i (00:00:28) roam x -16
+\i (00:00:28) roam x -16
+\i (00:00:28) roam x -32
+\i (00:00:28) roam x -16
+\i (00:00:28) roam y -16
+\i (00:00:28) roam y -16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam y -16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam y -16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam y -16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam y -16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam y -16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam y -16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam y 16
+\i (00:00:28) roam y 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam y 16
+\i (00:00:28) roam y 16
+\i (00:00:28) roam y 16
+\i (00:00:28) roam y 16
+\i (00:00:28) roam y 16
+\i (00:00:28) roam y 16
+\i (00:00:28) roam y 16
+\i (00:00:28) roam y 16
+\i (00:00:28) roam y 16
+\i (00:00:28) roam y 16
+\i (00:00:28) roam y 16
+\i (00:00:28) roam x -16
+\i (00:00:28) roam y 16
+\i (00:00:28) roam y 16
+\i (00:00:29) roam end
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 192.1155 265.8036
+\i (00:00:29) trapsize 4112
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 192.0333 265.2280
+\i (00:00:29) trapsize 2056
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 192.0333 265.2280
+\i (00:00:29) trapsize 1028
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 190.4091 264.8991
+\i (00:00:30) trapsize 2056
+\i (00:00:31) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 179.3065 251.1648
+\i (00:00:37) trapsize 4112
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 161.5424 245.4902
+\i (00:00:37) trapsize 8224
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 159.7330 226.0813
+\i (00:00:38) trapsize 4112
+\i (00:00:44) color192 
+\i (00:00:45) generaledit 
+\i (00:00:49) QtSignal CVDLayerContainer CVDFilterLayerEntry editingFinished pin
+\i (00:00:49) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox "Pin_Number" PkgGeo 0
+\i (00:00:49) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:00:49) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:00:51) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:00:51) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 155.4565 233.8943
+\i (00:00:55) trapsize 8224
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 186.3791 225.5056
+\i (00:00:56) trapsize 4112
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 177.6616 223.8608
+\i (00:00:56) trapsize 2056
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 211.1748 229.1243
+\i (00:00:56) trapsize 1028
+\i (00:00:57) zoom in 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom in 211.3187 229.4327
+\i (00:00:57) trapsize 514
+\i (00:00:57) pick grid 205.9628 232.2803
+\t (00:00:57) last pick:  205.9940 232.1560
+\i (00:00:58) prepopup 205.4488 233.1644
+\i (00:00:59) pick grid 204.9451 233.7195
+\t (00:00:59) last pick:  204.9780 233.6800
+\i (00:00:59) drag_start grid 208.1422 234.8709
+\i (00:01:00) drag_stop 205.4899 230.2757
+\i (00:01:00) save 
+\i (00:01:01) fillin yes 
+\t (00:01:01) > Sending response DoneOpenBoard
+\i (00:01:01) generaledit 
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom out 204.8320 234.0691
+\i (00:01:01) trapsize 1028
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 204.8320 234.0896
+\i (00:01:02) trapsize 2056
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 204.8321 234.0896
+\i (00:01:02) trapsize 4112
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 203.6806 232.8560
+\i (00:01:02) trapsize 8224
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 203.1873 232.0336
+\i (00:01:02) trapsize 16448
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 158.1190 270.1937
+\i (00:01:03) trapsize 8224
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 158.1191 270.1937
+\i (00:01:03) trapsize 4112
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 158.1191 270.2759
+\i (00:01:03) trapsize 2056
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out 158.6948 271.0572
+\i (00:01:04) trapsize 4112
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out 158.7770 270.9750
+\i (00:01:04) trapsize 8224
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in 157.1322 288.7391
+\i (00:01:04) trapsize 4112
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in 157.1322 288.0812
+\i (00:01:04) trapsize 2056
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 181.2700 282.8589
+\i (00:01:05) trapsize 1028
+\i (00:01:06) zoom in 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom in 181.3728 282.6944
+\i (00:01:06) trapsize 514
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 181.3728 282.6944
+\i (00:01:06) trapsize 1028
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 184.1690 281.9954
+\i (00:01:06) trapsize 2056
+\i (00:01:07) zoom in 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom in 190.0905 284.9151
+\i (00:01:07) trapsize 1028
+\i (00:01:07) zoom in 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom in 187.8083 283.9899
+\i (00:01:07) trapsize 514
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 185.5056 283.1983
+\i (00:01:08) trapsize 1028
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 185.6701 282.9311
+\i (00:01:08) trapsize 2056
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 188.0963 282.0265
+\i (00:01:08) trapsize 4112
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 197.6362 287.8656
+\i (00:01:08) trapsize 2056
+\i (00:01:09) zoom in 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom in 199.7333 282.5611
+\i (00:01:09) trapsize 1028
+\i (00:01:10) zoom in 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom in 189.0214 275.9818
+\i (00:01:10) trapsize 514
+\i (00:01:14) QtSignal CVPLayerGrid CVPBoxAllAll clicked false
+\i (00:01:14) updateport CVPane
+\i (00:01:15) QtSignal CVPLayerGrid CVPBoxAllAll clicked true
+\i (00:01:15) updateport CVPane
+\i (00:01:15) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (00:01:15) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:01:16) QtSignal CVPLayerGrid CVPBoxAllPower clicked false
+\i (00:01:16) QtSignal CVPLayerGrid CVPBoxAllPower clicked true
+\i (00:01:16) QtSignal CVPLayerGrid CVPBoxAllGnd clicked false
+\i (00:01:17) QtSignal CVPLayerGrid CVPBoxAllGnd clicked true
+\i (00:01:18) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (00:01:18) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:01:21) QtSignal ColorVisibilityPane CVPQuickViewDropdown CurrentIndexChanged " Placement: TOP"
+\i (00:01:21) QtSignal ColorVisibilityPane CVPQuickViewDropdown activated " Placement: TOP"
+\i (00:26:52) zoom out 1 
+\i (00:26:52) setwindow pcb
+\t (00:26:52) [11:40:06.003176] periodic Lic check successful
+[11:40:06.003176] Feature usage summary:
+[11:40:06.003176] Allegro_PCB_RF  
+[11:40:06.003176] Allegro_PCB_Harmony_Option  
+[11:40:06.003176] Allegro_Venture_PCB_Designer  
+[11:40:06.003176] PCB_design_studio  
+[11:40:06.003176] Venture_PCB_Schematic  
+[11:40:06.003176] Allegro_Venture_PCB_Designer2  
+[11:40:06.016480]  Allegro_PCB_Productivity_TB  
+[11:40:06.463287]   Allegro_X_Platinum_Layout  
 
-\t (00:00:19)     Journal end - Tue Dec 31 11:40:55 2024
+\i (00:26:52) zoom out 189.7307 277.0613
+\i (00:26:52) trapsize 1028
+\i (00:26:52) zoom out 1 
+\i (00:26:52) setwindow pcb
+\i (00:26:52) zoom out 189.7925 276.9790
+\i (00:26:52) trapsize 2056
+\i (00:26:52) zoom out 1 
+\i (00:26:52) setwindow pcb
+\i (00:26:52) zoom out 189.9981 276.4855
+\i (00:26:52) trapsize 4112
+\i (00:26:53) zoom in 1 
+\i (00:26:53) setwindow pcb
+\i (00:26:53) zoom in 187.9419 256.0898
+\i (00:26:53) trapsize 2056
+\i (00:26:54) zoom in 1 
+\i (00:26:54) setwindow pcb
+\i (00:26:54) zoom in 187.9419 256.0487
+\i (00:26:54) trapsize 1028
+\i (00:26:54) roam start
+\i (00:26:54) roam y 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 32
+\i (00:26:54) roam y 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 32
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -32
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -32
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x -16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x 16
+\i (00:26:54) roam x 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x 16
+\i (00:26:54) roam x 16
+\i (00:26:54) roam x 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x 16
+\i (00:26:54) roam x 16
+\i (00:26:54) roam x 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam x 16
+\i (00:26:55) roam x 16
+\i (00:26:55) roam x 16
+\i (00:26:55) roam y 16
+\i (00:26:55) roam x 16
+\i (00:26:55) roam x 16
+\i (00:26:55) roam x 16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam y -16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam y -16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam y -16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam y -16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam y -16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam y -16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam y -16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam y -16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam y -16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam y -16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam y -16
+\i (00:26:56) roam x 16
+\i (00:26:56) roam y -16
+\i (00:26:56) roam x 16
+\i (00:26:57) roam y -16
+\i (00:26:57) roam x 16
+\i (00:26:57) roam x 16
+\i (00:26:57) roam x 16
+\i (00:26:57) roam x 16
+\i (00:26:57) roam x 16
+\i (00:26:57) roam x 16
+\i (00:26:57) roam x 16
+\i (00:26:57) roam x 16
+\i (00:26:57) roam x 16
+\i (00:26:57) roam x 16
+\i (00:26:57) roam x 16
+\i (00:26:57) roam x 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam x 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam x 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam x 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam x 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam y 16
+\i (00:26:57) roam y 16
+\i (00:26:58) roam y 16
+\i (00:26:58) roam y 16
+\i (00:26:58) roam y 16
+\i (00:26:58) roam y 16
+\i (00:26:58) roam y 16
+\i (00:26:59) roam end
+\i (00:27:01) QtSignal ColorVisibilityPane CVPLayerSelectBox clicked true
+\i (00:27:01) updateport CVPane
+\i (00:27:04) QtSignal ColorVisibilityPane CVPLayerSelectBox clicked false
+\i (00:27:04) updateport CVPane
+\i (02:18:12) exit 
+\t (02:18:12) [13:31:26.003208] periodic Lic check successful
+[13:31:26.003208] Feature usage summary:
+[13:31:26.003208] Allegro_PCB_RF  
+[13:31:26.003208] Allegro_PCB_Harmony_Option  
+[13:31:26.003208] Allegro_Venture_PCB_Designer  
+[13:31:26.003208] PCB_design_studio  
+[13:31:26.003208] Venture_PCB_Schematic  
+[13:31:26.003208] Allegro_Venture_PCB_Designer2  
+[13:31:26.016512]  Allegro_PCB_Productivity_TB  
+[13:31:26.463319]   Allegro_X_Platinum_Layout  
+
+\t (02:18:12) Lic Summary:
+[13:31:26.001160] cdslmd servers: DESKTOP-D851ENJ
+[13:31:26.001160] Feature usage summary:
+[13:31:26.001160] Allegro_PCB_RF  
+[13:31:26.001160] Allegro_PCB_Harmony_Option  
+[13:31:26.001160] Allegro_Venture_PCB_Designer  
+[13:31:26.001160] PCB_design_studio  
+[13:31:26.001160] Venture_PCB_Schematic  
+[13:31:26.001160] Allegro_Venture_PCB_Designer2  
+[13:31:26.016512]  Allegro_PCB_Productivity_TB  
+[13:31:26.309575]   Allegro_X_Platinum_Layout  
+
+\t (02:18:12)     Journal end - Thu Feb 13 13:31:26 2025

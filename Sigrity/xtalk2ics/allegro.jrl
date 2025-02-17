@@ -1,51 +1,22 @@
-\t (00:00:02) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Thu Jan 30 22:45:19 2025
-\t (00:00:02)         Host=DESKTOP-D851ENJ User=Prometheus Pid=3096 CPUs=12
-\t (00:00:02) CmdLine= allegro.exe -productToken 000160A9E8D4A1B7E1FC3BE2F4D0F4E7B2E223F0BBCCF7A9B6FC3BFAE9D6F5E6B0FC608EA8C0B5F6BA8E6B94B896FAE5B2FF3FFEEF90F0A9B2AC0CFB8CAEC09A80CF32E2D592A8E1E5BB3FFFF9ED90A9D48032F596BDFF84BFF038FBED85C08480CF38FBED85C08480CF5F6057297A28E75400003581 -s via1_vw.scr
-\t (00:00:02) 
-\t (00:00:02) Loading axlcore.cxt 
-\t (00:00:05) Starting new design...
-\i (00:00:06) trapsize 51
-\i (00:00:07) trapsize 54
-\i (00:00:07) trapsize 60
-\i (00:00:07) trapsize 60
-\i (00:00:07) replay via1_vw.scr 
-\i (00:00:07) setwindow pcb 
-\i (00:00:07) trapsize 116667 
-\t (00:00:07) [22:45:24.225712] Periodic Lic check successful
-[22:45:24.750000] Feature usage summary:
-
-\i (00:00:07) generaledit 
-\i (00:00:07) set IDA_VIAWIZ_TOPXP 1 
-\i (00:00:07) new 
-\i (00:00:07) newdrawfillin via1.brd Board 
-\t (00:00:07) Starting new design...
-\i (00:00:08) trapsize 60
-\i (00:00:08) trapsize 60
-\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged try 
-\i (00:00:08) trapsize 1789 
-\i (00:00:08) trapsize 1789 
-\i (00:00:08) generaledit 
-\i (00:00:08) set sigrity_eda_dir C:/Cadence/Sigrity2024.0 
-\i (00:00:08) trapsize 60
-\i (00:00:08) trapsize 22
-\i (00:00:09) zoom out 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom out 273.5 215.1
-\i (00:00:09) trapsize 24
-\i (00:00:10) zoom out 1 
-\i (00:00:10) setwindow pcb
-\i (00:00:10) zoom out 293.9 230.4
-\i (00:00:10) trapsize 24
-\i (00:00:10) zoom out 1 
-\i (00:00:10) setwindow pcb
-\i (00:00:10) zoom out 293.4 228.9
-\i (00:00:10) trapsize 24
-\i (00:00:10) exit 
-\e (00:00:10) Do you want to save the changes you made to via1.brd?
-\i (00:00:11) fillin no 
-\t (00:00:11) Lic Summary:
-[22:45:28.408712] Cdslmd servers:
-[22:45:28.933000] Feature usage summary:
-
-\t (00:00:11)     Journal end - Thu Jan 30 22:45:28 2025
+\t (00:00:08) allegro 24.1 S002 (4270188) [1/23/2025] Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Thu Feb 13 11:13:22 2025
+\t (00:00:08)         Host=DESKTOP-D851ENJ User=Prometheus Pid=22420 CPUs=12
+\t (00:00:08) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe
+\t (00:00:08) 
+\t (00:00:08) Loading axlcore.cxt 
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 51
+\i (00:00:09) trapsize 54
+\i (00:00:09) trapsize 56
+\i (00:00:10) trapsize 97
+\i (00:00:10) trapsize 97
+\t (00:00:10) Loading NV GPU Plugin
+\i (00:00:10) trapsize 25
+\i (00:00:10) generaledit 
+\i (00:00:19) open 
+\i (00:00:25) fillin "D:/Projects/HardwareDesign/ST-Link v3/allegro/ST-LINKV3_open.brd"
+\i (00:00:25) cd "D:/Projects/HardwareDesign/ST-Link v3/allegro"
+\t (00:00:25) Opening existing design...
+\i (00:00:26) trapsize 1028
+\t (00:00:26) > Sending response DoneOpenBoard
+\t (00:00:26)     Journal end - Thu Feb 13 11:13:40 2025
