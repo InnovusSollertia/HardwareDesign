@@ -3,8 +3,8 @@
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
 (    Drawing          : mps3hwdk.brd                                  )
-(    Software Version : 24.1P001                                      )
-(    Date/Time        : Sun Dec 22 20:28:02 2024                      )
+(    Software Version : 24.1S002                                      )
+(    Date/Time        : Mon Feb 17 11:48:17 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -18,16 +18,16 @@ Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
 Schematic directory:         '.'
-Design Directory:            'd:/projects/hardwaredesign/dosti mps-3/allegro'
-Old design name:             'd:/projects/hardwaredesign/dosti mps-3/allegro/mps3hwdk.brd'
-New design name:             'd:/projects/hardwaredesign/dosti mps-3/allegro/mps3hwdk.brd'
+Design Directory:            'D:/Projects/HardwareDesign/DOSTI MPS-3/allegro'
+Old design name:             'D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd'
+New design name:             'D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd'
 
-CmdLine: netrev -y 1 -q netrev_constraint_report.xml d:/projects/hardwaredesign/dosti mps-3/allegro/#Taaaaau02292.tmp
+CmdLine: netrev -$ -i . -y 1 -h -q netrev_constraint_report.xml D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/#Taaaaai04808.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read ./pstchip.dat 
-   Finished reading ./pstchip.dat (00:00:00.37)
+   Finished reading ./pstchip.dat (00:00:00.62)
 Starting to read ./pstxprt.dat 
    Finished reading ./pstxprt.dat (00:00:00.00)
 Starting to read ./pstxnet.dat 
@@ -38,58 +38,56 @@ Starting to read ./pstxnet.dat
 
 #1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
-WARNING(SPMHNI-337): Unable to load symbol '2193200001' used by RefDes J4 for device '219320-0001_0_2193200001_219320-0001': WARNING(SPMHUT-127): Could not find padstack R85_30.
-   With Padstack: ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last 
+WARNING(SPMHNI-194): Symbol 'QFP50P2200X2200X160-144N' used by RefDes IC1 for device 'ICE40HX4K-TQ144_QFP50P2200X2200X160-144N_ICE40HX4K-TQ144' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
 
-     Could not find padstack R85_30.
+Set the correct library path if n
 
 
 
 ===========================================================
 Start Constraint Diff3 Import
 	Constraint File:    ./pstcmdb.dat
-	Allegro Baseline:   C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaaj10060.tmp
-	Start time: Sun Dec 22 20:28:02 2024
+	Allegro Baseline:   C:/Users/Tokito/AppData/Local/Temp/#Taaaaaj02768.tmp
+	Start time: Mon Feb 17 11:48:18 2025
 ===========================================================
 
 
 The constraint difference report file can be viewed using the following command:
-cdnFlowOOSMsg.exe -file "file:///d:/projects/hardwaredesign/dosti mps-3/allegro/netrev_constraint_report.xml"
+cdnFlowOOSMsg.exe -file "file:///D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/netrev_constraint_report.xml"
 
+NOTE: Constraint information is up-to-date. No processing was required.
 ===========================================================
-Finished Constraint Update	Time: Sun Dec 22 20:28:02 2024
+Finished Constraint Update	Time: Mon Feb 17 11:48:18 2025
 ===========================================================
 
 ------ Library Paths ------
 MODULEPATH =  . 
            c:/cadence/spb_24.1/share/local/pcb/modules 
 
-PSMPATH =  D:/Projects/CadenceAllegro/CIS/psmpath 
-           . 
+PSMPATH =  . 
            symbols 
            .. 
            ../symbols 
-           C:/Cadence/SPB_24.1/share/local/pcb/symbols 
-           C:/Cadence/SPB_24.1/share/pcb/pcb_lib/symbols 
-           C:/Cadence/SPB_24.1/share/pcb/allegrolib/symbols 
+           c:/cadence/spb_24.1/share/local/pcb/symbols 
+           c:/cadence/spb_24.1/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_24.1/share/pcb/allegrolib/symbols 
 
 PADPATH =  . 
            symbols 
            .. 
            ../symbols 
-           C:/Cadence/SPB_24.1/share/local/pcb/padstacks 
-           C:/Cadence/SPB_24.1/share/pcb/pcb_lib/symbols 
-           C:/Cadence/SPB_24.1/share/pcb/allegrolib/symbols 
-           D:/Projects/CadenceAllegro/CIS/padpath 
+           c:/cadence/spb_24.1/share/local/pcb/padstacks 
+           c:/cadence/spb_24.1/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_24.1/share/pcb/allegrolib/symbols 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Dec 22 20:28:01 2024
+netrev run on Feb 17 11:48:17 2025
    DESIGN NAME : 'MPS3HWDK'
-   PACKAGING ON Sep  4 2024 20:54:11
+   PACKAGING ON Jan 23 2025 22:22:36
 
    COMPILE 'logic'
    CHECK_PIN_NAMES OFF
@@ -112,6 +110,6 @@ netrev run on Dec 22 20:28:01 2024
  No oversight detected
   1 warnings detected
 
-cpu time      0:01:11
+cpu time      0:02:13
 elapsed time  0:00:01
 
