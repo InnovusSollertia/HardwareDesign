@@ -1,92 +1,45 @@
-\t (00:00:02) allegro 24.1 S002 (4270188) [1/23/2025] Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Mon Feb 17 12:29:31 2025
-\t (00:00:02)         Host=DESKTOP-D851ENJ User=Prometheus Pid=5864 CPUs=12
-\t (00:00:02) CmdLine= c:\cadence\spb_24.1\tools\bin\allegro.exe -mpssession Prometheus -proj D:\Projects\HardwareDesign\DOSTI MPS-3\MPS3HWDK.opj D:\Projects\HardwareDesign\DOSTI MPS-3\allegro\mps3hwdk.brd
-\t (00:00:02) 
-\t (00:00:02) Loading axlcore.cxt 
-\t (00:00:05) Opening existing design...
-\d (00:00:05) Design opened: D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd
-\t (00:00:05) Grids are drawn 10.1632, 10.1632 apart for enhanced viewing.
-\i (00:00:05) trapsize 1798
-\i (00:00:05) trapsize 1927
-\i (00:00:05) trapsize 1967
-\t (00:00:05) Grids are drawn 0.3176, 0.3176 apart for enhanced viewing.
-\i (00:00:05) trapsize 3421
-\i (00:00:06) trapsize 3421
-\t (00:00:06) > Sending response DoneOpenBoard
-\t (00:00:06) Loading NV GPU Plugin
-\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/8)" +
-\i (00:00:06) QtSignal "Board Outline  (0/5)" 0 "|" "Create (Complete)"
-\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/8)" +
-\i (00:00:06) QtSignal 0 "|" "Board Outline  (1/5)"
-\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/8)"
-\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/8)" +
-\i (00:00:06) QtSignal "Board Outline  (1/5)" "Create (Complete)" 1 "|" Automatically
-\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
-\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
-\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
-\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
-\i (00:00:06) trapsize 903
-\i (00:00:07) generaledit 
-\i (00:00:11) pop dyn_option_select 'Application Mode@:@Placement Edit' 
-\i (00:00:11) placementedit 
-\i (00:00:11) setwindow form.mini
-\i (00:00:11) FORM mini tree  'Components by refdes' 
-\i (00:00:16) FORM mini tree  IC1 'Components by refdes' 
-\i (00:00:16) FORM mini tree 'MULTISEL YES' IC1 'Components by refdes' 
-\i (00:00:16) setwindow pcb
-\i (00:00:16) place manual 
-\t (00:00:16) Placing IC1 / ICE40HX4K-TQ144_QFP50P2200X2200X160-144N_ICE40HX4K-TQ144 / QFP50P2200X2200X160-144N on Top.
-\i (00:00:18) zoom out 1 
-\i (00:00:18) setwindow pcb
-\i (00:00:18) zoom out 118.9080 219.4378
-\i (00:00:18) trapsize 1805
-\i (00:00:18) zoom out 1 
-\i (00:00:18) setwindow pcb
-\i (00:00:18) zoom out 118.9081 219.4379
-\i (00:00:18) trapsize 3610
-\i (00:00:18) zoom out 1 
-\i (00:00:18) setwindow pcb
-\i (00:00:18) zoom out 118.9081 219.4378
-\t (00:00:18) Grids are drawn 0.6352, 0.6352 apart for enhanced viewing.
-\i (00:00:18) trapsize 7221
-\i (00:00:20) pick grid 133.4944 207.8844
-\t (00:00:20) last pick:  133.5508 207.8692
-\i (00:00:20) placementedit 
-\i (00:00:21) zoom in 1 
-\i (00:00:21) setwindow pcb
-\i (00:00:21) zoom in 138.6934 217.1272
-\t (00:00:21) Grids are drawn 0.3176, 0.3176 apart for enhanced viewing.
-\i (00:00:21) trapsize 3610
-\i (00:00:22) zoom in 1 
-\i (00:00:22) setwindow pcb
-\i (00:00:22) zoom in 138.6934 217.1272
-\i (00:00:22) trapsize 1805
-\i (00:25:25) show element 
-\t (00:25:25) [12:54:54.003248] periodic Lic check successful
-[12:54:54.003248] Feature usage summary:
-[12:54:54.003248] Allegro_PCB_RF  
-[12:54:54.003248] Allegro_PCB_Harmony_Option  
-[12:54:54.003248] Allegro_Venture_PCB_Designer  
-[12:54:54.003248] PCB_design_studio  
-[12:54:54.003248] Venture_PCB_Schematic  
-[12:54:54.003248] Allegro_Venture_PCB_Designer2  
-[12:54:54.016552]  Allegro_PCB_Productivity_TB  
-[12:54:54.463359]   Allegro_X_Platinum_Layout  
+\t (00:00:10) allegro 24.1 S002 (4270188) [1/23/2025] Windows SPB 64-bit Edition
+\t (00:00:10)     Journal start - Tue Feb 18 11:12:31 2025
+\t (00:00:10)         Host=DESKTOP-D851ENJ User=Prometheus Pid=11976 CPUs=12
+\t (00:00:10) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe
+\t (00:00:10) 
+\t (00:00:10) Loading axlcore.cxt 
+\t (00:00:11) Opening existing design...
+\d (00:00:11) Design opened: D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd
+\t (00:00:12) Grids are drawn 10.1632, 10.1632 apart for enhanced viewing.
+\t (00:00:12) Grids are drawn 0.3176, 0.3176 apart for enhanced viewing.
+\i (00:00:12) trapsize 3597
+\i (00:00:12) trapsize 3854
+\i (00:00:12) trapsize 3934
+\t (00:00:12) Grids are drawn 0.6352, 0.6352 apart for enhanced viewing.
+\i (00:00:12) trapsize 6842
+\i (00:00:12) trapsize 6842
+\t (00:00:12) > Sending response DoneOpenBoard
+\t (00:00:12) Loading NV GPU Plugin
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/8)" +
+\i (00:00:12) QtSignal "Board Outline  (0/5)" 0 "|" "Create (Complete)"
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/8)" +
+\i (00:00:12) QtSignal 0 "|" "Board Outline  (1/5)"
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/8)"
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/8)" +
+\i (00:00:12) QtSignal "Board Outline  (1/5)" "Create (Complete)" 1 "|" Automatically
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:00:13) trapsize 1805
+\i (00:00:17) placementedit 
+\i (00:02:05) exit 
+\t (00:02:05) Lic Summary:
+[11:14:26.001152] cdslmd servers: DESKTOP-D851ENJ
+[11:14:26.001152] Feature usage summary:
+[11:14:26.001152] Allegro_PCB_RF  
+[11:14:26.001152] Allegro_PCB_Harmony_Option  
+[11:14:26.001152] Allegro_Venture_PCB_Designer  
+[11:14:26.001152] PCB_design_studio  
+[11:14:26.001152] Venture_PCB_Schematic  
+[11:14:26.001152] Allegro_Venture_PCB_Designer2  
+[11:14:26.016504]  Allegro_PCB_Productivity_TB  
+[11:14:26.309567]   Allegro_X_Platinum_Layout  
 
-\i (00:25:26) exit 
-\e (00:25:26) Do you want to save the changes you made to mps3hwdk.brd?
-\i (00:25:27) fillin yes 
-\t (00:25:27) Lic Summary:
-[12:54:56.001216] cdslmd servers: DESKTOP-D851ENJ
-[12:54:56.001216] Feature usage summary:
-[12:54:56.001216] Allegro_PCB_RF  
-[12:54:56.001216] Allegro_PCB_Harmony_Option  
-[12:54:56.001216] Allegro_Venture_PCB_Designer  
-[12:54:56.001216] PCB_design_studio  
-[12:54:56.001216] Venture_PCB_Schematic  
-[12:54:56.001216] Allegro_Venture_PCB_Designer2  
-[12:54:56.016568]  Allegro_PCB_Productivity_TB  
-[12:54:56.309631]   Allegro_X_Platinum_Layout  
-
-\t (00:25:27)     Journal end - Mon Feb 17 12:54:56 2025
+\t (00:02:05)     Journal end - Tue Feb 18 11:14:26 2025
