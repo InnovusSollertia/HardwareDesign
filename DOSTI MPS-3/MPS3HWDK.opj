@@ -1,6 +1,6 @@
 (ExpressProject "MPS3HWDK"
   (ProjectVersion "19981106")
-  (SoftwareVersion "24.1 S002 (4270188)  [1/23/2025]-[02/17/25]")
+  (SoftwareVersion "24.1 S002 (4270188)  [1/23/2025]-[02/22/25]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -194,36 +194,26 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "D:\Projects\HardwareDesign\DOSTI MPS-3\mps3hwdk.dsn")
+         "d:\projects\hardwaredesign\dosti mps-3\mps3hwdk.dsn")
       (Path "Design Resources"
-         "D:\Projects\HardwareDesign\DOSTI MPS-3\mps3hwdk.dsn" "MAIN")
+         "d:\projects\hardwaredesign\dosti mps-3\mps3hwdk.dsn" "MAIN")
       (Path "Layout")
       (Path "Logs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 518"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 613"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1255 24 536")
-        (Scroll "-278 -7")
-        (Zoom "57")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1255 24 631")
+        (Scroll "0 467")
+        (Zoom "138")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")
-      (Page "00_STRUCTURE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1255 24 536")
-        (Scroll "-281 -10")
-        (Zoom "57")
-        (Occurrence "/"))
-      (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
-      (Schematic "MAIN")
-      (Page "01_MOTHERBOARD")))
+      (Page "00_MAIN")))
   (LastUsedLibraryBrowseDirectory "D:\Projects\CadenceAllegro\CIS\olbpath")
   (ISPCBBASICLICENSE "false"))
