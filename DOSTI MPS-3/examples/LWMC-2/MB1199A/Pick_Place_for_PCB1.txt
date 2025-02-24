@@ -1,4 +1,0 @@
-Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
-
-Designator ST_LOGO_10mm         -1000mil      -1000mil       1580mil        250mil      -1000mil      -1000mil  T          0.00 Comment        
-

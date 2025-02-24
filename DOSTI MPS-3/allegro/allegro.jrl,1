@@ -1,406 +1,45 @@
-\t (00:00:01) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Sun Dec 22 20:27:00 2024
-\t (00:00:01)         Host=DESKTOP-D851ENJ User=Prometheus Pid=2292 CPUs=12
-\t (00:00:01) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession Prometheus -proj d:\projects\hardwaredesign\dosti mps-3\mps3hwdk.opj d:\projects\hardwaredesign\dosti mps-3\allegro\mps3hwdk.brd
-\t (00:00:01) 
-\t (00:00:01) Loading axlcore.cxt 
-\t (00:00:03) Opening existing design...
-\d (00:00:03) Design opened: d:/projects/hardwaredesign/dosti mps-3/allegro/mps3hwdk.brd
-\t (00:00:04) Grids are drawn 10.1600, 10.1600 apart for enhanced viewing.
-\i (00:00:04) trapsize 2500
-\i (00:00:04) trapsize 2679
-\i (00:00:04) trapsize 2734
-\i (00:00:04) trapsize 4114
-\i (00:00:04) setwindow form.mini
-\i (00:00:04) FORM mini tree  'Components by refdes' 
-\i (00:00:04) setwindow pcb
-\i (00:00:04) trapsize 4114
-\t (00:00:04) > Sending response DoneOpenBoard
-\t (00:00:04) Loading NV GPU Plugin
-\i (00:00:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
-\i (00:00:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
-\i (00:00:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
-\i (00:00:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
-\i (00:00:04) trapsize 1205
-\i (00:00:05) placementedit 
-\i (00:00:06) zoom out 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom out 438.7296 292.9125
-\i (00:00:06) trapsize 2410
-\i (00:00:06) zoom out 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom out 438.8744 292.6716
-\i (00:00:06) trapsize 4821
-\i (00:00:06) zoom out 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom out 438.9707 292.6716
-\i (00:00:06) trapsize 9642
-\i (00:00:08) zoom out 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom out 389.4114 305.3989
-\i (00:00:08) trapsize 19284
-\i (00:00:08) zoom out 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom out 389.4115 305.3989
-\t (00:00:08) Grids are drawn 5.0800, 5.0800 apart for enhanced viewing.
-\i (00:00:08) trapsize 38567
-\i (00:00:09) zoom in 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom in 205.9504 513.7796
-\i (00:00:09) trapsize 19284
-\i (00:00:15) setwindow form.mini
-\i (00:00:15) FORM mini tree 'MULTISEL YES' 'Components by refdes' 
-\i (00:00:15) setwindow pcb
-\i (00:00:15) place manual 
-\e (00:00:15) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:15) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:15) Cannot load symbol 'C1206'
-\i (00:00:16) pick grid 362.9201 367.2232
-\t (00:00:16) last pick:  363.2200 368.3000
-\e (00:00:16) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:16) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:16) Cannot load symbol 'C1206'
-\i (00:00:17) pick grid 342.0937 396.1488
-\t (00:00:17) last pick:  342.9000 396.2400
-\e (00:00:17) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:17) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:17) Cannot load symbol 'C1206'
-\i (00:00:17) pick grid 352.8926 407.3334
-\t (00:00:17) last pick:  353.0600 406.4000
-\e (00:00:17) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:17) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:17) Cannot load symbol 'C1206'
-\i (00:00:17) pick grid dbl 352.8926 407.3334
-\t (00:00:17) last pick:  353.0600 406.4000
-\e (00:00:17) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:17) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:17) Cannot load symbol 'C1206'
-\i (00:00:18) pick grid 353.2782 407.7191
-\t (00:00:18) last pick:  353.0600 408.9400
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:18) Cannot load symbol 'C1206'
-\i (00:00:18) pick grid dbl 353.2782 407.7191
-\t (00:00:18) last pick:  353.0600 408.9400
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:18) Cannot load symbol 'C1206'
-\i (00:00:18) pick grid 353.2782 407.7191
-\t (00:00:18) last pick:  353.0600 408.9400
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:18) Cannot load symbol 'C1206'
-\i (00:00:18) pick grid dbl 353.2782 407.7191
-\t (00:00:18) last pick:  353.0600 408.9400
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design c1206.
-The design was last saved using version 16.0 and must be updated using DB Doctor. [help]
-\e (00:00:18) Cannot load symbol 'C1206'
-\i (00:00:18) pick grid 353.2782 407.7191
-\t (00:00:18) last pick:  353.0600 408.9400
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design sot230p700x180-4n.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\e (00:00:18) ERROR(SPMHDB-181): The current version of software is unable to open design sot230p700x180-4n.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\e (00:00:18) Cannot load symbol 'SOT230P700X180-4N'
-\i (00:00:19) pick grid dbl 353.2782 407.7191
-\t (00:00:19) last pick:  353.0600 408.9400
-\e (00:00:19) ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\w (00:00:19) WARNING(SPMHUT-127): Could not find padstack R85_30.
-\e (00:00:19) ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\w (00:00:19) WARNING(SPMHUT-127): Could not find padstack R85_30.
-\e (00:00:19) Cannot load symbol '2193200001'
-\e (00:00:19)   because WARNING(SPMHUT-127): Could not find padstack R85_30.
-   With Padstack: ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\i (00:00:19) pick grid 353.2782 407.7191
-\t (00:00:19) last pick:  353.0600 408.9400
-\i (00:00:19) placementedit 
-\i (00:00:57) design sync eco 
-\t (00:00:57) > Requesting Capture to open design
-\t (00:00:57) > Response received OpenDesign is done by remote tool
-\t (00:00:57) Design opened successfully
-\t (00:00:57) > Requesting Capture to generate logical netlist
-\t (00:00:57) > Requesting Capture to open design
-\t (00:00:58) > Response received LogicalNetlistGeneration is done by remote tool
-\t (00:00:58) Logical netlist generated successfully at d:\projects\hardwaredesign\dosti mps-3\allegro
-\t (00:00:58) > Requesting Capture to generate logical netlist
-\t (00:00:58) > Response received OpenDesign is done by remote tool
-\t (00:00:58) Design opened successfully
-\t (00:00:58) > Generating Physical Netlist
-\t (00:00:58) Starting genfeedformat...
-\t (00:00:58) > Generating Physical Netlist successful
-\t (00:00:58) > Generating Differences
-\t (00:00:59) > Generating Differences successful
-\t (00:00:59) > Displaying differences output
-\i (00:00:59) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
-\i (00:00:59) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
-\t (00:00:59) > Displaying differences output successful
-\t (00:00:59) > Response received LogicalNetlistGeneration is done by remote tool
-\t (00:00:59) Logical netlist generated successfully at d:\projects\hardwaredesign\dosti mps-3\allegro
-\i (00:01:02) QtSignal DesignSyncDialog sync_button clicked
-\t (00:01:02) > Sending response DoneOpenBoard
-\t (00:01:02) Starting Cadence Logic Import...
-\w (00:01:03) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
-\t (00:01:03) Opening existing design...
-\t (00:01:03) Grids are drawn 1300.4800, 1300.4800 apart for enhanced viewing.
-\i (00:01:03) setwindow form.mini
-\i (00:01:03) FORM mini tree  'Components by refdes' 
-\i (00:01:03) setwindow pcb
-\i (00:01:03) trapsize 19284
-\e (00:01:03) ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\w (00:01:03) WARNING(SPMHUT-127): Could not find padstack R85_30.
-\t (00:01:03) Placed 10 of 11 symbols.
-\i (00:01:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
-\i (00:01:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
-\i (00:01:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
-\i (00:01:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
-\i (00:01:03) placementedit 
-\i (00:01:07) setwindow text
-\i (00:01:07) close
-\i (00:01:08) setwindow form.mini
-\i (00:01:08) FORM mini tree 'MULTISEL YES' 'Components by refdes' 
-\i (00:01:08) setwindow pcb
-\i (00:01:08) place manual 
-\t (00:01:08) last pick:  324.3744 510.5300
-\t (00:01:08) Placing C1 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
-\i (00:01:10) zoom in 1 
-\i (00:01:10) setwindow pcb
-\i (00:01:10) zoom in 420.7713 293.5593
-\i (00:01:10) trapsize 9642
-\i (00:01:10) zoom in 1 
-\i (00:01:10) setwindow pcb
-\i (00:01:10) zoom in 422.5069 292.5952
-\i (00:01:10) trapsize 4821
-\i (00:01:10) zoom in 1 
-\i (00:01:10) setwindow pcb
-\i (00:01:10) zoom in 424.0496 295.1021
-\i (00:01:10) trapsize 2410
-\i (00:01:12) pick grid 422.6034 311.3969
-\t (00:01:12) last pick:  421.6400 312.4200
-\t (00:01:12) last pick:  309.7900 521.8300
-\t (00:01:12) Placing C6 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N on Top.
-\i (00:01:12) pick grid 421.7838 310.9630
-\t (00:01:12) last pick:  421.6400 309.8800
-\t (00:01:12) last pick:  297.3100 521.8300
-\t (00:01:12) Placing C7 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
-\i (00:01:13) pick grid 421.5428 308.5525
-\t (00:01:13) last pick:  421.6400 307.3400
-\t (00:01:13) last pick:  309.7900 533.1300
-\t (00:01:13) Placing C8 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N on Top.
-\i (00:01:13) pick grid 421.4946 305.9974
-\t (00:01:13) last pick:  421.6400 304.8000
-\t (00:01:13) last pick:  322.2700 521.8300
-\t (00:01:13) Placing C9 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
-\i (00:01:14) pick grid 425.5441 311.8790
-\t (00:01:14) last pick:  426.7200 312.4200
-\t (00:01:14) last pick:  284.8300 521.8300
-\t (00:01:14) Placing C10 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N on Top.
-\i (00:01:15) pick grid 425.9780 311.0112
-\t (00:01:15) last pick:  426.7200 309.8800
-\t (00:01:15) last pick:  322.2700 533.1300
-\t (00:01:15) Placing C11 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
-\i (00:01:16) pick grid 426.1227 308.4561
-\t (00:01:16) last pick:  426.7200 307.3400
-\t (00:01:16) last pick:  241.2700 499.2300
-\t (00:01:16) Placing C12 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P / CAPC1608X90N on Top.
-\i (00:01:16) pick grid 426.1227 306.0456
-\t (00:01:16) last pick:  426.7200 304.8000
-\t (00:01:16) last pick:  253.7500 499.2300
-\t (00:01:16) Placing C13 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P / CAPC1608X90N on Top.
-\i (00:01:17) pick grid 430.5579 311.9272
-\t (00:01:17) last pick:  431.8000 312.4200
-\t (00:01:17) last pick:  269.2900 484.9550
-\t (00:01:17) Placing IC2 / LM1117MPX-50NOPB_SOT230P700X180-3N_LM1117MPX-50NOPB / SOT230P700X180-3N on Top.
-\i (00:01:19) pick grid 412.8169 313.8556
-\t (00:01:19) last pick:  414.0200 314.9600
-\e (00:01:19) ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\w (00:01:19) WARNING(SPMHUT-127): Could not find padstack R85_30.
-\e (00:01:19) ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\w (00:01:19) WARNING(SPMHUT-127): Could not find padstack R85_30.
-\e (00:01:19) Cannot load symbol '2193200001'
-\e (00:01:19)   because WARNING(SPMHUT-127): Could not find padstack R85_30.
-   With Padstack: ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\i (00:01:26) refdes J4 
-\i (00:01:26) xname_flush 
-\i (00:01:46) xname_flush 
-\i (00:01:48) xname_flush '!' 
-\i (00:02:04) zoom out 1 
-\i (00:02:04) setwindow pcb
-\i (00:02:04) zoom out 403.9463 308.5525
-\i (00:02:04) trapsize 4821
-\i (00:02:04) zoom out 1 
-\i (00:02:04) setwindow pcb
-\i (00:02:04) zoom out 405.7783 308.8418
-\i (00:02:04) trapsize 9642
-\i (00:02:08) setwindow form.mini
-\i (00:02:08) FORM mini tree 'MULTISEL YES' 'Components by refdes' 
-\t (00:02:08) last pick:  421.6400 312.4200
-\t (00:02:08) Placing C1 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
-\i (00:02:09) setwindow pcb
-\i (00:02:09) zoom in 1 
-\i (00:02:09) setwindow pcb
-\i (00:02:09) zoom in 394.5939 325.4259
-\i (00:02:09) trapsize 4821
-\i (00:02:11) zoom in 1 
-\i (00:02:11) setwindow pcb
-\i (00:02:11) zoom in 430.1724 323.3047
-\i (00:02:11) trapsize 2410
-\i (00:02:12) pick grid 438.1752 321.3764
-\t (00:02:12) last pick:  439.4200 322.5800
-\t (00:02:12) last pick:  421.6400 309.8800
-\t (00:02:12) Placing C6 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N on Top.
-\i (00:02:13) pick grid 439.3322 321.2317
-\t (00:02:13) last pick:  439.4200 320.0400
-\t (00:02:13) last pick:  421.6400 307.3400
-\t (00:02:13) Placing C7 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
-\i (00:02:13) pick grid 439.5251 318.6766
-\t (00:02:13) last pick:  439.4200 317.5000
-\t (00:02:13) last pick:  421.6400 304.8000
-\t (00:02:13) Placing C8 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N on Top.
-\i (00:02:14) pick grid 439.4286 316.1698
-\t (00:02:14) last pick:  439.4200 314.9600
-\t (00:02:14) last pick:  426.7200 312.4200
-\t (00:02:14) Placing C9 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
-\i (00:02:15) pick grid 439.1876 313.6629
-\t (00:02:15) last pick:  439.4200 312.4200
-\t (00:02:15) last pick:  426.7200 309.8800
-\t (00:02:15) Placing C10 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_10U / CAPC1608X90N on Top.
-\i (00:02:16) pick grid 439.0430 311.0114
-\t (00:02:16) last pick:  439.4200 309.8800
-\t (00:02:16) last pick:  426.7200 307.3400
-\t (00:02:16) Placing C11 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_100N / CAPC1608X90N on Top.
-\i (00:02:17) pick grid 439.6697 308.4563
-\t (00:02:17) last pick:  439.4200 307.3400
-\t (00:02:17) last pick:  426.7200 304.8000
-\t (00:02:17) Placing C12 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P / CAPC1608X90N on Top.
-\i (00:02:18) pick grid 439.6215 306.0458
-\t (00:02:18) last pick:  439.4200 304.8000
-\t (00:02:18) last pick:  431.8000 312.4200
-\t (00:02:18) Placing C13 / 06034C104KAT2A_CAPC1608X90N_DISCRETE_1.2P / CAPC1608X90N on Top.
-\i (00:02:20) pick grid 434.3667 321.3282
-\t (00:02:20) last pick:  434.3400 322.5800
-\t (00:02:20) last pick:  414.0200 314.9600
-\t (00:02:20) Placing IC2 / LM1117MPX-50NOPB_SOT230P700X180-3N_LM1117MPX-50NOPB / SOT230P700X180-3N on Top.
-\i (00:02:21) pick grid 432.9204 318.0017
-\t (00:02:21) last pick:  431.8000 317.5000
-\e (00:02:21) ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\w (00:02:21) WARNING(SPMHUT-127): Could not find padstack R85_30.
-\e (00:02:21) ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\w (00:02:21) WARNING(SPMHUT-127): Could not find padstack R85_30.
-\e (00:02:21) Cannot load symbol '2193200001'
-\e (00:02:21)   because WARNING(SPMHUT-127): Could not find padstack R85_30.
-   With Padstack: ERROR(SPMHDB-181): The current version of software is unable to open design r85_30.
-The design was last saved using version 16.5 and must be updated using DB Doctor. [help]
-\i (00:02:22) prepopup 419.2289 321.7620
-\i (00:02:22) done 
-\i (00:02:22) placementedit 
-\i (00:02:26) zoom out 1 
-\i (00:02:26) setwindow pcb
-\i (00:02:26) zoom out 418.6022 310.5775
-\i (00:02:26) trapsize 4821
-\i (00:02:26) zoom out 1 
-\i (00:02:26) setwindow pcb
-\i (00:02:26) zoom out 422.5553 307.7813
-\i (00:02:26) trapsize 9642
-\i (00:02:32) place param 
-\i (00:02:32) placementedit 
-\i (00:02:38) setwindow form.plpmanual
-\i (00:02:38) FORM plpmanual overlap YES 
-\i (00:02:39) FORM plpmanual soft_boundary YES 
-\i (00:02:39) FORM plpmanual clock_redistribute YES 
-\i (00:02:40) FORM plpmanual cluster YES 
-\i (00:02:40) FORM plpmanual no_rat YES 
-\i (00:02:40) FORM plpmanual remove_tag YES 
-\i (00:02:41) FORM plpmanual placeit  
-\i (00:02:41) setwindow pcb
-\i (00:02:41) place execute 
-\w (00:02:41) WARNING(SPMHPL-31): There were 1 warnings reported in the log file.
-\i (00:02:41) placementedit 
-\i (00:02:51) place interactive 
-\e (00:02:51) ERROR(SPMHGE-457): Error see the logfile.
-\i (00:02:51) placementedit 
-\i (00:02:57) QtSignal CWorkFlowWidget CWorkFlowWidget_tree customContextMenuRequest "Setup  (2/3)" +
-\i (00:02:57) QtSignal Colors
-\i (00:02:57) QtSignal CWorkFlowWidget_tree Mark_Complete triggered
-\i (00:02:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/9)"
-\i (00:02:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/9)"
-\i (00:02:59) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/9)" +
-\i (00:02:59) QtSignal "Board Outline  (0/6)"
-\i (00:02:59) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/9)" +
-\i (00:02:59) QtSignal "Board Outline  (0/6)"
-\i (00:02:59) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/9)" +
-\i (00:02:59) QtSignal "Board Outline  (0/6)" "Create  (0/2)"
-\i (00:02:59) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/9)" +
-\i (00:02:59) QtSignal "Board Outline  (0/6)" "Create  (0/2)"
-\i (00:03:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/9)" +
-\i (00:03:00) QtSignal "Board Outline  (0/6)" "Create  (0/2)"
-\i (00:03:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/9)" +
-\i (00:03:00) QtSignal "Board Outline  (0/6)" "Create  (0/2)"
-\i (00:03:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/9)" +
-\i (00:03:00) QtSignal "Board Outline  (0/6)"
-\i (00:03:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/9)" +
-\i (00:03:00) QtSignal "Board Outline  (0/6)"
-\i (00:03:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/9)"
-\i (00:03:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/9)"
-\i (00:03:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/9)" +
-\i (00:03:03) QtSignal "Cross Section (Stack-up)  (0/1)"
-\i (00:03:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/9)" +
-\i (00:03:03) QtSignal "Cross Section (Stack-up)  (0/1)"
-\i (00:03:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (0/9)" +
-\i (00:03:03) QtSignal "Cross Section (Stack-up)  (0/1)" Create
-\i (00:03:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (0/9)" +
-\i (00:03:03) QtSignal "Cross Section (Stack-up)  (0/1)" Create
-\i (00:03:03) xsection 
-\i (00:03:07) QtSignal SPBMainWindow CCMQtXSectionDlg closed
-\i (00:03:07) QtSignal m_vSplitter m_stackupsTab currentChanged
-\i (00:03:07) QtSignal m_vSplitter m_stackupsTab currentChanged
-\i (00:03:07) QtSignal CCMQtXSectionDlg AddLayerDlg closed
-\i (00:03:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/9)" +
-\i (00:03:08) QtSignal "Cross Section (Stack-up)  (0/1)" 0 "|" Create
-\i (00:03:08) placementedit 
-\i (00:03:08) save 
-\i (00:03:09) fillin yes 
-\t (00:03:09) Loading consmgr.cxt 
-\t (00:03:09) Loading acns_formula.cxt 
-\t (00:03:09) > Sending response DoneOpenBoard
-\i (00:03:09) placementedit 
-\i (00:03:11) exit 
-\t (00:03:11) Lic Summary:
-[20:30:10.001080] cdslmd servers: DESKTOP-D851ENJ
-[20:30:10.001080] Feature usage summary:
-[20:30:10.001080] Allegro_PCB_RF  
-[20:30:10.001080] Allegro_PCB_Harmony_Option  
-[20:30:10.001080] Allegro_Venture_PCB_Designer  
-[20:30:10.001080] PCB_design_studio  
-[20:30:10.001080] Venture_PCB_Schematic  
-[20:30:10.001080] Allegro_Venture_PCB_Designer2  
-[20:30:10.016432]  Allegro_PCB_Productivity_TB  
-[20:30:10.309495]   Allegro_X_Platinum_Layout  
+\t (00:00:10) allegro 24.1 S002 (4270188) [1/23/2025] Windows SPB 64-bit Edition
+\t (00:00:10)     Journal start - Tue Feb 18 11:12:31 2025
+\t (00:00:10)         Host=DESKTOP-D851ENJ User=Prometheus Pid=11976 CPUs=12
+\t (00:00:10) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe
+\t (00:00:10) 
+\t (00:00:10) Loading axlcore.cxt 
+\t (00:00:11) Opening existing design...
+\d (00:00:11) Design opened: D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd
+\t (00:00:12) Grids are drawn 10.1632, 10.1632 apart for enhanced viewing.
+\t (00:00:12) Grids are drawn 0.3176, 0.3176 apart for enhanced viewing.
+\i (00:00:12) trapsize 3597
+\i (00:00:12) trapsize 3854
+\i (00:00:12) trapsize 3934
+\t (00:00:12) Grids are drawn 0.6352, 0.6352 apart for enhanced viewing.
+\i (00:00:12) trapsize 6842
+\i (00:00:12) trapsize 6842
+\t (00:00:12) > Sending response DoneOpenBoard
+\t (00:00:12) Loading NV GPU Plugin
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/8)" +
+\i (00:00:12) QtSignal "Board Outline  (0/5)" 0 "|" "Create (Complete)"
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/8)" +
+\i (00:00:12) QtSignal 0 "|" "Board Outline  (1/5)"
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/8)"
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/8)" +
+\i (00:00:12) QtSignal "Board Outline  (1/5)" "Create (Complete)" 1 "|" Automatically
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:00:13) trapsize 1805
+\i (00:00:17) placementedit 
+\i (00:02:05) exit 
+\t (00:02:05) Lic Summary:
+[11:14:26.001152] cdslmd servers: DESKTOP-D851ENJ
+[11:14:26.001152] Feature usage summary:
+[11:14:26.001152] Allegro_PCB_RF  
+[11:14:26.001152] Allegro_PCB_Harmony_Option  
+[11:14:26.001152] Allegro_Venture_PCB_Designer  
+[11:14:26.001152] PCB_design_studio  
+[11:14:26.001152] Venture_PCB_Schematic  
+[11:14:26.001152] Allegro_Venture_PCB_Designer2  
+[11:14:26.016504]  Allegro_PCB_Productivity_TB  
+[11:14:26.309567]   Allegro_X_Platinum_Layout  
 
-\t (00:03:11)     Journal end - Sun Dec 22 20:30:10 2024
+\t (00:02:05)     Journal end - Tue Feb 18 11:14:26 2025
