@@ -1,6 +1,6 @@
 (ExpressProject "MPS3HWDK"
   (ProjectVersion "19981106")
-  (SoftwareVersion "24.1 S002 (4270188)  [1/23/2025]-[02/17/25]")
+  (SoftwareVersion "24.1 S002 (4270188)  [1/23/2025]-[02/24/25]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -71,6 +71,90 @@
       (Type "Log File")
       (LogFile "d:\projects\hardwaredesign\dosti mps-3\allegro\eco.txt")))
   (PartMRUSelector
+    (2479774-1
+      (FullPartName "2479774-1.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\2479774-1.OLB")
+      (DeviceIndex "0"))
+    (HSMR-C170
+      (FullPartName "HSMR-C170.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\HSMR-C170.OLB")
+      (DeviceIndex "0"))
+    (ERJ-XGNJ152Y
+      (FullPartName "ERJ-XGNJ152Y.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ERJ-XGNJ152Y.OLB")
+      (DeviceIndex "0"))
+    (3-647166-2
+      (FullPartName "3-647166-2.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\3-647166-2.OLB")
+      (DeviceIndex "0"))
+    (CRCW020110K0FNED
+      (FullPartName "CRCW020110K0FNED.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CRCW020110K0FNED.OLB")
+      (DeviceIndex "0"))
+    (VCC_ARROW
+      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (COM-12992
+      (FullPartName "COM-12992.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\COM-12992.OLB")
+      (DeviceIndex "0"))
+    (1N4148W-HG3_A-08
+      (FullPartName "1N4148W-HG3_A-08.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\1N4148W-HG3_A-08.OLB")
+      (DeviceIndex "0"))
+    (SS12
+      (FullPartName "SS12.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\SS12.OLB")
+      (DeviceIndex "0"))
+    (C2Q_300
+      (FullPartName "C2Q_300.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\C2Q_300.OLB")
+      (DeviceIndex "0"))
+    (0306YD104KAT2A
+      (FullPartName "0306YD104KAT2A.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\0306YD104KAT2A.OLB")
+      (DeviceIndex "0"))
+    (KGM03DR50G106MH
+      (FullPartName "KGM03DR50G106MH.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\KGM03DR50G106MH.OLB")
+      (DeviceIndex "0"))
+    (LD1117ADT12TR
+      (FullPartName "LD1117ADT12TR.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\LD1117ADT12TR.OLB")
+      (DeviceIndex "0"))
+    (GND_POWER
+      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (SEAF-40-05.0-L-10-2-A-K-TR
+      (FullPartName "SEAF-40-05.0-L-10-2-A-K-TR.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\SEAF-40-05.0-L-10-2-A-K-TR.OLB")
+      (DeviceIndex "0"))
+    (MAX485EPA+
+      (FullPartName "MAX485EPA+.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\MAX485EPA+.OLB")
+      (DeviceIndex "0"))
+    (DX07S016JA1R1500
+      (FullPartName "DX07S016JA1R1500.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\DX07S016JA1R1500.OLB")
+      (DeviceIndex "0"))
+    (TSW-110-07-F-D
+      (FullPartName "TSW-110-07-F-D.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\TSW-110-07-F-D.OLB")
+      (DeviceIndex "0"))
+    (STM32L052K8T6
+      (FullPartName "STM32L052K8T6.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\STM32L052K8T6.OLB")
+      (DeviceIndex "0"))
     (iCE40HX4K-TQ144
       (FullPartName "iCE40HX4K-TQ144.Normal")
       (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ICE40HX4K-TQ144.OLB")
@@ -89,105 +173,6 @@
       (FullPartName "06034C104KAT2A.Normal")
       (LibraryName
          "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CAPACITORS. CERAMIC\(0603, 0.1UF, 4V) 06034C104KAT2A\06034C104KAT2A.OLB")
-      (DeviceIndex "0"))
-    (JMK325BJ107MM-T
-      (FullPartName "JMK325BJ107MM-T.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CAPACITORS. CERAMIC\(1210, 100UF, 6.3V) JMK325BJ107MM-T\JMK325BJ107MM-T.OLB")
-      (DeviceIndex "0"))
-    (TLW-110-05-G-S
-      (FullPartName "TLW-110-05-G-S.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CONNECTORS. PIN HEADERS\(1X10, 2.54MM, OPEN, HEADER MALE) TLW-110-05-G-S\TLW-110-05-G-S.OLB")
-      (DeviceIndex "0"))
-    (ABS07-32.768KHZ-T
-      (FullPartName "ABS07-32.768KHZ-T.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CRYSTALS AND OSCILLATORS\(32 MHZ, 2P, SMD) ABS07-32.768KHZ-T\ABS07-32.768KHZ-T.OLB")
-      (DeviceIndex "0"))
-    (KC2520Z8.00000C1KX00
-      (FullPartName "KC2520Z8.00000C1KX00.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CRYSTALS AND OSCILLATORS\(8 MHZ, 4P, SMD) KC2520Z8.00000C1KX00\KC2520Z8.00000C1KX00.OLB")
-      (DeviceIndex "0"))
-    (OFFPAGELEFT-R
-      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (MLZ1608N100LTD25
-      (FullPartName "MLZ1608N100LTD25.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\INDUCTORS. POWER\(0603, 300 MA) MLZ1608N100LTD25\MLZ1608N100LTD25.OLB")
-      (DeviceIndex "0"))
-    (SM0603GCL
-      (FullPartName "SM0603GCL.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\SEMICONDUCTORS. LED\(0603, GREEN) SM0603GCL\SM0603GCL.OLB")
-      (DeviceIndex "0"))
-    (LM1117MPX-ADJNOPB
-      (FullPartName "LM1117MPX-ADJNOPB.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\INTEGRAL CIRCUIT. LDO VOLTAGE REGULATORS\(SOT-223-4) LM1117MPX-ADJNOPB\LM1117MPX-ADJNOPB.OLB")
-      (DeviceIndex "0"))
-    (1N4148WS
-      (FullPartName "1N4148WS.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\SEMICONDUCTORS. DIODE\(SOD-323FL) 1N4148WS\1N4148WS.OLB")
-      (DeviceIndex "0"))
-    (PJ-041H
-      (FullPartName "PJ-041H.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CONNECTORS. DC POWER\PJ-041H\PJ-041H.OLB")
-      (DeviceIndex "0"))
-    (UJC-HP-L-G-5-MSMT-TR
-      (FullPartName "UJC-HP-L-G-5-MSMT-TR.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CONNECTORS. USB TYPE-C\(24P, 8.0MM, HORIZONTAL) UJC-HP-L-G-5-MSMT-TR\UJC-HP-L-G-5-MSMT-TR.OLB")
-      (DeviceIndex "0"))
-    (C1206C223F8HACAUTO
-      (FullPartName "C1206C223F8HACAUTO.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CAPACITORS. CERAMIC\(1206, 0.022UF, 10V) C1206C223F8HACAUTO\C1206C223F8HACAUTO.OLB")
-      (DeviceIndex "0"))
-    (95C06A3RAT
-      (FullPartName "95C06A3RAT.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\SWITCHES. TACTILE\95C06A3RAT.OLB")
-      (DeviceIndex "0"))
-    (TPB11CGPC004
-      (FullPartName "TPB11CGPC004.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\SWITCHES. PUSHBUTTON\TPB11CGPC004.OLB")
-      (DeviceIndex "0"))
-    (67996-100HLF
-      (FullPartName "67996-100HLF.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CONNECTORS. PIN HEADERS\(2X1, 2.54MM, OPEN, HEAADER MALE) 67996-100HLF\67996-100HLF.OLB")
-      (DeviceIndex "0"))
-    (ERA-6ARB472V
-      (FullPartName "ERA-6ARB472V.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\RESISTORS. FILM\(0805, 4.7K) ERA-6ARB472V\ERA-6ARB472V.OLB")
-      (DeviceIndex "0"))
-    (87832-1420
-      (FullPartName "87832-1420.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CONNECTORS. JTAG\(SMD, 2MM) 87832-1420\87832-1420.OLB")
-      (DeviceIndex "0"))
-    (VCC_ARROW
-      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (PRT-22890
-      (FullPartName "PRT-22890.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CONNECTORS. JTAG\(SMD, 1.27MM) PRT-22890\PRT-22890.OLB")
-      (DeviceIndex "0"))
-    (0
-      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (STM32L062K8T6
-      (FullPartName "STM32L062K8T6.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\INTEGRAL CIRCUIT. MCU ARM\(LQFP-32) STM32L052K8T6\STM32L052K8T6.OLB")
       (DeviceIndex "0")))
   (MPSSessionName "Tokito")
   (GlobalState
@@ -199,32 +184,44 @@
          "d:\projects\hardwaredesign\dosti mps-3\mps3hwdk.dsn" "MAIN")
       (Path "Layout")
       (Path "Logs")
-      (Select "Design Resources"))
+      (Select "Design Resources"
+         "d:\projects\hardwaredesign\dosti mps-3\mps3hwdk.dsn" "MAIN"
+         "02_MODULE"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 813"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 278 0 783"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1674 24 831")
-        (Scroll "-283 -10")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1631 24 801")
+        (Scroll "-264 0")
         (Zoom "92")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")
-      (Page "00_STRUCTURE"))
+      (Page "01_MOTHERBOARD"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 831")
-        (Scroll "-286 -12")
-        (Zoom "92")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1631 24 801")
+        (Scroll "478 561")
+        (Zoom "178")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")
-      (Page "01_MOTHERBOARD")))
+      (Page "00_MAIN"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1631 24 801")
+        (Scroll "1619 1968")
+        (Zoom "352")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
+      (Schematic "MAIN")
+      (Page "02_MODULE")))
   (LastUsedLibraryBrowseDirectory "D:\Projects\CadenceAllegro\CIS\olbpath")
   (ISPCBBASICLICENSE "false"))
