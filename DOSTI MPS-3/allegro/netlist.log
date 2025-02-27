@@ -1,5 +1,10 @@
-{ Using PSTWRITER 24.1.0 d001Feb-17-2025 at 11:43:49 }
+{ Using PSTWRITER 24.1.0 d001Feb-27-2025 at 15:00:40 }
 
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "J5.11" ignored for J5: MAIN, 02_MODULE_2 (115.57, 318.77). Connecting pin to net "+5V".
+#2 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package DX07S016JA1R1500 , J5: MAIN, 02_MODULE_2 (115.57, 318.77).
+#3 WARNING(ORCAP-36042): Pin "VBUS" is renamed to "VBUS#2" as visible power pin of same name already exists in Package DX07S016JA1R1500 , J5: MAIN, 02_MODULE_2 (115.57, 318.77).
+#4 WARNING(ORCAP-36042): Pin "VBUS" is renamed to "VBUS#11" as visible power pin of same name already exists in Package DX07S016JA1R1500 , J5: MAIN, 02_MODULE_2 (115.57, 318.77).
+#5 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#12" as visible power pin of same name already exists in Package DX07S016JA1R1500 , J5: MAIN, 02_MODULE_2 (115.57, 318.77).
 INFO(ORCAP-36080): Scanning netlist files ...
 
 Loading... D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\allegro\pstchip.dat

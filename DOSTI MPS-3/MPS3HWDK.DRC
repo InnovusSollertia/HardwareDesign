@@ -1,0 +1,115 @@
+Date and Time : 02/27/25 16:00:38
+
+--------------------------------------------------
+Checking Schematic: MAIN
+--------------------------------------------------
+Checking Electrical Rules 
+ERROR(ORCAP-1628): Possible pin type conflict +3V3  Power Connected to Output
+                    MAIN, 02_MODULE_2  (142.24, 269.24) 
+ERROR(ORCAP-1628): Possible pin type conflict IC1,VDD_2  Power Connected to Output
+                    MAIN, 02_MODULE_2  (114.30, 269.24) 
+ERROR(ORCAP-1628): Possible pin type conflict IC1,VDD_1  Power Connected to Output
+                    MAIN, 02_MODULE_2  (71.12, 251.46) 
+ERROR(ORCAP-1628): Possible pin type conflict IC3,VOUT_(TAB)  Output Connected to Power
+                    MAIN, 02_MODULE_2  (198.12, 78.74) 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections PB6 
+                    MAIN, 02_MODULE_2  (91.44, 233.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections +V2 
+                    MAIN, 02_MODULE_2  (85.09, 71.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB5 
+                    MAIN, 02_MODULE_2  (93.98, 233.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections +V1 
+                    MAIN, 02_MODULE_2  (85.09, 91.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA15 
+                    MAIN, 02_MODULE_2  (101.60, 233.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB3 
+                    MAIN, 02_MODULE_2  (99.06, 233.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB4 
+                    MAIN, 02_MODULE_2  (96.52, 233.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB7 
+                    MAIN, 02_MODULE_2  (88.90, 233.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA9 
+                    MAIN, 02_MODULE_2  (114.30, 264.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA8 
+                    MAIN, 02_MODULE_2  (114.30, 266.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB0 
+                    MAIN, 02_MODULE_2  (96.52, 287.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB1 
+                    MAIN, 02_MODULE_2  (99.06, 287.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA4 
+                    MAIN, 02_MODULE_2  (86.36, 287.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA5 
+                    MAIN, 02_MODULE_2  (88.90, 287.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA6 
+                    MAIN, 02_MODULE_2  (91.44, 287.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA7 
+                    MAIN, 02_MODULE_2  (93.98, 287.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC14 
+                    MAIN, 02_MODULE_2  (71.12, 254.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC15 
+                    MAIN, 02_MODULE_2  (71.12, 256.54) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA0 
+                    MAIN, 02_MODULE_2  (71.12, 264.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA1 
+                    MAIN, 02_MODULE_2  (71.12, 266.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections VCC 
+                    MAIN, 02_MODULE_2  (259.08, 335.28) 
+
+Checking For Unconnected Bus Nets
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: MAIN
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Entire Design: MPS3HWDK 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J5,VBUS  VBUS  +5V
+                    MAIN, 02_MODULE_2  (144.78, 322.58) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J5,VBUS  VBUS  +5V
+                    MAIN, 02_MODULE_2  (144.78, 320.04) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC1,VSS_2  VSS_2  GND
+                    MAIN, 02_MODULE_2  (83.82, 233.68) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC1,VSS_1  VSS_1  GND
+                    MAIN, 02_MODULE_2  (101.60, 287.02) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC1,VDDA  VDDA  +3V3_ANA
+                    MAIN, 02_MODULE_2  (71.12, 261.62) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC3,GND  GND  GND_POWER
+                    MAIN, 02_MODULE_2  (162.56, 78.74) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J5,GND  GND  GND_POWER
+                    MAIN, 02_MODULE_2  (144.78, 355.60) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J5,GND  GND  GND_POWER
+                    MAIN, 02_MODULE_2  (144.78, 353.06) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC1,VDD_2  VDD_2  +3V3
+                    MAIN, 02_MODULE_2  (114.30, 269.24) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC1,VDD_1  VDD_1  +3V3
+                    MAIN, 02_MODULE_2  (71.12, 251.46) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------
