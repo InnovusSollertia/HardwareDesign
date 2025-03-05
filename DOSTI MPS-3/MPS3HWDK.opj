@@ -247,13 +247,13 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 214 0 774"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 214 0 799"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1695 24 792")
-        (Scroll "-290 0")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1695 24 817")
+        (Scroll "-290 -1")
         (Zoom "93")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
@@ -262,7 +262,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1695 24 792")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1695 24 817")
         (Scroll "-288 0")
         (Zoom "93")
         (Occurrence "/"))
@@ -272,9 +272,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1695 24 792")
-        (Scroll "0 381")
-        (Zoom "172")
+        (Placement "44 0 1 -1 -1 5 24 5 1695 24 817")
+        (Scroll "0 0")
+        (Zoom "86")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")
