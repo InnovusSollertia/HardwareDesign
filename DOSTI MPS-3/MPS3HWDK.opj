@@ -239,10 +239,7 @@
          "d:\projects\hardwaredesign\dosti mps-3\mps3hwdk.dsn" "MAIN")
       (Path "Layout")
       (Path "Outputs")
-      (Path "Logs")
-      (Select "Design Resources"
-         "d:\projects\hardwaredesign\dosti mps-3\mps3hwdk.dsn" "MAIN"
-         "03_MODULE_4"))
+      (Path "Logs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -273,7 +270,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 1654 24 817")
-        (Scroll "0 686")
+        (Scroll "0 512")
         (Zoom "92")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
