@@ -1,99 +1,99 @@
-Date and Time : 03/11/25 19:16:25
+Date and Time : 03/12/25 12:14:46
 
 --------------------------------------------------
 Checking Schematic: MAIN
 --------------------------------------------------
 Checking Electrical Rules 
-ERROR(ORCAP-1628): Possible pin type conflict IC4,VDDA  Power Connected to Output
-                    MAIN, 03_MODULE_4  (198.12, 111.76) 
 ERROR(ORCAP-1628): Possible pin type conflict IC4,VBAT  Power Connected to Output
                     MAIN, 03_MODULE_4  (198.12, 91.44) 
-ERROR(ORCAP-1628): Possible pin type conflict PS1,VOUT  Output Connected to Power
-                    MAIN, 03_MODULE_4  (139.70, 325.12) 
+ERROR(ORCAP-1628): Possible pin type conflict IC4,VDDA  Power Connected to Output
+                    MAIN, 03_MODULE_4  (198.12, 111.76) 
 ERROR(ORCAP-1628): Possible pin type conflict IC4,VDD_1  Power Connected to Output
                     MAIN, 03_MODULE_4  (233.68, 137.16) 
+ERROR(ORCAP-1628): Possible pin type conflict PS1,VOUT  Output Connected to Power
+                    MAIN, 03_MODULE_4  (139.70, 325.12) 
 ERROR(ORCAP-1628): Possible pin type conflict +3V3  Power Connected to Output
-                    MAIN, 02_MODULE_2  (205.74, 490.22) 
-ERROR(ORCAP-1628): Possible pin type conflict IC1,VDD_2  Power Connected to Output
-                    MAIN, 02_MODULE_2  (281.94, 508.00) 
+                    MAIN, 02_MODULE_2  (327.66, 78.74) 
 ERROR(ORCAP-1628): Possible pin type conflict IC3,VOUT_(TAB)  Output Connected to Power
                     MAIN, 02_MODULE_2  (281.94, 78.74) 
 ERROR(ORCAP-1628): Possible pin type conflict IC1,VDD_1  Power Connected to Output
                     MAIN, 02_MODULE_2  (238.76, 490.22) 
+ERROR(ORCAP-1628): Possible pin type conflict IC1,VDD_2  Power Connected to Output
+                    MAIN, 02_MODULE_2  (281.94, 508.00) 
 
 Checking For Single Node Nets
-WARNING(ORCAP-1600): Net has fewer than two connections Z+/H3_04 
-                    MAIN, 03_MODULE_4  (518.16, 119.38) 
-WARNING(ORCAP-1600): Net has fewer than two connections B+/H2_04 
-                    MAIN, 03_MODULE_4  (561.34, 83.82) 
-WARNING(ORCAP-1600): Net has fewer than two connections A+/H1_04 
-                    MAIN, 03_MODULE_4  (561.34, 86.36) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO_BEMF_04 
-                    MAIN, 03_MODULE_4  (525.78, 119.38) 
-WARNING(ORCAP-1600): Net has fewer than two connections USART2_RX_04 
-                    MAIN, 03_MODULE_4  (561.34, 93.98) 
-WARNING(ORCAP-1600): Net has fewer than two connections USART2_TX_04 
-                    MAIN, 03_MODULE_4  (530.86, 119.38) 
-WARNING(ORCAP-1600): Net has fewer than two connections SWCLK_04 
-                    MAIN, 03_MODULE_4  (561.34, 109.22) 
-WARNING(ORCAP-1600): Net has fewer than two connections PWM_04 
-                    MAIN, 03_MODULE_4  (561.34, 104.14) 
-WARNING(ORCAP-1600): Net has fewer than two connections TIM1_CH1N_04 
-                    MAIN, 03_MODULE_4  (502.92, 144.78) 
-WARNING(ORCAP-1600): Net has fewer than two connections Curr_fdbk1_OPAmp+_04 
-                    MAIN, 03_MODULE_4  (502.92, 162.56) 
-WARNING(ORCAP-1600): Net has fewer than two connections Curr_fdbk1_OPAmp-_04 
-                    MAIN, 03_MODULE_4  (502.92, 167.64) 
-WARNING(ORCAP-1600): Net has fewer than two connections BEMF1_04 
-                    MAIN, 03_MODULE_4  (502.92, 170.18) 
-WARNING(ORCAP-1600): Net has fewer than two connections Curr_fdbk2_OPAmp-_04 
-                    MAIN, 03_MODULE_4  (510.54, 195.58) 
-WARNING(ORCAP-1600): Net has fewer than two connections Curr_fdbk2_OPAmp+_04 
-                    MAIN, 03_MODULE_4  (515.62, 198.12) 
-WARNING(ORCAP-1600): Net has fewer than two connections BEMF2_04 
-                    MAIN, 03_MODULE_4  (518.16, 200.66) 
-WARNING(ORCAP-1600): Net has fewer than two connections Curr_fdbk3_OPAmp+_04 
-                    MAIN, 03_MODULE_4  (520.70, 203.20) 
 WARNING(ORCAP-1600): Net has fewer than two connections OP3_OUT_04 
                     MAIN, 03_MODULE_4  (523.24, 205.74) 
-WARNING(ORCAP-1600): Net has fewer than two connections Curr_fdbk3_OPAmp-_04 
-                    MAIN, 03_MODULE_4  (525.78, 208.28) 
-WARNING(ORCAP-1600): Net has fewer than two connections BEMF3_04 
-                    MAIN, 03_MODULE_4  (538.48, 193.04) 
-WARNING(ORCAP-1600): Net has fewer than two connections SWDIO_04 
-                    MAIN, 03_MODULE_4  (581.66, 142.24) 
-WARNING(ORCAP-1600): Net has fewer than two connections TIM1_CH2N_04 
-                    MAIN, 03_MODULE_4  (581.66, 147.32) 
-WARNING(ORCAP-1600): Net has fewer than two connections TIM1_CH3_04 
-                    MAIN, 03_MODULE_4  (581.66, 152.40) 
-WARNING(ORCAP-1600): Net has fewer than two connections TIM1_CH2_04 
-                    MAIN, 03_MODULE_4  (581.66, 154.94) 
-WARNING(ORCAP-1600): Net has fewer than two connections TIM1_CH1_04 
-                    MAIN, 03_MODULE_4  (581.66, 157.48) 
-WARNING(ORCAP-1600): Net has fewer than two connections TIM1_CH3N_04 
-                    MAIN, 03_MODULE_4  (581.66, 162.56) 
-WARNING(ORCAP-1600): Net has fewer than two connections Temperature_feedback_04 
-                    MAIN, 03_MODULE_4  (581.66, 165.10) 
-WARNING(ORCAP-1600): Net has fewer than two connections STM_JTCK_04 
-                    MAIN, 03_MODULE_4  (233.68, 73.66) 
-WARNING(ORCAP-1600): Net has fewer than two connections STM_JTMS_04 
-                    MAIN, 03_MODULE_4  (261.62, 96.52) 
-WARNING(ORCAP-1600): Net has fewer than two connections T_SWO_04 
-                    MAIN, 03_MODULE_4  (261.62, 104.14) 
-WARNING(ORCAP-1600): Net has fewer than two connections MCO_04 
-                    MAIN, 03_MODULE_4  (314.96, 109.22) 
-WARNING(ORCAP-1600): Net has fewer than two connections T_JTDO_04 
-                    MAIN, 03_MODULE_4  (213.36, 152.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections SWCLK_04 
+                    MAIN, 03_MODULE_4  (541.02, 119.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections B+/H2_04 
+                    MAIN, 03_MODULE_4  (520.70, 119.38) 
 WARNING(ORCAP-1600): Net has fewer than two connections T_JTDI_04 
                     MAIN, 03_MODULE_4  (215.90, 152.40) 
-WARNING(ORCAP-1600): Net has fewer than two connections T_NRST_04 
-                    MAIN, 03_MODULE_4  (218.44, 152.40) 
-WARNING(ORCAP-1600): Net has fewer than two connections USART2_RX_ST_LINK_04 
-                    MAIN, 03_MODULE_4  (157.48, 152.40) 
-WARNING(ORCAP-1600): Net has fewer than two connections USART2_TX_ST_LINK_04 
-                    MAIN, 03_MODULE_4  (157.48, 142.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections BEMF3_04 
+                    MAIN, 03_MODULE_4  (538.48, 193.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections A+/H1_04 
+                    MAIN, 03_MODULE_4  (523.24, 119.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections T_SWO_04 
+                    MAIN, 03_MODULE_4  (261.62, 104.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections Curr_fdbk3_OPAmp-_04 
+                    MAIN, 03_MODULE_4  (525.78, 208.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections Z+/H3_04 
+                    MAIN, 03_MODULE_4  (518.16, 119.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections Curr_fdbk2_OPAmp+_04 
+                    MAIN, 03_MODULE_4  (515.62, 198.12) 
 WARNING(ORCAP-1600): Net has fewer than two connections U5V 
                     MAIN, 03_MODULE_4  (116.84, 414.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections PWM_04 
+                    MAIN, 03_MODULE_4  (538.48, 119.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections Curr_fdbk2_OPAmp-_04 
+                    MAIN, 03_MODULE_4  (510.54, 195.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections TIM1_CH3_04 
+                    MAIN, 03_MODULE_4  (581.66, 152.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections TIM1_CH1_04 
+                    MAIN, 03_MODULE_4  (581.66, 157.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections USART2_TX_04 
+                    MAIN, 03_MODULE_4  (530.86, 119.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections MCO_04 
+                    MAIN, 03_MODULE_4  (314.96, 109.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections TIM1_CH1N_04 
+                    MAIN, 03_MODULE_4  (502.92, 144.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections USART2_TX_ST_LINK_04 
+                    MAIN, 03_MODULE_4  (157.48, 142.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections GPIO_BEMF_04 
+                    MAIN, 03_MODULE_4  (525.78, 119.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections TIM1_CH2N_04 
+                    MAIN, 03_MODULE_4  (581.66, 147.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections TIM1_CH3N_04 
+                    MAIN, 03_MODULE_4  (581.66, 162.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections USART2_RX_ST_LINK_04 
+                    MAIN, 03_MODULE_4  (157.48, 152.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections STM_JTCK_04 
+                    MAIN, 03_MODULE_4  (233.68, 73.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections T_NRST_04 
+                    MAIN, 03_MODULE_4  (218.44, 152.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections USART2_RX_04 
+                    MAIN, 03_MODULE_4  (528.32, 119.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections Curr_fdbk3_OPAmp+_04 
+                    MAIN, 03_MODULE_4  (520.70, 203.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections SWDIO_04 
+                    MAIN, 03_MODULE_4  (581.66, 142.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections Curr_fdbk1_OPAmp-_04 
+                    MAIN, 03_MODULE_4  (502.92, 167.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections BEMF2_04 
+                    MAIN, 03_MODULE_4  (518.16, 200.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections Curr_fdbk1_OPAmp+_04 
+                    MAIN, 03_MODULE_4  (502.92, 162.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections BEMF1_04 
+                    MAIN, 03_MODULE_4  (502.92, 170.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections T_JTDO_04 
+                    MAIN, 03_MODULE_4  (213.36, 152.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections STM_JTMS_04 
+                    MAIN, 03_MODULE_4  (261.62, 96.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections Temperature_feedback_04 
+                    MAIN, 03_MODULE_4  (581.66, 165.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections TIM1_CH2_04 
+                    MAIN, 03_MODULE_4  (581.66, 154.94) 
 
 Checking For Unconnected Bus Nets
 
@@ -125,11 +125,11 @@ Reporting Off-Grid Objects
     R17  -  03_MODULE_4 (137.16, 207.01)
     R15  -  03_MODULE_4 (137.16, 194.31)
     R9  -  03_MODULE_4 (162.56, 128.27)
-    R31  -  03_MODULE_4 (528.32, 316.23)
     R11  -  03_MODULE_4 (162.56, 151.13)
+    R31  -  03_MODULE_4 (528.32, 316.23)
+    R29  -  03_MODULE_4 (669.29, 60.96)
     R21  -  03_MODULE_4 (39.37, 330.20)
     Y1  -  03_MODULE_4 (101.60, 80.26)
-    R29  -  03_MODULE_4 (669.29, 60.96)
     R25  -  03_MODULE_4 (115.57, 419.10)
     R6  -  03_MODULE_4 (170.18, 92.71)
     R23  -  03_MODULE_4 (172.72, 445.77)
@@ -177,147 +177,147 @@ Reporting Globals
     U5V_ST_LINK_04
     +3.3V
     +V1
-    +3V3
     +V2
+    +3V3
     +5V
     GND_POWER
-    +10V
     5V_ESC_04
+    +10V
     GND
     +3V3_ANA
 
 Reporting Net Names
-    CAN_TX_04
-    Z+/H3_04
-    B+/H2_04
-    A+/H1_04
-    GPIO_BEMF_04
-    USART2_RX_04
-    USART2_TX_04
-    CAN_SHDN_04
-    BUTTON_04
-    SWCLK_04
-    PWM_04
-    CAN_TERM_04
-    TIM1_CH1N_04
-    VBUS_04
-    NRST_04
-    CURR_FDBK1_OPAMP+_04
-    CURR_FDBK1_OPAMP-_04
-    BEMF1_04
-    CURR_FDBK2_OPAMP-_04
-    CURR_FDBK2_OPAMP+_04
-    BEMF2_04
-    CURR_FDBK3_OPAMP+_04
+    GND
+    +3.3V
     OP3_OUT_04
-    CURR_FDBK3_OPAMP-_04
-    BEMF3_04
-    SWDIO_04
-    TIM1_CH2N_04
-    CAN_RX_04
-    TIM1_CH3_04
-    TIM1_CH2_04
-    TIM1_CH1_04
-    STATUS_04
-    TIM1_CH3N_04
-    TEMPERATURE_FEEDBACK_04
-    POTENTIOMETER_04
-    D_04
-    S1_04
-    +3V3_ST_LINK_04
-    USB_RENUMN_04
-    STM_JTCK_04
-    STM_JTMS_04
-    USB_DM_02
-    USB_DP_04
-    USB_DM_04
-    GPIO_02
-    T_SWO_04
-    PA9_02
-    LED_STLINK_04
-    MCO_04
-    PWR_ENN_04
-    T_JTMS_04
-    T_JTCK_04
-    T_JTDO_04
+    N348818
+    SWCLK_04
+    B+/H2_04
     T_JTDI_04
-    T_NRST_04
-    USART2_RX_ST_LINK_04
-    USART2_TX_ST_LINK_04
-    PA8_02
+    N355029
+    BEMF3_04
+    N348113
+    A+/H1_04
+    T_SWO_04
+    N312091
+    CURR_FDBK3_OPAMP-_04
+    Z+/H3_04
+    N316771
+    LED_STLINK_04
+    D_04
+    VBUS_04
+    CURR_FDBK2_OPAMP+_04
+    USB_RENUMN_04
+    +10V
+    U5V
+    CAN_TERM_04
+    N310896
+    N312526
+    S1_04
+    PWM_04
+    BUTTON_04
+    N318785
     STM_RST_04
-    OSC_OUT_04
-    OSC_IN_4
+    CURR_FDBK2_OPAMP-_04
+    STATUS_04
+    TIM1_CH3_04
+    U5V_04
+    TIM1_CH1_04
+    USART2_TX_04
+    T_JTCK_04
+    MCO_04
+    N343512
+    TIM1_CH1N_04
+    USART2_TX_ST_LINK_04
+    GPIO_BEMF_04
+    N325497
+    USB_DP_04
+    TIM1_CH2N_04
+    TIM1_CH3N_04
+    NRST_04
+    USB_DM_04
+    USART2_RX_ST_LINK_04
+    N316779
+    STM_JTCK_04
+    +3V3_ST_LINK_04
+    CAN_RX_04
+    N348120
+    N313334
+    N314040
+    POTENTIOMETER_04
+    CAN_TX_04
     5V_ESC_04
     -------------------------------------------------------------------------------
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. 5V_ESC_04 
-                    MAIN, 03_MODULE_4  (190.50, 261.62) 
+                    MAIN, 03_MODULE_4  (264.16, 358.14) 
              Alternate Name:  U5V_ST_LINK_04
     -------------------------------------------------------------------------------
 
-    U5V_04
-    NRST_02
-    N312526
-    N316775
-    N313177
+    T_NRST_04
+    OSC_OUT_04
+    T_JTMS_04
     N312538
-    N316779
-    N316771
-    N312091
-    +5V
-    GND
-    N318785
-    +10V
-    U5V
-    N313334
-    N327077
-    N314040
-    N310896
     N326767
-    N325497
-    N322642
-    +3V3_ANA
-    N60086
-    N60082
-    N74498
-    GND_POWER
-    N64980
-    N74494
-    USB_DP_02
-    B_02
-    A_02
-    +3.3V
-    N343512
-    N355029
-    PC14_02
-    PC15_02
-    PA0_02
-    PA1_02
-    PB7_02
-    PB6_02
-    +3V3
-    TX_MK_02
-    +V2
-    +V1
-    RX_MK_02
-    PA4_02
-    PA5_02
-    PA6_02
-    PA7_02
-    PB0_02
-    PB1_02
-    PB5_02
-    PB4_02
-    PB3_02
-    PA15_02
-    N348113
-    N348120
-    N348127
-    BOOT0_02
-    N348818
     N348822
+    USART2_RX_04
+    CURR_FDBK3_OPAMP+_04
+    N348127
+    SWDIO_04
+    CURR_FDBK1_OPAMP-_04
+    BEMF2_04
+    OSC_IN_4
+    N322642
+    CAN_SHDN_04
+    CURR_FDBK1_OPAMP+_04
+    BEMF1_04
+    T_JTDO_04
+    N313177
+    STM_JTMS_04
+    TEMPERATURE_FEEDBACK_04
+    TIM1_CH2_04
+    +5V
+    PWR_ENN_04
+    N316775
+    N327077
+    PC15_02
+    PB7_02
+    PA8_02
+    N60082
+    PA9_02
+    GND_POWER
+    PA0_02
+    +V1
+    BOOT0_02
+    N64980
+    NRST_02
+    PB3_02
+    PA5_02
     SWDIO_02
     SWCLK_02
+    +3V3
+    GPIO_02
+    PB4_02
+    +V2
+    +3V3_ANA
+    PB0_02
+    PA7_02
+    N74498
+    PA6_02
+    PC14_02
+    N60086
+    B_02
+    PA1_02
+    PA4_02
+    USB_DM_02
+    RX_MK_02
+    TX_MK_02
+    A_02
+    PA15_02
+    N74494
+    PB5_02
+    PB1_02
+    PB6_02
+    USB_DP_02
 
 Checking Misleading Tap connection
 
@@ -356,9 +356,9 @@ Checking Name Property for Hierarchical Instances
 
 INFO(ORCAP-2212): Check Power Ground Mismatch
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J5,VBUS  VBUS  +5V
-                    MAIN, 02_MODULE_2  (279.40, 332.74) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J5,VBUS  VBUS  +5V
                     MAIN, 02_MODULE_2  (279.40, 335.28) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J5,VBUS  VBUS  +5V
+                    MAIN, 02_MODULE_2  (279.40, 332.74) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC4,VSSA  VSSA  GND
                     MAIN, 03_MODULE_4  (198.12, 109.22) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC4,VSS_1  VSS_1  GND
@@ -371,12 +371,12 @@ WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ens
                     MAIN, 02_MODULE_2  (251.46, 472.44) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC1,VDDA  VDDA  +3V3_ANA
                     MAIN, 02_MODULE_2  (238.76, 500.38) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. 5V_ESC_04  U5V_ST_LINK_04  5V_ESC_04  
-                    MAIN, 03_MODULE_4  (190.50, 261.62) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC1,VDD_2  VDD_2  +3V3
-                    MAIN, 02_MODULE_2  (281.94, 508.00) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. 5V_ESC_04  5V_ESC_04  U5V_ST_LINK_04  
+                    MAIN, 03_MODULE_4  (264.16, 358.14) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC1,VDD_1  VDD_1  +3V3
                     MAIN, 02_MODULE_2  (238.76, 490.22) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC1,VDD_2  VDD_2  +3V3
+                    MAIN, 02_MODULE_2  (281.94, 508.00) 
 
 Reporting Unused Refdes in multiple part packages
 Part	                       Quantity	                       Reference
