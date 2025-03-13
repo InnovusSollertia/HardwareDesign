@@ -128,107 +128,109 @@
       (Type "Log File")
       (LogFile "d:\projects\hardwaredesign\dosti mps-3\allegro\eco.txt")))
   (PartMRUSelector
+    (CC0402JRNPO9BN100
+      (FullPartName "CC0402JRNPO9BN100.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CC0402JRNPO9BN100.OLB")
+      (DeviceIndex "0"))
+    (CRCW040210K0FKEDC
+      (FullPartName "CRCW040210K0FKEDC.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CRCW040210K0FKEDC.OLB")
+      (DeviceIndex "0"))
+    (BAT30KFILM
+      (FullPartName "BAT30KFILM.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\BAT30KFILM.OLB")
+      (DeviceIndex "0"))
     (GND
       (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
-    (0
-      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+    (CSRF0402FT3L00
+      (FullPartName "CSRF0402FT3L00.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CSRF0402FT3L00.OLB")
+      (DeviceIndex "0"))
+    (ERJ-XGNF2201Y
+      (FullPartName "ERJ-XGNF2201Y.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ERJ-XGNF2201Y.OLB")
+      (DeviceIndex "0"))
+    (ERJ-1GNF2202C
+      (FullPartName "ERJ-1GNF2202C.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ERJ-1GNF2202C.OLB")
+      (DeviceIndex "0"))
+    (ERJ-XGNJ152Y
+      (FullPartName "ERJ-XGNJ152Y.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ERJ-XGNJ152Y.OLB")
+      (DeviceIndex "0"))
+    (ERJ-U01F1802C
+      (FullPartName "ERJ-U01F1802C.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ERJ-U01F1802C.OLB")
+      (DeviceIndex "0"))
+    (ERJ-1GNF1693C
+      (FullPartName "ERJ-1GNF1693C.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ERJ-1GNF1693C.OLB")
+      (DeviceIndex "0"))
+    (LTR10EZPJ103
+      (FullPartName "LTR10EZPJ103.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\LTR10EZPJ103.OLB")
+      (DeviceIndex "0"))
+    (JMK042C7103KC-W
+      (FullPartName "JMK042C7103KC-W.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\JMK042C7103KC-W.OLB")
+      (DeviceIndex "0"))
+    (ERJ-1GNJ1R0C
+      (FullPartName "ERJ-1GNJ1R0C.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ERJ-1GNJ1R0C.OLB")
+      (DeviceIndex "0"))
+    (CRCW020110K0FNED
+      (FullPartName "CRCW020110K0FNED.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CRCW020110K0FNED.OLB")
+      (DeviceIndex "0"))
+    (STL180N6F7
+      (FullPartName "STL180N6F7.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\STL180N6F7.OLB")
       (DeviceIndex "0"))
     (VCC_BAR
       (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
-    (GRM155C80E156ME01D
-      (FullPartName "GRM155C80E156ME01D.Normal")
+    (ERJ-XGNF33R0Y
+      (FullPartName "ERJ-XGNF33R0Y.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ERJ-XGNF33R0Y.OLB")
+      (DeviceIndex "0"))
+    (AMK063AC6105MP-F
+      (FullPartName "AMK063AC6105MP-F.Normal")
       (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\GRM155C80E156ME01D.OLB")
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\AMK063AC6105MP-F.OLB")
       (DeviceIndex "0"))
-    (SMM4F26A-TR
-      (FullPartName "SMM4F26A-TR.Normal")
-      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\SMM4F26A-TR.OLB")
+    (STPS0560Z
+      (FullPartName "STPS0560Z.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\STPS0560Z.OLB")
       (DeviceIndex "0"))
-    (LDFPVR
-      (FullPartName "LDFPVR.Normal")
-      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\LDFPVR.OLB")
+    (02013A101FAT2A
+      (FullPartName "02013A101FAT2A.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\02013A101FAT2A.OLB")
       (DeviceIndex "0"))
-    (ERJ-XGNF8201Y
-      (FullPartName "ERJ-XGNF8201Y.Normal")
-      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ERJ-XGNF8201Y.OLB")
-      (DeviceIndex "0"))
-    (GRM022R60J472ME19L
-      (FullPartName "GRM022R60J472ME19L.Normal")
+    (GRM022R60G474ME15L
+      (FullPartName "GRM022R60G474ME15L.Normal")
       (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\GRM022R60J472ME19L.OLB")
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\GRM022R60G474ME15L.OLB")
       (DeviceIndex "0"))
-    (GRM0225C1H270JA02L
-      (FullPartName "GRM0225C1H270JA02L.Normal")
+    (L6387ED
+      (FullPartName "L6387ED.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\L6387ED.OLB")
+      (DeviceIndex "0"))
+    (CRCW020130K9FKED
+      (FullPartName "CRCW020130K9FKED.Normal")
       (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\GRM0225C1H270JA02L.OLB")
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CRCW020130K9FKED.OLB")
       (DeviceIndex "0"))
-    (MEASP105CB5226MF1A01
-      (FullPartName "MEASP105CB5226MF1A01.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\MEASP105CB5226MF1A01.OLB")
+    (ERJ-XGNF5232Y
+      (FullPartName "ERJ-XGNF5232Y.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ERJ-XGNF5232Y.OLB")
       (DeviceIndex "0"))
-    (GRM022R60J392KE19L
-      (FullPartName "GRM022R60J392KE19L.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\GRM022R60J392KE19L.OLB")
-      (DeviceIndex "0"))
-    (ERJ-XGNF62R0Y
-      (FullPartName "ERJ-XGNF62R0Y.Normal")
-      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ERJ-XGNF62R0Y.OLB")
-      (DeviceIndex "0"))
-    (ERJ-XGNF3000Y
-      (FullPartName "ERJ-XGNF3000Y.Normal")
-      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ERJ-XGNF3000Y.OLB")
-      (DeviceIndex "0"))
-    (ERJ-XGNJ472Y
-      (FullPartName "ERJ-XGNJ472Y.Normal")
-      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ERJ-XGNJ472Y.OLB")
-      (DeviceIndex "0"))
-    (ERJ-XGNF3482Y
-      (FullPartName "ERJ-XGNF3482Y.Normal")
-      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ERJ-XGNF3482Y.OLB")
-      (DeviceIndex "0"))
-    (SS12
-      (FullPartName "SS12.Normal")
-      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\SS12.OLB")
-      (DeviceIndex "0"))
-    (KGM03DR50G106MH
-      (FullPartName "KGM03DR50G106MH.Normal")
-      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\KGM03DR50G106MH.OLB")
-      (DeviceIndex "0"))
-    (MEASA042SB5224MWNA01
-      (FullPartName "MEASA042SB5224MWNA01.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\MEASA042SB5224MWNA01.OLB")
-      (DeviceIndex "0"))
-    (LQM18DH330M70L
-      (FullPartName "LQM18DH330M70L.Normal")
-      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\LQM18DH330M70L.OLB")
-      (DeviceIndex "0"))
-    (L7986TR
-      (FullPartName "L7986TR.Normal")
-      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\L7986TR.OLB")
-      (DeviceIndex "0"))
-    (VCC_ARROW
-      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (ERJ-XGNJ121Y
-      (FullPartName "ERJ-XGNJ121Y.Normal")
-      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ERJ-XGNJ121Y.OLB")
-      (DeviceIndex "0"))
-    (0306YD104KAT2A
-      (FullPartName "0306YD104KAT2A.Normal")
-      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\0306YD104KAT2A.OLB")
-      (DeviceIndex "0"))
-    (TCAN330DCNT
-      (FullPartName "TCAN330DCNT.Normal")
-      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\TCAN330DCNT.OLB")
-      (DeviceIndex "0"))
-    (AS11P2TLRQ
-      (FullPartName "AS11P2TLRQ.Normal")
-      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\AS11P2TLRQ.OLB")
+    (CL03A225MO5C65C
+      (FullPartName "CL03A225MO5C65C.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CL03A225MO5C65C.OLB")
       (DeviceIndex "0")))
   (MPSSessionName "Tokito")
   (GlobalState
@@ -282,8 +284,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 1709 24 761")
-        (Scroll "6107 68")
-        (Zoom "168")
+        (Scroll "-350 -10")
+        (Zoom "21")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")
