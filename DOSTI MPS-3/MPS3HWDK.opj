@@ -1,6 +1,6 @@
 (ExpressProject "MPS3HWDK"
   (ProjectVersion "19981106")
-  (SoftwareVersion "24.1 S002 (4270188)  [1/23/2025]-[03/14/25]")
+  (SoftwareVersion "24.1 S002 (4270188)  [1/23/2025]-[03/17/25]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -128,6 +128,14 @@
       (Type "Log File")
       (LogFile "d:\projects\hardwaredesign\dosti mps-3\allegro\eco.txt")))
   (PartMRUSelector
+    (SEAF-40-05.0-L-10-2-A-K-TR
+      (FullPartName "SEAF-40-05.0-L-10-2-A-K-TR.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\SEAF-40-05.0-L-10-2-A-K-TR.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
     (GND
       (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -198,9 +206,6 @@
       (FullPartName "STL180N6F7.Normal")
       (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\STL180N6F7.OLB")
       (DeviceIndex "0"))
-    (VCC_BAR
-      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
     (ERJ-XGNF33R0Y
       (FullPartName "ERJ-XGNF33R0Y.Normal")
       (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\ERJ-XGNF33R0Y.OLB")
@@ -226,11 +231,6 @@
     (L6387ED
       (FullPartName "L6387ED.Normal")
       (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\L6387ED.OLB")
-      (DeviceIndex "0"))
-    (CRCW020130K9FKED
-      (FullPartName "CRCW020130K9FKED.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\CRCW020130K9FKED.OLB")
       (DeviceIndex "0")))
   (MPSSessionName "Tokito")
   (GlobalState
@@ -243,19 +243,21 @@
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs")
-      (Select "Logs" ".\allegro\netrev.lst"))
+      (Select "Design Resources"
+         "d:\projects\hardwaredesign\dosti mps-3\mps3hwdk.dsn" "MAIN"
+         "02_MODULE_2"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 759"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 227 0 796"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1709 24 777")
-        (Scroll "-332 -6")
-        (Zoom "87")
+        (Placement "44 0 1 -1 -1 5 24 5 1682 24 814")
+        (Scroll "-290 -4")
+        (Zoom "92")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")
@@ -263,8 +265,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1709 24 777")
-        (Scroll "0 475")
+        (Placement "44 0 1 -1 -1 5 24 5 1682 24 814")
+        (Scroll "209 0")
         (Zoom "186")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
@@ -273,9 +275,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1709 24 777")
-        (Scroll "-350 -18")
-        (Zoom "21")
+        (Placement "44 0 1 -1 -1 5 24 5 1682 24 814")
+        (Scroll "3324 0")
+        (Zoom "240")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")
@@ -283,9 +285,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1709 24 777")
-        (Scroll "169 564")
-        (Zoom "42")
+        (Placement "44 0 1 -1 -1 5 24 5 1682 24 814")
+        (Scroll "3073 507")
+        (Zoom "184")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")
