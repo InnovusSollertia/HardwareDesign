@@ -128,13 +128,13 @@
       (Type "Log File")
       (LogFile "d:\projects\hardwaredesign\dosti mps-3\allegro\eco.txt")))
   (PartMRUSelector
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
     (SEAF-40-05.0-L-10-2-A-K-TR
       (FullPartName "SEAF-40-05.0-L-10-2-A-K-TR.Normal")
       (LibraryName
          "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\SEAF-40-05.0-L-10-2-A-K-TR.OLB")
-      (DeviceIndex "0"))
-    (VCC_BAR
-      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (GND
       (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
@@ -266,8 +266,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 1682 24 814")
-        (Scroll "209 0")
-        (Zoom "186")
+        (Scroll "-281 0")
+        (Zoom "93")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")
@@ -276,8 +276,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 1682 24 814")
-        (Scroll "3324 0")
-        (Zoom "240")
+        (Scroll "-1 350")
+        (Zoom "60")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")
@@ -286,8 +286,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 1682 24 814")
-        (Scroll "3073 507")
-        (Zoom "184")
+        (Scroll "2407 1637")
+        (Zoom "368")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")
