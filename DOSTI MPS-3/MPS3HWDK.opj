@@ -1,6 +1,6 @@
 (ExpressProject "MPS3HWDK"
   (ProjectVersion "19981106")
-  (SoftwareVersion "24.1 S002 (4270188)  [1/23/2025]-[03/18/25]")
+  (SoftwareVersion "24.1 S002 (4270188)  [1/23/2025]-[03/19/25]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -250,13 +250,13 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 221 0 772"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 237 0 772"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1688 24 790")
-        (Scroll "-281 0")
+        (Placement "44 0 1 -1 -1 5 24 5 1672 24 790")
+        (Scroll "-273 0")
         (Zoom "94")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
@@ -265,8 +265,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1688 24 790")
-        (Scroll "-278 0")
+        (Placement "44 0 1 -1 -1 5 24 5 1672 24 790")
+        (Scroll "-270 0")
         (Zoom "94")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
@@ -275,9 +275,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1688 24 790")
-        (Scroll "-417 0")
-        (Zoom "30")
+        (Placement "44 0 1 -1 -1 5 24 5 1672 24 790")
+        (Scroll "8 61")
+        (Zoom "120")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")
@@ -285,9 +285,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 5 24 5 1688 24 790")
-        (Scroll "465 431")
-        (Zoom "46")
+        (Placement "44 0 1 -1 -1 5 24 5 1672 24 790")
+        (Scroll "-98 0")
+        (Zoom "23")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")

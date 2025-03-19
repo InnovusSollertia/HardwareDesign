@@ -1,25 +1,25 @@
-Date and Time : 03/18/25 15:55:28
+Date and Time : 03/19/25 10:40:03
 
 --------------------------------------------------
 Checking Schematic: MAIN
 --------------------------------------------------
 Checking Electrical Rules 
 WARNING(ORCAP-1829): Possible pin type conflict +3.3V  Power Connected to Bidirectional
-                    MAIN, 03_MODULE_4  (706.12, 401.32) 
+                    MAIN, 03_MODULE_4  (467.36, 99.06) 
 WARNING(ORCAP-1829): Possible pin type conflict R76,1  Bidirectional Connected to Power
                     MAIN, 03_MODULE_4  (718.82, 543.56) 
-WARNING(ORCAP-1829): Possible pin type conflict R77,1  Bidirectional Connected to Power
-                    MAIN, 03_MODULE_4  (688.34, 543.56) 
 WARNING(ORCAP-1829): Possible pin type conflict R78,1  Bidirectional Connected to Power
                     MAIN, 03_MODULE_4  (657.86, 543.56) 
+WARNING(ORCAP-1829): Possible pin type conflict R77,1  Bidirectional Connected to Power
+                    MAIN, 03_MODULE_4  (688.34, 543.56) 
 ERROR(ORCAP-1628): Possible pin type conflict +3V3_ST_LINK_04  Power Connected to Output
                     MAIN, 03_MODULE_4  (241.30, 142.24) 
+ERROR(ORCAP-1628): Possible pin type conflict IC4,VBAT  Power Connected to Output
+                    MAIN, 03_MODULE_4  (198.12, 91.44) 
 ERROR(ORCAP-1628): Possible pin type conflict IC4,VDD_1  Power Connected to Output
                     MAIN, 03_MODULE_4  (233.68, 137.16) 
 ERROR(ORCAP-1628): Possible pin type conflict PS1,VOUT  Output Connected to Power
                     MAIN, 03_MODULE_4  (139.70, 325.12) 
-ERROR(ORCAP-1628): Possible pin type conflict IC4,VBAT  Power Connected to Output
-                    MAIN, 03_MODULE_4  (198.12, 91.44) 
 ERROR(ORCAP-1628): Possible pin type conflict IC4,VDDA  Power Connected to Output
                     MAIN, 03_MODULE_4  (198.12, 111.76) 
 ERROR(ORCAP-1628): Possible pin type conflict +3V3  Power Connected to Output
@@ -32,27 +32,25 @@ ERROR(ORCAP-1628): Possible pin type conflict IC3,VOUT_(TAB)  Output Connected t
                     MAIN, 02_MODULE_2  (218.44, 58.42) 
 
 Checking For Single Node Nets
-WARNING(ORCAP-1600): Net has fewer than two connections MCO_04 
-                    MAIN, 03_MODULE_4  (314.96, 109.22) 
 
 Checking For Unconnected Bus Nets
 
 Reporting Off-Grid Objects
     R5  -  02_MODULE_2 (132.08, 326.39)
-    D3  -  02_MODULE_2 (107.95, 68.58)
     LED1  -  02_MODULE_2 (212.09, 40.64)
+    D3  -  02_MODULE_2 (107.95, 68.58)
     D1  -  02_MODULE_2 (107.95, 58.42)
     R4  -  02_MODULE_2 (132.08, 318.77)
     D4  -  02_MODULE_2 (107.95, 48.26)
     R2  -  02_MODULE_2 (187.45, 41.91)
-    R3  -  02_MODULE_2 (130.81, 336.55)
     F1  -  02_MODULE_2 (134.62, 59.69)
+    R3  -  02_MODULE_2 (130.81, 336.55)
     R1  -  02_MODULE_2 (166.37, 274.32)
-    L1  -  02_MODULE_2 (195.58, 105.41)
     C5  -  02_MODULE_2 (83.82, 430.02)
+    L1  -  02_MODULE_2 (195.58, 105.41)
     RT1  -  03_MODULE_4 (576.58, 574.55)
-    R69  -  03_MODULE_4 (956.31, 513.08)
     R60  -  03_MODULE_4 (727.71, 439.42)
+    R69  -  03_MODULE_4 (956.31, 513.08)
     R77  -  03_MODULE_4 (687.07, 548.64)
     R7  -  03_MODULE_4 (57.15, 86.36)
     Y2  -  03_MODULE_4 (393.70, 110.74)
@@ -90,8 +88,8 @@ Reporting Off-Grid Objects
     R39  -  03_MODULE_4 (110.49, 617.22)
     R51  -  03_MODULE_4 (975.36, 295.91)
     R33  -  03_MODULE_4 (321.31, 568.96)
-    R29  -  03_MODULE_4 (669.29, 60.96)
     R49  -  03_MODULE_4 (977.90, 184.15)
+    R29  -  03_MODULE_4 (669.29, 60.96)
     R35  -  03_MODULE_4 (473.71, 579.12)
     R50  -  03_MODULE_4 (977.90, 240.03)
     R79  -  03_MODULE_4 (614.68, 575.31)
@@ -163,117 +161,63 @@ Reporting Globals
     U5V_ST_LINK_04
     +3.3V
     +V1
-    +V2
     +3V3
+    +V2
     +5V
+    GND_POWER
     5V_ESC_04
     +10V
-    GND_POWER
     GND
-    U5V_04
-    +3V3_ST_LINK_04
     +3V3_ANA
+    +3V3_ST_LINK_04
+    U5V_04
 
 Reporting Net Names
+    N313334
+    N489523
+    VSHUNT_3-_04
+    -------------------------------------------------------------------------------
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. Vshunt_3-_04 
+                    MAIN, 03_MODULE_4  (995.68, 596.90) 
+             Alternate Name:  Curr_fdbk3_OPAmp-_04
+    -------------------------------------------------------------------------------
+
+    VSHUNT_2-_04
+    -------------------------------------------------------------------------------
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. Vshunt_2-_04 
+                    MAIN, 03_MODULE_4  (510.54, 195.58) 
+             Alternate Name:  Curr_fdbk2_OPAmp-_04
+    -------------------------------------------------------------------------------
+
+    TIM1_CH3N_04
+    +3.3V
+    N312091
+    N311006
+    Z+/H3_04
+    LED_STLINK_04
+    N348120
+    +5V
+    N503154
+    N502272
+    V+_04
+    CAN_RX_04
+    USB_RENUMN_04
+    TIM1_CH1N_04
     USART2_TX_ST_LINK_04
     -------------------------------------------------------------------------------
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. USART2_TX_ST_LINK_04 
-                    MAIN, 03_MODULE_4  (561.34, 93.98) 
+                    MAIN, 03_MODULE_4  (157.48, 142.24) 
              Alternate Name:  USART2_RX_04
     -------------------------------------------------------------------------------
 
-    CURR_FDBK1_OPAMP-_04
-    -------------------------------------------------------------------------------
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. Curr_fdbk1_OPAmp-_04 
-                    MAIN, 03_MODULE_4  (624.84, 314.96) 
-             Alternate Name:  Vshunt_1-_04
-    -------------------------------------------------------------------------------
-
-    CURR_FDBK2_OPAMP-_04
-    -------------------------------------------------------------------------------
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. Curr_fdbk2_OPAmp-_04 
-                    MAIN, 03_MODULE_4  (510.54, 195.58) 
-             Alternate Name:  Vshunt_2-_04
-    -------------------------------------------------------------------------------
-
-    CURR_FDBK3_OPAMP-_04
-    -------------------------------------------------------------------------------
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. Curr_fdbk3_OPAmp-_04 
-                    MAIN, 03_MODULE_4  (995.68, 596.90) 
-             Alternate Name:  Vshunt_3-_04
-    -------------------------------------------------------------------------------
-
-    USART2_RX_ST_LINK_04
-    -------------------------------------------------------------------------------
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. USART2_RX_ST_LINK_04 
-                    MAIN, 03_MODULE_4  (302.26, 347.98) 
-             Alternate Name:  USART2_TX_04
-    -------------------------------------------------------------------------------
-
-    BEMF1_04
-    N464329
-    B+/H2_04
-    CAN_TERM_04
     S1_04
-    N506967
-    N503282
-    N327077
-    CAN_TX_04
-    USB_DM_04
-    N502272
-    N311013
-    N506757
-    N318785
-    GND
-    N514023
-    N501761
-    N507210
-    +10V
-    SWDIO_04
-    -------------------------------------------------------------------------------
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. SWDIO_04 
-                    MAIN, 03_MODULE_4  (251.46, 358.14) 
-             Alternate Name:  T_JTMS_04
-    -------------------------------------------------------------------------------
-
-    CURR_FDBK2_OPAMP+_04
-    BEMF3_04
-    N348120
-    N355029
-    OUT2_04
-    TIM1_CH3N_04
-    N465619
-    N312526
-    N311793
+    N326767
+    N509303
+    N312538
+    N348818
     VSHUNT_2+_04
-    +3.3V
-    TIM1_CH1N_04
-    N316771
-    TIM1_CH2N_04
-    N510778
-    BEMF2_04
-    +3V3_ST_LINK_04
-    N322642
-    PWR_ENN_04
-    VSHUNT_1+_04
-    CURR_FDBK1_OPAMP+_04
-    VBUS_04
-    A+/H1_04
-    N501782
-    N514778
-    TIM1_CH2_04
-    N343512
-    N506465
-    PWM_04
-    GPIO_BEMF_04
     N502168
-    N460454
-    N314040
-    STM_JTMS_04
-    N325497
-    N504927
-    N489523
-    N313177
+    +10V
     NRST_04
     -------------------------------------------------------------------------------
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. NRST_04 
@@ -281,49 +225,95 @@ WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ens
              Alternate Name:  T_NRST_04
     -------------------------------------------------------------------------------
 
-    Z+/H3_04
-    D_04
-    N312538
-    N501778
-    USB_DP_04
+    N348822
+    N464333
+    STATUS_04
+    N501761
+    VSHUNT_1+_04
+    N312526
+    TIM1_CH2N_04
+    N327077
     N461280
     STM_JTCK_04
+    N514778
+    N503282
     TEMPERATURE_FEEDBACK_04
-    VSHUNT_3+_04
-    USB_RENUMN_04
-    N465615
-    CURR_FDBK3_OPAMP+_04
-    N348818
-    LED_STLINK_04
-    N348127
-    N491880
-    V+_04
-    TIM1_CH1_04
-    N464333
-    N503154
-    N503258
-    N514424
+    N322642
+    N504927
     N316775
-    OUT1_04
-    N326767
-    N510433
+    N491880
+    CURR_FDBK3_OPAMP+_04
     POTENTIOMETER_04
-    BUTTON_04
-    N310896
-    N502296
-    MCO_04
-    U5V_04
-    TIM1_CH3_04
-    CAN_RX_04
-    +5V
+    N348113
+    N313177
+    VSHUNT_3+_04
+    TIM1_CH2_04
+    N507210
     OUT3_04
-    N348822
-    N313334
-    STATUS_04
-    N311006
+    VSHUNT_1-_04
+    -------------------------------------------------------------------------------
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. Vshunt_1-_04 
+                    MAIN, 03_MODULE_4  (995.68, 576.58) 
+             Alternate Name:  Curr_fdbk1_OPAmp-_04
+    -------------------------------------------------------------------------------
+
+    USB_DP_04
+    N503258
+    N311793
     N316779
-    N509303
-    CAN_SHDN_04
+    N464329
+    N318785
+    BUTTON_04
+    STM_JTMS_04
+    TIM1_CH1_04
+    N510433
+    N348127
+    CURR_FDBK2_OPAMP+_04
+    N314040
+    SWDIO_04
+    -------------------------------------------------------------------------------
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. SWDIO_04 
+                    MAIN, 03_MODULE_4  (279.40, 114.30) 
+             Alternate Name:  T_JTMS_04
+    -------------------------------------------------------------------------------
+
+    PWM_04
+    N325497
+    BEMF3_04
+    N503957
+    N502296
+    USB_DM_04
+    +3V3_ST_LINK_04
+    USART2_RX_ST_LINK_04
+    -------------------------------------------------------------------------------
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. USART2_RX_ST_LINK_04 
+                    MAIN, 03_MODULE_4  (157.48, 152.40) 
+             Alternate Name:  USART2_TX_04
+    -------------------------------------------------------------------------------
+
+    BEMF2_04
+    N316771
+    N501782
+    N465615
+    OUT2_04
+    N465619
+    N460454
+    CAN_TX_04
+    OUT1_04
+    GPIO_BEMF_04
+    MCO_04
+    PWR_ENN_04
+    N506465
+    VBUS_04
+    N310896
+    U5V_04
+    N510778
+    N514424
+    N501778
+    N506757
+    N343512
+    N311013
+    A+/H1_04
     SWCLK_04
     -------------------------------------------------------------------------------
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. SWCLK_04 
@@ -331,55 +321,63 @@ WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ens
              Alternate Name:  T_JTCK_04
     -------------------------------------------------------------------------------
 
-    N348113
-    N503957
-    N312091
-    +V1
-    PB4_02
-    PC14_02
-    N74498
-    SWCLK_02
-    PA4_02
-    PB3_02
-    PA1_02
-    N60086
-    PB7_02
-    PA5_02
-    PA8_02
-    PB5_02
-    PA7_02
-    GPIO_02
-    N64980
-    NRST_02
-    USB_DM_02
-    PC15_02
-    N74494
-    PB6_02
-    B_02
-    RX_MK_02
-    GND_POWER
-    PA15_02
-    PA0_02
-    BOOT0_02
-    +3V3
-    +V2
-    PB1_02
-    SWDIO_02
-    PB0_02
-    PA6_02
-    +3V3_ANA
-    USB_DP_02
-    A_02
-    PA9_02
-    TX_MK_02
-    N60082
+    N514023
+    N506967
+    CAN_SHDN_04
+    D_04
+    CAN_TERM_04
+    GND
     U5V_ST_LINK_04
     -------------------------------------------------------------------------------
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U5V_ST_LINK_04 
-                    MAIN, 03_MODULE_4  (1430.02, 233.68) 
+                    MAIN, 03_MODULE_4  (274.32, 340.36) 
              Alternate Name:  5V_ESC_04
     -------------------------------------------------------------------------------
 
+    BEMF1_04
+    N355029
+    CURR_FDBK1_OPAMP+_04
+    B+/H2_04
+    TIM1_CH3_04
+    GND_POWER
+    PA1_02
+    +3V3_ANA
+    BOOT0_02
+    PA7_02
+    PC14_02
+    N74498
+    PB0_02
+    B_02
+    +V2
+    GPIO_02
+    NRST_02
+    N74494
+    PA4_02
+    PB4_02
+    SWDIO_02
+    PC15_02
+    USB_DM_02
+    N60082
+    PB3_02
+    PB7_02
+    RX_MK_02
+    PA8_02
+    PA6_02
+    PA9_02
+    PA5_02
+    PB6_02
+    USB_DP_02
+    N60086
+    SWCLK_02
+    PB5_02
+    +3V3
+    +V1
+    A_02
+    PB1_02
+    PA0_02
+    PA15_02
+    N64980
+    TX_MK_02
 
 Checking Misleading Tap connection
 
@@ -418,23 +416,23 @@ Checking Name Property for Hierarchical Instances
 
 INFO(ORCAP-2212): Check Power Ground Mismatch
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J5,VBUS  VBUS  +5V
-                    MAIN, 02_MODULE_2  (215.90, 312.42) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J5,VBUS  VBUS  +5V
                     MAIN, 02_MODULE_2  (215.90, 314.96) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC1,VSS_1  VSS_1  GND
-                    MAIN, 02_MODULE_2  (205.74, 505.46) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC1,VSS_2  VSS_2  GND
-                    MAIN, 02_MODULE_2  (187.96, 452.12) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J5,VBUS  VBUS  +5V
+                    MAIN, 02_MODULE_2  (215.90, 312.42) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. PS1,PAD  PAD  GND
+                    MAIN, 03_MODULE_4  (124.46, 340.36) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC4,VSSA  VSSA  GND
                     MAIN, 03_MODULE_4  (198.12, 109.22) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC4,VSS_1  VSS_1  GND
                     MAIN, 03_MODULE_4  (231.14, 137.16) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. PS1,PAD  PAD  GND
-                    MAIN, 03_MODULE_4  (124.46, 340.36) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC4,VDD_1  VDD_1  +3V3_ST_LINK_04
-                    MAIN, 03_MODULE_4  (233.68, 137.16) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC1,VSS_2  VSS_2  GND
+                    MAIN, 02_MODULE_2  (187.96, 452.12) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC1,VSS_1  VSS_1  GND
+                    MAIN, 02_MODULE_2  (205.74, 505.46) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC4,VBAT  VBAT  +3V3_ST_LINK_04
                     MAIN, 03_MODULE_4  (198.12, 91.44) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC4,VDD_1  VDD_1  +3V3_ST_LINK_04
+                    MAIN, 03_MODULE_4  (233.68, 137.16) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC4,VDDA  VDDA  +3V3_ST_LINK_04
                     MAIN, 03_MODULE_4  (198.12, 111.76) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC1,VDDA  VDDA  +3V3_ANA
@@ -442,7 +440,7 @@ WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ens
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. PS1,VIN  VIN  U5V_04
                     MAIN, 03_MODULE_4  (139.70, 320.04) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U5V_ST_LINK_04  5V_ESC_04  U5V_ST_LINK_04  
-                    MAIN, 03_MODULE_4  (1430.02, 233.68) 
+                    MAIN, 03_MODULE_4  (274.32, 340.36) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC1,VDD_1  VDD_1  +3V3
                     MAIN, 02_MODULE_2  (175.26, 469.90) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. IC1,VDD_2  VDD_2  +3V3
