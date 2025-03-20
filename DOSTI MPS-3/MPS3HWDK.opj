@@ -1,6 +1,6 @@
 (ExpressProject "MPS3HWDK"
   (ProjectVersion "19981106")
-  (SoftwareVersion "24.1 S002 (4270188)  [1/23/2025]-[03/19/25]")
+  (SoftwareVersion "24.1 S002 (4270188)  [1/23/2025]-[03/20/25]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -245,17 +245,17 @@
       (Path "Logs")
       (Select "Design Resources"
          "d:\projects\hardwaredesign\dosti mps-3\mps3hwdk.dsn" "MAIN"
-         "02_MODULE_2"))
+         "03_MODULE_4"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 237 0 635"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 237 0 697"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1672 24 653")
+        (Placement "44 0 1 -1 -1 5 24 5 1672 24 715")
         (Scroll "-273 0")
         (Zoom "94")
         (Occurrence "/"))
@@ -265,9 +265,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1672 24 653")
-        (Scroll "-270 0")
-        (Zoom "94")
+        (Placement "44 0 1 -1 -1 5 24 5 1672 24 715")
+        (Scroll "-264 0")
+        (Zoom "95")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")
@@ -275,9 +275,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1672 24 653")
-        (Scroll "709 0")
-        (Zoom "120")
+        (Placement "44 0 1 -1 -1 5 24 5 1672 24 715")
+        (Scroll "-134 482")
+        (Zoom "50")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")
@@ -285,9 +285,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1672 24 653")
-        (Scroll "1160 2889")
-        (Zoom "260")
+        (Placement "44 0 1 -1 -1 5 24 5 1672 24 715")
+        (Scroll "1729 645")
+        (Zoom "80")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")
