@@ -128,6 +128,15 @@
       (Type "Log File")
       (LogFile "d:\projects\hardwaredesign\dosti mps-3\allegro\eco.txt")))
   (PartMRUSelector
+    (5-146278-2
+      (FullPartName "5-146278-2.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\5-146278-2.OLB")
+      (DeviceIndex "0"))
+    (DS04-254-1S-01BK
+      (FullPartName "DS04-254-1S-01BK.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\DS04-254-1S-01BK.OLB")
+      (DeviceIndex "0"))
     (GND
       (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -222,15 +231,6 @@
     (02013A101FAT2A
       (FullPartName "02013A101FAT2A.Normal")
       (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\02013A101FAT2A.OLB")
-      (DeviceIndex "0"))
-    (GRM022R60G474ME15L
-      (FullPartName "GRM022R60G474ME15L.Normal")
-      (LibraryName
-         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\GRM022R60G474ME15L.OLB")
-      (DeviceIndex "0"))
-    (L6387ED
-      (FullPartName "L6387ED.Normal")
-      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\L6387ED.OLB")
       (DeviceIndex "0")))
   (MPSSessionName "Tokito")
   (GlobalState
@@ -250,12 +250,12 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 237 0 772"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 237 0 635"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1672 24 790")
+        (Placement "44 0 1 -1 -1 5 24 5 1672 24 653")
         (Scroll "-273 0")
         (Zoom "94")
         (Occurrence "/"))
@@ -265,7 +265,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1672 24 790")
+        (Placement "44 0 1 -1 -1 5 24 5 1672 24 653")
         (Scroll "-270 0")
         (Zoom "94")
         (Occurrence "/"))
@@ -275,8 +275,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1672 24 790")
-        (Scroll "8 61")
+        (Placement "44 0 1 -1 -1 5 24 5 1672 24 653")
+        (Scroll "709 0")
         (Zoom "120")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
@@ -285,9 +285,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1672 24 790")
-        (Scroll "-98 0")
-        (Zoom "23")
+        (Placement "44 0 1 -1 -1 5 24 5 1672 24 653")
+        (Scroll "1160 2889")
+        (Zoom "260")
         (Occurrence "/"))
       (Path "D:\PROJECTS\HARDWAREDESIGN\DOSTI MPS-3\MPS3HWDK.DSN")
       (Schematic "MAIN")

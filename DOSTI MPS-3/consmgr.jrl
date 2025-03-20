@@ -1,0 +1,9 @@
+\t (00:00:00) consmgr Unknown Unknown (unrelease) [unrelease] Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Mar 19 12:17:27 2025
+\t (00:00:00)         Host=DESKTOP-2BLDU22 User=Tokito Pid=12824 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_24.1/tools/bin/consmgr.exe
+\t (00:00:00) 
+\t (00:00:00) skill setRedsGlobalTypes()
+\t (00:00:00) skill acns_setGlobalTypes()
+\t (00:00:01) Loading consmgr.cxt 
+\t (00:00:01) Loading acns_formula.cxt 

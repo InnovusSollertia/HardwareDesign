@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : mps3hwdk.brd                                  )
 (    Software Version : 24.1S002                                      )
-(    Date/Time        : Mon Feb 17 11:48:01 2025                      )
+(    Date/Time        : Wed Mar 19 12:28:50 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  0
+ ..... Total number of DRC errors  26
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

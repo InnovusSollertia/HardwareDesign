@@ -2,9 +2,9 @@
 (                                                                     )
 (    Dangling Line, Via and Antenna Report                            )
 (                                                                     )
-(    Drawing          : MPS3HWDK.brd                                  )
-(    Software Version : 24.1P001                                      )
-(    Date/Time        : Sun Dec 22 20:11:56 2024                      )
+(    Drawing          : mps3hwdk.brd                                  )
+(    Software Version : 24.1S002                                      )
+(    Date/Time        : Wed Mar 19 12:45:03 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,8 +22,14 @@ Report methodology:
   - To suppress items in dangle report add the OK_DANGLE property to the via
     or connect line.
 
+<< Dangling Lines >>  - Location marked with a star (*) is dangling.
+  Net                 Layer                  Length       Location
+  ------------------------------------------------------------------------------------------
+  PB1_02               TOP                   3.9474      (281.4000 262.4620) to *(280.0350 259.0800)
+  PB0_02               TOP                   3.8791      (280.6000 262.4620) to *(279.4000 259.0800)
+  PA7_02               TOP                   3.8107      (279.8000 262.4620) to *(278.7650 259.0800)
 
 << Summary >>
-  Total dangling lines:       0
+  Total dangling lines:       3
   Total dangling vias:        0
   Total antenna vias:         0

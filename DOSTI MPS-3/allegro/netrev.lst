@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : mps3hwdk.brd                                  )
 (    Software Version : 24.1S002                                      )
-(    Date/Time        : Mon Feb 17 11:48:17 2025                      )
+(    Date/Time        : Wed Mar 19 12:17:48 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -17,75 +17,92 @@ Ripup retain bondwire:       No
 Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
-Schematic directory:         '.'
+Schematic directory:         'd:\projects\hardwaredesign\dosti mps-3\allegro'
 Design Directory:            'D:/Projects/HardwareDesign/DOSTI MPS-3/allegro'
 Old design name:             'D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd'
 New design name:             'D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd'
 
-CmdLine: netrev -$ -i . -y 1 -h -q netrev_constraint_report.xml D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/#Taaaaai04808.tmp
+CmdLine: netrev.exe -y 1 -v -n -i d:\projects\hardwaredesign\dosti mps-3\allegro D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/mps3hwdk.brd
 
 ------ Preparing to read pst files ------
 
-Starting to read ./pstchip.dat 
-   Finished reading ./pstchip.dat (00:00:00.62)
-Starting to read ./pstxprt.dat 
-   Finished reading ./pstxprt.dat (00:00:00.00)
-Starting to read ./pstxnet.dat 
-   Finished reading ./pstxnet.dat (00:00:00.00)
+Starting to read d:/projects/hardwaredesign/dosti mps-3/allegro/pstchip.dat 
+   Finished reading d:/projects/hardwaredesign/dosti mps-3/allegro/pstchip.dat (00:00:00.73)
+Starting to read d:/projects/hardwaredesign/dosti mps-3/allegro/pstxprt.dat 
+   Finished reading d:/projects/hardwaredesign/dosti mps-3/allegro/pstxprt.dat (00:00:00.00)
+Starting to read d:/projects/hardwaredesign/dosti mps-3/allegro/pstxnet.dat 
+   Finished reading d:/projects/hardwaredesign/dosti mps-3/allegro/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
 
 #1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
-WARNING(SPMHNI-194): Symbol 'QFP50P2200X2200X160-144N' used by RefDes IC1 for device 'ICE40HX4K-TQ144_QFP50P2200X2200X160-144N_ICE40HX4K-TQ144' not found. 
-The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+WARNING(SPMHNI-337): Unable to load symbol 'SON65P200X200X100-7N-D' used by RefDes IC10 for device 'LDFPVR_SON65P200X200X100-7N-D_LDFPVR': WARNING(SPMHUT-127): Could not find padstack D65_35.
+    due to ERROR(SPMHDB-273): Unable to load shape symbol D65_35 (Check PSMPATH setting for this symbol).
+  
 
-Set the correct library path if n
+     Could not find padstack D65_35.
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol 'QFN50P700X700X65-49N-D' used by RefDes IC8 for device 'STM32G431CBU6_QFN50P700X700X65-49N-D_STM32G431CBU6': WARNING(SPMHUT-127): Could not find padstack D85_30.
+    due to ERROR(SPMHDB-273): Unable to load shape symbol D85_30 (Check PSMPATH setting for thi
+
+     Could not find padstack D85_30.
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol 'SON95P300X300X100-7N-D' used by RefDes PS1 for device 'LD39050PU33R_SON95P300X300X100-7N-D_LD39050PU33R': WARNING(SPMHUT-127): Could not find padstack D80_40.
+    due to ERROR(SPMHDB-273): Unable to load shape symbol D80_40 (Check PSMPATH setting for this 
+
+     Could not find padstack D80_40.
+
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol 'SON50P300X300X100-11N-D' used by RefDes PS2 for device 'L7986TR_SON50P300X300X100-11N-D_L7986TR': WARNING(SPMHUT-127): Could not find padstack D80_30.
+    due to ERROR(SPMHDB-273): Unable to load shape symbol D80_30 (Check PSMPATH setting for this symbol).
+
+     Could not find padstack D80_30.
 
 
 
 ===========================================================
-Start Constraint Diff3 Import
-	Constraint File:    ./pstcmdb.dat
-	Allegro Baseline:   C:/Users/Tokito/AppData/Local/Temp/#Taaaaaj02768.tmp
-	Start time: Mon Feb 17 11:48:18 2025
+Start Constraint Override Import
+	Constraint File:    d:/projects/hardwaredesign/dosti mps-3/allegro/pstcmdb.dat
+	Start time: Wed Mar 19 12:17:50 2025
 ===========================================================
-
-
-The constraint difference report file can be viewed using the following command:
-cdnFlowOOSMsg.exe -file "file:///D:/Projects/HardwareDesign/DOSTI MPS-3/allegro/netrev_constraint_report.xml"
-
-NOTE: Constraint information is up-to-date. No processing was required.
 ===========================================================
-Finished Constraint Update	Time: Mon Feb 17 11:48:18 2025
+Finished Constraint Update	Time: Wed Mar 19 12:17:50 2025
 ===========================================================
 
 ------ Library Paths ------
 MODULEPATH =  . 
-           c:/cadence/spb_24.1/share/local/pcb/modules 
+           C:/Cadence/SPB_24.1/share/orApps/OrCaptureApp/../../../share/local/pcb/modules 
 
-PSMPATH =  . 
+PSMPATH =  D:/Projects/CadenceAllegro/CIS/psmpath 
+           . 
            symbols 
            .. 
            ../symbols 
-           c:/cadence/spb_24.1/share/local/pcb/symbols 
-           c:/cadence/spb_24.1/share/pcb/pcb_lib/symbols 
-           c:/cadence/spb_24.1/share/pcb/allegrolib/symbols 
+           C:/Cadence/SPB_24.1/share/local/pcb/symbols 
+           C:/Cadence/SPB_24.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_24.1/share/pcb/allegrolib/symbols 
 
-PADPATH =  . 
+PADPATH =  D:/Projects/CadenceAllegro/CIS/psmpath 
+           . 
            symbols 
            .. 
            ../symbols 
-           c:/cadence/spb_24.1/share/local/pcb/padstacks 
-           c:/cadence/spb_24.1/share/pcb/pcb_lib/symbols 
-           c:/cadence/spb_24.1/share/pcb/allegrolib/symbols 
+           C:/Cadence/SPB_24.1/share/local/pcb/padstacks 
+           C:/Cadence/SPB_24.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_24.1/share/pcb/allegrolib/symbols 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Feb 17 11:48:17 2025
+netrev run on Mar 19 12:17:47 2025
    DESIGN NAME : 'MPS3HWDK'
    PACKAGING ON Jan 23 2025 22:22:36
 
@@ -108,8 +125,8 @@ netrev run on Feb 17 11:48:17 2025
 
  No error detected
  No oversight detected
-  1 warnings detected
+  4 warnings detected
 
-cpu time      0:02:13
-elapsed time  0:00:01
+cpu time      0:07:10
+elapsed time  0:00:04
 
