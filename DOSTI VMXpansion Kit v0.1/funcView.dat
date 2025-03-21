@@ -1,0 +1,22 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
+J!D:/studicaxpansion/sxpn.brd!Thu Mar 20 15:09:30 2025!0.0000!0.0000!533.4000!431.8000!0.0001!millimeters!STUDICAXPANSION!19.600000 mil!3!UP TO DATE!
+S!@studicaxpansion.schematic1(sch_1):ins7725@\ssw-120-02-g-t-ra\.\ssw-120-02-g-t-ra.normal\(chips)!SSW-120-02-G-T-RA_RHDRRA60W79P254_3X20_5131X851X749P_SSW-120-02-G-T-RA!J1!.\chipsView.dat!!!!!!F19!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins13433@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J10!.\chipsView.dat!!!!!!F18!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins1161@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J12!.\chipsView.dat!!!!!!F17!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins1181@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J13!.\chipsView.dat!!!!!!F16!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins1201@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J14!.\chipsView.dat!!!!!!F15!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins1221@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J15!.\chipsView.dat!!!!!!F14!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins1241@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J16!.\chipsView.dat!!!!!!F13!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins1261@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J17!.\chipsView.dat!!!!!!F12!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins1281@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J18!.\chipsView.dat!!!!!!F11!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins1301@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J19!.\chipsView.dat!!!!!!F10!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins10030@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J2!.\chipsView.dat!!!!!!F9!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins1321@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J20!.\chipsView.dat!!!!!!F8!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins10062@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J3!.\chipsView.dat!!!!!!F7!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins10094@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J4!.\chipsView.dat!!!!!!F6!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins814@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J5!.\chipsView.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins834@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J6!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins854@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J7!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins874@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J8!.\chipsView.dat!!!!!!F2!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins894@\39512-1003\.\39512-1003.normal\(chips)!39512-1003_395121003_39512-1003!J9!.\chipsView.dat!!!!!!F1!!!!!!!!!!!!!!!!!!
+S!@studicaxpansion.schematic1(sch_1):ins981@\tsw-110-07-f-d\.\tsw-110-07-f-d.normal\(chips)!TSW-110-07-F-D_TSW-110-XX-YY-D_TSW-110-07-F-D!J11!.\chipsView.dat!!!!!!F0!!!!!!!!!!!!!!!!!!

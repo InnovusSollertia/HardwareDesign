@@ -1,0 +1,292 @@
+\t (00:00:02) allegro 24.1 S002 (4270188) [1/23/2025] Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Mar 20 19:09:55 2025
+\t (00:00:02)         Host=DESKTOP-D851ENJ User=Prometheus Pid=18544 CPUs=12
+\t (00:00:02) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe
+\t (00:00:02) 
+\t (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: D:/studicaxpansion/sxpn.brd
+\i (00:00:05) trapsize 45512
+\i (00:00:05) trapsize 51686
+\i (00:00:05) trapsize 53770
+\i (00:00:05) trapsize 101794
+\i (00:00:05) trapsize 101794
+\t (00:00:06) > Sending response DoneOpenBoard
+\t (00:00:06) Loading NV GPU Plugin
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
+\i (00:00:06) QtSignal Modes
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/8)" +
+\i (00:00:06) QtSignal "Board Outline  (0/5)" 0 "|" "Create (Complete)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/8)" +
+\i (00:00:06) QtSignal 0 "|" "Board Outline  (1/5)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/8)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/8)" +
+\i (00:00:06) QtSignal "Board Outline  (1/5)" "Create (Complete)" 1 "|" Automatically
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
+\i (00:00:06) QtSignal "|" "Shapes  (1/4)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
+\i (00:00:06) QtSignal 0 "|" Polygon
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
+\i (00:00:06) QtSignal 0 "|" "IPC-2581"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
+\i (00:00:06) QtSignal 0 "|" Testprep
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
+\i (00:00:06) QtSignal Manual
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
+\i (00:00:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
+\i (00:00:06) QtSignal "Display Status"
+\i (00:00:06) trapsize 11770
+\i (00:00:07) generaledit 
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 180.0755 136.2924
+\i (00:00:13) trapsize 23539
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 228.8018 266.0835
+\i (00:00:13) trapsize 23539
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 228.8018 266.0835
+\i (00:00:14) trapsize 23539
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 72.5010 379.0720
+\i (00:00:14) trapsize 11770
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 50.8449 385.1923
+\i (00:00:15) trapsize 5885
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 50.8449 385.0746
+\i (00:00:15) trapsize 11770
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 51.5510 389.7825
+\i (00:00:16) trapsize 5885
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 52.9634 389.7826
+\i (00:00:16) trapsize 2942
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 65.6158 389.3707
+\i (00:00:16) trapsize 1471
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 71.5595 382.0736
+\i (00:00:17) trapsize 736
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 71.6331 377.5276
+\i (00:00:18) trapsize 368
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 71.6184 378.1014
+\i (00:00:21) trapsize 736
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 71.6478 378.1307
+\i (00:00:21) trapsize 1471
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 71.6479 378.1308
+\i (00:00:21) trapsize 2942
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out 73.0602 377.3068
+\i (00:00:22) trapsize 5885
+\i (00:00:22) zoom in 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom in 77.2973 364.2429
+\i (00:00:22) trapsize 2942
+\i (00:01:14) nctape_full 
+\w (00:01:14) WARNING(SPMHMF-272): NC Parameters file 'nc_param.txt' not found ... loading defaults.
+\i (00:01:18) setwindow form.nc_drill
+\i (00:01:18) FORM nc_drill auto_tool_select YES 
+\i (00:01:18) FORM nc_drill separate_tapes YES 
+\i (00:01:22) FORM nc_drill execute  
+\t (00:01:22) Starting Generating NC Drill...
+\t (00:01:22) SpawnProcessExit background process completed status = 2
+
+\e (00:01:22) ERROR(SPMHGE-268): NC Drill had errors, use Viewlog to review the log file.
+\e (00:01:23) A problem occurred, see the logfile (using Viewlog).
+\i (00:01:31) setwindow text
+\i (00:01:31) close
+\i (00:01:32) setwindow form.nc_drill
+\i (00:01:32) FORM nc_drill browse  
+\i (00:01:34) fillin "menu_cancel"
+\i (00:01:35) FORM nc_drill cancel  
+\i (00:01:35) setwindow pcb
+\i (00:01:35) generaledit 
+\i (00:01:43) setwindow form.mini
+\i (00:01:43) FORM mini class MANUFACTURING 
+\i (00:01:48) FORM mini class PIN 
+\i (00:01:53) FORM mini class 'VIA CLASS' 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom in 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom in 101.4249 386.5462
+\i (00:01:55) trapsize 1471
+\i (00:01:56) zoom in 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in 101.2778 386.4580
+\i (00:01:56) trapsize 736
+\i (00:01:56) zoom in 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in 99.8213 386.3551
+\i (00:01:56) trapsize 368
+\i (00:01:57) zoom in 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom in 100.0126 386.4066
+\i (00:01:57) trapsize 184
+\i (00:01:57) zoom in 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom in 100.0089 386.3993
+\i (00:01:57) trapsize 92
+\i (00:01:59) zoom in 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom in 99.6338 386.0830
+\i (00:01:59) trapsize 46
+\i (00:02:00) zoom in 1 
+\i (00:02:00) setwindow pcb
+\i (00:02:00) zoom in 99.6338 386.0830
+\i (00:02:00) trapsize 23
+\i (00:02:00) zoom in 1 
+\i (00:02:00) setwindow pcb
+\i (00:02:00) zoom in 99.6278 386.0067
+\i (00:02:00) trapsize 11
+\i (00:02:00) zoom out 1 
+\i (00:02:00) setwindow pcb
+\i (00:02:00) zoom out 99.6269 386.0065
+\i (00:02:00) trapsize 23
+\i (00:02:01) zoom out 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom out 99.6269 386.0065
+\i (00:02:01) trapsize 46
+\i (00:02:01) zoom out 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom out 99.6259 386.0065
+\i (00:02:01) trapsize 92
+\i (00:02:01) zoom out 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom out 99.6260 386.0066
+\i (00:02:01) trapsize 184
+\i (00:02:10) nctape_full 
+\i (00:02:13) setwindow form.nc_drill
+\i (00:02:13) FORM nc_drill execute  
+\t (00:02:13) Starting Generating NC Drill...
+\t (00:02:14) SpawnProcessExit background process completed status = 2
+
+\e (00:02:14) ERROR(SPMHGE-268): NC Drill had errors, use Viewlog to review the log file.
+\e (00:02:15) A problem occurred, see the logfile (using Viewlog).
+\i (00:02:16) setwindow text
+\i (00:02:16) close
+\i (00:02:18) setwindow form.nc_drill
+\i (00:02:18) FORM nc_drill parameters  
+\i (00:02:23) setwindow form.nc_parameters
+\i (00:02:23) FORM nc_parameters cancel  
+\i (00:02:25) setwindow form.nc_drill
+\i (00:02:25) FORM nc_drill separate_tapes NO 
+\i (00:02:27) FORM nc_drill auto_tool_select NO 
+\i (00:02:28) FORM nc_drill optimize YES 
+\i (00:02:29) FORM nc_drill execute  
+\t (00:02:29) Starting Generating NC Drill...
+\t (00:02:30) SpawnProcessExit background process completed status = 2
+
+\e (00:02:30) ERROR(SPMHGE-268): NC Drill had errors, use Viewlog to review the log file.
+\e (00:02:31) A problem occurred, see the logfile (using Viewlog).
+\i (00:03:11) setwindow text
+\i (00:03:11) close
+\i (00:03:12) setwindow form.nc_drill
+\i (00:03:12) FORM nc_drill cancel  
+\i (00:03:12) setwindow pcb
+\i (00:03:12) generaledit 
+\i (00:03:20) fabmaster out 
+\i (00:03:22) fillin confirm
+\t (00:03:22) Loading mfg.cxt 
+\i (00:03:22) generaledit 
+\i (00:03:33) nctape_full 
+\i (00:03:37) setwindow form.nc_drill
+\i (00:03:37) FORM nc_drill auto_tool_select YES 
+\i (00:03:38) FORM nc_drill optimize NO 
+\i (00:03:49) FORM nc_drill execute  
+\t (00:03:49) Starting Generating NC Drill...
+\t (00:03:49) SpawnProcessExit background process completed status = 2
+
+\e (00:03:49) ERROR(SPMHGE-268): NC Drill had errors, use Viewlog to review the log file.
+\e (00:03:50) A problem occurred, see the logfile (using Viewlog).
+\i (00:04:06) setwindow text
+\i (00:04:06) close
+\i (00:04:12) setwindow form.nc_drill
+\i (00:04:12) FORM nc_drill scale 2.0000 
+\i (00:04:12) FORM nc_drill execute  
+\t (00:04:12) Starting Generating NC Drill...
+\t (00:04:13) SpawnProcessExit background process completed status = 2
+
+\e (00:04:13) ERROR(SPMHGE-268): NC Drill had errors, use Viewlog to review the log file.
+\e (00:04:14) A problem occurred, see the logfile (using Viewlog).
+\i (00:04:16) setwindow text
+\i (00:04:16) close
+\i (00:04:18) setwindow form.nc_drill
+\i (00:04:18) FORM nc_drill scale 1.0000 
+\i (00:04:19) FORM nc_drill execute  
+\t (00:04:19) Starting Generating NC Drill...
+\t (00:04:19) SpawnProcessExit background process completed status = 2
+
+\e (00:04:19) ERROR(SPMHGE-268): NC Drill had errors, use Viewlog to review the log file.
+\e (00:04:21) A problem occurred, see the logfile (using Viewlog).
+\i (00:05:24) setwindow text
+\i (00:05:24) close
+\i (00:05:25) setwindow form.nc_drill
+\i (00:05:25) FORM nc_drill parameters  
+\i (00:05:31) setwindow form.nc_parameters
+\i (00:05:31) FORM nc_parameters integer_places 3 
+\i (00:05:37) FORM nc_parameters done  
+\i (00:05:37) setwindow form.nc_drill
+\i (00:05:37) FORM nc_drill execute  
+\t (00:05:37) Starting Generating NC Drill...
+\t (00:05:38) SpawnProcessExit background process completed status = 0
+
+\i (00:05:44) FORM nc_drill close  
+\i (00:05:44) setwindow pcb
+\i (00:05:44) generaledit 
+\t (00:05:44) [19:15:37.003288] periodic Lic check successful
+[19:15:37.003288] Feature usage summary:
+[19:15:37.003288] Allegro_PCB_RF  
+[19:15:37.003288] Allegro_PCB_Harmony_Option  
+[19:15:37.003288] Allegro_Venture_PCB_Designer  
+[19:15:37.003288] PCB_design_studio  
+[19:15:37.003288] Venture_PCB_Schematic  
+[19:15:37.003288] Allegro_Venture_PCB_Designer2  
+[19:15:37.016592]  Allegro_PCB_Productivity_TB  
+[19:15:37.463399]   Allegro_X_Platinum_Layout  
+
+\i (00:07:46) save 
+\i (00:07:46) fillin yes 
+\t (00:07:47) > Sending response DoneOpenBoard
+\i (00:07:47) generaledit 
+\i (00:07:48) exit 
+\t (00:07:48) Lic Summary:
+[19:17:41.001216] cdslmd servers: DESKTOP-D851ENJ
+[19:17:41.001216] Feature usage summary:
+[19:17:41.001216] Allegro_PCB_RF  
+[19:17:41.001216] Allegro_PCB_Harmony_Option  
+[19:17:41.001216] Allegro_Venture_PCB_Designer  
+[19:17:41.001216] PCB_design_studio  
+[19:17:41.001216] Venture_PCB_Schematic  
+[19:17:41.001216] Allegro_Venture_PCB_Designer2  
+[19:17:41.016568]  Allegro_PCB_Productivity_TB  
+[19:17:41.309631]   Allegro_X_Platinum_Layout  
+
+\t (00:07:48)     Journal end - Thu Mar 20 19:17:41 2025

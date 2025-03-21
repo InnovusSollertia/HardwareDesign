@@ -1,0 +1,60 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    IPC2581 Export                                                   )
+(                                                                     )
+(    Software Version : 24.1S002                                      )
+(    Date/Time        : Thu Mar 20 15:58:10 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+
+Collecting net list ...
+
+
+
+Collecting padstack defintions ...
+
+
+
+Collecting package defintions ...
+
+
+
+Collecting component descriptions ...
+
+
+
+Collecting BOM items ...
+
+
+
+Property configuration file: D:/studicaxpansion/ipc2581_attr_config.atr
+IPC2581 file: sxpn
+IPC2581 version: IPC2581-C
+BRD file: D:/studicaxpansion/sxpn.brd
+IPC2581 units: MILLIMETER
+Export design profile: YES
+Global package pin1 orientation: OTHER
+Default symbol height: 3.81
+Export drill information?: YES
+Export backdrill information?: NO
+Export BOM information?: YES
+Export component assembly?: YES
+Export component packages?: YES
+Export logical net list?: YES
+Export physical net list?: YES
+Export stackup defintion?: NO
+Export Outer Copper Layers?: YES
+Export Inner Copper Layers?: YES
+Export Documentation Layers?: YES
+Export Miscellaneous Fab Layers?: YES
+Export SolderMask Layers?: YES
+Export SolderPaste Layers?: YES
+Export Silkscreen (Legend) Layers?: YES
+Export vector text?: YES
+Export cavities?: NO
+Export padstack definitions?: YES
+Export zip file?: NO
+a2ipc2581 complete.

@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Automatic B/B Via Creation                               )
+(                                                                     )
+(    Software Version : 24.1S002                                      )
+(    Date/Time        : Thu Mar 20 13:49:10 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Via to be copied: C130_H80
+Start subclass: TOP
+End subclass: BOTTOM
+Old drawing: D:/studicaxpansion/#Taaaacr18596.tmp
+New drawing: D:/studicaxpansion/#Taaaacr18596.tmp
+Vias added to physical constraint set: DEFAULT
+Use Top Pad
+Use Bottom Pad
+
+B/B Via TOP-SIGNAL created
+B/B Via TOP-BOTTOM created
+B/B Via SIGNAL-BOTTOM created
+
+Number of padstacks created 3
+Number of existing padstacks that did not need to be modified: 0
+Number of existing padstacks that were modified: 0
+Number of existing padstacks that could not be modified: 0
+
+bbvia is complete.

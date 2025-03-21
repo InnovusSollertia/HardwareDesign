@@ -1,0 +1,165 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [
+		{
+			"Name" : "GND_SIGNAL",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):gnd_signal",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "0 mV:0 mV"
+		},
+		{
+			"Name" : "VCC_SIGNAL",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):vcc_signal",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "FLEX_DIO_1",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):flex_dio_1",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "FLEX_DIO_2",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):flex_dio_2",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "FLEX_DIO_3",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):flex_dio_3",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "FLEX_DIO_4",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):flex_dio_4",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "HIGH_CURRENT_DO_DI_1",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):high_current_do_di_1",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "HIGH_CURRENT_DO_DI_2",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):high_current_do_di_2",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "HIGH_CURRENT_DO_DI_3",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):high_current_do_di_3",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "HIGH_CURRENT_DO_DI_4",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):high_current_do_di_4",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "HIGH_CURRENT_DO_DI_5",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):high_current_do_di_5",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "HIGH_CURRENT_DO_DI_6",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):high_current_do_di_6",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "HIGH_CURRENT_DO_DI_7",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):high_current_do_di_7",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "HIGH_CURRENT_DO_DI_8",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):high_current_do_di_8",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "HIGH_CURRENT_DO_DI_9",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):high_current_do_di_9",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "HIGH_CURRENT_DO_DI_10",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):high_current_do_di_10",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "ANALOG_IN_1",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):analog_in_1",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "ANALOG_IN_2",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):analog_in_2",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "ANALOG_IN_3",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):analog_in_3",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		},
+		{
+			"Name" : "ANALOG_IN_4",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):analog_in_4",
+			"PropName" : "MAX_OVERSHOOT",
+			"Logical" : null,
+			"Physical" : "5000 mV:5000 mV"
+		}
+	],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "J11",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):ins981@\\tsw-110-07-f-d\\.\\tsw-110-07-f-d.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J11"
+		},
+		{
+			"Name" : "J1",
+			"C_PATH" : "@studicaxpansion.schematic1(sch_1):ins7725@\\ssw-120-02-g-t-ra\\.\\ssw-120-02-g-t-ra.normal\\(chips)",
+			"Logical" : "SSW-120-02-G-T-RA_RHDRRA60W79P2",
+			"Physical" : "SSW-120-02-G-T-RA_RHDRRA60W79P254_3X20_5131X851X749P_SSW-120-02-G-T-RA"
+		}
+	],
+	"Net" : [],
+	"Connection" : []
+}

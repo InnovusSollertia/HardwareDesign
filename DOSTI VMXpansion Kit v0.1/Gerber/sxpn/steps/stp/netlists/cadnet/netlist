@@ -1,0 +1,160 @@
+H optimize N staggered N
+UNITS=MM
+$0 GND_SIGNAL
+$1 VCC_SIGNAL
+$2 ANALOG_IN_4
+$3 ANALOG_IN_3
+$4 ANALOG_IN_2
+$5 ANALOG_IN_1
+$6 $NONE$
+$7 HIGH_CURRENT_DO_DI_10
+$8 HIGH_CURRENT_DO_DI_9
+$9 HIGH_CURRENT_DO_DI_8
+$10 HIGH_CURRENT_DO_DI_7
+$11 HIGH_CURRENT_DO_DI_6
+$12 HIGH_CURRENT_DO_DI_5
+$13 HIGH_CURRENT_DO_DI_4
+$14 HIGH_CURRENT_DO_DI_3
+$15 HIGH_CURRENT_DO_DI_2
+$16 HIGH_CURRENT_DO_DI_1
+$17 FLEX_DIO_4
+$18 FLEX_DIO_3
+$19 FLEX_DIO_2
+$20 FLEX_DIO_1
+#
+#Netlist points
+#
+0 0.65 157.48 372.48 B e e staggered 0 0 0 
+0 0.65 157.48 357.66 B e e staggered 0 0 0 
+0 0.65 157.48 342.84 B e e staggered 0 0 0 
+0 0.65 157.48 328.02 B e e staggered 0 0 0 
+0 0.65 157.48 313.2 B e e staggered 0 0 0 
+0 0.65 157.48 298.38 B e e staggered 0 0 0 
+0 0.65 157.48 283.56 B e e staggered 0 0 0 
+0 0.65 157.48 268.74 B e e staggered 0 0 0 
+0 0.65 157.48 253.92 B e e staggered 0 0 0 
+0 0.65 144.06 246.38 B e e staggered 0 0 0 
+0 0.65 119.08 246.38 B e e staggered 0 0 0 
+0 0.65 104.26 246.38 B e e staggered 0 0 0 
+0 0.65 89.44 246.38 B e e staggered 0 0 0 
+0 0.65 74.62 246.38 B e e staggered 0 0 0 
+0 0.65 151.68 385.9 B e e staggered 0 0 0 
+0 0.65 136.86 385.9 B e e staggered 0 0 0 
+0 0.65 122.04 385.9 B e e staggered 0 0 0 
+0 0.65 107.22 385.9 B e e staggered 0 0 0 
+0 0.65 73.66 377.38 B e e staggered 0 0 0 
+0 0.65 73.66 374.84 B e e staggered 0 0 0 
+0 0.65 73.66 372.3 B e e staggered 0 0 0 
+0 0.65 73.66 369.76 B e e staggered 0 0 0 
+0 0.65 73.66 364.68 B e e staggered 0 0 0 
+0 0.65 73.66 362.14 B e e staggered 0 0 0 
+0 0.65 73.66 359.6 B e e staggered 0 0 0 
+0 0.65 73.66 357.06 B e e staggered 0 0 0 
+0 0.65 73.66 354.52 B e e staggered 0 0 0 
+0 0.65 73.66 351.98 B e e staggered 0 0 0 
+0 0.65 73.66 349.44 B e e staggered 0 0 0 
+0 0.65 73.66 346.9 B e e staggered 0 0 0 
+0 0.65 73.66 344.36 B e e staggered 0 0 0 
+0 0.65 73.66 341.82 B e e staggered 0 0 0 
+0 0.65 73.66 336.74 B e e staggered 0 0 0 
+0 0.65 73.66 334.2 B e e staggered 0 0 0 
+0 0.65 73.66 331.66 B e e staggered 0 0 0 
+0 0.65 73.66 329.12 B e e staggered 0 0 0 
+1 0.65 157.48 376.29 B e e staggered 0 0 0 
+1 0.65 157.48 361.47 B e e staggered 0 0 0 
+1 0.65 157.48 346.65 B e e staggered 0 0 0 
+1 0.65 157.48 331.83 B e e staggered 0 0 0 
+1 0.65 157.48 317.01 B e e staggered 0 0 0 
+1 0.65 157.48 302.19 B e e staggered 0 0 0 
+1 0.65 157.48 287.37 B e e staggered 0 0 0 
+1 0.65 157.48 272.55 B e e staggered 0 0 0 
+1 0.65 157.48 257.73 B e e staggered 0 0 0 
+1 0.65 147.87 246.38 B e e staggered 0 0 0 
+1 0.65 122.89 246.38 B e e staggered 0 0 0 
+1 0.65 108.07 246.38 B e e staggered 0 0 0 
+1 0.65 93.25 246.38 B e e staggered 0 0 0 
+1 0.65 78.43 246.38 B e e staggered 0 0 0 
+1 0.65 147.87 385.9 B e e staggered 0 0 0 
+1 0.65 133.05 385.9 B e e staggered 0 0 0 
+1 0.65 118.23 385.9 B e e staggered 0 0 0 
+1 0.65 103.41 385.9 B e e staggered 0 0 0 
+1 0.65 71.12 377.38 B e e staggered 0 0 0 
+1 0.65 71.12 374.84 B e e staggered 0 0 0 
+1 0.65 71.12 372.3 B e e staggered 0 0 0 
+1 0.65 71.12 369.76 B e e staggered 0 0 0 
+1 0.65 71.12 364.68 B e e staggered 0 0 0 
+1 0.65 71.12 362.14 B e e staggered 0 0 0 
+1 0.65 71.12 359.6 B e e staggered 0 0 0 
+1 0.65 71.12 357.06 B e e staggered 0 0 0 
+1 0.65 71.12 354.52 B e e staggered 0 0 0 
+1 0.65 71.12 351.98 B e e staggered 0 0 0 
+1 0.65 71.12 349.44 B e e staggered 0 0 0 
+1 0.65 71.12 346.9 B e e staggered 0 0 0 
+1 0.65 71.12 344.36 B e e staggered 0 0 0 
+1 0.65 71.12 341.82 B e e staggered 0 0 0 
+1 0.65 71.12 336.74 B e e staggered 0 0 0 
+1 0.65 71.12 334.2 B e e staggered 0 0 0 
+1 0.65 71.12 331.66 B e e staggered 0 0 0 
+1 0.65 71.12 329.12 B e e staggered 0 0 0 
+2 0.65 144.06 385.9 B e e staggered 0 0 0 
+2 0.65 68.58 377.38 B e e staggered 0 0 0 
+3 0.65 129.24 385.9 B e e staggered 0 0 0 
+3 0.65 68.58 374.84 B e e staggered 0 0 0 
+4 0.65 114.42 385.9 B e e staggered 0 0 0 
+4 0.65 68.58 372.3 B e e staggered 0 0 0 
+5 0.65 99.6 385.9 B e e staggered 0 0 0 
+5 0.65 68.58 369.76 B e e staggered 0 0 0 
+6 0.65 73.66 367.22 B e e staggered 0 0 0 
+6 0.65 71.12 367.22 B e e staggered 0 0 0 
+6 0.65 68.58 367.22 B e e staggered 0 0 0 
+6 0.65 73.66 339.28 B e e staggered 0 0 0 
+6 0.65 71.12 339.28 B e e staggered 0 0 0 
+6 0.65 68.58 339.28 B e e staggered 0 0 0 
+7 0.65 157.48 380.1 B e e staggered 0 0 0 
+7 0.65 68.58 364.68 B e e staggered 0 0 0 
+7 0.4 64.77 379.222 B m e staggered 0 0 0 v 
+8 0.65 157.48 365.28 B e e staggered 0 0 0 
+8 0.65 68.58 362.14 B e e staggered 0 0 0 
+8 0.4 66.294 367.284 B m e staggered 0 0 0 v 
+8 0.4 66.548 379.222 B m e staggered 0 0 0 v 
+9 0.65 157.48 350.46 B e e staggered 0 0 0 
+9 0.65 68.58 359.6 B e e staggered 0 0 0 
+9 0.4 68.58 379.476 B m e staggered 0 0 0 v 
+10 0.65 157.48 335.64 B e e staggered 0 0 0 
+10 0.65 68.58 357.06 B e e staggered 0 0 0 
+10 0.4 71.882 379.73 B m e staggered 0 0 0 v 
+11 0.65 157.48 320.82 B e e staggered 0 0 0 
+11 0.65 68.58 354.52 B e e staggered 0 0 0 
+11 0.4 78.486 378.714 B m e staggered 0 0 0 v 
+12 0.65 157.48 306 B e e staggered 0 0 0 
+12 0.65 68.58 351.98 B e e staggered 0 0 0 
+12 0.4 66.294 340.36 B m e staggered 0 0 0 v 
+12 0.4 66.294 344.932 B m e staggered 0 0 0 v 
+13 0.65 157.48 291.18 B e e staggered 0 0 0 
+13 0.65 68.58 349.44 B e e staggered 0 0 0 
+13 0.4 64.008 345.694 B m e staggered 0 0 0 v 
+13 0.4 64.262 349.44 B m e staggered 0 0 0 v 
+13 0.4 65.943 338.328 B m e staggered 0 0 0 v 
+14 0.65 157.48 276.36 B e e staggered 0 0 0 
+14 0.65 68.58 346.9 B e e staggered 0 0 0 
+14 0.4 64.516 338.328 B m e staggered 0 0 0 v 
+15 0.65 157.48 261.54 B e e staggered 0 0 0 
+15 0.65 68.58 344.36 B e e staggered 0 0 0 
+15 0.4 62.484 343.662 B m e staggered 0 0 0 v 
+15 0.4 62.992 338.328 B m e staggered 0 0 0 v 
+16 0.65 151.68 246.38 B e e staggered 0 0 0 
+16 0.65 68.58 341.82 B e e staggered 0 0 0 
+17 0.65 126.7 246.38 B e e staggered 0 0 0 
+17 0.65 68.58 336.74 B e e staggered 0 0 0 
+18 0.65 111.88 246.38 B e e staggered 0 0 0 
+18 0.65 68.58 334.2 B e e staggered 0 0 0 
+18 0.4 62.992 319.532 B m e staggered 0 0 0 v 
+18 0.4 62.992 322.072 B m e staggered 0 0 0 v 
+19 0.65 97.06 246.38 B e e staggered 0 0 0 
+19 0.65 68.58 331.66 B e e staggered 0 0 0 
+19 0.4 64.516 319.532 B m e staggered 0 0 0 v 
+19 0.4 64.516 322.072 B m e staggered 0 0 0 v 
+19 0.4 97.028 250.698 B m e staggered 0 0 0 v 
+20 0.65 82.24 246.38 B e e staggered 0 0 0 
+20 0.65 68.58 329.12 B e e staggered 0 0 0 
+20 0.4 66.04 322.072 B m e staggered 0 0 0 v 

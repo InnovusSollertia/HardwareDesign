@@ -1,0 +1,208 @@
+P  JOB   D:/studicaxpansion/sxpn.brd                                            
+P  CODE  00                                                                     
+P  UNITS CUST 1                                                                 
+P  TITLE D:/studicaxpansion/sxpn.brd                                            
+P  NUM   001                                                                    
+P  REV   A                                                                      
+P  VER IPC-D-356A                                                               
+C                                                                               
+C  IPC-D-356 Output File from Allegro                                           
+C  IPC File Date: Thu Mar 20 15:59:39 2025                                      
+C  Login Name:    Prometheus                                                    
+C                                                                               
+C                                                                               
+C  Board File:             sxpn.brd                                             
+C  Design Rule Status:     UP TO DATE                                           
+C  Unit of Measure:        millimeter                                           
+C  Decimal Place Accuracy: 4                                                    
+C  Number of etch Layers:  3                                                    
+C  Board Thickness(mils):  19.600000                                            
+C  Drawing Extents(mils):  0  0  5334000  4318000                               
+C                                                                               
+C                                                                               
+C  BOARD LAYER INFORMATION                                                      
+C                                                                               
+C     Layer      Layer            Layer             Film  Layer                 
+C     Name       Material         Type              Type  Number                
+C  ---------------------------------------------------------                    
+C  TOP           COPPER           CONDUCTOR         POS     1                   
+C  SIGNAL        COPPER           CONDUCTOR         POS     2                   
+C  BOTTOM        COPPER           CONDUCTOR         POS     3                   
+C                                                                               
+C                                                                               
+C  PADSTACK INFORMATION                                                         
+C                                                                               
+C     Padstack          First     Last                                          
+C     Name              Layer     Layer     Width     Height                    
+C  ---------------------------------------------------------                    
+C  SIGNAL-BOTTOM        SIGNAL    BOTTOM        13000     13000                 
+C  TOP-BOTTOM           TOP       BOTTOM        13000     13000                 
+C  TOP-SIGNAL           TOP       SIGNAL        13000     13000                 
+C  C130_H80             TOP       BOTTOM        13000     13000                 
+C  S195_H130            TOP       BOTTOM        19500     19500                 
+C  C195_H130            TOP       BOTTOM        19500     19500                 
+C  C155_H102            TOP       BOTTOM        15499     15499                 
+C                                                                               
+C                                                                               
+C  ****************************************                                     
+C     Name mapping for long Signal names                                        
+C  ****************************************                                     
+C                                                                               
+P  NNAMEm0000 HIGH_CURRENT_DO_DI_10                                             
+P  NNAMEm0001 HIGH_CURRENT_DO_DI_9                                              
+P  NNAMEm0002 HIGH_CURRENT_DO_DI_8                                              
+P  NNAMEm0003 HIGH_CURRENT_DO_DI_7                                              
+P  NNAMEm0004 HIGH_CURRENT_DO_DI_6                                              
+P  NNAMEm0005 HIGH_CURRENT_DO_DI_5                                              
+P  NNAMEm0006 HIGH_CURRENT_DO_DI_4                                              
+P  NNAMEm0007 HIGH_CURRENT_DO_DI_3                                              
+P  NNAMEm0008 HIGH_CURRENT_DO_DI_2                                              
+P  NNAMEm0009 HIGH_CURRENT_DO_DI_1                                              
+C                                                                               
+C  ****************************************                                     
+C      SIGNAL PINS & VIAS ON THE BOARD                                          
+C  ****************************************                                     
+C                                                                               
+317ANALOG_IN_4      J1    -3    D1300PA00X+068580Y+377380X1950Y    R090 S3      
+317ANALOG_IN_4      J5    -3    D1300PA00X+144060Y+385900X1950Y    R180 S3      
+317ANALOG_IN_3      J4    -3    D1300PA00X+129240Y+385900X1950Y    R180 S3      
+317ANALOG_IN_3      J1    -6    D1300PA00X+068580Y+374840X1950Y    R090 S3      
+317ANALOG_IN_2      J3    -3    D1300PA00X+114420Y+385900X1950Y    R180 S3      
+317ANALOG_IN_2      J1    -9    D1300PA00X+068580Y+372300X1950Y    R090 S3      
+317ANALOG_IN_1      J1    -12   D1300PA00X+068580Y+369760X1950Y    R090 S3      
+317ANALOG_IN_1      J2    -3    D1300PA00X+099600Y+385900X1950Y    R180 S3      
+317m0000            J1    -18   D1300PA00X+068580Y+364680X1950Y    R090 S3      
+317m0000            VIA   -    MD0800PA00X+064770Y+379222X1300Y         S3      
+317m0000            J20   -3    D1300PA00X+157480Y+380100X1950Y    R090 S3      
+317m0001            J1    -21   D1300PA00X+068580Y+362140X1950Y    R090 S3      
+317m0001            VIA   -    MD0800PA00X+066294Y+367284X1300Y         S3      
+317m0001            VIA   -    MD0800PA00X+066548Y+379222X1300Y         S3      
+317m0001            J19   -3    D1300PA00X+157480Y+365280X1950Y    R090 S3      
+317m0002            J1    -24   D1300PA00X+068580Y+359600X1950Y    R090 S3      
+317m0002            VIA   -    MD0800PA00X+068580Y+379476X1300Y         S3      
+317m0002            J18   -3    D1300PA00X+157480Y+350460X1950Y    R090 S3      
+317m0003            J1    -27   D1300PA00X+068580Y+357060X1950Y    R090 S3      
+317m0003            VIA   -    MD0800PA00X+071882Y+379730X1300Y         S3      
+317m0003            J17   -3    D1300PA00X+157480Y+335640X1950Y    R090 S3      
+317m0004            J16   -3    D1300PA00X+157480Y+320820X1950Y    R090 S3      
+317m0004            VIA   -    MD0800PA00X+078486Y+378714X1300Y         S3      
+317m0004            J1    -30   D1300PA00X+068580Y+354520X1950Y    R090 S3      
+317m0005            J1    -33   D1300PA00X+068580Y+351980X1950Y    R090 S3      
+317m0005            VIA   -    MD0800PA00X+066294Y+344932X1300Y         S3      
+317m0005            VIA   -    MD0800PA00X+066294Y+340360X1300Y         S3      
+317m0005            J15   -3    D1300PA00X+157480Y+306000X1950Y    R090 S3      
+317m0006            J14   -3    D1300PA00X+157480Y+291180X1950Y    R090 S3      
+317m0006            VIA   -    MD0800PA00X+065943Y+338328X1300Y         S3      
+317m0006            VIA   -    MD0800PA00X+064008Y+345694X1300Y         S3      
+317m0006            VIA   -    MD0800PA00X+064262Y+349440X1300Y         S3      
+317m0006            J1    -36   D1300PA00X+068580Y+349440X1950Y    R090 S3      
+317m0007            J1    -39   D1300PA00X+068580Y+346900X1950Y    R090 S3      
+317m0007            VIA   -    MD0800PA00X+064516Y+338328X1300Y         S3      
+317m0007            J13   -3    D1300PA00X+157480Y+276360X1950Y    R090 S3      
+317m0008            J12   -3    D1300PA00X+157480Y+261540X1950Y    R090 S3      
+317m0008            VIA   -    MD0800PA00X+062992Y+338328X1300Y         S3      
+317m0008            VIA   -    MD0800PA00X+062484Y+343662X1300Y         S3      
+317m0008            J1    -42   D1300PA00X+068580Y+344360X1950Y    R090 S3      
+317m0009            J1    -45   D1300PA00X+068580Y+341820X1950Y    R090 S3      
+317m0009            J10   -3    D1300PA00X+151680Y+246380X1950Y         S3      
+317FLEX_DIO_4       J9    -3    D1300PA00X+126700Y+246380X1950Y         S3      
+317FLEX_DIO_4       J1    -51   D1300PA00X+068580Y+336740X1950Y    R090 S3      
+317FLEX_DIO_3       J1    -54   D1300PA00X+068580Y+334200X1950Y    R090 S3      
+317FLEX_DIO_3       VIA   -    MD0800PA00X+062992Y+322072X1300Y         S3      
+317FLEX_DIO_3       VIA   -    MD0800PA00X+062992Y+319532X1300Y         S3      
+317FLEX_DIO_3       J8    -3    D1300PA00X+111880Y+246380X1950Y         S3      
+317FLEX_DIO_2       J7    -3    D1300PA00X+097060Y+246380X1950Y         S3      
+317FLEX_DIO_2       VIA   -    MD0800PA00X+097028Y+250698X1300Y         S3      
+317FLEX_DIO_2       VIA   -    MD0800PA00X+064516Y+319532X1300Y         S3      
+317FLEX_DIO_2       VIA   -    MD0800PA00X+064516Y+322072X1300Y         S3      
+317FLEX_DIO_2       J1    -57   D1300PA00X+068580Y+331660X1950Y    R090 S3      
+317FLEX_DIO_1       J6    -3    D1300PA00X+082240Y+246380X1950Y         S3      
+317FLEX_DIO_1       VIA   -    MD0800PA00X+066040Y+322072X1300Y         S3      
+317FLEX_DIO_1       J1    -60   D1300PA00X+068580Y+329120X1950Y    R090 S3      
+317VCC_SIGNAL       J10   -2   MD1300PA00X+147870Y+246380X1950Y         S3      
+317VCC_SIGNAL       J12   -2   MD1300PA00X+157480Y+257730X1950Y    R090 S3      
+317VCC_SIGNAL       J13   -2   MD1300PA00X+157480Y+272550X1950Y    R090 S3      
+317VCC_SIGNAL       J14   -2   MD1300PA00X+157480Y+287370X1950Y    R090 S3      
+317VCC_SIGNAL       J15   -2   MD1300PA00X+157480Y+302190X1950Y    R090 S3      
+317VCC_SIGNAL       J16   -2   MD1300PA00X+157480Y+317010X1950Y    R090 S3      
+317VCC_SIGNAL       J17   -2   MD1300PA00X+157480Y+331830X1950Y    R090 S3      
+317VCC_SIGNAL       J18   -2   MD1300PA00X+157480Y+346650X1950Y    R090 S3      
+317VCC_SIGNAL       J19   -2   MD1300PA00X+157480Y+361470X1950Y    R090 S3      
+317VCC_SIGNAL       J20   -2   MD1300PA00X+157480Y+376290X1950Y    R090 S3      
+317VCC_SIGNAL       J6    -2   MD1300PA00X+078430Y+246380X1950Y         S3      
+317VCC_SIGNAL       J7    -2   MD1300PA00X+093250Y+246380X1950Y         S3      
+317VCC_SIGNAL       J8    -2   MD1300PA00X+108070Y+246380X1950Y         S3      
+317VCC_SIGNAL       J9    -2   MD1300PA00X+122890Y+246380X1950Y         S3      
+317VCC_SIGNAL       J5    -2   MD1300PA00X+147870Y+385900X1950Y    R180 S3      
+317VCC_SIGNAL       J4    -2   MD1300PA00X+133050Y+385900X1950Y    R180 S3      
+317VCC_SIGNAL       J3    -2   MD1300PA00X+118230Y+385900X1950Y    R180 S3      
+317VCC_SIGNAL       J2    -2   MD1300PA00X+103410Y+385900X1950Y    R180 S3      
+317VCC_SIGNAL       J1    -2   MD1300PA00X+071120Y+377380X1950Y    R090 S3      
+317VCC_SIGNAL       J1    -5   MD1300PA00X+071120Y+374840X1950Y    R090 S3      
+317VCC_SIGNAL       J1    -8   MD1300PA00X+071120Y+372300X1950Y    R090 S3      
+317VCC_SIGNAL       J1    -11  MD1300PA00X+071120Y+369760X1950Y    R090 S3      
+317VCC_SIGNAL       J1    -17  MD1300PA00X+071120Y+364680X1950Y    R090 S3      
+317VCC_SIGNAL       J1    -20  MD1300PA00X+071120Y+362140X1950Y    R090 S3      
+317VCC_SIGNAL       J1    -23  MD1300PA00X+071120Y+359600X1950Y    R090 S3      
+317VCC_SIGNAL       J1    -26  MD1300PA00X+071120Y+357060X1950Y    R090 S3      
+317VCC_SIGNAL       J1    -29  MD1300PA00X+071120Y+354520X1950Y    R090 S3      
+317VCC_SIGNAL       J1    -32  MD1300PA00X+071120Y+351980X1950Y    R090 S3      
+317VCC_SIGNAL       J1    -35  MD1300PA00X+071120Y+349440X1950Y    R090 S3      
+317VCC_SIGNAL       J1    -38  MD1300PA00X+071120Y+346900X1950Y    R090 S3      
+317VCC_SIGNAL       J1    -41  MD1300PA00X+071120Y+344360X1950Y    R090 S3      
+317VCC_SIGNAL       J1    -44  MD1300PA00X+071120Y+341820X1950Y    R090 S3      
+317VCC_SIGNAL       J1    -50  MD1300PA00X+071120Y+336740X1950Y    R090 S3      
+317VCC_SIGNAL       J1    -53  MD1300PA00X+071120Y+334200X1950Y    R090 S3      
+317VCC_SIGNAL       J1    -56  MD1300PA00X+071120Y+331660X1950Y    R090 S3      
+317VCC_SIGNAL       J1    -59  MD1300PA00X+071120Y+329120X1950Y    R090 S3      
+317GND_SIGNAL       J10   -1   MD1300PA00X+144060Y+246380X1950Y1950     S3      
+317GND_SIGNAL       J12   -1   MD1300PA00X+157480Y+253920X1950Y1950R090 S3      
+317GND_SIGNAL       J13   -1   MD1300PA00X+157480Y+268740X1950Y1950R090 S3      
+317GND_SIGNAL       J14   -1   MD1300PA00X+157480Y+283560X1950Y1950R090 S3      
+317GND_SIGNAL       J15   -1   MD1300PA00X+157480Y+298380X1950Y1950R090 S3      
+317GND_SIGNAL       J16   -1   MD1300PA00X+157480Y+313200X1950Y1950R090 S3      
+317GND_SIGNAL       J17   -1   MD1300PA00X+157480Y+328020X1950Y1950R090 S3      
+317GND_SIGNAL       J18   -1   MD1300PA00X+157480Y+342840X1950Y1950R090 S3      
+317GND_SIGNAL       J19   -1   MD1300PA00X+157480Y+357660X1950Y1950R090 S3      
+317GND_SIGNAL       J20   -1   MD1300PA00X+157480Y+372480X1950Y1950R090 S3      
+317GND_SIGNAL       J6    -1   MD1300PA00X+074620Y+246380X1950Y1950     S3      
+317GND_SIGNAL       J7    -1   MD1300PA00X+089440Y+246380X1950Y1950     S3      
+317GND_SIGNAL       J8    -1   MD1300PA00X+104260Y+246380X1950Y1950     S3      
+317GND_SIGNAL       J9    -1   MD1300PA00X+119080Y+246380X1950Y1950     S3      
+317GND_SIGNAL       J5    -1   MD1300PA00X+151680Y+385900X1950Y1950R180 S3      
+317GND_SIGNAL       J4    -1   MD1300PA00X+136860Y+385900X1950Y1950R180 S3      
+317GND_SIGNAL       J3    -1   MD1300PA00X+122040Y+385900X1950Y1950R180 S3      
+317GND_SIGNAL       J2    -1   MD1300PA00X+107220Y+385900X1950Y1950R180 S3      
+317GND_SIGNAL       J1    -1   MD1300PA00X+073660Y+377380X1950Y1950R090 S3      
+317GND_SIGNAL       J1    -4   MD1300PA00X+073660Y+374840X1950Y    R090 S3      
+317GND_SIGNAL       J1    -7   MD1300PA00X+073660Y+372300X1950Y    R090 S3      
+317GND_SIGNAL       J1    -10  MD1300PA00X+073660Y+369760X1950Y    R090 S3      
+317GND_SIGNAL       J1    -16  MD1300PA00X+073660Y+364680X1950Y    R090 S3      
+317GND_SIGNAL       J1    -19  MD1300PA00X+073660Y+362140X1950Y    R090 S3      
+317GND_SIGNAL       J1    -22  MD1300PA00X+073660Y+359600X1950Y    R090 S3      
+317GND_SIGNAL       J1    -25  MD1300PA00X+073660Y+357060X1950Y    R090 S3      
+317GND_SIGNAL       J1    -28  MD1300PA00X+073660Y+354520X1950Y    R090 S3      
+317GND_SIGNAL       J1    -31  MD1300PA00X+073660Y+351980X1950Y    R090 S3      
+317GND_SIGNAL       J1    -34  MD1300PA00X+073660Y+349440X1950Y    R090 S3      
+317GND_SIGNAL       J1    -37  MD1300PA00X+073660Y+346900X1950Y    R090 S3      
+317GND_SIGNAL       J1    -40  MD1300PA00X+073660Y+344360X1950Y    R090 S3      
+317GND_SIGNAL       J1    -43  MD1300PA00X+073660Y+341820X1950Y    R090 S3      
+317GND_SIGNAL       J1    -49  MD1300PA00X+073660Y+336740X1950Y    R090 S3      
+317GND_SIGNAL       J1    -52  MD1300PA00X+073660Y+334200X1950Y    R090 S3      
+317GND_SIGNAL       J1    -55  MD1300PA00X+073660Y+331660X1950Y    R090 S3      
+317GND_SIGNAL       J1    -58  MD1300PA00X+073660Y+329120X1950Y    R090 S3      
+C                                                                               
+C  ****************************************                                     
+C      DUMMY NET PINS & VIAS ON THE BOARD                                       
+C  ****************************************                                     
+C                                                                               
+317N/C              J1    -48   D1300PA00X+068580Y+339280X1950Y    R090 S3      
+317N/C              J1    -47   D1300PA00X+071120Y+339280X1950Y    R090 S3      
+317N/C              J1    -46   D1300PA00X+073660Y+339280X1950Y    R090 S3      
+317N/C              J1    -15   D1300PA00X+068580Y+367220X1950Y    R090 S3      
+317N/C              J1    -14   D1300PA00X+071120Y+367220X1950Y    R090 S3      
+317N/C              J1    -13   D1300PA00X+073660Y+367220X1950Y    R090 S3      
+C                                                                               
+C  End-of-Job                                                                   
+C                                                                               
+999                                                                             

@@ -1,0 +1,31 @@
+INFO: Loaded existing interconnect file 'D:\studicaxpansion\interconn.iml'
+INFO: Loaded existing interconnect file 'C:\Cadence\SPB_24.1\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for STL_0S_1R_1
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaain19356.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_2
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaio19356.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_3
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaip19356.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_4
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaiq19356.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_5
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaair19356.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_6
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaais19356.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_7
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaait19356.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_8
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaiu19356.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_9
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaiv19356.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_10
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaiw19356.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_11
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaix19356.in" 0.00127
+INFO: Loaded existing device file 'D:\studicaxpansion\devices.dml'
+INFO: Finished loading SigNoise device libraries
+INFO: Loaded existing device file 'D:\studicaxpansion\devices.dml'
+INFO: Finished loading SigNoise device libraries
+INFO: Loaded existing device file 'D:\studicaxpansion\devices.dml'
+INFO: Finished loading SigNoise device libraries

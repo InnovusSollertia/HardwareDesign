@@ -1,0 +1,127 @@
+(ExpressProject "studicaxpansion"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "24.1 S002 (4270188)  [1/23/2025]-[03/20/25]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\studicaxpansion.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\sxpn.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Layout"
+    (File ".\sxpn.brd"
+      (Type "Board File")
+      (OutputBoard ".\sxpn.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile "D:\studicaxpansion\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile "D:\studicaxpansion\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile "D:\studicaxpansion\allegro\eco.txt")))
+  (MPSSessionName "Prometheus")
+  (PartMRUSelector
+    (SSW-120-02-G-T-RA
+      (FullPartName "SSW-120-02-G-T-RA.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\SSW-120-02-G-T-RA.OLB")
+      (DeviceIndex "0"))
+    (SSQ-122-02-T-T-RA
+      (FullPartName "SSQ-122-02-T-T-RA.Normal")
+      (LibraryName
+         "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\SSQ-122-02-T-T-RA.OLB")
+      (DeviceIndex "0"))
+    (TSW-110-07-F-D
+      (FullPartName "TSW-110-07-F-D.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\TSW-110-07-F-D.OLB")
+      (DeviceIndex "0"))
+    (1875438
+      (FullPartName "1875438.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\1875438.OLB")
+      (DeviceIndex "0"))
+    (39512-1003
+      (FullPartName "39512-1003.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\39512-1003.OLB")
+      (DeviceIndex "0")))
+  (ISPCBBASICLICENSE "false")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 466"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1255 24 484")
+        (Scroll "-312 -4")
+        (Zoom "36")
+        (Occurrence "/"))
+      (Path "D:\STUDICAXPANSION\STUDICAXPANSION.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

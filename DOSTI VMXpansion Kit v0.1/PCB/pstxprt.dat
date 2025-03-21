@@ -1,0 +1,219 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 24.1.0 d001Mar-20-2025 at 14:57:53 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='STUDICAXPANSION';
+ POST_TIME='Jan 23 2025 22:22:36';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ J1 'SSW-120-02-G-T-RA_RHDRRA60W79P254_3X20_5131X851X749P_SSW-120-02-G-T-RA':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS7725@SSW-120-02-G-T-RA.SSW-120-02-G-T-RA.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins7725@\ssw-120-02-g-t-ra\.\ssw-120-02-g-t-ra.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins7725@\ssw-120-02-g-t-ra\.\ssw-120-02-g-t-ra.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,50)',
+ SECTION='';
+
+PART_NAME
+ J10 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS13433@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins13433@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins13433@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,40)',
+ SECTION='';
+
+PART_NAME
+ J12 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS1161@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins1161@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins1161@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,120)',
+ SECTION='';
+
+PART_NAME
+ J13 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS1181@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins1181@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins1181@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,200)',
+ SECTION='';
+
+PART_NAME
+ J14 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS1201@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins1201@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins1201@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,280)',
+ SECTION='';
+
+PART_NAME
+ J15 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS1221@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins1221@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins1221@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,360)',
+ SECTION='';
+
+PART_NAME
+ J16 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS1241@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins1241@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins1241@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,440)',
+ SECTION='';
+
+PART_NAME
+ J17 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS1261@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins1261@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins1261@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,520)',
+ SECTION='';
+
+PART_NAME
+ J18 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS1281@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins1281@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins1281@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,600)',
+ SECTION='';
+
+PART_NAME
+ J19 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS1301@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins1301@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins1301@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,680)',
+ SECTION='';
+
+PART_NAME
+ J2 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS10030@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins10030@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins10030@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1570,30)',
+ SECTION='';
+
+PART_NAME
+ J20 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS1321@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins1321@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins1321@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,760)',
+ SECTION='';
+
+PART_NAME
+ J3 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS10062@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins10062@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins10062@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1570,110)',
+ SECTION='';
+
+PART_NAME
+ J4 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS10094@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins10094@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins10094@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1570,190)',
+ SECTION='';
+
+PART_NAME
+ J5 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS814@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins814@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins814@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1570,270)',
+ SECTION='';
+
+PART_NAME
+ J6 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS834@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins834@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins834@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1570,350)',
+ SECTION='';
+
+PART_NAME
+ J7 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS854@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins854@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins854@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1570,430)',
+ SECTION='';
+
+PART_NAME
+ J8 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS874@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins874@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins874@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1570,510)',
+ SECTION='';
+
+PART_NAME
+ J9 '39512-1003_395121003_39512-1003':;
+
+SECTION_NUMBER 1
+ '@STUDICAXPANSION.SCHEMATIC1(SCH_1):INS894@39512-1003.39512-1003.NORMAL(CHIPS)':
+ C_PATH='@studicaxpansion.schematic1(sch_1):ins894@\39512-1003\.\39512-1003.normal\(chips)',
+ P_PATH='@studicaxpansion.schematic1(sch_1):page1_ins894@\39512-1003\.\39512-1003.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1570,590)',
+ SECTION='';
+
+END.
