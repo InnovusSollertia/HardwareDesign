@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<SParamExtractionResult SimulationName = "sparam\1" Project = "D:/Projects/HardwareDesign/Sigrity/conference/conference.topx" resultFile = "S_para_S_diff.bnp" isDiffMode = "1">
+<SimulationResult Comment = "" >
+</SimulationResult>
+<Identity>
+<File CRC32 = "1860939264"/>
+<File CRC32 = "554827343"/>
+<File CRC32 = "845134152"/>
+<File CRC32 = "3637764827"/>
+<File CRC32 = "1457636233"/>
+</Identity>
+</SParamExtractionResult>

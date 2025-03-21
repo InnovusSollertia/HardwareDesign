@@ -1,0 +1,88 @@
+          Channel Report
+
+Mon Mar  3 22:34:34 2025
+
+General:
+
+        Simulation Type                 = Time Domain
+        Data Rate                       =   10 Gbps
+        Number of Bits                  = 253996
+        Number of Eye Bits              = 203896
+        Ignore Bits                     = 50100
+        Channel Coding                  = No
+        Primary Driver                  = Tx_out1p_out1n
+        Data Pattern                    = random
+        Number of Aggressors            = 0
+        Characterization Data           = D:\Projects\HardwareDesign\Sigrity\ast\result\1\Chan_Typ_Typ\channel_Tx_out1p_out1n_Rx_rx.cur
+        Delay                           = 0.345238 ns
+        Intra-Pair Skew                 = 2.00866 ps
+
+
+
+Algorithmic Models:
+
+        Rx Models                       = C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll 
+        Primary Tx Tx_out1p_out1n Models = C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll 
+
+Jitter Inputs:
+
+        Random Jitter                   =  1 %
+
+Noise Inputs:
+
+        Random Noise                    =  1 mV
+
+Eye Contour Measurements:
+
+        Eye Height                      = 197 mV
+        Eye Height Measured at          = 0.5 UI
+        Eye Jitter                      = 0.53 UI
+        Eye Jitter Measured at          = -3 mV
+        Eye Norm Jitter and Noise (NJN) = 0.87 
+        Channel Operating Margin (COM)  = 5.76 dB
+
+Eye Density Signal to Noise Ratio (SNR)  = 35.98 
+
+BER Measurements:
+
+        LBER(log BER)	Eye Width(UI)
+        -20		0.28
+        -19		0.29
+        -18		0.30
+        -17		0.30
+        -16		0.31
+        -15		0.32
+        -14		0.32
+        -13		0.33
+        -12		0.34
+        -11		0.35
+        -10		0.36
+        -9		0.36
+        -8		0.37
+        -7		0.38
+        -6		0.39
+        -5		0.41
+        -4		0.44
+        -3		0.47
+
+mV BER Measurements:
+
+        LBER(log BER)	Eye Height(mV)
+        -20		89
+        -19		91
+        -18		92
+        -17		94
+        -16		96
+        -15		98
+        -14		100
+        -13		102
+        -12		104
+        -11		107
+        -10		109
+        -9		112
+        -8		114
+        -7		119
+        -6		130
+        -5		157
+        -4		172
+        -3		205

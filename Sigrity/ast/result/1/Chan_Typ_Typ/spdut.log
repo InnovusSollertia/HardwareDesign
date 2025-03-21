@@ -1,0 +1,97 @@
+
+**** C:\Cadence\SPB_24.1\tools\bin\spdut.exe *****
+
+INFO: Command = 'C:\Cadence\SPB_24.1\tools\bin\spdut.exe -b D:\Projects\HardwareDesign\Sigrity\ast\result\1\Chan_Typ_Typ\temp1\command.txt'
+
+
+**** Mon Mar  3 22:33:33 2025
+ ****
+
+INFO: **** version = 24.1-2020 S002 (4270188)  [1/23/2025] *****
+
+INFO: ****Setting precision to '16' digits****
+INFO:  Compiling 'Rx_in1p_in1n'
+INFO:  Tx 'Tx_out1p_out1n' baud rate is set to '1e+10'
+INFO:  timestep specified in '
+(bitres 32 )'
+INFO:  timestep is derived from resolution 
+INFO:  Found system level time step = '3.125e-12', min bitp= '1e-10'
+INFO:  Starting impulse response compilation
+INFO: Processing impulse response for source 'Tx_out1p_out1n'
+INFO:  Applying impulse correction for 'Tx_out1p_out1n:impfile' -- directive '(fiximp (pwr ) )'
+INFO:     impulse correction: 'step=0.998662 refstep=0.998609'
+INFO:  primary channel signal to interference ratio = '7.95207078757665'
+INFO:  compiling tx 'Tx_out1p_out1n' ami line = 
+ '(ami (C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll (amilffe (Reserved_Parameters (Max_Init_Aggressors 25 ) (Init_Returns_Impulse True ) (GetWave_Exists False ) ) (Model_Specific (lffe 0.25 1.0 0.5 ) (qffe 6 ) (csum 0 ) (coeffout ffecoeff.txt ) (qcoeffout qffecoeff.txt ) (UserTapsFile nil ) (offsetf 0 ) (OptimizePulse 0 ) (refine_coeff 0 ) ) ) ) )'
+INFO: processing ami model 'Tx_out1p_out1n:C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll'
+INFO:  ami model line = 
+ '(C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll (amilffe (Reserved_Parameters (Max_Init_Aggressors 25 ) (Init_Returns_Impulse True ) (GetWave_Exists False ) ) (Model_Specific (lffe 0.25 1.0 0.5 ) (qffe 6 ) (csum 0 ) (coeffout ffecoeff.txt ) (qcoeffout qffecoeff.txt ) (UserTapsFile nil ) (offsetf 0 ) (OptimizePulse 0 ) (refine_coeff 0 ) ) ) )'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll:AMI_Init'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll:AMI_GetWave'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll:AMI_Close'
+INFO:  IR from ami model 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll' Init function will be used in simulation 
+INFO:  ami 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll' input  parameters: ' (amilffe (lffe 0.25 1.0 0.5) (qffe 6) (csum 0) (coeffout ffecoeff.txt) (qcoeffout qffecoeff.txt) (UserTapsFile nil) (offsetf 0) (OptimizePulse 0) (refine_coeff 0)) '
+INFO:  ami 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll' returned the message:
+ *     Sigrity inc,  ami ffe filter       *
+******************************************************
+   snrgain  = 10.061 
+ fwd=3  pre=1 offset=0
+ Taps= -0.0992063	1	-0.0634921	
+ 
+ xtalk_mode=0
+******************************************************
+
+ 
+INFO:  compiling rx 'Rx_in1p_in1n' ami line = 
+ '(ami (C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll (amirx (Reserved_Parameters (Ignore_Bits 40000 ) (Max_Init_Aggressors 25 ) (Init_Returns_Impulse False ) (GetWave_Exists True ) ) (Model_Specific (agc (agcrcf 0.01 ) (agcdelf 0.01 ) (agcgain 1 ) (agcgainmax 3 ) (adapt (adapt_size 2048 ) (adapt_dvlh_target 0.5 ) (adapt_bias 1 ) (adapt_on 1 ) ) (module_off 0 ) ) (cte (pcix3spec2 (f0 4e9 ) (f2 16e9 ) (dbl 3 ) ) (gain 1 ) (adapt (adapt_size 1024 ) (adapt_bias 1 ) (adapt_on 1 ) ) (adapt_cte_sel_file cte_out.txt ) (module_off 0 ) ) (dfe (ndfe 5 ) (dfe_autolev 1 ) (dfe_autolev_fact 1.1 ) (dfe_off 0 ) (coeffout dfecoeffout.txt ) (module_off 0 ) ) ) ) ) )'
+INFO: processing ami model 'Rx_in1p_in1n:C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll'
+INFO:  ami model line = 
+ '(C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll (amirx (Reserved_Parameters (Ignore_Bits 40000 ) (Max_Init_Aggressors 25 ) (Init_Returns_Impulse False ) (GetWave_Exists True ) ) (Model_Specific (agc (agcrcf 0.01 ) (agcdelf 0.01 ) (agcgain 1 ) (agcgainmax 3 ) (adapt (adapt_size 2048 ) (adapt_dvlh_target 0.5 ) (adapt_bias 1 ) (adapt_on 1 ) ) (module_off 0 ) ) (cte (pcix3spec2 (f0 4e9 ) (f2 16e9 ) (dbl 3 ) ) (gain 1 ) (adapt (adapt_size 1024 ) (adapt_bias 1 ) (adapt_on 1 ) ) (adapt_cte_sel_file cte_out.txt ) (module_off 0 ) ) (dfe (ndfe 5 ) (dfe_autolev 1 ) (dfe_autolev_fact 1.1 ) (dfe_off 0 ) (coeffout dfecoeffout.txt ) (module_off 0 ) ) ) ) )'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll:AMI_Init'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll:AMI_GetWave'
+INFO:  Found 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll:AMI_Close'
+INFO:  init output is false for ami model 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll'
+INFO:  ami 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll' input  parameters: ' (amirx (agc (agcrcf 0.01) (agcdelf 0.01) (agcgain 1) (agcgainmax 3) (adapt (adapt_size 2048) (adapt_dvlh_target 0.5) (adapt_bias 1) (adapt_on 1)) (module_off 0)) (cte (pcix3spec2 (f0 4e9) (f2 16e9) (dbl 3)) (gain 1) (adapt (adapt_size 1024) (adapt_bias 1) (adapt_on 1)) (adapt_cte_sel_file cte_out.txt) (module_off 0)) (dfe (ndfe 5) (dfe_autolev 1) (dfe_autolev_fact 1.1) (dfe_off 0) (coeffout dfecoeffout.txt) (module_off 0))) '
+INFO:  ami 'C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll' returned the message:
+ INFO: model 'amirx' returned '
+Loading module 'agc' ..
+
+Loading module 'cte' ..
+
+Loading module 'dfe' ..
+' 
+INFO:  blocksize = '63499' impulse size = '2037' ' 
+INFO: Compiled random stimulus '(rand (seed 1 ) )' for tx 'Tx_out1p_out1n'
+INFO:  Number of bits to be simulated = '200419' 
+INFO:  option '(wavecnt )' :will be storing the last '32000' wave points in file 'waveform.txt'
+INFO: 'Rx_in1p_in1n' jitter and noise consolidated '(jitternoise (jitter (rj 0.01 ) ) (noise (rn 0.001 ) ) )'
+INFO:  compiling  eye parameters
+INFO:  Eye signal resolution set to '128' points
+INFO:  directive 'fstclk_edges' automatically added
+INFO:  directive '(fstclk_edges )': first ideal clock will be based on '100' edges
+WARNING:  measure delay '5e-06' + current time '0' was too large, automatically increasing simulation time to '2.51019e-05' (#bits = '252012')
+INFO:  Eye meas delay set to '5e-06'
+INFO:  vmeas_determine_bits set to '100'
+INFO:  dynamic isi eye density info can be found for every '1000' bits in 'eyedyndens.txt'
+INFO: clk pdf will be ouput
+WARNING:  random noise was not specified; setting to default value '0'
+INFO:  Number of initial simulation blocks = 127 
+WARNING:  measure delay '5e-06' + current time '1.98434375e-07' was too large, automatically increasing simulation time to '2.5300334375e-05' (#bits = '253996')
+INFO: Rx is getting external clock data from model
+INFO:  eye contour will be output to file 'eyectr.txt'
+INFO:  eye contour will be output to file 'eyectrjn.txt'
+INFO:  left bathtub  will be output to file 'bathtub_l.txt'
+INFO:  right bathtub  will be output to file 'bathtub_r.txt'
+INFO:  ber vs ui will be output to file 'berui.txt'
+INFO:  noise left bathtub  will be output to file 'nbathtub_l.txt'
+INFO:  noise right bathtub  will be output to file 'nbathtub_r.txt'
+INFO:  ber vs amplitude will be output to file 'nberampl.txt'
+INFO:  3d bathtub   will be output to file 'bathtub_3d.txt'
+INFO:  eye density  will be output to file 'eyedensity.txt'
+INFO:  eye density  will be output to file 'eyeden_nojn.txt'
+INFO:  eye time jitter distribution  will be output to file 'eyedist_tj.txt'
+INFO:  eye voltage jitter distribution  will be output to file 'eyedist_vj.txt'
+INFO:  eye time jitter distribution including global jitter noise will be output to file 'eyedist_tj_jn.txt'
+INFO:  eye voltage jitter distribution including global jitter noise will be output to file 'eyedist_vj_jn.txt'
+INFO:  channel report  will be output to file 'report.txt'
+INFO:  Elapsed Time = '61'

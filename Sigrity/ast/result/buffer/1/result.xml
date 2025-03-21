@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TxBufferDelayAnalysisResult>
+<SimulationResult Comment = "" >
+</SimulationResult>
+<BufferDelaySimulationSetting block = "Tx" corner = "Typ" ibisFile = "C:\Cadence\SPB_24.1\share\topxp\SerialLink\ibis_sparam_thru\scd_example.ibs" ibisComponent = "ABC_Serdes" isSPDSIM = "1" pkgMode = "0" pkgModeName = "" />
+<BufferDelayProbeSetting>
+<BufferDelayProbePoint DataRate = "1e+10" PosProbeNode = "gnd" NegProbeNode = "gnd" PosProbePin = "" NegProbePin = "" PosProbeSignal = "out1p" NegProbeSignal = "" ModelPos = "sla_out" ModelNeg = "" ModelTypePos = "1" ModelTypeNeg = "-1" ProbeType = "1" VMeas = "0.9" />
+<BufferDelayProbePoint DataRate = "1e+10" PosProbeNode = "gnd" NegProbeNode = "gnd" PosProbePin = "" NegProbePin = "" PosProbeSignal = "out1n" NegProbeSignal = "" ModelPos = "sla_out" ModelNeg = "" ModelTypePos = "1" ModelTypeNeg = "-1" ProbeType = "2" VMeas = "0.9" />
+<BufferDelayProbePoint DataRate = "1e+10" PosProbeNode = "n2" NegProbeNode = "n2" PosProbePin = "" NegProbePin = "" PosProbeSignal = "out1p" NegProbeSignal = "out1n" ModelPos = "sla_out" ModelNeg = "sla_out" ModelTypePos = "1" ModelTypeNeg = "1" ProbeType = "3" VMeas = "0" />
+</BufferDelayProbeSetting>
+</TxBufferDelayAnalysisResult>

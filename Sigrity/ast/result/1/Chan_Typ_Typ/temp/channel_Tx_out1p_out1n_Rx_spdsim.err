@@ -1,0 +1,10 @@
+*** Messages reported by SPDSIM (build24.0.0.05151.504415   000) ***
+
+Note: Output file of IBIS Golden Parser is "channel_Tx_out1p_out1n_Rx_spdsim_goldenparser.log"
+
+Warning 5000: The bandwidth of the 'X2.S' S-parameter is insufficient in the current time domain simulation due to accuracy and stability concerns. Set the time step to 10.0 ps and rerun the simulation.
+
+
+	0 error(s),	1 warning(s)
+
+	0 error(s),	1 warning(s)

@@ -1,0 +1,301 @@
+
+(RX_PRIMARY_pos_neg 
+ (bitp 200p ) 
+ (rj 0.01 ) 
+ (rn 0.001 ) 
+ (ami 
+  (C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll 
+   (amirx 
+    (Reserved_Parameters 
+     (Ignore_Bits 40000 ) 
+     (Init_Returns_Impulse False ) 
+     (GetWave_Exists True ) ) 
+    (Model_Specific 
+     (dfe 
+      (bwd 5 ) 
+      (res 64 ) 
+      (foffset 0 ) 
+      (meas_delay 50e-09 ) 
+      (coeffout dfe.txt ) ) ) ) ) ) 
+ (Sources 
+  (TX_LOWER_pos_neg 
+   (bitp 200p ) 
+   (stimulus 
+    (rand 
+     (seed 1 ) 
+     (poly 7 ) ) 
+    (invert ) 
+    (delay 0 ) ) 
+   (impfile D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\channel_TX_LOWER_pos_neg_RX_PRIMARY_tx.cur D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\channel_TX_LOWER_pos_neg_RX_PRIMARY_rx.cur 
+    (convert2stdimp ) 
+    (IsStoredChar ) 
+    (start 0n ) 
+    (stop 30n ) ) ) 
+  (TX_PRIMARY_pos_neg 
+   (primary ) 
+   (stimulus 
+    (rand 
+     (seed 1 ) 
+     (poly 7 ) ) 
+    (delay 0 ) ) 
+   (impfile D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\channel_TX_PRIMARY_pos_neg_RX_PRIMARY_tx.cur D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\channel_TX_PRIMARY_pos_neg_RX_PRIMARY_rx.cur 
+    (convert2stdimp ) 
+    (IsStoredChar ) 
+    (start 0n ) 
+    (stop 30n ) ) 
+   (ami 
+    (C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll 
+     (amiffe 
+      (Reserved_Parameters 
+       (Max_Init_Aggressors 25 ) 
+       (Init_Returns_Impulse True ) 
+       (GetWave_Exists False ) ) 
+      (Model_Specific 
+       (fwd 3 ) 
+       (pre 1 ) 
+       (coeffout ffecoeff.txt ) 
+       (UserTapsFile nil ) 
+       (scalef 1 ) ) ) ) ) ) 
+  (TX_UPPER_pos_neg 
+   (bitp 200p ) 
+   (stimulus 
+    (rand 
+     (seed 1 ) 
+     (poly 7 ) ) 
+    (invert ) 
+    (delay 0 ) ) 
+   (impfile D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\channel_TX_UPPER_pos_neg_RX_PRIMARY_tx.cur D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\channel_TX_UPPER_pos_neg_RX_PRIMARY_rx.cur 
+    (convert2stdimp ) 
+    (IsStoredChar ) 
+    (start 0n ) 
+    (stop 30n ) ) ) ) 
+ (options 
+  (precision 16 
+   (old 16 6 ) %.16lg ) 
+  (controls 
+   (dyndenscnt 1000 ) 
+   (stopbit 200000 ) 
+   (vmeas_determine_bits 100 ) 
+   (measdelay 5000n ) 
+   (relerr 1e-5 ) 
+   (fftblkfact 20 ) 
+   (bitres 32 ) 
+   (wavecnt ) 
+   (trimber 1e-8 ) 
+   (fiximp 
+    (pwr ) ) 
+   (print3dbath ) 
+   (print_noise_btub ) 
+   (vres 128 ) 
+   (FilePath D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\temp\ ) ) ) 
+ (Files 
+  (eyectr_cur 
+   (name eyectr.cur ) 
+   (mode w ) ) 
+  (bathtub_cur 
+   (name bathtub.cur ) 
+   (mode w ) ) 
+  (eyedensity 
+   (name eyedensity.txt ) 
+   (mode w ) ) 
+  (log 
+   (name spdut.log ) 
+   (mode w ) 
+   (fp  ) 
+   (error 
+    (INFO "Command = 'C:\Cadence\SPB_24.1\tools\bin\spdut.exe -b D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\temp\command.txt'
+" "**** version = 24.1-2020 S002 (4270188)  [1/23/2025] *****
+" "****Setting precision to '16' digits****" ) ) ) 
+  (report 
+   (name report.txt ) 
+   (mode w ) ) 
+  (nbathtub_cur 
+   (name nbathtub.cur ) 
+   (mode w ) ) 
+  (bathtub_3d 
+   (name bathtub_3d.txt ) 
+   (mode w ) ) 
+  (waverr 
+   (name waveform.txt ) 
+   (mode w ) ) 
+  (waverr_in 
+   (name waveform_rx_in.txt ) 
+   (mode w ) ) 
+  (waverr_tx 
+   (name waveform_tx.txt ) 
+   (mode w ) ) 
+  (waverr_tx_in 
+   (name waveform_tx_in.txt ) 
+   (mode w ) ) 
+  (__otherfiles 
+   (name __otherfiles.txt ) 
+   (mode w ) 
+   (fp  ) ) 
+  (centersample 
+   (name wave_center.txt ) 
+   (mode w ) ) 
+  (initwave 
+   (name initwave.txt ) 
+   (mode w ) ) 
+  (eyectr 
+   (name eyectr.txt ) 
+   (mode w ) ) 
+  (eyectr_in 
+   (name eyectr_in.txt ) 
+   (mode w ) ) 
+  (eyectr_tx 
+   (name eyectr_tx.txt ) 
+   (mode w ) ) 
+  (eyectr_tx_in 
+   (name eyectr_tx_in.txt ) 
+   (mode w ) ) 
+  (waverr_tx_in_mipic_0 
+   (name waverr_tx_in_mipic_0.txt ) 
+   (mode w ) ) 
+  (waverr_tx_in_mipic_1 
+   (name waverr_tx_in_mipic_1.txt ) 
+   (mode w ) ) 
+  (waverr_tx_in_mipic_2 
+   (name waverr_tx_in_mipic_2.txt ) 
+   (mode w ) ) 
+  (waverr_tx_out_mipic_0 
+   (name waverr_tx_out_mipic_0.txt ) 
+   (mode w ) ) 
+  (waverr_tx_out_mipic_1 
+   (name waverr_tx_out_mipic_1.txt ) 
+   (mode w ) ) 
+  (waverr_tx_out_mipic_2 
+   (name waverr_tx_out_mipic_2.txt ) 
+   (mode w ) ) 
+  (eyectrjn 
+   (name eyectrjn.txt ) 
+   (mode w ) ) 
+  (eyectrjn_cur 
+   (name eyectrjn.cur ) 
+   (mode w ) ) 
+  (eyedist_tj 
+   (name eyedist_tj.txt ) 
+   (mode w ) ) 
+  (eyedist_vj 
+   (name eyedist_vj.txt ) 
+   (mode w ) ) 
+  (eyedist_tj_jn 
+   (name eyedist_tj_jn.txt ) 
+   (mode w ) ) 
+  (eyedist_vj_jn 
+   (name eyedist_vj_jn.txt ) 
+   (mode w ) ) 
+  (eyedensity_nojn 
+   (name eyeden_nojn.txt ) 
+   (mode w ) ) 
+  (eyedensity_rx_in_nojn 
+   (name eyeden_rx_in_nojn.txt ) 
+   (mode w ) ) 
+  (eyedensity_tx_nojn 
+   (name eyeden_tx_nojn.txt ) 
+   (mode w ) ) 
+  (eyedensity_tx_in_nojn 
+   (name eyeden_tx_in_nojn.txt ) 
+   (mode w ) ) 
+  (bert 
+   (name bert.txt ) 
+   (mode w ) ) 
+  (rxclks 
+   (name _rx_clks.txt ) 
+   (mode w ) 
+   (fp  ) ) 
+  (bathtub_l 
+   (name bathtub_l.txt ) 
+   (mode w ) ) 
+  (bathtub_r 
+   (name bathtub_r.txt ) 
+   (mode w ) ) 
+  (fecbathtub_l 
+   (name fecbathtub_l.txt ) 
+   (mode w ) ) 
+  (fecbathtub_r 
+   (name fecbathtub_r.txt ) 
+   (mode w ) ) 
+  (fecbathtub_cur 
+   (name fecbathtub.cur ) 
+   (mode w ) ) 
+  (ber_vs_ui 
+   (name berui.txt ) 
+   (mode w ) ) 
+  (nbathtub_l 
+   (name nbathtub_l.txt ) 
+   (mode w ) ) 
+  (nbathtub_r 
+   (name nbathtub_r.txt ) 
+   (mode w ) ) 
+  (fecnbathtub_l 
+   (name fecnbathtub_l.txt ) 
+   (mode w ) ) 
+  (fecnbathtub_r 
+   (name fecnbathtub_r.txt ) 
+   (mode w ) ) 
+  (fecnbathtub_cur 
+   (name fecnbathtub.cur ) 
+   (mode w ) ) 
+  (nber_vs_ampl 
+   (name nberampl.txt ) 
+   (mode w ) ) 
+  (imp_in 
+   (name imp_in.txt ) 
+   (mode w ) ) 
+  (imp_in_cur 
+   (name imp_in.cur ) 
+   (mode w ) ) 
+  (imp_out 
+   (name imp_out.txt ) 
+   (mode w ) ) 
+  (imp_out_cur 
+   (name imp_out.cur ) 
+   (mode w ) ) 
+  (pul_in 
+   (name pul_in.txt ) 
+   (mode w ) ) 
+  (pul_out 
+   (name pul_out.txt ) 
+   (mode w ) ) 
+  (snrstat 
+   (name snrstat.txt ) 
+   (mode w ) ) 
+  (time_tj_record 
+   (name time_tj_record.txt ) 
+   (mode w ) ) 
+  (time_vj_record 
+   (name time_vj_record.txt ) 
+   (mode w ) ) 
+  (time_tj_record_cur 
+   (name time_tj_record.cur ) 
+   (mode w ) ) 
+  (time_vj_record_cur 
+   (name time_vj_record.cur ) 
+   (mode w ) ) 
+  (clkpdf_wrt_abs_ref 
+   (name clkpdf_wrt_abs_ref.txt ) 
+   (mode w ) ) 
+  (clkpdf_wrt_ref 
+   (name clkpdf_wrt_ref.txt ) 
+   (mode w ) ) 
+  (_hss_spdut 
+   (name _hss_spdut.txt ) 
+   (mode w ) ) 
+  (_hss_spdut_merged 
+   (name _hss_spdut_merged.txt ) 
+   (mode w ) ) 
+  (eyedyndens 
+   (name eyedyndens.txt ) 
+   (mode w ) ) ) 
+ (version "24.1-2020 S002 (4270188)  [1/23/2025]" ) 
+ (ArgcArgv C:\Cadence\SPB_24.1\tools\bin\spdut.exe -b D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\temp\command.txt ) 
+ (statistics 
+  (ctime "Sun Mar  2 04:02:52 2025
+" ) 
+  (timestats 
+   (start  ) ) ) 
+ (otherfiles ) 
+ (_System_Data 
+  (bitpmin 2e-10  ) 
+  (dtmin 6.25e-12  ) ) )

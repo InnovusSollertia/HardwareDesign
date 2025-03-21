@@ -1,0 +1,121 @@
+(Rx_in1p_in1n
+	(bitp 100p)
+	(rj 0.01)
+	(rn 0.001)
+	( ami
+		( C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll
+			( amirx
+				( Reserved_Parameters
+					( Ignore_Bits 40000 )
+					( Max_Init_Aggressors 25 )
+					( Init_Returns_Impulse False )
+					( GetWave_Exists True )
+				)
+				( Model_Specific
+					( agc
+						( agcrcf 0.01 )
+						( agcdelf 0.01 )
+						( agcgain 1 )
+						( agcgainmax 3 )
+						( adapt
+							( adapt_size 2048 )
+							( adapt_dvlh_target 0.5 )
+							( adapt_bias 1 )
+							( adapt_on 1 )
+						)
+						( module_off 0 )
+					)
+					( cte
+						( pcix3spec2
+							( f0 4e9 )
+							( f2 16e9 )
+							( dbl 3 )
+						)
+						( gain 1 )
+						( adapt
+							( adapt_size 1024 )
+							( adapt_bias 1 )
+							( adapt_on 1 )
+						)
+						( adapt_cte_sel_file cte_out.txt )
+						( module_off 0 )
+					)
+					( dfe
+						( ndfe 5 )
+						( dfe_autolev 1 )
+						( dfe_autolev_fact 1.1 )
+						( dfe_off 0 )
+						( coeffout dfecoeffout.txt )
+						( module_off 0 )
+					)
+				)
+			)
+		)
+	)
+
+	(Sources
+		(Tx_out1p_out1n
+			(primary)
+			(stimulus
+				(rand (seed 1))
+			)
+			(impfile "D:\Projects\HardwareDesign\Sigrity\ast\result\1\Chan_Typ_Typ\channel_Tx_out1p_out1n_Rx_tx.cur" "D:\Projects\HardwareDesign\Sigrity\ast\result\1\Chan_Typ_Typ\channel_Tx_out1p_out1n_Rx_rx.cur" (convert2stdimp)   (start 0n) (stop 28n))
+			( ami
+				( C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll
+					( amilffe
+						( Reserved_Parameters
+							( Max_Init_Aggressors 25 )
+							( Init_Returns_Impulse True )
+							( GetWave_Exists False )
+						)
+						( Model_Specific
+							( lffe 0.25 1.0 0.5 )
+							( qffe 6 )
+							( csum 0 )
+							( coeffout ffecoeff.txt )
+							( qcoeffout qffecoeff.txt )
+							( UserTapsFile nil )
+							( offsetf 0 )
+							( OptimizePulse 0 )
+							( refine_coeff 0 )
+						)
+					)
+				)
+			)
+
+		)
+	)
+	(options
+		(precision 16)
+		(controls
+			(dyndenscnt 1000)
+			(stopbit 200000)
+			(vmeas_determine_bits 100)
+			(measdelay 5000n)
+			(relerr 1e-5 )
+			(fftblkfact 20)
+			(xtalk_ignore)
+			(bitres 32)
+			(wavecnt)
+			(trimber 1e-8)
+			(bathtub_ber_min 1e-20)
+			(fiximp (pwr))
+			(print3dbath)
+			(print_noise_btub)
+			(vres 128)
+		)
+	)
+	(Files
+		(eyectr_cur (name eyectr.cur))
+		(bathtub_cur (name bathtub.cur))
+		(eyedensity (name eyedensity.txt))
+		(log (name spdut.log))
+		(report (name report.txt))
+		(nbathtub_cur (name nbathtub.cur))
+		(bathtub_3d (name bathtub_3d.txt))
+		(waverr (name waveform.txt))
+		(waverr_in (name waveform_rx_in.txt))
+		(waverr_tx (name waveform_tx.txt))
+		(waverr_tx_in (name waveform_tx_in.txt))
+	)
+)

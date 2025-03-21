@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ChannelSimulationResult SimulationName = "1\Chan_Typ_Typ" Project = "D:/Projects/HardwareDesign/Sigrity/ast/ast.topx" FilePattern = "%s" TaskFolder = ".." CurrentLBER = "">
+<SimulationResult Comment = "" >
+</SimulationResult>
+<ChannelSimulationSetting DataRate = "1e+10">
+<ChannelSimulationSetting isWrite = "1" vrmVoltages = "0.000000" stimulusOffsetAdjustment = "0" >
+<DeviceBlock Block = "Tx" IsTx = "1" IBISFile = "C:\Cadence\SPB_24.1\share\topxp\SerialLink\ibis_sparam_thru\scd_example.ibs" IBISComponent = "ABC_Serdes" OnDieMode = "0" PkgMode = "0" PkgModeName = "" />
+<DeviceBlock Block = "Rx" IsTx = "0" IBISFile = "C:\Cadence\SPB_24.1\share\topxp\SerialLink\ibis_sparam_thru\scd_example.ibs" IBISComponent = "ABC_Serdes" OnDieMode = "0" PkgMode = "0" PkgModeName = "" />
+<DeviceSignalSetting DeviceBlock = "Tx" >
+<SignalSetting signal = "out1p" pin = "6" powerSignal = "" groudSignal = "" dataRate = "1e+10" stimulusPatternType = "Random" stimulusPatternData = "1" stimulusPattern = "1" stimulusPatternSeed = "1" stimulusPatternAllZero = "0" stimulusPatternAllOne = "0" isStimulusOffsetOnTheFly = "0" stimulusOffset = "0" stimulusOffsetType = "Default" transmitModel = "sla_out" receiveModel = "" transmitModelType = "1" receiveModelType = "255" transmitModelPolarityInverting = "0" transmitModePullupVoltage = "1" receiveModePullupVoltage = "1" riseBufferDelay = "7.7e-11" fallBufferDelay = "1.01735e-11" isSelected = "1" isConnected = "1" dataRate = "1e+10" baudRate = "1e+10" leadingBits = "" signaling = "NRZ" type = "0" achi = "inf" aclo = "inf" dchi = "inf" dclo = "inf" acThreshold = "inf" dcThreshold = "inf" isIBISModel = "1" >
+<TxJitterNoise JitterPeriodicChecked = "0" JitterFreqOffsetChecked = "0" JitterPeriodicFreq = "60" JitterPeriodicAmplitude = "5" JitterFreqOffset = "100" JitterTransitionChecked = "0" JitterTransition = "0.5" JitterTransitionDjChecked = "0" JitterTransitionDj = "0.5" JitterDCDChecked = "0" JitterDCD = "0.5" NoisePeriodicChecked = "0" NoiseFreq = "60" NoiseAmpitude = "1" NoiseTransitionChecked = "0" NoiseTransition = "1" />
+<RxJitterNoise JitterRandomChecked = "1" JitterRandom = "1" JitterDJChecked = "0" JitterDJ = "0.5" NoiseRandomChecked = "1" NoiseRandom = "1" NoiseDNChecked = "0" NoiseDN = "1" />
+</SignalSetting>
+<SignalSetting signal = "out1n" pin = "7" powerSignal = "" groudSignal = "" dataRate = "1e+10" stimulusPatternType = "Random" stimulusPatternData = "1" stimulusPattern = "1" stimulusPatternSeed = "1" stimulusPatternAllZero = "0" stimulusPatternAllOne = "0" isStimulusOffsetOnTheFly = "0" stimulusOffset = "0" stimulusOffsetType = "Default" transmitModel = "sla_out" receiveModel = "" transmitModelType = "1" receiveModelType = "255" transmitModelPolarityInverting = "0" transmitModePullupVoltage = "1" receiveModePullupVoltage = "1" riseBufferDelay = "7.7e-11" fallBufferDelay = "1.01735e-11" isSelected = "1" isConnected = "1" dataRate = "1e+10" baudRate = "1e+10" leadingBits = "" signaling = "NRZ" type = "0" achi = "inf" aclo = "inf" dchi = "inf" dclo = "inf" acThreshold = "inf" dcThreshold = "inf" isIBISModel = "1" >
+<TxJitterNoise JitterPeriodicChecked = "0" JitterFreqOffsetChecked = "0" JitterPeriodicFreq = "60" JitterPeriodicAmplitude = "5" JitterFreqOffset = "100" JitterTransitionChecked = "0" JitterTransition = "0.5" JitterTransitionDjChecked = "0" JitterTransitionDj = "0.5" JitterDCDChecked = "0" JitterDCD = "0.5" NoisePeriodicChecked = "0" NoiseFreq = "60" NoiseAmpitude = "1" NoiseTransitionChecked = "0" NoiseTransition = "1" />
+<RxJitterNoise JitterRandomChecked = "1" JitterRandom = "1" JitterDJChecked = "0" JitterDJ = "0.5" NoiseRandomChecked = "1" NoiseRandom = "1" NoiseDNChecked = "0" NoiseDN = "1" />
+</SignalSetting>
+</DeviceSignalSetting>
+<DeviceSignalSetting DeviceBlock = "Rx" >
+<SignalSetting signal = "in1p" pin = "8" powerSignal = "" groudSignal = "" dataRate = "1e+09" stimulusPatternType = "Random" stimulusPatternData = "1" stimulusPattern = "1" stimulusPatternSeed = "1" stimulusPatternAllZero = "0" stimulusPatternAllOne = "0" isStimulusOffsetOnTheFly = "0" stimulusOffset = "0" stimulusOffsetType = "Default" transmitModel = "" receiveModel = "sla_in" transmitModelType = "255" receiveModelType = "0" transmitModelPolarityInverting = "0" transmitModePullupVoltage = "1" receiveModePullupVoltage = "1" riseBufferDelay = "0" fallBufferDelay = "0" isSelected = "1" isConnected = "1" dataRate = "1e+09" baudRate = "1e+09" leadingBits = "" signaling = "NRZ" type = "0" achi = "inf" aclo = "inf" dchi = "inf" dclo = "inf" acThreshold = "0.1" dcThreshold = "0.1" isIBISModel = "1" >
+<TxJitterNoise JitterPeriodicChecked = "0" JitterFreqOffsetChecked = "0" JitterPeriodicFreq = "60" JitterPeriodicAmplitude = "5" JitterFreqOffset = "100" JitterTransitionChecked = "0" JitterTransition = "0.5" JitterTransitionDjChecked = "0" JitterTransitionDj = "0.5" JitterDCDChecked = "0" JitterDCD = "0.5" NoisePeriodicChecked = "0" NoiseFreq = "60" NoiseAmpitude = "1" NoiseTransitionChecked = "0" NoiseTransition = "1" />
+<RxJitterNoise JitterRandomChecked = "1" JitterRandom = "1" JitterDJChecked = "0" JitterDJ = "0.5" NoiseRandomChecked = "1" NoiseRandom = "1" NoiseDNChecked = "0" NoiseDN = "1" />
+</SignalSetting>
+<SignalSetting signal = "in1n" pin = "9" powerSignal = "" groudSignal = "" dataRate = "1e+09" stimulusPatternType = "Random" stimulusPatternData = "1" stimulusPattern = "1" stimulusPatternSeed = "1" stimulusPatternAllZero = "0" stimulusPatternAllOne = "0" isStimulusOffsetOnTheFly = "0" stimulusOffset = "0" stimulusOffsetType = "Default" transmitModel = "" receiveModel = "sla_in" transmitModelType = "255" receiveModelType = "0" transmitModelPolarityInverting = "0" transmitModePullupVoltage = "1" receiveModePullupVoltage = "1" riseBufferDelay = "0" fallBufferDelay = "0" isSelected = "1" isConnected = "1" dataRate = "1e+09" baudRate = "1e+09" leadingBits = "" signaling = "NRZ" type = "0" achi = "inf" aclo = "inf" dchi = "inf" dclo = "inf" acThreshold = "0.1" dcThreshold = "0.1" isIBISModel = "1" >
+<TxJitterNoise JitterPeriodicChecked = "0" JitterFreqOffsetChecked = "0" JitterPeriodicFreq = "60" JitterPeriodicAmplitude = "5" JitterFreqOffset = "100" JitterTransitionChecked = "0" JitterTransition = "0.5" JitterTransitionDjChecked = "0" JitterTransitionDj = "0.5" JitterDCDChecked = "0" JitterDCD = "0.5" NoisePeriodicChecked = "0" NoiseFreq = "60" NoiseAmpitude = "1" NoiseTransitionChecked = "0" NoiseTransition = "1" />
+<RxJitterNoise JitterRandomChecked = "1" JitterRandom = "1" JitterDJChecked = "0" JitterDJ = "0.5" NoiseRandomChecked = "1" NoiseRandom = "1" NoiseDNChecked = "0" NoiseDN = "1" />
+</SignalSetting>
+</DeviceSignalSetting>
+<CharacterizationSetting TxCorner = "Typ" RxCorner = "Typ" >
+<ChannelSetting >
+<Channel >
+<Tx >
+<Terminal Block = "Tx" PosPin = "6" NegPin = "7" PosSignal = "out1p" NegSignal = "out1n" />
+</Tx>
+<Rx >
+<Terminal Block = "Rx" PosPin = "8" NegPin = "9" PosSignal = "in1p" NegSignal = "in1n" />
+</Rx>
+</Channel>
+</ChannelSetting>
+<ProbePointSetting >
+<ProbePoint Component = "Rx" ComponentType = "1" BusName = "" PosNodeName = "rxnode" PosNodeNet = "Signal1" NegNodeName = "10" NegNodeNet = "vss" PosSignal = "in1p" NegSignal = "in1n" PosPin = "8" NegPin = "9" CustomName = "" Flag = "50" BufferDelay = "inf" IsDefVRef = "1" VRef = "0" Vddq = "1" DefVddq = "1" />
+<ProbePoint Component = "Rx" ComponentType = "1" BusName = "" PosNodeName = "8" PosNodeNet = "in1p" NegNodeName = "10" NegNodeNet = "vss" PosSignal = "in1p" NegSignal = "in1n" PosPin = "8" NegPin = "9" CustomName = "" Flag = "4" BufferDelay = "inf" IsDefVRef = "1" VRef = "0" Vddq = "1" DefVddq = "1" />
+<ProbePoint Component = "Rx" ComponentType = "1" BusName = "" PosNodeName = "9" PosNodeNet = "in1n" NegNodeName = "10" NegNodeNet = "vss" PosSignal = "in1p" NegSignal = "in1n" PosPin = "8" NegPin = "9" CustomName = "" Flag = "8" BufferDelay = "inf" IsDefVRef = "1" VRef = "0" Vddq = "1" DefVddq = "1" />
+</ProbePointSetting>
+<SimulationIdentity >
+<Identity>
+<File CRC32 = "3963342502"/>
+<File CRC32 = "254728889"/>
+<File CRC32 = "1678472292"/>
+<File CRC32 = "3130507742"/>
+<File CRC32 = "3996607870"/>
+</Identity>
+</SimulationIdentity>
+</CharacterizationSetting>
+<ChannelSimulationSetting ProbeIndex = "0" ResultFilePattern = "%s" IsDebug = "0" IsStatisticalMode = "0" IsBEREye = "0" IsTxRxJitterNoiseOff = "0" IsWin32 = "0" InvertStimulus = "0" TimeScaleLBERs = "" VoltageScaleLBERs = "" BothLBERs = "" DateRate = "1e+10" Wavecnt = "1000" WaveDisplayFirstOrLast = "0" ResultPreservedTime = "inf" IncludeAllChannelForMeasurementXTalk = "0" lber = "" >
+<ChannelOptions Option = "vres 128" />
+<JTOptions TargetBER = "1e-15" MaskFile="share\topxp\ComplianceKits\jitter_tol\mask\jtolmask.txt"/>
+</ChannelSimulationSetting>
+<BlockModelInfo>
+<BlockModel BlockName = "S1" ModelFile = "C:\Cadence\SPB_24.1\share\topxp\default_models\sparams_4port.bnp" />
+</BlockModelInfo>
+<SimulatorSetting >
+<SimulatorOption SimulatorName = "spdsim" AdaptiveTimeStep = "0" Version = "1">* Add global .option and .include commands here._br_* They'll be used for time domain characterization._br_*.option delmax=1p</SimulatorOption>
+<ChannelSimulatorOption OS="Windows 64 Bit" Version ="1">$DEFAULT_OPTION</ChannelSimulatorOption>
+<CharacterizationSetting Duration = "28" Delay = "0" Vmeas = "" BusStepStimulus = "1" SeedControl = "0" />
+<SpectreSimulatorOptions>
+<SpectreOption name = "SpectreOptions" >
+<SpectreOption name = "SpectreHighPerformanceOptions" >
+<SpectreOption name = "PerformanceMode" value = "Spectre" />
+<SpectreOption name = "SpectreOptions" >
+<SpectreOption name = "ErrorPreset" value = "conservative" />
+</SpectreOption>
+<SpectreOption name = "APSOptions" >
+<SpectreOption name = "useAPS" value = "0" />
+<SpectreOption name = "MultiThreading" value = "Auto" />
+<SpectreOption name = "threadsNo" value = "" />
+<SpectreOption name = "procAffinity" value = "" />
+</SpectreOption>
+<SpectreOption name = "SpectreXOptions" >
+<SpectreOption name = "SpectreX_Preset" value = "MX" />
+<SpectreOption name = "SpectreX_MultiThreading" value = "Auto" />
+<SpectreOption name = "SpectreX_ThreadsNo" value = "" />
+<SpectreOption name = "SpectreX_AdvancedOptionsChecked" value = "0" />
+<SpectreOption name = "SpectreX_PresetOverrideChecked" value = "0" />
+<SpectreOption name = "SpectreX_PresetOverride" value = "" />
+<SpectreOption name = "SpectreX_ParasiticsOptimizationChecked" value = "0" />
+<SpectreOption name = "SpectreX_ParasiticsOptimization" value = "MX" />
+</SpectreOption>
+<SpectreOption name = "SpectreFXOptions" >
+<SpectreOption name = "SpectreFX_Preset" value = "lx" />
+<SpectreOption name = "SpectreFX_MultiThreading" value = "Multiple" />
+<SpectreOption name = "SpectreFX_ThreadsNo" value = "8" />
+<SpectreOption name = "SpectreFX_AdvancedOptionsChecked" value = "0" />
+<SpectreOption name = "SpectreFX_GlobalBaseModePresetChecked" value = "0" />
+<SpectreOption name = "SpectreFX_GlobalBaseModePreset" value = "baselx" />
+</SpectreOption>
+<SpectreOption name = "AdditionalCommandOption" value = "" />
+</SpectreOption>
+<SpectreOption name = "SpectreSimulatorOptions" >
+<SpectreOption name = "MainOptions" >
+<SpectreOption name = "reltol" value = "1e-3" />
+<SpectreOption name = "residualtol" value = "" />
+<SpectreOption name = "vabstol" value = "1e-6" />
+<SpectreOption name = "iabstol" value = "1e-12" />
+<SpectreOption name = "temp" value = "27" />
+</SpectreOption>
+<SpectreOption name = "AlgorithmOptions" >
+<SpectreOption name = "homotopy" value = "" />
+<SpectreOption name = "limit" value = "" />
+<SpectreOption name = "gmethod" value = "" />
+<SpectreOption name = "dptran_gmethod" value = "" />
+<SpectreOption name = "try_fast_op" value = "" />
+<SpectreOption name = "convdbg" value = "" />
+<SpectreOption name = "nonconv_topnum" value = "" />
+<SpectreOption name = "gmin" value = "1e-12" />
+<SpectreOption name = "gmin_check" value = "" />
+<SpectreOption name = "gmindc" value = "" />
+<SpectreOption name = "rforce" value = "1" />
+<SpectreOption name = "pivotdc" value = "" />
+<SpectreOption name = "dc_pivot_check" value = "" />
+<SpectreOption name = "pivrel" value = "1e-3" />
+<SpectreOption name = "pivabs" value = "" />
+<SpectreOption name = "preorder" value = "" />
+<SpectreOption name = "rebuild_matrix" value = "" />
+</SpectreOption>
+<SpectreOption name = "ComponentOptions" >
+<SpectreOption name = "scalem" value = "1.0" />
+<SpectreOption name = "scale" value = "1.0" />
+<SpectreOption name = "scalefactor" value = "" />
+<SpectreOption name = "approx" value = "" />
+<SpectreOption name = "macromodels" value = "" />
+<SpectreOption name = "maxrsd" value = "" />
+<SpectreOption name = "auto_minductor" value = "" />
+<SpectreOption name = "minr" value = "" />
+</SpectreOption>
+<SpectreOption name = "CheckOptions" >
+<SpectreOption name = "topcheck" value = "" />
+<SpectreOption name = "iccapcheck" value = "" />
+<SpectreOption name = "ignshorts" value = "" />
+<SpectreOption name = "diagnose" value = "" />
+<SpectreOption name = "dochecklimit" value = "" />
+<SpectreOption name = "checklimitfile" value = "" />
+<SpectreOption name = "checklimitdest" value = "psf" />
+<SpectreOption name = "checklimit_skip_subs" value = "" />
+<SpectreOption name = "checklimit_skip_file" value = "" />
+<SpectreOption name = "opptcheck" value = "" />
+</SpectreOption>
+<SpectreOption name = "AnnotationOptions" >
+<SpectreOption name = "audit" value = "" />
+<SpectreOption name = "inventory" value = "" />
+<SpectreOption name = "narrate" value = "" />
+<SpectreOption name = "debug" value = "" />
+<SpectreOption name = "info" value = "" />
+<SpectreOption name = "note" value = "" />
+<SpectreOption name = "maxnotes" value = "5" />
+<SpectreOption name = "warn" value = "" />
+<SpectreOption name = "maxwarns" value = "5" />
+<SpectreOption name = "maxwarnstologfile" value = "" />
+<SpectreOption name = "maxnotestologfile" value = "" />
+<SpectreOption name = "error" value = "" />
+<SpectreOption name = "printstep" value = "" />
+<SpectreOption name = "digits" value = "5" />
+<SpectreOption name = "notation" value = "" />
+<SpectreOption name = "cols" value = "80" />
+<SpectreOption name = "colslog" value = "" />
+<SpectreOption name = "title" value = "" />
+</SpectreOption>
+<SpectreOption name = "MiscOptions" >
+<SpectreOption name = "value" value = "" />
+<SpectreOption name = "flow" value = "" />
+<SpectreOption name = "quantities" value = "" />
+<SpectreOption name = "additional_arguments" value = "" />
+</SpectreOption>
+</SpectreOption>
+<SpectreOption name = "AnalysisOptions" >
+<SpectreOption name = "BasicOptions" >
+<SpectreOption name = "errpreset" value = "" />
+</SpectreOption>
+<SpectreOption name = "SpectreTransientOptions" >
+<SpectreOption name = "TimeStepOptions" >
+<SpectreOption name = "step" value = "" />
+<SpectreOption name = "maxstep" value = "" />
+<SpectreOption name = "minstep" value = "" />
+</SpectreOption>
+<SpectreOption name = "AlgorithmOptions" >
+<SpectreOption name = "method" value = "" />
+<SpectreOption name = "maxiters" value = "5" />
+<SpectreOption name = "restart" value = "" />
+<SpectreOption name = "relref" value = "" />
+<SpectreOption name = "lteratio" value = "" />
+</SpectreOption>
+<SpectreOption name = "MiscOptions" >
+<SpectreOption name = "annotate" value = "status" />
+<SpectreOption name = "emirstop" value = "" />
+</SpectreOption>
+</SpectreOption>
+<SpectreOption name = "SpectreDcOptions" >
+<SpectreOption name = "force" value = "" />
+<SpectreOption name = "save_op_in_final" value = "0" />
+<SpectreOption name = "readns" value = "" />
+<SpectreOption name = "readforce" value = "" />
+<SpectreOption name = "writefinal" value = "" />
+<SpectreOption name = "homotopy" value = "" />
+<SpectreOption name = "restart" value = "" />
+<SpectreOption name = "maxiters" value = "150" />
+<SpectreOption name = "maxsteps" value = "10000" />
+<SpectreOption name = "annotate" value = "" />
+<SpectreOption name = "additionalParams" value = "" />
+</SpectreOption>
+</SpectreOption>
+</SpectreOption>
+</SpectreSimulatorOptions>
+</SimulatorSetting>
+<ChannelAnalysisOption>
+<EyeDistribution Method = "0"/>
+<BEREyes TimeScaleChecked = "0" VoltageScaleChecked = "0" BothChecked = "0" LBERs = "-12" />
+<XTalkModel  mode = "-1" />
+<SimulationSetting bitNum = "200000" bitNumDisplay = "" bitNumDisplayFirstOrLast = "" ignoreTime = "5000" ignoreTimeUnit = "0" bitSamplingRate = "32" IsBerFloorChecked = "1" berFloor = "1e-20" signalingType = "NRZ" />
+<ChSimAnalMode mode = "0" />
+</ChannelAnalysisOption>
+<CharacterizationOption StimulusTypeName = "Ramp" StimulusType = "0" prbs_poly = "7" prbs_numOfBits = "128" prbs_seed = "0" prbs_option = "0" isCaptureXtalkEnabled = "0" />
+</ChannelSimulationSetting>
+</ChannelSimulationSetting>
+<CharacterizationResult>
+<ChannelTxFile>channel_Tx_out1p_out1n_Rx_tx.cur</ChannelTxFile>
+<ChannelRxFile>channel_Tx_out1p_out1n_Rx_rx.cur</ChannelRxFile>
+<ChannelRxFile>channel_Tx_out1p_out1n_Rx_rx_Rx[8,10].cur</ChannelRxFile>
+<ChannelRxFile>channel_Tx_out1p_out1n_Rx_rx_Rx[9,10].cur</ChannelRxFile>
+</CharacterizationResult>
+<DdrReportSetting WaveformLocation = "Die Pad" startingTime = "0" endingTime = "inf" rangeUnit = "2" SetupDeratingTableFile = "" HoldDeratingTableFile = "" EyeTrigger = "0" EyeAperture = "0" minTacWidthPercent = "50" offset = "" ExtrapolationMethod = "Nearest" PerformDeratingForDataRead = "0" tdDataReadExport = "0" IsWorstCaseSummaryOnly = "1" >
+<Threshold title = "Default" ac = "0.175" dc = "0.1" DiffAC = "0.35" DiffDC = "0.2" DDRType = "Default" />
+<CustomReportSetting >
+<Setting MeasType = "BER" >
+<Option Name = "Composite" IsChecked = "1" />
+<Option Name = "Eye 0" IsChecked = "1" />
+<Option Name = "Eye 1" IsChecked = "1" />
+<Option Name = "Eye 2" IsChecked = "1" />
+<Option Name = "Eye 3" IsChecked = "1" />
+<Option Name = "Eye 4" IsChecked = "1" />
+<Option Name = "Eye 5" IsChecked = "1" />
+<Option Name = "Eye 6" IsChecked = "1" />
+</Setting>
+</CustomReportSetting>
+<HTMLReport title = "" subTitle = "" desc = "" />
+<MeasurementType index = "0" enable = "1" />
+<MeasurementType index = "1" enable = "1" />
+<MeasurementType index = "2" enable = "1" />
+<MeasurementType index = "3" enable = "1" />
+<MeasurementType index = "4" enable = "1" />
+<MeasurementType index = "5" enable = "1" />
+<MeasurementType index = "6" enable = "1" />
+<MeasurementType index = "7" enable = "1" />
+<MeasurementType index = "8" enable = "1" />
+<MeasurementType index = "9" enable = "1" />
+<MeasurementType index = "10" enable = "1" />
+<MeasurementType index = "11" enable = "1" />
+<MeasurementType index = "12" enable = "1" />
+<MeasurementType index = "13" enable = "1" />
+<MeasurementType index = "14" enable = "1" />
+<MeasurementType index = "15" enable = "1" />
+<MeasurementType index = "16" enable = "1" />
+<MeasurementType index = "17" enable = "1" />
+<MeasurementType index = "18" enable = "1" />
+<MeasurementType index = "19" enable = "1" />
+<MeasurementType index = "20" enable = "1" />
+<MeasurementType index = "21" enable = "1" />
+<MeasurementType index = "22" enable = "1" />
+<MeasurementType index = "23" enable = "1" />
+<MeasurementType index = "24" enable = "1" />
+<MeasurementType index = "25" enable = "1" />
+<Specs strobeAdjustmentResolution = "0.02" >
+<ControllerTimingSpec >
+<TimingSpec MinTransmitSetup = "" MinTransmitHold = "" MinReceiveSetup = "" MinReceiveHold = "" MaxReceiveSkewPlus = "" MaxReceiveSkewMinus = "" MinStrobeSetup = "" MinStrobeHold = "" MaxStrobeClockSkewPlus = "" MaxStrobeClockSkewMinus = "" tDQSQ = "" tQH = "" />
+</ControllerTimingSpec>
+<MemoryTimingSpec >
+<TimingSpec MinTransmitSetup = "" MinTransmitHold = "" MinReceiveSetup = "" MinReceiveHold = "" MaxReceiveSkewPlus = "" MaxReceiveSkewMinus = "" MinStrobeSetup = "" MinStrobeHold = "" MaxStrobeClockSkewPlus = "" MaxStrobeClockSkewMinus = "" tDQSQ = "" tQH = "" />
+</MemoryTimingSpec>
+<DQMaskSpec VdIVW = "" VdIVW2 = "" TdIVW = "" TdIVW2 = "" MintDQS2DQ = "" MaxtDQS2DQ = "" MaxtDQ2DQ = "" MinVIHL_AC = "" MinTdIPW = "" MinTdIHL = "" MinSlewRate_Mask = "" MaxSlewRate_Mask = "" MinSlewRate_AC_Swing = "" MaxSlewRate_AC_Swing = "" MaskType = "" />
+<DQVrefSpec Vref_max = "" Vref_min = "" Vref_step = "" Vref_set_tol = "" />
+</Specs>
+</DdrReportSetting>
+<FrequencyResponseResult>
+<FrequencyResponseSetting MaxFrequency = "1" NumOfFreqPoint = "128"/>
+<PinMappingResult>
+<PinMapping RxBlock = "Rx" RxSignal = "in1p" RxPin = "8" TxBlock = "Tx" TxSignal = "out1p" TxPin = "6" Magnitude = "0.983095" />
+<PinMapping RxBlock = "Rx" RxSignal = "in1n" RxPin = "9" TxBlock = "Tx" TxSignal = "out1n" TxPin = "7" Magnitude = "0.983095" />
+</PinMappingResult></FrequencyResponseResult>
+<SweepSetting sweepIndex = "-1">
+<SweepParamList >
+<SweepItem LongName = "Corner" ParameterValue = "Typ" ParameterDisplayValue = "Typ" DisplayName = "Corner" />
+</SweepParamList>
+</SweepSetting>
+<MeasurementSummary >
+<WorstCase type = "" title = "Min BER Eye Width (UI)" shortTitle = "BEREyeWidth" value = "0.34" optValue = "0.34" />
+<WorstCase type = "" title = "Min BER Eye Height (mV)" shortTitle = "BEREyeHeight" value = "104" optValue = "104" />
+<WorstCase type = "" title = "Min Eye Contour Width (UI)" shortTitle = "EyeContourWidth" value = "0.47" optValue = "0.47" />
+<WorstCase type = "" title = "Min Eye Contour Height (mV)" shortTitle = "EyeContourHeight" value = "197" optValue = "197" />
+<WorstCase type = "" title = "Max Eye Contour Jitter (UI)" shortTitle = "EyeContourJitter" value = "0.53" optValue = "0.53" />
+<WorstCase type = "" title = "Max Eye Contour NJN" shortTitle = "EyeContourNJN" value = "0.87" optValue = "0.87" />
+<WorstCase type = "" title = "Min COM (dB)" shortTitle = "COM" value = "5.76" optValue = "5.76" />
+<WorstCase type = "" title = "Min SNR" shortTitle = "SNR" value = "35.98" optValue = "35.98" />
+<WorstCase type = "" title = "Delay (ns)" shortTitle = "Delay" value = "0.345238" optValue = "0.345238" />
+<WorstCase type = "" title = "|Max| Intra-Pair Skew (ps)" shortTitle = "IntraPairSkew" value = "2.00866" optValue = "2.00866" />
+</MeasurementSummary>
+<LBERItem>-12</LBERItem>
+</ChannelSimulationResult>

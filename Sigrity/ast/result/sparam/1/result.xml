@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<SParamExtractionResult SimulationName = "sparam\1" Project = "D:/Projects/HardwareDesign/Sigrity/ast/ast.topx" resultFile = "S_para_S_diff.bnp" isDiffMode = "1">
+<SimulationResult Comment = "" >
+</SimulationResult>
+<Identity>
+<File CRC32 = "2284700121"/>
+<File CRC32 = "3130507742"/>
+</Identity>
+</SParamExtractionResult>

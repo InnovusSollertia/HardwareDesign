@@ -1,0 +1,27 @@
+2025-03-02T04:02:14 TopWb.exe 24.1 S002 (4270188)  [1/23/2025]
+2025-03-02T04:02:14 Sigrity Dir: C:\Cadence\Sigrity2024.0
+2025-03-02T04:02:14 Open Topology: D:/Projects/HardwareDesign/Sigrity/conference/conference.topx
+2025-03-02T04:02:50 Run Simulation
+2025-03-02T04:02:50 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-03-02T04:02:50 spdsim started (pid 10400) [D:\Projects\HardwareDesign\Sigrity\conference\result\sparam\1\temp\SParamExtraction.sp]
+2025-03-02T04:02:51 spdsim ended (pid 10400) [D:\Projects\HardwareDesign\Sigrity\conference\result\sparam\1\temp\SParamExtraction.sp]
+2025-03-02T04:02:51 Finish Connectivity Checker
+2025-03-02T04:02:51 The characterization results saved in 'D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ' are being used for channel simulation.
+2025-03-02T04:02:51 The characterization results saved in 'D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ' are being used for channel simulation.
+2025-03-02T04:02:51 The characterization results saved in 'D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ' are being used for channel simulation.
+2025-03-02T04:02:52 Running time domain channel simulation at 5 Gbps.
+2025-03-02T04:02:52 spdut started (pid 6576) [D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\temp\command.txt]
+2025-03-02T04:03:54 spdut ended (pid 6576) [D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\temp\command.txt]
+2025-03-02T04:03:56 Finish Channel Simulation (Performing bit-by-bit Channel Simulation)
+ Total channel simulation time: 61 seconds
+ Total simulation time: 66 seconds
+2025-03-02T04:44:33 Run Channel Simulation (Performing bit-by-bit Channel Simulation)
+2025-03-02T04:44:33 The characterization results saved in 'D:\Projects\HardwareDesign\Sigrity\conference\result\2\Chan_Typ_Typ' are being used for channel simulation.
+2025-03-02T04:44:33 The characterization results saved in 'D:\Projects\HardwareDesign\Sigrity\conference\result\2\Chan_Typ_Typ' are being used for channel simulation.
+2025-03-02T04:44:33 The characterization results saved in 'D:\Projects\HardwareDesign\Sigrity\conference\result\2\Chan_Typ_Typ' are being used for channel simulation.
+2025-03-02T04:44:34 Running time domain channel simulation at 5 Gbps.
+2025-03-02T04:44:34 spdut started (pid 11560) [D:\Projects\HardwareDesign\Sigrity\conference\result\2\Chan_Typ_Typ\temp\command.txt]
+2025-03-02T04:45:32 spdut ended (pid 11560) [D:\Projects\HardwareDesign\Sigrity\conference\result\2\Chan_Typ_Typ\temp\command.txt]
+2025-03-02T04:45:35 Finish Channel Simulation (Performing bit-by-bit Channel Simulation)
+ Total channel simulation time: 58 seconds
+ Total simulation time: 61 seconds

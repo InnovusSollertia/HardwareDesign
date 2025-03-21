@@ -1,0 +1,7 @@
+\t (00:05:17) TopWb  unreleased (4270188) [1/23/2025] Windows SPB 64-bit Edition
+\t (00:05:17)     Journal start - Mon Mar  3 22:31:58 2025
+\t (00:05:17)         Host=DESKTOP-D851ENJ User=Prometheus Pid=12584 CPUs=12
+\t (00:05:17) CmdLine= 
+\t (00:05:17) 
+\t (00:05:17) skill setRedsGlobalTypes()
+\t (00:05:17) skill acns_setGlobalTypes()

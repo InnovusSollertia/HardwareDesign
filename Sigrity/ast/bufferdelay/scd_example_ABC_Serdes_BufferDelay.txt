@@ -1,0 +1,11 @@
+[IBIS File]	C:\Cadence\SPB_24.1\share\topxp\SerialLink\ibis_sparam_thru\scd_example.ibs
+[Date Modified (IBIS File)]	2017-7-25 4:22:28
+[Signal Name]	out1p
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+sla_out              10Gbps               NC                   7.7e-11              NC                   NC                   1.01735e-11          NC                  
+[Signal Name]	out1n
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+sla_out              10Gbps               NC                   7.7e-11              NC                   NC                   1.01735e-11          NC                  
+[Signal Name]	out1p-out1n
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+sla_out              10Gbps               NC                   4.36665e-11          NC                   NC                   4.36665e-11          NC                  

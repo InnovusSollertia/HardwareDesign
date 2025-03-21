@@ -1,0 +1,24 @@
+Pre-reading file...
+Reading file...
+Generating simulator input...
+Pre-process...
+Elapsed Time: 1.05sec Time step: 750(15002) Transient progress:4%
+Elapsed Time: 2.00sec Time step: 1500(15002) Transient progress:9%
+Elapsed Time: 2.93sec Time step: 2250(15002) Transient progress:14%
+Elapsed Time: 4.15sec Time step: 3000(15002) Transient progress:19%
+Elapsed Time: 5.07sec Time step: 3750(15002) Transient progress:24%
+Elapsed Time: 6.13sec Time step: 4500(15002) Transient progress:29%
+Elapsed Time: 7.11sec Time step: 5250(15002) Transient progress:34%
+Elapsed Time: 8.08sec Time step: 6000(15002) Transient progress:39%
+Elapsed Time: 9.14sec Time step: 6750(15002) Transient progress:44%
+Elapsed Time: 10.08sec Time step: 7500(15002) Transient progress:49%
+Elapsed Time: 11.07sec Time step: 8250(15002) Transient progress:54%
+Elapsed Time: 12.24sec Time step: 9000(15002) Transient progress:59%
+Elapsed Time: 13.19sec Time step: 9750(15002) Transient progress:64%
+Elapsed Time: 14.43sec Time step: 10500(15002) Transient progress:69%
+Elapsed Time: 15.35sec Time step: 11250(15002) Transient progress:74%
+Elapsed Time: 16.44sec Time step: 12000(15002) Transient progress:79%
+Elapsed Time: 17.57sec Time step: 12750(15002) Transient progress:84%
+Elapsed Time: 18.56sec Time step: 13500(15002) Transient progress:89%
+Elapsed Time: 19.75sec Time step: 14250(15002) Transient progress:94%
+Elapsed Time: 20.68sec Time step: 15000(15002) Transient progress:99%

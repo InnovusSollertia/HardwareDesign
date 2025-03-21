@@ -1,0 +1,12 @@
+*** Messages reported by SPDSIM (build24.0.0.05151.504415   000) ***
+
+Warning 5000: The bandwidth of the 'X6.x1.SNPORT0' S-parameter is insufficient in the current time domain simulation due to accuracy and stability concerns. Set the time step to 8.3 ps and rerun the simulation.
+
+Warning 5000: The bandwidth of the 'X3.x2.S1' S-parameter is insufficient in the current time domain simulation due to accuracy and stability concerns. Set the time step to 6.2 ps and rerun the simulation.
+
+Warning 5000: The bandwidth of the 'X2.x1.SNPORT0' S-parameter is insufficient in the current time domain simulation due to accuracy and stability concerns. Set the time step to 8.3 ps and rerun the simulation.
+
+
+	0 error(s),	3 warning(s)
+
+	0 error(s),	3 warning(s)

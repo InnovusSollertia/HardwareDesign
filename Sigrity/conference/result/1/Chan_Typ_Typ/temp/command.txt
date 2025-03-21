@@ -1,0 +1,133 @@
+( RX_PRIMARY_pos_neg
+	( bitp 200p )
+	( rj 0.01 )
+	( rn 0.001 )
+	( ami
+		( C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll
+			( amirx
+				( Reserved_Parameters
+					( Ignore_Bits 40000 )
+					( Init_Returns_Impulse False )
+					( GetWave_Exists True )
+				)
+				( Model_Specific
+					( dfe
+						( bwd 5 )
+						( res 64 )
+						( foffset 0 )
+						( meas_delay 50e-09 )
+						( coeffout dfe.txt )
+					)
+				)
+			)
+		)
+	)
+	( Sources
+		( TX_LOWER_pos_neg
+			( bitp 200p )
+			( stimulus
+				( rand
+					( seed 1 )
+					( poly 7 )
+				)
+				( invert )
+				( delay 0 )
+			)
+			( impfile
+				D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\channel_TX_LOWER_pos_neg_RX_PRIMARY_tx.cur
+				D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\channel_TX_LOWER_pos_neg_RX_PRIMARY_rx.cur
+				( convert2stdimp )
+				( IsStoredChar )
+				( start 0n )
+				( stop 30n )
+			)
+		)
+		( TX_PRIMARY_pos_neg
+			( primary )
+			( stimulus
+				( rand
+					( seed 1 )
+					( poly 7 )
+				)
+				( delay 0 )
+			)
+			( impfile
+				D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\channel_TX_PRIMARY_pos_neg_RX_PRIMARY_tx.cur
+				D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\channel_TX_PRIMARY_pos_neg_RX_PRIMARY_rx.cur
+				( convert2stdimp )
+				( IsStoredChar )
+				( start 0n )
+				( stop 30n )
+			)
+			( ami
+				( C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll
+					( amiffe
+						( Reserved_Parameters
+							( Max_Init_Aggressors 25 )
+							( Init_Returns_Impulse True )
+							( GetWave_Exists False )
+						)
+						( Model_Specific
+							( fwd 3 )
+							( pre 1 )
+							( coeffout ffecoeff.txt )
+							( UserTapsFile nil )
+							( scalef 1 )
+						)
+					)
+				)
+			)
+		)
+		( TX_UPPER_pos_neg
+			( bitp 200p )
+			( stimulus
+				( rand
+					( seed 1 )
+					( poly 7 )
+				)
+				( invert )
+				( delay 0 )
+			)
+			( impfile
+				D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\channel_TX_UPPER_pos_neg_RX_PRIMARY_tx.cur
+				D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\channel_TX_UPPER_pos_neg_RX_PRIMARY_rx.cur
+				( convert2stdimp )
+				( IsStoredChar )
+				( start 0n )
+				( stop 30n )
+			)
+		)
+	)
+	( options
+		( precision 16 )
+		( controls
+			( dyndenscnt 1000 )
+			( stopbit 200000 )
+			( vmeas_determine_bits 100 )
+			( measdelay 5000n )
+			( relerr 1e-5 )
+			( fftblkfact 20 )
+			( bitres 32 )
+			( wavecnt )
+			( trimber 1e-8 )
+			( fiximp ( pwr ) )
+			( print3dbath )
+			( print_noise_btub )
+			( vres 128 )
+			( FilePath D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\temp\ )
+		)
+	)
+	( Files
+		( eyectr_cur ( name eyectr.cur ) )
+		( bathtub_cur ( name bathtub.cur ) )
+		( eyedensity ( name eyedensity.txt ) )
+		( log ( name spdut.log ) )
+		( report ( name report.txt ) )
+		( nbathtub_cur ( name nbathtub.cur ) )
+		( bathtub_3d ( name bathtub_3d.txt ) )
+		( waverr ( name waveform.txt ) )
+		( waverr_in ( name waveform_rx_in.txt ) )
+		( waverr_tx ( name waveform_tx.txt ) )
+		( waverr_tx_in ( name waveform_tx_in.txt ) )
+	)
+)

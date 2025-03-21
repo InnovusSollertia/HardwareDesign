@@ -1,0 +1,90 @@
+          Channel Report
+
+Sun Mar  2 04:45:32 2025
+
+General:
+
+        Simulation Type                 = Time Domain
+        Data Rate                       =    5 Gbps
+        Number of Bits                  = 244837
+        Number of Eye Bits              = 204737
+        Ignore Bits                     = 40100
+        Channel Coding                  = No
+        Primary Driver                  = TX_PRIMARY_pos_neg
+        Data Pattern                    = prbs 7
+        Number of Aggressors            = 2
+        Characterization Data           = D:\Projects\HardwareDesign\Sigrity\conference\result\2\Chan_Typ_Typ\channel_TX_PRIMARY_pos_neg_RX_PRIMARY_rx.cur
+        Delay                           = 5.74224 ns
+        Intra-Pair Skew                 = 49.6223 ps
+
+
+Xtalk Info:
+
+        Xtalk Channel Data              = TX_LOWER_pos_neg:D:\Projects\HardwareDesign\Sigrity\conference\result\2\Chan_Typ_Typ\channel_TX_LOWER_pos_neg_RX_PRIMARY_rx.cur
+                                          Stimulus: Random, Inverted
+
+                                          TX_UPPER_pos_neg:D:\Projects\HardwareDesign\Sigrity\conference\result\2\Chan_Typ_Typ\channel_TX_UPPER_pos_neg_RX_PRIMARY_rx.cur
+                                          Stimulus: Random, Inverted
+
+
+
+
+Algorithmic Models:
+
+        Rx Models                       = C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_rx64.dll 
+        Primary Tx TX_PRIMARY_pos_neg Models = C:\Cadence\SPB_24.1\share\topxp\amiwin\ami_ffe64.dll 
+
+Jitter Inputs:
+
+        Random Jitter                   =  1 %
+
+Noise Inputs:
+
+        Random Noise                    =  1 mV
+
+Eye Contour Measurements:
+
+        Eye Height                      = 356 mV
+        Eye Height Measured at          = 0.5 UI
+        Eye Jitter                      = 0.21 UI
+        Eye Jitter Measured at          = -2 mV
+        Eye Norm Jitter and Noise (NJN) = 0.69 
+        Channel Operating Margin (COM)  = 18.27 dB
+
+Eye Density Signal to Noise Ratio (SNR)  = 172.81 
+
+BER Measurements:
+
+        LBER(log BER)	Eye Width(UI)
+        -16		0.60
+        -15		0.61
+        -14		0.62
+        -13		0.62
+        -12		0.63
+        -11		0.64
+        -10		0.65
+        -9		0.66
+        -8		0.67
+        -7		0.68
+        -6		0.69
+        -5		0.70
+        -4		0.71
+        -3		0.74
+
+mV BER Measurements:
+
+        LBER(log BER)	Eye Height(mV)
+        -16		312
+        -15		313
+        -14		315
+        -13		316
+        -12		318
+        -11		320
+        -10		321
+        -9		323
+        -8		325
+        -7		327
+        -6		329
+        -5		333
+        -4		338
+        -3		349

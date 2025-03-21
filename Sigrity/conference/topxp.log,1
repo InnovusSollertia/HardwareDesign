@@ -1,0 +1,29 @@
+2025-02-25T19:50:07 Select license to proceed ...
+2025-02-25T19:50:17 TopWb.exe 24.1 S002 (4270188)  [1/23/2025]
+2025-02-25T19:50:17 Sigrity Dir: C:\Cadence\Sigrity2024.0
+2025-02-25T19:50:17 Open Topology: D:/Projects/HardwareDesign/Sigrity/conference/conference.topx
+2025-02-25T19:51:35 Run Channel Characterization
+2025-02-25T19:51:35 Characterizing the TX_LOWER_pos_neg - RX_PRIMARY_pos_neg channel using 'SPDSIM'. The characterization results are being saved in 'D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ'.
+2025-02-25T19:51:35 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-02-25T19:51:36 spdsim started (pid 15184) [D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\temp\channel_TX_LOWER_pos_neg_RX_PRIMARY.sp]
+2025-02-25T19:52:01 spdsim ended (pid 15184) [D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\temp\channel_TX_LOWER_pos_neg_RX_PRIMARY.sp]
+2025-02-25T19:52:01 Characterizing the TX_PRIMARY_pos_neg - RX_PRIMARY_pos_neg channel using 'SPDSIM'. The characterization results are being saved in 'D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ'.
+2025-02-25T19:52:01 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-02-25T19:52:01 spdsim started (pid 15908) [D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\temp1\channel_TX_PRIMARY_pos_neg_RX_PRIMARY.sp]
+2025-02-25T19:52:22 spdsim ended (pid 15908) [D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\temp1\channel_TX_PRIMARY_pos_neg_RX_PRIMARY.sp]
+2025-02-25T19:52:22 Characterizing the TX_UPPER_pos_neg - RX_PRIMARY_pos_neg channel using 'SPDSIM'. The characterization results are being saved in 'D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ'.
+2025-02-25T19:52:22 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-02-25T19:52:22 spdsim started (pid 10040) [D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\temp2\channel_TX_UPPER_pos_neg_RX_PRIMARY.sp]
+2025-02-25T19:52:44 spdsim ended (pid 10040) [D:\Projects\HardwareDesign\Sigrity\conference\result\1\Chan_Typ_Typ\temp2\channel_TX_UPPER_pos_neg_RX_PRIMARY.sp]
+2025-02-25T19:52:45 Finish Channel Characterization
+ Total characterization time: 65 seconds
+ Total simulation time: 70 seconds
+2025-02-25T20:12:04 Run Channel Characterization
+2025-02-25T20:12:04 Characterizing the TX_LOWER_pos_neg - RX_PRIMARY_pos_neg channel using 'SPDSIM'. The characterization results are being saved in 'D:\Projects\HardwareDesign\Sigrity\conference\result\2\Chan_Typ_Typ'.
+2025-02-25T20:12:04 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-02-25T20:12:04 spdsim started (pid 3356) [D:\Projects\HardwareDesign\Sigrity\conference\result\2\Chan_Typ_Typ\temp\channel_TX_LOWER_pos_neg_RX_PRIMARY.sp]
+2025-02-25T20:12:28 spdsim ended (pid 3356) [D:\Projects\HardwareDesign\Sigrity\conference\result\2\Chan_Typ_Typ\temp\channel_TX_LOWER_pos_neg_RX_PRIMARY.sp]
+2025-02-25T20:12:28 Characterizing the TX_PRIMARY_pos_neg - RX_PRIMARY_pos_neg channel using 'SPDSIM'. The characterization results are being saved in 'D:\Projects\HardwareDesign\Sigrity\conference\result\2\Chan_Typ_Typ'.
+2025-02-25T20:12:28 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-02-25T20:12:28 spdsim started (pid 2564) [D:\Projects\HardwareDesign\Sigrity\conference\result\2\Chan_Typ_Typ\temp1\channel_TX_PRIMARY_pos_neg_RX_PRIMARY.sp]
+2025-02-25T20:12:50 spdsim ended (pid 2564) [D:\Projects\HardwareDesign\Sigrity\conference\result\2\Chan_Typ_Typ\temp1\channel_TX_PRIMARY_pos_neg_RX_PRIMARY.sp]

@@ -1,0 +1,58 @@
+(ExpressProject "Prometheus"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "24.1 S002 (4270188)  [1/23/2025]-[02/23/25]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\prometheus.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (MPSSessionName "Prometheus")
+  (PartMRUSelector
+    (STM32L052K8T6
+      (FullPartName "STM32L052K8T6.Normal")
+      (LibraryName "D:\PROJECTS\CADENCEALLEGRO\CIS\OLBPATH\STM32L052K8T6.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "D:\Projects\HardwareDesign\Prometheus\prometheus.dsn")
+      (Path "Design Resources"
+         "D:\Projects\HardwareDesign\Prometheus\prometheus.dsn" "SCHEMATIC1")
+      (Select "Design Resources"
+         "D:\Projects\HardwareDesign\Prometheus\prometheus.dsn" "SCHEMATIC1"
+         "01_CSS"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 262 0 554"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1193 24 572")
+        (Scroll "254 262")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\HARDWAREDESIGN\PROMETHEUS\PROMETHEUS.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "01_CSS"))))

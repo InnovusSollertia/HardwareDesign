@@ -1,0 +1,24 @@
+2025-03-03T22:31:50 Select license to proceed ...
+2025-03-03T22:32:00 TopWb.exe 24.1 S002 (4270188)  [1/23/2025]
+2025-03-03T22:32:00 Sigrity Dir: C:\Cadence\Sigrity2024.0
+2025-03-03T22:32:00 Open Topology: D:/Projects/HardwareDesign/Sigrity/ast/ast.topx
+2025-03-03T22:32:00 Update default Step Duration -> 28
+2025-03-03T22:33:29 Run Simulation
+2025-03-03T22:33:29 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-03-03T22:33:29 spdsim started (pid 2364) [D:\Projects\HardwareDesign\Sigrity\ast\result\sparam\1\temp\SParamExtraction.sp]
+2025-03-03T22:33:29 spdsim ended (pid 2364) [D:\Projects\HardwareDesign\Sigrity\ast\result\sparam\1\temp\SParamExtraction.sp]
+2025-03-03T22:33:29 Finish Connectivity Checker
+2025-03-03T22:33:30 Characterizing the Tx_out1p_out1n - Rx_in1p_in1n channel using 'SPDSIM'. The characterization results are being saved in 'D:\Projects\HardwareDesign\Sigrity\ast\result\1\Chan_Typ_Typ'.
+2025-03-03T22:33:30 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-03-03T22:33:30 spdsim started (pid 2660) [D:\Projects\HardwareDesign\Sigrity\ast\result\1\Chan_Typ_Typ\temp\channel_Tx_out1p_out1n_Rx.sp]
+2025-03-03T22:33:32 spdsim ended (pid 2660) [D:\Projects\HardwareDesign\Sigrity\ast\result\1\Chan_Typ_Typ\temp\channel_Tx_out1p_out1n_Rx.sp]
+2025-03-03T22:33:32 Running time domain channel simulation at 10 Gbps.
+2025-03-03T22:33:33 spdut started (pid 14348) [D:\Projects\HardwareDesign\Sigrity\ast\result\1\Chan_Typ_Typ\temp1\command.txt]
+2025-03-03T22:34:34 spdut ended (pid 14348) [D:\Projects\HardwareDesign\Sigrity\ast\result\1\Chan_Typ_Typ\temp1\command.txt]
+2025-03-03T22:34:34 Circuit Solver Option - Enabling additional performance improvements (lhpc4)
+2025-03-03T22:34:34 spdsim started (pid 10444) [D:\Projects\HardwareDesign\Sigrity\ast\result\buffer\1\temp\simulation_input.sp]
+2025-03-03T22:34:34 spdsim ended (pid 10444) [D:\Projects\HardwareDesign\Sigrity\ast\result\buffer\1\temp\simulation_input.sp]
+2025-03-03T22:34:36 Finish Channel Simulation (Performing bit-by-bit Channel Simulation)
+ Total characterization time: 2 seconds
+ Total channel simulation time: 61 seconds
+ Total simulation time: 67 seconds
